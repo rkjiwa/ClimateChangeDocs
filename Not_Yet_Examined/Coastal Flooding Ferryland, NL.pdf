@@ -1,0 +1,749 @@
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('html') -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--sites--discoveryspace.upei.ca.acasa--files--Coastal Flooding Ferryland, NL.pdf.tpl.php
+   * html--sites--discoveryspace.upei.ca.acasa--files.tpl.php
+   * html--sites--discoveryspace.upei.ca.acasa.tpl.php
+   * html--sites.tpl.php
+   x html.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/system/html.tpl.php' -->
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en" dir="ltr" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" dir="ltr">
+<!--<![endif]-->
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta content="width=device-width,initial-scale=1" name="viewport" >
+  <link rel="shortcut icon" href="http://atlanticadaptation.ca/sites/all/themes/acasa_wxt/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="dcterms.language" title="ISO639-2" content="eng" />
+<meta property="dcterms.subject" title="gccore" content="none" />
+<meta property="dcterms.title" content="Page not found" />
+<noscript><link rel="stylesheet" href="http://atlanticadaptation.ca/profiles/wetkit/libraries/wet-boew/css/noscript.min.css" /></noscript>
+  <title>Page not found | Atlantic Climate Adaptation Solutions Association</title>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <![endif]-->
+  <style>
+@import url("http://atlanticadaptation.ca/modules/system/system.base.css?pxmpmp");
+</style>
+<style>
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?pxmpmp");
+</style>
+
+<!--[if gte IE 9]><!-->
+<style>
+@import url("http://atlanticadaptation.ca/profiles/wetkit/libraries/theme-wet-boew/css/theme.css?pxmpmp");
+</style>
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="http://atlanticadaptation.ca/profiles/wetkit/libraries/theme-wet-boew/css/ie8-theme.css?pxmpmp" media="all" />
+<![endif]-->
+<style>
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/css/wetkit-featured.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/css/wetkit-accordian.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/calendar/css/calendar_multiday.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/date/date_api/date.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/date/date_popup/themes/datepicker.1.7.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/fences/field.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora/css/islandora.base.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora/css/islandora.theme.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solution_pack_audio/css/islandora_audio.theme.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solution_pack_collection/css/islandora_basic_collection.base.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solution_pack_collection/css/islandora_basic_collection.theme.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solution_pack_image/css/islandora_basic_image.theme.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_batch/css/views_table_contextual_links_fix.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_fits/css/islandora_fits.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solution_pack_large_image/css/islandora_large_image.theme.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solution_pack_pdf/css/islandora_pdf.theme.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solr_search/css/islandora_solr.base.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solr_metadata/css/islandora_solr_metadata.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/islandora_modules/islandora_solution_pack_video/css/islandora_video.theme.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/modules/node/node.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/picture/picture_wysiwyg.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/video_filter/video_filter.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_admin/wetkit-admin.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_emberx/css/ember-contextual.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_emberx/css/ember-ctools.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_emberx/css/ember-media.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_emberx/css/ember-modal.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_emberx/css/ember-panels-ipe.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_layouts/css/layouts.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_admin/modules/wetkit_navbar/css/wetkit-navbar.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_widgets/css/wetkit_widgets.css?pxmpmp");
+</style>
+<style>
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_wysiwyg/css/wetkit-wysiwyg.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/zurb_responsive_tables/css/responsive-tables.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/views/css/views.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/css/wetkit.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_menu/css/wetkit_menu.css?pxmpmp");
+</style>
+<style>
+@import url("http://atlanticadaptation.ca/sites/all/modules/colorbox/styles/default/colorbox_style.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/ctools/css/ctools.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/panels/css/panels.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_menu/plugins/layouts/cohen/cohen.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_bootstrapx/css/horizontal_tabs.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/libraries/fontawesome/css/font-awesome.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/modules/feedback_simple/feedback_simple.css?pxmpmp");
+</style>
+<style>
+@import url("http://atlanticadaptation.ca/profiles/wetkit/themes/wetkit_bootstrap/css/wetkit_bootstrap.styles.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/themes/acasa_wxt/css/style.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/themes/acasa_wxt/css/hacks.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/sites/all/themes/acasa_wxt/css/acasa_mod.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_bean/css/wetkit_bean.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_core/css/wetkit_core.css?pxmpmp");
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_wetboew/css/wetkit_wetboew.css?pxmpmp");
+</style>
+<style>
+@import url("http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_images/css/wetkit_images.css?pxmpmp");
+</style>
+  <script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="http://atlanticadaptation.ca/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="http://atlanticadaptation.ca/misc/jquery.once.js?v=1.2"></script>
+<script src="http://atlanticadaptation.ca/misc/drupal.js?pxmpmp"></script>
+
+<!--[if lt IE 9]>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/libraries/wet-boew/js/ie8-wet-boew.js?v=4.0.30"></script>
+<![endif]-->
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.10.2"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
+<script src="http://atlanticadaptation.ca/misc/form.js?v=7.67"></script>
+<script>document.createElement( "picture" );</script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/js/wetkit-accordion.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/panopoly_magic/panopoly-magic.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_admin/wetkit-admin.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_bootstrapx/js/alert.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_bootstrapx/js/collapse.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_bootstrapx/js/tooltip.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_bootstrapx/js/vertical_tabs.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_emberx/js/wetkit-emberx.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_widgets/js/wetkit_widgets.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/sites/all/modules/zurb_responsive_tables/js/responsive-tables.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/sites/all/libraries/colorbox/jquery.colorbox-min.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/sites/all/modules/colorbox/js/colorbox.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/sites/all/modules/colorbox/styles/default/colorbox_style.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/libraries/jstorage/jstorage.min.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/custom_search/js/custom_search.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_theme/modules/wetkit_bootstrapx/js/horizontal_tabs.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_bean/js/wetkit_bean.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/custom/wetkit_admin/modules/wetkit_navbar/js/wetkit-navbar.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/sites/all/modules/google_analytics/googleanalytics.js?pxmpmp"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-49059581-7", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/themes/bootstrap/js/misc/_collapse.js?v=7.67"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/themes/wetkit_bootstrap/js/wetkit-bootstrap.modules.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/sites/all/themes/acasa_wxt/js/acasa.js?pxmpmp"></script>
+<script src="http://atlanticadaptation.ca/sites/all/themes/acasa_wxt/libraries/jquery-match-height/jquery.matchHeight-min.js?pxmpmp"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"acasa_wxt","theme_token":"uQ0PQOB4QpKlSdLKhhNDxyxxEJgNKVWM364DAUO2s1Y","css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/wetkit\/libraries\/theme-wet-boew\/css\/theme.css":1,"profiles\/wetkit\/libraries\/theme-wet-boew\/css\/ie8-theme.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/css\/wetkit-featured.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/css\/wetkit-accordian.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"profiles\/wetkit\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/wetkit\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/islandora_modules\/islandora\/css\/islandora.base.css":1,"sites\/all\/modules\/islandora_modules\/islandora\/css\/islandora.theme.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solution_pack_audio\/css\/islandora_audio.theme.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.base.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.theme.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solution_pack_image\/css\/islandora_basic_image.theme.css":1,"sites\/all\/modules\/islandora_modules\/islandora_batch\/css\/views_table_contextual_links_fix.css":1,"sites\/all\/modules\/islandora_modules\/islandora_fits\/css\/islandora_fits.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solution_pack_large_image\/css\/islandora_large_image.theme.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solution_pack_pdf\/css\/islandora_pdf.theme.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solr_search\/css\/islandora_solr.base.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solr_metadata\/css\/islandora_solr_metadata.css":1,"sites\/all\/modules\/islandora_modules\/islandora_solution_pack_video\/css\/islandora_video.theme.css":1,"modules\/node\/node.css":1,"profiles\/wetkit\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_admin\/wetkit-admin.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_emberx\/css\/ember-contextual.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_emberx\/css\/ember-ctools.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_emberx\/css\/ember-media.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_emberx\/css\/ember-modal.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_emberx\/css\/ember-panels-ipe.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_layouts\/css\/layouts.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_admin\/modules\/wetkit_navbar\/css\/wetkit-navbar.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_widgets\/css\/wetkit_widgets.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_wysiwyg\/css\/wetkit-wysiwyg.css":1,"sites\/all\/modules\/zurb_responsive_tables\/css\/responsive-tables.css":1,"profiles\/wetkit\/modules\/contrib\/views\/css\/views.css":1,"profiles\/wetkit\/css\/wetkit.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_menu\/css\/wetkit_menu.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/wetkit\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/wetkit\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_menu\/plugins\/layouts\/cohen\/cohen.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_bootstrapx\/css\/horizontal_tabs.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/modules\/feedback_simple\/feedback_simple.css":1,"profiles\/wetkit\/themes\/wetkit_bootstrap\/css\/wetkit_bootstrap.styles.css":1,"sites\/all\/themes\/acasa_wxt\/css\/style.css":1,"sites\/all\/themes\/acasa_wxt\/css\/hacks.css":1,"sites\/all\/themes\/acasa_wxt\/css\/acasa_mod.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_bean\/css\/wetkit_bean.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_core\/css\/wetkit_core.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_search\/css\/wetkit_search.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_wetboew\/css\/wetkit_wetboew.css":1,"profiles\/wetkit\/modules\/custom\/wetkit_images\/css\/wetkit_images.css":1},"js":{"profiles\/wetkit\/libraries\/wet-boew\/js\/wet-boew.js":1,"profiles\/wetkit\/libraries\/wet-boew\/js\/ie8-wet-boew2.js":1,"profiles\/wetkit\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"profiles\/wetkit\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/wetkit\/themes\/bootstrap\/js\/bootstrap.js":1,"profiles\/wetkit\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/wetkit\/libraries\/wet-boew\/js\/ie8-wet-boew.js":1,"profiles\/wetkit\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/wetkit\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/wetkit\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/wetkit\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"misc\/form.js":1,"0":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/js\/wetkit-accordion.js":1,"profiles\/wetkit\/modules\/contrib\/panopoly_magic\/panopoly-magic.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_admin\/wetkit-admin.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_bootstrapx\/js\/alert.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_bootstrapx\/js\/collapse.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_bootstrapx\/js\/tooltip.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_bootstrapx\/js\/vertical_tabs.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_emberx\/js\/wetkit-emberx.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_widgets\/js\/wetkit_widgets.js":1,"sites\/all\/modules\/zurb_responsive_tables\/js\/responsive-tables.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/wetkit\/libraries\/jstorage\/jstorage.min.js":1,"profiles\/wetkit\/modules\/contrib\/custom_search\/js\/custom_search.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_theme\/modules\/wetkit_bootstrapx\/js\/horizontal_tabs.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_bean\/js\/wetkit_bean.js":1,"profiles\/wetkit\/modules\/custom\/wetkit_admin\/modules\/wetkit_navbar\/js\/wetkit-navbar.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/wetkit\/themes\/bootstrap\/js\/misc\/_collapse.js":1,"profiles\/wetkit\/themes\/wetkit_bootstrap\/js\/wetkit-bootstrap.modules.js":1,"sites\/all\/themes\/acasa_wxt\/js\/acasa.js":1,"sites\/all\/themes\/acasa_wxt\/libraries\/jquery-match-height\/jquery.matchHeight-min.js":1}},"admin_menu":{"suppress":1},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"CToolsModal":{"modalSize":{"type":"scale","width":".90","height":".80","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".60","background-color":"#000"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"single"},"custom_search":{"form_target":"_self","solr":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"currentPath":"sites\/discoveryspace.upei.ca.acasa\/files\/Coastal Flooding Ferryland, NL.pdf","currentPathIsAdmin":false,"urlIsAjaxTrusted":{"\/en\/islandora\/search?type=dismax\u0026islandora_solr_search_navigation=0\u0026f%5B0%5D=-mods_genre_theme%5C-acasa%5C-group_s%3A%22Region%22\u0026f%5B1%5D=-mods_subject_authority_geo_hierarchicalGeographic_city_s%3A%22Yarmouth%22\u0026f%5B2%5D=mods_subject_authority_geo_hierarchicalGeographic_city_s%3A%22Municipality%5C%20of%5C%20the%5C%20District%5C%20of%5C%20Lunenburg%22":true,"\/sites\/discoveryspace.upei.ca.acasa\/files\/Coastal%20Flooding%20Ferryland%2C%20NL.pdf":true},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="acasa-wxt theme-wet-boew html not-front not-logged-in no-sidebars page-sites page-sites-discoveryspaceupeicaacasa page-sites-discoveryspaceupeicaacasa-files page-sites-discoveryspaceupeicaacasa-files-coastal-flooding-ferryland-nlpdf i18n-en">
+  <ul id="wb-tphp">
+          </ul>
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('page') -->
+<!-- FILE NAME SUGGESTIONS:
+   x page--wet-boew.tpl.php
+   * page--sites--discoveryspace.upei.ca.acasa--files--Coastal Flooding Ferryland, NL.pdf.tpl.php
+   * page--sites--discoveryspace.upei.ca.acasa--files.tpl.php
+   * page--sites--discoveryspace.upei.ca.acasa.tpl.php
+   * page--sites.tpl.php
+   * page.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/acasa_wxt/templates/page--wet-boew.tpl.php' -->
+<header id="navbar" role="banner" class="">
+  <div id="wb-bnr">
+    <div id="wb-bar">
+      <div class="container">
+        <div class="row">
+          <section id="wb-lng" class="visible-md visible-lg">
+            <ul class="text-right"><li id="wet-fullhd-lang"><a href="/fr/sites/discoveryspace.upei.ca.acasa/files/Coastal%20Flooding%20Ferryland%2C%20NL.pdf?destination=sites/discoveryspace.upei.ca.acasa/files/Coastal%20Flooding%20Ferryland%2C%20NL.pdf" class="link" hreflang="fr" lang="fr">Français</a></li></ul>          </section>
+          <section class="wb-mb-links col-xs-12 visible-sm visible-xs" id="wb-glb-mn">
+            <h2>Search and menus</h2>
+            <ul class="pnl-btn list-inline text-right">
+              <li>
+                <a href="#mb-pnl" title="Search and menus" aria-controls="mb-pnl" class="overlay-lnk btn btn-xs btn-default" role="button">
+                  <span class="glyphicon glyphicon-search">
+                    <span class="glyphicon glyphicon-th-list">
+                      <span class="wb-inv">Search and menus</span>
+                    </span>
+                  </span>
+                </a>
+              </li>
+            </ul>
+            <div id="mb-pnl"></div>
+          </section>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div id="wb-sttl" class="col-md-8">
+                      <a href="/en/home">
+                            <span  class="no-logo">
+                                  Atlantic Climate Adaptation Solutions Association                                              </span>
+            </a>
+                  </div>
+        <section id="wb-srch" class="col-md-4 visible-md visible-lg">
+<!--
+          <h2>Search</h2>
+                      <form class="search-form form-inline" role="search" action="/en/islandora/search?type=dismax&amp;islandora_solr_search_navigation=0&amp;f%5B0%5D=-mods_genre_theme%5C-acasa%5C-group_s%3A%22Region%22&amp;f%5B1%5D=-mods_subject_authority_geo_hierarchicalGeographic_city_s%3A%22Yarmouth%22&amp;f%5B2%5D=mods_subject_authority_geo_hierarchicalGeographic_city_s%3A%22Municipality%5C%20of%5C%20the%5C%20District%5C%20of%5C%20Lunenburg%22" method="post" id="search-form" accept-charset="UTF-8"><div><div class="form-item form-item-custom-search-blocks-form-1 form-type-textfield form-group"><label class="control-label" for="wb-srch-q" id="wb-srch-q-label"><span class="field-name">Search this site</span></label>
+<input title="Enter the terms you wish to search for." class="custom-search-box form-control form-text" placeholder="" type="search" id="wb-srch-q" name="custom_search_blocks_form_1" value="" size="27" maxlength="150" /></div><input type="hidden" name="delta" value="1" />
+<input type="hidden" name="form_build_id" value="form-SeSIGELPPYz-rQTejbJK9LmOdsXmNcYHWhRjJQk17Uw" />
+<input type="hidden" name="form_id" value="custom_search_blocks_form_1" />
+<button data-icon="search" value="search" type="submit" id="wb-srch-sub" name="op" class="btn btn-default form-submit">Search</button>
+</div></form>          -->
+
+	<form action="/sites/discoveryspace.upei.ca.acasa/files/Coastal%20Flooding%20Ferryland%2C%20NL.pdf" method="post" id="islandora-solr-simple-search-form" accept-charset="UTF-8"><div><div class="form-inline form-wrapper form-group" id="edit-simple"><div class="form-item form-item-islandora-simple-search-query form-type-textfield form-group"><label class="control-label" for="edit-islandora-simple-search-query" id="edit-islandora-simple-search-query-label"><span class="field-name">Search Term</span></label>
+<input class="form-control form-text" type="text" id="edit-islandora-simple-search-query" name="islandora_simple_search_query" value="" size="15" maxlength="128" /></div><button type="submit" id="edit-submit" name="op" value="search" class="btn btn-default form-submit">search</button>
+</div><input type="hidden" name="form_build_id" value="form-Xr87Q9OyVUZhRBIFYgboRLof_Zt_FRdj9XZIh8u12jc" />
+<input type="hidden" name="form_id" value="islandora_solr_simple_search_form" />
+</div></form>
+        </section>
+      </div>
+    </div>
+  </div>
+  <nav role="navigation" id="wb-sm" class="wb-menu visible-md visible-lg" data-trgt="mb-pnl">
+    <div class="pnl-strt container visible-md visible-lg nvbar">
+      <h2>Topics menu</h2>
+      <div class="row">
+        
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('menu_block_wrapper') -->
+<!-- FILE NAME SUGGESTIONS:
+   * wetkit-menu-megamenu-blocks.tpl.php
+   * menu-block-wrapper.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/templates/menu_block/megamenu.tpl.php' -->
+<ul class="list-inline menu" role="menubar"><li class="first expanded menu-mlid-2046 dropdown"><a href="/en/content/climate-change-0" data-target="#" class="item" data-toggle="dropdown">Climate Change</a><ul class="sm list-unstyled" role="menu"><li class="first leaf menu-mlid-1894"><a href="/en/content/adaptation" title="Adaptation">Adaptation</a></li>
+<li class="leaf menu-mlid-1895"><a href="/en/content/glossary" title="Glossary">Glossary</a></li>
+<li class="last leaf menu-mlid-1893"><a href="/en/content/mitigation" title="Mitigation">Mitigation</a></li>
+<li class="slflnk"><a href="/en/content/climate-change-0">Climate Change - More</a></li></ul></li>
+<li class="expanded menu-mlid-2122 dropdown"><a href="/en/content/adaptation-approaches" title="Adaptation Approaches" data-target="#" class="item" data-toggle="dropdown">Adaptation Approaches</a><ul class="sm list-unstyled" role="menu"><li class="first leaf menu-mlid-2123"><a href="/en/content/policy-and-planning" title="Policy and Planning">Policy and Planning</a></li>
+<li class="leaf menu-mlid-2265"><a href="/en/content/vulnerability-assessment">Vulnerability Assessment</a></li>
+<li class="leaf menu-mlid-2171"><a href="/en/content/adaptation-options">Adaptation Options</a></li>
+<li class="last leaf menu-mlid-2323">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('cohen') -->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/plugins/layouts/cohen/cohen.tpl.php' -->
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('panels_pane') -->
+<!-- FILE NAME SUGGESTIONS:
+   * wetkit-menu-panels-pane.tpl.php
+   * panels-pane--menu-tree--megamenu.tpl.php
+   * panels-pane--menu-tree.tpl.php
+   * panels-pane.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/templates/panes/megamenu.tpl.php' -->
+            <h4><a href="/en">Community Examples</a></h4>
+      
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('menu_block_wrapper') -->
+<!-- FILE NAME SUGGESTIONS:
+   * wetkit-menu-megamenu-blocks.tpl.php
+   * menu-block-wrapper.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/templates/menu_block/megamenu.tpl.php' -->
+<ul><ul class="menu nav"><li class="first leaf menu-mlid-2322"><a href="/en/acasa-community-examples-ns">Nova Scotia</a></li>
+<li class="leaf menu-mlid-2324"><a href="/en/acasa-community-examples-nb">New Brunswick</a></li>
+<li class="leaf menu-mlid-2325"><a href="/en/acasa-community-examples-pei">Prince Edward Island</a></li>
+<li class="last leaf menu-mlid-2326"><a href="/en/acasa-community-examples-nfld">Newfoundland</a></li>
+</ul></ul>
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/templates/menu_block/megamenu.tpl.php' -->
+
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/templates/panes/megamenu.tpl.php' -->
+
+<div class="clear"></div>
+
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/plugins/layouts/cohen/cohen.tpl.php' -->
+
+</li>
+<li class="slflnk"><a href="/en/content/adaptation-approaches" title="Adaptation Approaches">Adaptation Approaches - More</a></li></ul></li>
+<li class="expanded menu-mlid-2164 dropdown"><a href="/en/content/projects" data-target="#" class="item" data-toggle="dropdown">Projects</a><ul class="sm list-unstyled" role="menu"><li class="first leaf menu-mlid-2165"><a href="http://wet.researchspaces.ca/ZkZ">Regional</a></li>
+<li class="leaf menu-mlid-2166"><a href="http://wet.researchspaces.ca/Zk4">New Brunswick</a></li>
+<li class="leaf menu-mlid-2167"><a href="http://wet.researchspaces.ca/Zk3">Newfoundland and Labrador</a></li>
+<li class="leaf menu-mlid-2168"><a href="http://wet.researchspaces.ca/Zko">Nova Scotia</a></li>
+<li class="last leaf menu-mlid-2169"><a href="http://wet.researchspaces.ca/ZkJ">Prince Edward Island</a></li>
+<li class="slflnk"><a href="/en/content/projects">Projects - More</a></li></ul></li>
+<li class="expanded menu-mlid-2177 dropdown"><a href="/en/islandora/search/?type=dismax" data-target="#" class="item" data-toggle="dropdown">Publications</a><ul class="sm list-unstyled" role="menu"><li class="first leaf menu-mlid-2702"><a href="/en/islandora/object/acasa%3Adocuments">Documents</a></li>
+<li class="leaf menu-mlid-2701"><a href="/en/islandora/object/acasa%3Aimages">Images</a></li>
+<li class="leaf menu-mlid-2178"><a href="/en/islandora/search/mods_genre_doctype_t%3A%28case%20study%29">Case Studies</a></li>
+<li class="leaf menu-mlid-2183"><a href="/en/islandora/search/mods_genre_doctype_t%3A%28map%29">Maps</a></li>
+<li class="leaf menu-mlid-2179"><a href="/en/islandora/search/mods_genre_doctype_t%3A%28presentation%29">Presentations</a></li>
+<li class="last leaf menu-mlid-2184"><a href="/en/islandora/search/mods_genre_doctype_t%3A%28report%29">Reports</a></li>
+<li class="slflnk"><a href="/en/islandora/search/?type=dismax">Publications - More</a></li></ul></li>
+<li class="last expanded menu-mlid-2350 dropdown"><a href="/en/CCAT" data-target="#" class="item" data-toggle="dropdown">Coastal Community Adaptation Toolkit</a><ul class="sm list-unstyled" role="menu"><li class="first leaf menu-mlid-2379"><a href="https://atlanticadaptation.ca/islandora/object/acasa:decisiontreeresources">Decision Tree Resources</a></li>
+<li class="leaf menu-mlid-2699"><a href="/en/content/climate-change-1">Climate Change</a></li>
+<li class="last leaf menu-mlid-2698"><a href="/en/content/additional-background-0">Additional Background</a></li>
+<li class="slflnk"><a href="/en/CCAT">Coastal Community Adaptation Toolkit - More</a></li></ul></li>
+</ul>
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/templates/menu_block/megamenu.tpl.php' -->
+
+              </div>
+    </div>
+  </nav>
+    <nav role="navigation" id="wb-bc" property="breadcrumb">
+    <div class="container">
+      <div class="row">
+              </div>
+    </div>
+  </nav>
+</header>
+<main role="main" property="mainContentOfPage" class="container">
+          <a id="main-content"></a>
+              <h1 class="page-header" id="wb-cont">Page not found</h1>
+                                    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--no-wrapper.tpl.php
+   * region--no-wrapper.tpl.php
+   * region--content.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--no-wrapper.tpl.php
+   * block--no-wrapper.tpl.php
+   * block--system--main.tpl.php
+   * block--system.tpl.php
+   * block--content.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/block/block.tpl.php' -->
+<section id="block-system-main" class="block block-system clearfix">
+
+      
+  The requested page "/sites/discoveryspace.upei.ca.acasa/files/Coastal%20Flooding%20Ferryland%2C%20NL.pdf" could not be found.
+</section>
+
+<!-- END OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+</main>
+<footer role="contentinfo" id="wb-info" class="visible-sm visible-md visible-lg wb-navcurr">
+  <div class="container">
+    <nav role="navigation" class="row">
+    <h2>About this site</h2>
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--footer.tpl.php
+   * region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/system/region--footer.tpl.php' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--panels-mini--wetkit-mini-panels-footer.tpl.php
+   * block--panels-mini.tpl.php
+   * block--footer.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/block/block.tpl.php' -->
+<section id="block-panels-mini-wetkit-mini-panels-footer" class="block block-panels-mini panel--footer clearfix">
+
+      
+  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('cohen') -->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/plugins/layouts/cohen/cohen.tpl.php' -->
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('panels_pane') -->
+<!-- FILE NAME SUGGESTIONS:
+   * panels-pane--block--bean-footer-1.tpl.php
+   * panels-pane--block.tpl.php
+   x panels-pane.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+<div class="panel-pane pane-block pane-bean-footer-1 col-md-15 pane-bean"  >
+  
+        <h2 class="pane-title">
+      Footer 1    </h2>
+    
+  
+  <div class="pane-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('entity') -->
+<!-- FILE NAME SUGGESTIONS:
+   * bean--footer-1.tpl.php
+   * bean--19--default.tpl.php
+   * bean--19.tpl.php
+   * bean--footer-1.tpl.php
+   * bean--wetkit-bean--default.tpl.php
+   * bean--wetkit-bean.tpl.php
+   * bean.tpl.php
+   * entity.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+<section>
+  <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3><span class="title">ACASA</span></h3>
+
+<p>Don Jardine,<br />
+	ACASA Coordinator</p>
+
+<ul><li><i class="fa fa-phone"></i> (902) 894-2852</li>
+	<li><i class="fa fa-envelope"></i> <a href="mailto:dejardine@upei.ca">dejardine@upei.ca</a></li>
+</ul><p><a href="www.upei.ca"><div class="media media-element-container media-default">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('file_entity') -->
+<!-- FILE NAME SUGGESTIONS:
+   * file--2304--default.tpl.php
+   * file--2304.tpl.php
+   * file--image--png--default.tpl.php
+   * file--image--png.tpl.php
+   * file--image--default.tpl.php
+   x file--image.tpl.php
+   * file-entity.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/file_entity/file--image.tpl.php' -->
+<div id="file-2304" class="file file-image file-image-png">
+  <img alt="upei logo" style="padding: 10px 35px 0px 0px;" class="media-element file-default img-responsive" src="https://www.climatelab.ca/sites/default/files/upei_logo_white.png" width="600" height="234" title="" /></div>
+
+<!-- END OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/file_entity/file--image.tpl.php' -->
+
+</div></a></p>
+</div></div></div></section>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+
+  </div>
+
+  
+  </div>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('panels_pane') -->
+<!-- FILE NAME SUGGESTIONS:
+   * panels-pane--block--bean-footer-2.tpl.php
+   * panels-pane--block.tpl.php
+   x panels-pane.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+<div class="panel-pane pane-block pane-bean-footer-2 col-md-15 pane-bean"  >
+  
+        <h2 class="pane-title">
+      Footer 2    </h2>
+    
+  
+  <div class="pane-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('entity') -->
+<!-- FILE NAME SUGGESTIONS:
+   * bean--footer-2.tpl.php
+   * bean--20--default.tpl.php
+   * bean--20.tpl.php
+   * bean--footer-2.tpl.php
+   * bean--wetkit-bean--default.tpl.php
+   * bean--wetkit-bean.tpl.php
+   * bean.tpl.php
+   * entity.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+<section>
+  <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3><span class="title">ACASA-NB</span></h3>
+
+<p>Jeff Hoyt<br />
+	Manager, Climate Change Adaptation<br />
+	NB Department of Environment and Local Government</p>
+
+<ul><li><i class="fa fa-phone"></i> (506) 447-0832</li>
+	<li><i class="fa fa-envelope"></i> <a href="mailto:jeff.hoyt@gnb.ca">jeff.hoyt@gnb.ca</a></li>
+</ul><p>Robert Capozi<br />
+	Specialist, Climate Change Adaptation<br />
+	NB Department of Environment and Local Government</p>
+
+<ul><li><i class="fa fa-phone"></i> (506) 453-8946</li>
+	<li><i class="fa fa-envelope"></i> <a href="mailto:robert.capozi@gnb.ca">robert.capozi@gnb.ca</a></li>
+</ul></div></div></div></section>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+
+  </div>
+
+  
+  </div>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('panels_pane') -->
+<!-- FILE NAME SUGGESTIONS:
+   * panels-pane--block--bean-footer-3.tpl.php
+   * panels-pane--block.tpl.php
+   x panels-pane.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+<div class="panel-pane pane-block pane-bean-footer-3 col-md-15 pane-bean"  >
+  
+        <h2 class="pane-title">
+      Footer 3    </h2>
+    
+  
+  <div class="pane-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('entity') -->
+<!-- FILE NAME SUGGESTIONS:
+   * bean--footer-3.tpl.php
+   * bean--21--default.tpl.php
+   * bean--21.tpl.php
+   * bean--footer-3.tpl.php
+   * bean--wetkit-bean--default.tpl.php
+   * bean--wetkit-bean.tpl.php
+   * bean.tpl.php
+   * entity.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+<section>
+  <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3><span class="title">ACASA-NL</span></h3>
+
+<p>Amir Ali Khan, Ph.D, P.Eng <br />
+	Manager<br />
+	Hydrologic Modelling Section<br />
+	Water Resources Management Division<br /><span style="line-height: 1.4375;">NL Dept. of Environment and Conservation</span></p>
+
+<ul><li><i class="fa fa-phone"></i> (709) 729-2295</li>
+	<li><i class="fa fa-envelope"></i> <a href="mailto:akhan@gov.nl.ca" target="_blank">akhan@gov.nl.ca</a></li>
+</ul></div></div></div></section>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+
+  </div>
+
+  
+  </div>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('panels_pane') -->
+<!-- FILE NAME SUGGESTIONS:
+   * panels-pane--block--bean-footer-4.tpl.php
+   * panels-pane--block.tpl.php
+   x panels-pane.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+<div class="panel-pane pane-block pane-bean-footer-4 col-md-15 pane-bean"  >
+  
+        <h2 class="pane-title">
+      Footer 4    </h2>
+    
+  
+  <div class="pane-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('entity') -->
+<!-- FILE NAME SUGGESTIONS:
+   * bean--footer-4.tpl.php
+   * bean--22--diff-standard.tpl.php
+   * bean--22.tpl.php
+   * bean--footer-4.tpl.php
+   * bean--wetkit-bean--diff-standard.tpl.php
+   * bean--wetkit-bean.tpl.php
+   * bean.tpl.php
+   * entity.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+<section>
+  <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3><span class="title">ACASA-NS</span></h3>
+
+<p>Jennifer Graham,<br />
+	Adaptation Specialist Nova Scotia Environment, Climate Change Unit</p>
+
+<ul><li><i class="fa fa-phone"></i> (902) 237-3287</li>
+	<li><i class="fa fa-envelope"></i> <a href="mailto:Jen.graham@novascotia.ca">Jen.graham@novascotia.ca</a></li>
+</ul></div></div></div></section>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+
+  </div>
+
+  
+  </div>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+
+<div class="panel-separator"></div>
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('panels_pane') -->
+<!-- FILE NAME SUGGESTIONS:
+   * panels-pane--block--bean-footer-5.tpl.php
+   * panels-pane--block.tpl.php
+   x panels-pane.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+<div class="panel-pane pane-block pane-bean-footer-5 col-md-15 pane-bean"  >
+  
+        <h2 class="pane-title">
+      Footer 5    </h2>
+    
+  
+  <div class="pane-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('entity') -->
+<!-- FILE NAME SUGGESTIONS:
+   * bean--footer-5.tpl.php
+   * bean--23--default.tpl.php
+   * bean--23.tpl.php
+   * bean--footer-5.tpl.php
+   * bean--wetkit-bean--default.tpl.php
+   * bean--wetkit-bean.tpl.php
+   * bean.tpl.php
+   * entity.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+<section>
+  <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3><span class="title">ACASA-PE</span></h3>
+
+<p>Erin Taylor,<br />
+	PEI Department of Communities, Land and Environment</p>
+
+<ul><li><i class="fa fa-phone"></i> (902) 368-6111</li>
+	<li><i class="fa fa-envelope"></i> <a href="mailto:eotaylor@gov.pe.ca">eotaylor@gov.pe.ca</a></li>
+</ul><p>Peter Nishimura,<br />
+	PEI Department of Communities, Land and Environment</p>
+
+<ul><li><i class="fa fa-phone"></i> (902) 620-3232</li>
+	<li><i class="fa fa-envelope"></i> <a href="mailto:pnishimura@gov.pe.ca">pnishimura@gov.pe.ca</a></li>
+</ul></div></div></div></section>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_bean/templates/bean/bean--wetkit_bean.tpl.php' -->
+
+  </div>
+
+  
+  </div>
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/contrib/panels/templates/panels-pane.tpl.php' -->
+
+<div class="clear"></div>
+
+
+<!-- END OUTPUT from 'profiles/wetkit/modules/custom/wetkit_menu/plugins/layouts/cohen/cohen.tpl.php' -->
+
+
+</section>
+
+<!-- END OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/block/block.tpl.php' -->
+
+
+<!-- END OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/system/region--footer.tpl.php' -->
+
+    </nav>
+  </div>
+</footer>
+
+<!-- END OUTPUT from 'sites/all/themes/acasa_wxt/templates/page--wet-boew.tpl.php' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--page-bottom.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-page-bottom">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('feedback_simple') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/feedback_simple/feedback_simple.tpl.php' -->
+<div id='feedback_simple'>
+  <a
+    href='/en/contact?path=sites/discoveryspace.upei.ca.acasa/files/Coastal Flooding Ferryland, NL.pdf'
+    target='_self'
+    class='feedback_simple-right feedback_simple'
+    style='top: 75%; height: 100px; width: 35px;'>
+      <img
+        alt='Feedback'
+        src='/sites/all/modules/feedback_simple/feedback_simple.gif'
+        height='100'
+        width='35' />
+  </a>
+</div>
+
+<!-- END OUTPUT from 'sites/all/modules/feedback_simple/feedback_simple.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+
+<!--[if gte IE 9]><!-->
+<script src="http://atlanticadaptation.ca/profiles/wetkit/libraries/wet-boew/js/wet-boew.js?v=4.0.30"></script>
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/libraries/wet-boew/js/ie8-wet-boew2.js?v=4.0.30"></script>
+<![endif]-->
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/modules/contrib/picture/picture.min.js?v=7.67"></script>
+<script src="http://atlanticadaptation.ca/profiles/wetkit/themes/bootstrap/js/bootstrap.js?pxmpmp"></script>
+</body>
+</html>
+
+<!-- END OUTPUT from 'profiles/wetkit/themes/wetkit_bootstrap/templates/system/html.tpl.php' -->
+
