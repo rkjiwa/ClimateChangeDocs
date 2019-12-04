@@ -1,0 +1,62 @@
+2 
+
+2.1 
+
+2.2 
+
+2.3 
+
+ 
+
+Background  
+
+Scope 
+This guideline document describes the principles of determining the total water level and sea dike 
+crest  elevations  for  sea  dikes,  as  legislated  under  the  British  Columbia  Dike  Maintenance  Act.  
+Design will be performed at different levels of detail: 
+-  Conceptual design 
+-  Feasibility design 
+-  Detailed design. 
+This guideline is aimed at serving the conceptual design stage. 
+
+Definitions 
+A summary of definitions and terminology used in this document is provided in Appendix A. 
+Where  possible  the  same  terminology  and  definitions  as  used  in  the  existing  documents;  Dike 
+Design and Construction Guide 20032 and Land Use Guidelines 20044 are used; however, as 
+the existing terminology and definitions sometimes need modification, clarification or expansion to 
+be appropriate for coastal conditions, in some cases new or revised terminology and definitions are 
+proposed.    It  is  recommended  that  the  reader  of  the  updated  documents  familiarize  themselves 
+with the updated terminology and definitions in Appendix A as necessary. 
+
+Reference Documents 
+This Guideline document refers to several publications that are recognized as current examples of 
+best  practice  for  the  design  of  coastal  engineering  structures,  including  sea  dikes.    Where  such 
+reference  is  made  it  is  intended  to  refer  to  the  most  current  edition,  as  listed  below,  and  to  all 
+amendments or updates published thereto.  It should be noted that a Building Code or Standard 
+does not exist in Canada for coastal engineering structures. 
+The  referenced  publications  and  Standards  listed  below  are  intended  to  provide  guidance  on 
+internationally accepted best practice.  In some cases inter-comparison of documents will reveal 
+several  approaches  may  apply.    In  these  situations;  theoretical  analysis,  evaluation  of  the 
+approaches  for  application  to  the  specifics  of  British  Columbia  coastal  waters  and  recognized 
+engineering practise should be used to select among alternative methods. 
+Direct  measurement  of  specific  parameters,  over  appropriate  intervals  of  time,  may  also  be 
+necessary or advisable. 
+Detailed site or structure specific engineering investigations may also provide equivalent guidance 
+for design. 
+
+2.3.1  Standards 
+
+International  Organization  for  Standardization,  2007.  Actions  from  Wave  and  Currents  on 
+Coastal Structures. ISO 21650:2007(E). 
+
+                                                      
+4 “Land Use Guidelines 2004” means the Flood Hazard Area Land Use Management Guidelines, May 
+2004, prepared by the Ministry of Water, Land and Air Protection. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+2 
+
+

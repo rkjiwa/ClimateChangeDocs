@@ -1,0 +1,204 @@
+Towards	
+  Effective	
+  Dialogue	
+  between	
+  Engineering	
+  Practitioners	
+  and	
+  Climate	
+  Scientists	
+  -­‐	
+  A	
+  Primer	
+  to	
+  Define	
+  Common	
+  Language	
+  
+
+	
+  
+ 
+anticipated service life of the infrastructure.  They can find ensembles of results to be overly 
+detailed and will ask for a “best estimate” for the parameters in question.  This will be difficult 
+for the scientist to provide, as each model and emissions scenario provides a unique, and equally 
+likely, prediction of future climate.  To compound matters, given the way that models are 
+structured, it is possible that the same model, using identical input values, may provide slightly 
+different projections of future climate conditions over a series of runs.   
+ 
+The members of an assessment team can alleviate some anxiety by having very explicit 
+discussions regarding the assumptions inherent in different emissions scenarios and the strengths 
+and weaknesses of the different models used to generate the ensemble.  With this context, an 
+experienced professional engineer can apply professional judgment to establish appropriate input 
+information for an infrastructure assessment.  
+ 
+3.12  Forecast	
+  
+
+Potential	
+  Source	
+  of	
+  Confusion	
+  
+	
+  
+The scientist may view the engineers’ approach to the information to be quite different than their 
+own.  On the other hand the engineer can perceive the scientist’s approach to providing 
+information to be overly cautious at the expense of timeliness and resources.  As the information 
+provided by the scientist is being applied for engineering purposes it is only important that it is 
+sufficient to the purposes of the project and it does not need to be “perfect”. 
+ 
+
+Rev	
+  6	
+  –	
+  Jun	
+  4,	
+  2014	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+
+	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+
+	
+  	
+  	
+  	
+  	
+  Page	
+  21	
+  of	
+  33 
+
+	
+  
+3.13  Good	
+  Enough	
+  
+
+More	
+  Applied	
+  	
+  
+
+See Prediction	
+  
+
+More	
+  Applied	
+  	
+  
+
+In engineering it is important that data be 
+sufficient for its intended purposes.  The 
+pursuit of perfection in data can result in 
+significant project delays and cost overruns.  
+As a result, the engineer will consistently 
+evaluate data to ensure that it meets the 
+minimum quality requirements for a particular 
+project.  Once this is achieved they will 
+constantly evaluate the cost and schedule 
+implications of improving data beyond this 
+point. 
+
+ 
+
+	
+  
+
+	
+  
+
+	
+  
+
+More	
+  Theoretical	
+  
+
+See Prediction	
+  
+
+	
+  
+
+More	
+  Theoretical	
+  
+
+ 
+Science is a constant search for truth.  It is 
+important for a scientist to assure themselves 
+and their peer group that the data is a close to 
+perfect as possible.  They will face challenges 
+on their approaches and outputs based on this 
+kind of constant assessment. 
+
+ 
+
+	
+  
+
+	
+  
+
+

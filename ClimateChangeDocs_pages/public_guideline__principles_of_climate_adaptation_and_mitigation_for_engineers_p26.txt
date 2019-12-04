@@ -1,0 +1,58 @@
+4. Other Resources
+
+In 2015, the American Society of Civil Engineers (ASCE) released a white paper providing considerable detail on adapting
+infrastructure and civil engineering practice to a changing climate https://ascelibrary.org/doi/pdf/10.1061/9780784479193 . The
+executive summary describes the purpose and scope of this document as follows:
+
+The purpose of the white paper is to:
+
+»
+
+»
+
+»
+
+foster understanding and transparency of analytical methods necessary to update and describe climate, including
+possible changes in the frequency and intensity of weather and extreme events and for planning and engineering
+design of the built and natural environments
+
+identify (and evaluate) methods to assess impacts and vulnerabilities caused by changing climate conditions on the
+built and natural environments
+
+promote communication of best practices in civil engineering practice for addressing uncertainties associated with
+changing development and conditions at the project scale, including climate, weather, extreme environments and the
+nature and extent of the built and natural environments”
+
+It consists of the following sections:
+
+»
+
+»
+
+»
+
+»
+
+»
+
+Section 2: “Review of climate science for engineering practice,” provides an overview of the current knowledge of
+climate and weather science, as well as its limitations and relevance to engineering practice.
+
+Section 3: “Incorporating climate science into engineering practice,” presents the challenges of incorporating climate
+change and weather science into engineering practice.
+
+Section 4: “Civil engineering sectors,” reviews the impacts of climate change on specific sectors, including codes and
+standards that may be affected and recommendations for action.
+
+Section 5: “Research, Development and Demonstration needs,” proposes research and other activities to advance civil
+engineering practices and standards to effectively address climate change impacts.
+
+Section 6, “Summary, Conclusions and Recommendations,” concludes the white paper with a discussion on near-term
+decision making and recommendations for research, development and implementation of improved practices”.
+
+Engineers active in planning and implementing adaptation actions are encouraged to consult this paper for the background
+science of climate and to gain further understanding of the issues facing engineers and what can be done to address them.
+
+26
+
+

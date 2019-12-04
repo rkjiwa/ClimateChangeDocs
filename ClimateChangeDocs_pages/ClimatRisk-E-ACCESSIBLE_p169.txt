@@ -1,0 +1,64 @@
+Warmer temperatures also provide some opportunities for Ontario’s roads, including:
+
+•  Greater fuel efficiency for many vehicles in warmer winters (Maoh et al., 2008); 
+
+•  Longer construction seasons (Andrey and Mills, 2003); and,
+
+•  Reduced winter maintenance requirements (Fu et al., 2009).  
+
+CHANGING WATER LEVELS AND ICE PATTERNS
+
+Fluctuating water levels and changing ice patterns in rivers and lakes may also result in roadway 
+flooding. In Ontario, this risk is highest during spring river-ice breakup (Andrey and Mills, 2003). Seiche 
+events (referring to temporary changes in lake levels caused by fluctuating atmospheric pressure) 
+also present flood risks throughout the Great Lakes basin for roads adjacent to bodies of water. More 
+frequent Seiche floods may affect set-back requirements for roads and other critical infrastructure in 
+vulnerable areas over the long term (International Joint Commission, 2014a).
+
+WIND
+
+Wind speeds throughout the province are projected to increase in coming years (Cheng et al., 2012b; 
+Environment Canada, 2014), presenting risks to road transport. Strong winds disperse chemical road 
+treatments; produce drifting snow that reduces visibility, stability, and maneuverability; and damage 
+signals and other tall structures (OFCM, 2002).
+
+4.3 ADAPTATION PRACTICES
+
+PRECIPITATION AND FLOODING 
+
+Several practices identified in the literature may reduce the impacts of extreme precipitation on 
+Ontario’s roads. These include using alternative routes; conducting risk assessments for new road 
+infrastructure; widening culverts and making other drainage improvements; and conducting more 
+frequent maintenance (Savonis et al., 2008). Some of these practices have been adopted in Ontario: 
+for instance, Toronto has increased regular monitoring and clearing of blocked drainage culverts to 
+address the increased flow of debris (City of Toronto, 2015). The Ontario Ministry of Transportation (MTO) 
+has also undertaken research to update Ontario’s intensity, duration, and frequency (IDF) curves to 
+more accurately characterize precipitation in the province, and has assessed the vulnerability of 
+Ontario’s highway drainage infrastructure to more severe precipitation events (see Case study 1).
+
+Efficient management and use of de-icing materials (including salt, sand, and brine) reduces the 
+impacts (and associated costs) of freezing rain. For instance, York Region treats rock salt with beet 
+juice to increase its melting capabilities, yielding budget savings of approximately 8 percent annually 
+(Clean Air Partnership, 2012). 
+
+Intelligent Transportation Systems (ITS) can also support adaptation on an operational level. Variable 
+message signs can warn motorists of roadway safety concerns in real time to prevent accidents 
+during precipitation events (Andrey and Mills, 2003). Similarly, Ontario’s Road Weather Information 
+System (RWIS) (deployed in the 1990s) provides MTO and its contractors with real-time environmental 
+information to inform responsive winter highway maintenance practices (Buchanan and Gwartz, 2005).
+
+CHANGING WATER LEVELS AND ICE PATTERNS (FLOOD RISKS)
+
+In areas particularly vulnerable to flooding, road infrastructure can be relocated or elevated to 
+reduce risks (Savonis et al., 2008). However, elevating roads is costly, and relocation may raise 
+issues related to land expropriation. Therefore, it is often more prudent to enhance the capacity of 
+stormwater management and other flood-prevention infrastructure, such as breakwaters or dykes 
+(Andrey and Mills, 2003). 
+
+ 
+CHAPTER 6: ONTARIO 
+
+158
+158
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

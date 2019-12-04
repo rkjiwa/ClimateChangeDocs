@@ -1,0 +1,91 @@
+ 
+
+ 
+
+Vegetation / habitat 
+response models 
+
+ Include statistical species distribution models, GAP models, 
+
+ Robinson et al. (2008) provide an extensive review 
+
+landscape models, biogeochemical models, and dynamic 
+global vegetation models. 
+
+of vegetation climate models. 
+
+Physiological models 
+
+ Incorporate sensitive aspects of physiologies that influence 
+
+ No known off-the-shelf software or tools that permit 
+
+ 
+
+foraging, nesting/reproduction, thermoregulation, and 
+migration.  
+
+development of physiological climate response 
+models. 
+
+ Relate physiological traits and processes to climate change 
+
+variables; can be used as part of general characterization 
+models or as part of habitat models. 
+
+ 
+
+ Complex; most commonly built for specific species in specific 
+
+locations or habitats because of data requirements. 
+
+Ecological models 
+
+ Evaluate how climate change variables affect fundamental 
+
+ Some models can be downloaded from the Internet, 
+
+ 
+
+ecological processes.  
+
+including 
+RHESsys (http://fiesta.bren.ucsb.edu/~rhessys/),  
+PnET (http://www.pnet.sr.unh.edu/),  
+CENTURY model 
+http://www.nrel.colostate.edu/projects/century5/). 
+
+Expert opinion models 
+
+ Constructed from the opinions of experts on a particular 
+
+  Lemieux el al. (2011) used expert opinion to 
+
+ 
+
+species, habitat, or ecosystem. 
+
+ Used when existing data preclude or are insufficient to 
+
+develop a quantitative model. A series of workshops and/or 
+surveys are often used to gather data from experts that are 
+then used in model development.  
+
+ In some cases, results from expert input are combined with 
+
+other data (e.g., from existing publications). 
+
+(Source: adapted from Glick et al., 2011) 
+
+assess the state of climate change adaptation in 
+Canada’s protected areas sector 
+
+ 
+
+A PRACTITIONER’S GUIDE TO CLIMATE CHANGE ADAPTATION IN ONTARIO’S ECOSYSTEMS (VERSION 1.0) 
+
+   69 
+
+ 
+
+

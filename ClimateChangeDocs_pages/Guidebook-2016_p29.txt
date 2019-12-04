@@ -1,0 +1,76 @@
+1.5 CLIMATE SIMULATIONS
+Climate simulations are the end product of climate 
+models. They represent the result of running a 
+climate model and thus solving the equations that 
+are represented in a model, for a certain period of 
+time. As discussed earlier, each climate model has 
+its own set of equations to represent the climate 
+system.  To  obtain  a  climate  simulation,  many 
+different inputs are required in a climate model, 
+such as a detailed portrait of the Earth’s surface 
+including  geophysical  data  (soil  types,  types  of 
+vegetation,  continental  contours,  location  and 
+bathymetry of large bodies of water, description 
+of the topography, etc.). In addition, as addressed 
+previously, emission scenarios are a main driver to 
+climate models in climate change studies. Different 
+climate simulations are obtained as each climate 
+model  responds  differently  to  greenhouse  gas 
+emissions  scenarios,  and  hence  will  produce  a 
+different future climate (also see Box on Members). 
+It is important to understand that none of these 
+future climates should be considered a prediction: 
+all the future climates projected by different climate 
+models with different GHG forcing scenarios should 
+be considered equally plausible. 
+
+The time span of a simulation can range from a 
+few years to thousands of years, both for the past 
+and future periods (Figure 7). The length of time 
+over  which  climate  models  are  run  to  produce 
+simulations  differs  from  one  climate  center  to 
+another  but  can  range  for  example  from  1850 
+or  1900  to  2100  or  even  2300  (see  example  of 
+Figure 7). Each simulation is computed iteratively 
+at  different  time  intervals.  These  intervals,  also 
+called time steps, indicate the time period within 
+the  model  between  two  states  of  the  climate 
+system  as  simulated  by  solving  the  equations. 
+The length of the time step defines the temporal 
+resolution, which is typically 5 to 20 minutes.  At 
+each time step and at each point on the calculation 
+grid (horizontal and vertical level), the numerical 
+solution  of  the  equations  gives  the  values  of 
+the  variables  included  in  the  basic  equations, 
+along  with  several  others  derived  from  physical 
+parameterizations.  Thus,  a  climate  simulation 
+contains  more  than  one  hundred  descriptive 
+climate variables (temperature, winds, barometric 
+pressure, rainfall, snow, etc.), which should all be 
+physically consistent with one another from one 
+point on the grid to another and also in time.  
+
+Model Bias
+
+Climate models are a representation of the real climate system and the mathematical equations that are 
+solved to represent this system are a simplification of the real world. A climate simulation is therefore an 
+imperfect numerical representation of the meteorology that could have occurred over the globe, based 
+on the assumption that the simulation of the natural variability is close to the real one. This means that 
+even if we have observations of greenhouse gases emissions for the past and we run a climate model 
+using those observations as input, the resulting simulation will give a response that is different from what 
+is recorded at meteorological stations. 
+
+Furthermore, due to the chaotic nature of the climate system and climate model sensitivity to things 
+such as initial conditions at the start of a simulation, even a “perfect” climate model would not reproduce 
+the succession or timing of observed historical meteorological events, and the best we can expect is 
+that the model reproduces the statistical properties (mean, variance, inter-annual variability, etc.) of 
+the observed records.  Given that each model represents the climate system differently and imperfectly, 
+they each have their own particular bias. This will mean for example, that some models may always yield 
+temperatures that are slightly colder on average than the other models, while some may always project 
+more precipitation than others. . Furthermore, a model’s bias is not necessarily equal for all parts of the 
+globe, and can vary for different regions. It is important to consider this bias when calculating climate 
+change scenarios. Biases are present in both GCMs and RCMs, and in gridded observations.
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  14
+
+

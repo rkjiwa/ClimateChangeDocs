@@ -1,0 +1,59 @@
+ 
+
+Contents 
+
+Introduction and Application of this Document 
+General 
+Acknowledgement 
+Background 
+Scope 
+Definitions 
+Reference Documents 
+Design Criteria 
+General Requirements 
+Design Environment 
+Sea Dike Design 
+Bibliography 
+ 
+
+1 
+1.1 
+1.2 
+2 
+2.1 
+2.2 
+2.3 
+3 
+3.1 
+3.2 
+4 
+5 
+
+ 
+
+Appendix A – Definitions, Terminology and Acronyms 
+Appendix B – Uplift and Subsidence Rates 
+Appendix C – Sea Dike Examples 
+Appendix D – Storm Surge in BC Coastal Waters - Background 
+
+ 
+ 
+
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+4 
+4 
+4 
+12 
+15 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+

@@ -1,0 +1,61 @@
+1.0 INTRODUCTION
+
+In Quebec, transportation plays a major role in supporting the vitality of regions, the distribution of 
+goods and services, and the exploitation of natural resources. Most transportation infrastructure (road, 
+rail, marine and air) was designed with a stable climate in mind, but climate change is affecting both 
+the lifespan and condition of the infrastructure. The size of the province, the remote nature of certain 
+Quebec communities, and the limited redundancy of the transportation system,4 in the regions most 
+affected by climate change, are also factors that increase its vulnerability.
+
+For nearly 20 years, the Quebec government, carrier associations, expert panels, and companies 
+have been making greater efforts to adapt transportation systems to climate change and thus 
+strengthen its resilience. These efforts have enhanced knowledge about the impacts and potential 
+solutions to improve the management of transportation infrastructure. 
+
+This chapter describes the organization of transportation in Quebec by mode and by region, and 
+identifies its main vulnerabilities to climate change, based on existing literature and studies. The 
+chapter also identifies adaptation practices that could be used to address these challenges. 
+
+1.1 REGIONAL PROFILE 
+
+DEMOGRAPHICS AND SOCIO-ECONOMIC CONTEXT
+
+Quebec covers more than 1.6M km2 (Institut de la statistique du Québec, 2014) and has 
+approximately 8,263,600 residents (Institut de la statistique du Québec, 2015; see Figure 1), making this 
+province the second most populated in the country.  More than half (60%) of the Quebec population 
+is concentrated in an area 10 km wide on either side of the St. Lawrence river (Institut de la statistique 
+du Québec, 2014). 
+
+More specifically, the Quebec population is concentrated in a few large urban areas in the southern 
+part of the province (Montréal, Québec City, Gatineau, Sherbrooke, Trois-Rivières). In other regions, 
+the population is more dispersed. For example, Nunavik makes up a little less than one-third of the 
+territory and has approximately 12,700 residents in 14 northern villages and the Cree community of 
+Whapmagoostui.
+
+Population growth is expected in 13 of the 17 administrative regions of Quebec by 2061 (Girard, 
+B-Charbonneau and F-Payeur, 2014). The regions which are expected to see this population growth 
+will be those supported by international migration (Montréal and Laval), inter-regional migration 
+(Outaouais), internal migration (Laval, Lanaudière), and a rising fertility rate (Nunavik).
+
+As shown in Table 1, the urban areas of the National Capital,5 Montréal, Montérégie, Laval and the 
+Outaouais are characterized by their significant industrial diversity, and account for 67.4% of the Gross 
+Domestic Product (GDP). The proximity of these areas to waterways and international transportation 
+infrastructure is vital to their success. Other regions depend more on the extraction of raw materials 
+or tourism. The area of the gulf and estuary of the St. Lawrence is home to close to 5% of Quebec’s 
+population and accounts for a similar share of the province’s economy (Beaulieu, 2014).
+
+4 
+
+5 
+
+ The redundancy of a transportation system refers to the alternatives the system provides, ensuring additional routes and services 
+if the first option is disrupted. A system with little redundancy provides few options.
+Québec City region
+
+ 
+CHAPTER 7: QUEBEC 
+
+184
+184
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

@@ -1,0 +1,35 @@
+1.10.1 DELTA/SCALING METHOD (ALSO CALLED THE PERTURBATION METHOD)
+This method involves a perturbation of the observed 
+of observations or by using the corresponding quantiles 
+climate data based on the relative change between the 
+of the distribution (e.g.42 for an example of quantile 
+simulated reference and simulated future periods within 
+mapping technique). The latter allows for a different 
+correction factor to be applied to the distribution tails, 
+a given simulation. The relative change between the 
+reference and the future is first calculated (Figure 13a) 
+so that it is possible to change the extremes of the 
+and the change (or delta) is then applied to the observed 
+distribution differently than the rest of the distribution. 
+An important point here is that this technique is applied 
+time-series (Figure 13b). 
+to specific time horizons (such as 30-year periods), not 
+to the entire time-series. 
+
+This method can be done using two approaches, namely 
+by calculating a mean change over the entire distribution 
+
+A
+
+B
+
+Figure 13 |  Example of delta/scaling post-processing technique. The relative change between A. the reference and the  
+ 
+ 
+
+future is first calculated and B. the change is then applied to the observed time-series.
+Source: T. Logan (Ouranos)  
+
+27  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

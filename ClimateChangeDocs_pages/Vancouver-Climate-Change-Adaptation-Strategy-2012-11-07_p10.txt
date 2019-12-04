@@ -1,0 +1,125 @@
+in order to measure Vancouver’s adaptive capacity, impacts were assessed 
+based on the cost and amount of staff intervention that would be needed 
+to adapt. engineering was most frequently identified as having low adaptive 
+capacity; a direct reflection of how built infrastructure is generally unable to 
+accommodate major changes in climate without additional costs and potentially 
+significant disruptions. 
+given sensitivity and adaptive capacity, vulnerability is ranked as follows.
+
+High
+
+Sensitivity
+
+Low
+
+Sensitivity
+
+High
+
+Sensitivity
+
+Low
+
+Adaptive
+Capacity
+
+High
+
+Adaptive
+Capacity
+
+High
+
+Adaptive
+Capacity
+
+High
+
+Vulnerability
+
+Low
+
+Vulnerability
+
+Medium
+
+Vulnerability
+
+likelihood 
+to determine the likelihood, Vancouver characterized the impact as a single 
+event (windstorm) or a recurring event (increasing annual rainfall). A likelihood  
+rating from 1 to 5 was then assigned where 1 is “rare” and 5 is “almost certain”.
+Consequence 
+the second step of a risk assessment is to evaluate the consequence of an  
+impact. Using a relatively common risk assessment matrix, Vancouver looked  
+at how the impacts would affect five areas: public safety, local economy and 
+growth, community and lifestyle, environment and sustainability, and public 
+administration. Matrix ratings ranged from 1 (negligible) to 5 (catastrophic). 
+the sum of all the consequence values was then totalled to give the impact 
+an overall consequence rating. 
+Consequence and likelihood are then multiplied to obtain a risk rating on the 
+following scale. 
+
+5-20
+Very
+Low
+
+21-35
+Low
+
+36-50
+Medium
+
+Low
+
+51-65
+Medium
+
+66-80
+Medium
+
+High
+
+81-95
+High
+
+96-110
+Very
+High
+
+111-125
+Extreme
+
+figure 5: risk assessment ranking scale
+
+figure 4: vulnerability calculations
+
+2.5  eValuation of aDaPtation aCtionS 
+
+2.4.2 riSk aSSeSSment
+
+risk is a function of the likelihood and consequence of an impact where  
+likelihood refers to the probability of the projected impact occurring, and 
+consequence refers to the known or estimated effects (economic, ecological,  
+social or legal) of a particular impact. 
+
+risk =
+
+likelihood x Consequence
+
+8
+
+Workshops were held with staff across the organization to brainstorm actions  
+to prepare for, or reduce risks from, the prioritized impacts. Workshop  
+participants then reviewed a consolidated list of potential actions before  
+the working group evaluated them. Criteria from the Canadian Communities’ 
+guidebook for Adaptation to Climate Change were used to rank the actions. 
+the criteria and ranking descriptions are listed in table 1. 
+Actions with low scores were discussed and most often discarded. others were  
+ranked into the following categories: “must do”, “monitor” or “investigate 
+further”. Must do actions are those that have a high benefit to cost ratio 
+and those with a short time horizon until impacts are likely to be observed. 
+in consultation with staff, must do actions were further prioritized by date 
+of the capital planning cycle they will be implemented by. Actions that are 
+
+

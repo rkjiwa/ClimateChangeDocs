@@ -1,0 +1,76 @@
+What climate information is presented and how 
+should it be interpreted?
+Table 8 presents nine synthetic scenarios that were 
+derived  to  simulate  increases  in  river  discharge 
+along the North Shore of Montreal Island. Figure 
+28 presents a map of the maximum area (in pink) 
+that would be affected by a flood of the magnitude 
+simulated  by  one  of  the  scenarios  presented  in 
+Table 8, namely a discharge equivalent to Q100 + 
+2000m3/s. 
+
+How is the table/figure constructed?
+Nine  synthetic  scenarios  of  future  discharge 
+values were used to simulate a range of flooding 
+events  (Table  8).  The  discharges  used  were 
+based  on  hydrological  modelling  of  measured 
+discharge values for the river. Plausible scenarios 
+of  increases  in  discharge  were  based  on  both 
+historical discharge values and expert opinions by 
+hydrologists working on the project. Examples of 
+simulated  values  were:  Q2  (maximum  discharge 
+with a 2 year return period), Q100 (discharge with 
+a 100 year return), and Q100 + 2000m3/s. Once 
+the scenarios were developed, they were used to 
+project water levels on a digital elevation map of 
+the area of interest. The goal was to model different 
+discharge overflow scenarios in order to identify 
+areas most likely to be submerged (potential flood 
+zones). These scenarios allowed the development 
+of a map of the potential flood zones (e.g. Figure 
+28) and ultimately permitted a first evaluation of 
+the sensitivity of the populations to increases in 
+future discharge.
+
+ What are the limitations/caveats/possible ways 
+to misinterpret the information?
+Synthetic  scenarios  can  be  a  useful  approach  in 
+evaluating  different  possible  futures  in  impacts 
+and  adaptation  studies.  Some  of  the  main 
+advantages of this type of scenarios are that they 
+can help identify sensitivities in the system, they 
+are  quickly  and  easily  constructed  (i.e.  do  not 
+require major computational resources), and they 
+are typically easy to use and understand. In this 
+case, mapping flood zones needed to be modeled 
+into the future and while the extent of flooding 
+is  obviously  highly  dependent  on  the  discharge 
+of  the  river,  this  river  is  regulated  and  so  water 
+discharge is a complex variable to simulate. This 
+complexity  is  heightened  by  climate  change. 
+Indeed,  while  precipitation  will  explain  a  large 
+portion of the variability in the discharge, other 
+factors  which  are  more  difficult  to  model  may 
+also  play  a  role,  such  as  water  uptake  from  the 
+river upstream of the region of interest and other 
+management decisions regarding flow regulations 
+for example. The decision to use what-if scenarios 
+therefore  allowed  a  first  evaluation  of  potential 
+vulnerabilities of populations along this river. 
+
+important  disadvantage 
+
+However,  an 
+is  that 
+synthetic scenarios may not be physically plausible 
+and  may  not  represent  the  physical  properties 
+of the climate system. For example, some of the 
+future  discharge  values  used  may  be  very  large 
+compared  to  what  can  actually  occur.  Synthetic 
+scenarios  must  therefore  be  constructed  with 
+care with the help of experts and their underlying 
+assumptions must clearly be outlined.
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  72
+
+

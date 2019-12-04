@@ -1,0 +1,90 @@
+Table 1 |  Key characteristics of RCPs and similarities with SRES scenarios.  
+
+Name
+
+Radiative forcing
+
+equivalent 
+
+CO2 
+(ppm)
+
+Temp anomaly 
+
+(°C)
+
+Pathway
+
+SRES temp 
+anomaly 
+equivalent
+
+SRES A1FI*
+
+RCP8.5
+
+8.5 W/m2 in 2100
+
+>1370
+
+RCP6.0
+
+6 W/m2 post 2100
+
+~850
+
+RCP4.5
+
+4.5 W/m2 post 2100
+
+~650
+
+RCP2.6 
+(RCP3PD)
+
+3W/m2 mid-century, 
+decline to 2.6Wm2 by 
+2100
+
+~490
+
+Adapted from Rogelj et al. 201222
+
+4.9
+
+3.0
+
+2.4
+
+1.5
+
+Rising
+
+Stabilizing without 
+overshoot
+
+SRES B2
+
+Stabilizing without 
+overshoot
+
+SRES B1
+
+Peak and decline
+
+None
+
+*Note that SRES A1F1 was not used in the CMIP3 experiment and therefore does not appear on Figure 5 below. 
+However, if it was shown, it would appear above SRES A2.
+
+Figure  5  |    Global  temperature  change  relative  to  1986-2005  for  the  SRES  scenarios  run  by  CMIP3  and  the  RCP  
+scenarios  runby  Coupled  Model  Intercomparison  Project  (CMIP5,  see  section  1.6.1).  The  number  of  
+ 
+models is given in brackets and the shading (coloured envelopes) represents all model results. 
+ 
+Adapted from Knutti and Sedláček (2012)23. 
+ 
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  12
+
+

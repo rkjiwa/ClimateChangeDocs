@@ -1,0 +1,3033 @@
+AHEAD
+
+OF 
+THE
+
+STORM
+
+Developing Flood-Resilience Guidance
+
+for Canada’s Commercial Real Estate
+
+SUPPORTED BY:
+
+Natalia Moudrak and Dr. Blair Feltmate
+Intact Centre On Climate Adaptation
+
+October 2019
+
+AHEAD
+
+STORM
+
+OF 
+THE
+
+2
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateAbout the Intact Centre on Climate Adaptation
+The Intact Centre on Climate Adaptation (Intact Centre) is  
+an applied research centre at the University of  Waterloo.  
+The Intact Centre was founded in 2015 with a gift from Intact 
+Financial Corporation, Canada’s largest property and casualty 
+insurer. The Intact Centre helps homeowners, communities 
+and businesses to reduce risks associated with climate change 
+and extreme weather events. For additional information, visit:  
+www.intactcentreclimateadaptation.ca.
+
+About the University of  Waterloo
+The University of  Waterloo is Canada’s top innovation 
+university. With more than 36,000 students, the university 
+is home to the world’s largest co-operative education system 
+of  its kind. The university’s unmatched entrepreneurial 
+culture, combined with an intensive focus on research, powers 
+one of  the top innovation hubs in the world. For additional 
+information, visit: www.uwaterloo.ca.
+
+About REALPAC 
+The Real Property Association of  Canada (“REALPAC”) is 
+Canada’s senior industry association for owners and managers 
+of  investment real estate. Our members include publicly 
+traded real estate companies, real estate investment trusts 
+(“REIT”s), private companies, pension funds, fund managers, 
+banks, and life insurance companies, with cumulative real 
+estate assets under management between $600 Billion and 
+$1 Trillion CAD. The association is further supported by 
+large owner/occupiers and pension fund advisors as well 
+as individually selected investment dealers and real estate 
+brokerages. For additional information, visit: www.realpac.ca.
+
+About BOMA Canada
+Comprised of  over 3,100 members, BOMA Canada is 
+Canada’s oldest commercial real estate industry association.  
+It’s members own and/or manage over 2.1 billion square feet 
+of  commercial space in Canada and include building owners, 
+managers, developers, facilities managers, asset managers, 
+leasing agents, brokers, investors, vendors and service 
+providers. Together with its eleven chapters, BOMA Canada 
+represents the Canadian commercial real estate industry on 
+matters of  national and international concern and provides 
+industry-leading programs such as www.bomabest.org, Canada’s 
+principal sustainability certification for commercial real estate. 
+For additional information, visit: www.bomacanada.ca.
+
+About Intact Financial Corporation
+Intact Financial Corporation (TSX: IFC) is the largest 
+provider of  property and casualty (P&C) insurance in Canada 
+and a leading provider of  specialty insurance in North 
+America, with over $10 billion in total annual premiums. 
+The Company has approximately 14,000 full- and part-time 
+employees who serve more than five million personal, business 
+and public-sector clients through offices in Canada and the 
+U.S. In Canada, Intact distributes insurance under the Intact 
+Insurance brand through a wide network of  brokers, including 
+its wholly-owned subsidiary BrokerLink, and directly to 
+consumers through belairdirect. In the U.S., OneBeacon 
+Insurance Group, a wholly-owned subsidiary, provides 
+specialty insurance products through independent agencies, 
+brokers, wholesalers and managing general agencies. For 
+additional information, visit: www.intactfc.com.
+
+Citation
+Moudrak, N.; Feltmate, B. 2019. Ahead of  the Storm: Developing 
+Flood-Resilience Guidance for Canada’s Commercial Real Estate. 
+Prepared for REALPAC and BOMA Canada. Intact Centre 
+on Climate Adaptation, University of  Waterloo.
+
+For information about this 
+report, contact Natalia Moudrak: 
+nmoudrak@uwaterloo.ca
+
+Disclaimer: The information stated in this report has, to the best 
+of  our knowledge, been collected and verified as much as possible. 
+The Intact Centre cannot make any guarantees of  any kind, as 
+to the completeness, accuracy, suitability or reliability of  the data 
+provided in the report. This report has been prepared for general 
+guidance on matters of  interest only and does not constitute 
+professional advice. You should not act upon the information 
+contained in this publication without obtaining specific professional 
+advice. No representation or warranty (express or implied) is given 
+as to the accuracy or completeness of  the information contained 
+in this publication, and Intact Centre employees and affiliates do 
+not accept or assume any liability, responsibility or duty of  care for 
+any consequences to you or anyone else acting, or refraining to act, 
+in reliance on the information contained in this report or for any 
+decision based upon it.
+
+3
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateAcknowledgments
+The Intact Centre thanks Intact Financial Corporation, Real Property Association 
+of  Canada (REALPAC) and the Building Owners and Managers Association of  
+Canada (BOMA Canada) for funding this report. We also thank subject matter 
+experts, who contributed to the development of  this report, for their time and  
+advice, including:
+
+Susan Ancel, Director Stormwater 
+Strategies, EPCOR Water Services
+Alireza Anvari, Director, Facility 
+Management, Evergreen  
+Clifford Ayling, Director, Elevating 
+Devices, PCL Constructors Canada Inc.
+Scott Beckman, Director, 
+Sustainability, PCL Constructors 
+Canada Inc. 
+Philippe Bernier, Vice President, 
+Innovation & Sustainability, Triovest 
+Realty Advisors Inc.
+David Bowcott, Global Director, 
+Growth, Innovation & Insight,  
+Global Construction and Infrastructure 
+Group, Aon
+Dr. Michael Brooks, Chief  Executive 
+Officer, REALPAC
+Robert Campanelli, National 
+Director, Corporate Sustainability, 
+GWL Realty Advisors Inc.
+Chris Corcoran, VP and Senior Risk 
+Control Consultant, Commercial Risk 
+Services, Aon
+Jillian Curley, Corporate 
+Environmental Specialist, Climate 
+Change and Environment,  
+City of  Calgary
+Alice Dixon, Resilience Analyst, 
+Asset and Contract Management, 
+Infrastructure Ontario 
+Jon Douglas, Director of  
+Sustainability, Menkes Property 
+Management Services Ltd.
+Meirav Even-Har, Sustainability 
+Manager, Office East, QuadReal 
+Property Group
+Marlene Farias, Senior Vice 
+President, Property Management, 
+Central Region, Triovest Realty 
+Advisors Inc.
+
+4
+
+William Fender, SVP, Commercial 
+Property Portfolios, FirstOnSite 
+Restoration Ltd.
+Geoffrey Fudurich, Sustainability 
+Consultant, Quinn & Partners Inc.
+Chris Greene, Senior Associate, Data 
+Analytics, Construction Services Group, 
+National Practice Group, Aon  
+David Hewitt, Director, Professional 
+Services, BGIS
+Dr. Ted Kesik, Professor of Building 
+Science, Daniels Faculty of Architecture, 
+Landscape and Design, University of  
+Toronto
+Kris Kolenc, Manager, Research & 
+Sustainability, REALPAC
+Dr. Pratish Mahtani, Director, 
+Performance Analytics, CBRE Group
+Joe Markling, Managing Director, 
+Head of  Real Estate Operations,  
+USAA Real Estate Company
+Neil Mathews, Manager, Emergency 
+Management, Oxford Properties Group
+Darryl Neate, Director, Sustainability, 
+Oxford Properties Group
+Steven Pacifico, Director of  
+Sustainability and Innovation,  
+Epic Investment Services
+Victoria Papp, Program Coordinator, 
+Environmental Standards, BOMA 
+Canada
+Terry Patterson, SVP, Public Sector, 
+Commercial Risk Solutions, Aon
+Chris Pyke, Senior Vice President, 
+Product, ArcSkoru
+Francisca Quinn, President,  
+Quinn & Partners Inc.
+Ramez Riad, Director, Technical 
+Services, GWL Realty Advisors Inc.
+
+Michael Rizzello, Senior Portfolio 
+Manager, Real Estate Investments, 
+Canada Post Corporation
+Ingrid Robinson, Principal & 
+Managing Director, Enterprise Risk 
+Management, BGIS 
+Dale Sands, President, The Village  
+of  Deer Park, Illinois
+John Sankey, Director, Property, 
+Ontario Claims, Intact Insurance
+Graham Sidders, Senior Operations 
+Manager, Triovest Realty Advisors Inc.
+Imrana Shamji, Director, Service 
+Excellence, BGIS
+Benjamin Shinewald, President  
+and Chief  Executive Officer,  
+BOMA Canada
+Michael Parker, Marketing and 
+Communications Consultant, BOMA 
+Canada
+Regan Smith, Director, Sustainability, 
+Real Estate, Manulife Investment 
+Management
+Sharon Sproxton, Director, Corporate 
+Commercial Lines, Ontario and Atlantic 
+Divisions, Intact Insurance
+Oraska Tam, Manager, Asset 
+Management, Fiera Properties Limited
+Bofa Udisi, Project Coordinator, 
+MV&T, Smart Buildings & Energy 
+Management, Facilities Management, 
+Toronto Community Housing
+Claudia Verno, Director, Policy, 
+Natural Catastrophe and Climate 
+Change, Strategic Initiatives, Insurance 
+Bureau of  Canada
+Adrian Wang, Director, Innovation 
+and Sustainability, Tridel
+Benjamin Welch, Sustainability 
+Coordinator, Triovest Realty Advisors Inc.
+Jane Welsh, Project Manager, 
+Environmental Planning, Strategic 
+Initiatives, City Planning,  
+City of  Toronto
+Christine Wickett, Manager,  
+Corporate Sustainability and 
+Responsibility, Morguard  
+Investments Ltd.
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateREALPAC and BOMA Canada are pleased to sponsor the Intact Centre 
+on Climate Adaptation’s “Ahead of the Storm: Developing Flood-Resilience 
+Guidance for Canada’s Commercial Real Estate.”
+
+This is Canada’s first guideline for improving the  
+flood-resilience of  commercial buildings. REALPAC  
+and BOMA Canada’s collective membership represent 
+the vast majority of  large Canadian commercial real 
+estate companies, which face increasing risk due to 
+climate change. 
+
+and experts, including REALPAC and BOMA Canada 
+members, to ensure that this guideline’s contents and its 
+recommendations are the most relevant and impactful 
+to industry. We thank the Intact Centre for its leadership 
+in creating this guideline and all stakeholders who 
+contributed to it.
+
+Extreme weather has become the new normal. As 
+we have seen in recent years, flooding, heat waves, 
+extreme heat, and extreme cold events are increasing 
+in frequency and intensity across Canada. Insured 
+losses related to extreme weather averaged $1.8 billion 
+annually between 2009 and 2018. Of  these, flooding 
+was the most costly and impactful. 
+
+We recognize that climate and resilience are major 
+risk and business issues. Buildings, which persevere 
+through flooding events can eliminate or mitigate risks 
+of  physical damage, disrupted business operations and 
+occupant danger. It is therefore imperative that senior 
+leaders recognize the importance of  making their 
+buildings as flood-resilient as possible to avoid major 
+future challenges.  
+
+Our industry needs to deepen its embrace of  proactive 
+adaptation to climate change, rather than simple 
+reaction to the next extreme weather event. This 
+guideline attempts to do just that: equip building owners 
+and managers with best practices they can use to make 
+their buildings more flood-resilient. In doing so, the 
+Intact Centre has consulted numerous stakeholders 
+
+We hope that this document is shared across 
+organizations, from senior leaders to building operators. 
+Resilience needs to be implemented not only in our 
+buildings, but throughout our industry mindset and 
+culture. REALPAC and BOMA Canada look forward 
+to continuing to support the Canadian commercial real 
+estate industry in strengthening its resilience so that our 
+built environment can continue to prosper. 
+ 
+Sincerely,
+
+Dr. Michael Brooks 
+Chief  Executive Officer 
+REALPAC 
+
+ 
+Benjamin L. Shinewald 
+President and Chief  Executive Officer 
+BOMA Canada
+
+5
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateFOREWORDLetter from Charles Brindamour, Chief  Executive Officer, Intact Financial 
+Corporation
+
+Climate change is an environmental and societal issue, 
+as well as an economic challenge. We see the impacts of  
+climate change on our customers and communities every 
+day, which is why Intact is focused on finding practical 
+solutions to build a more climate-resilient society. 
+
+Flooding continues to be a pervasive challenge – it’s the 
+costliest natural disaster impacting Canadians. Beyond 
+the economic costs of  property damage and business 
+disruptions, it takes an emotional toll on those affected. 
+“Ahead of  the Storm: Developing Flood-Resilience 
+Guidance for Canada’s Commercial Real Estate” is a 
+practical tool for commercial real estate owners and 
+managers to protect people and their assets. 
+
+Thank you to the University of  Waterloo, REALPAC 
+and BOMA Canada for your leadership, and to the 
+technical advisors for your expertise in building this 
+critical tool. 
+
+Charles Brindamour 
+Chief  Executive Officer 
+Intact Financial Corporation
+
+“
+
+6
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateFlooding continues to be a pervasive challenge – it’s the  costliest natural disaster impacting Canadians.” Table of Contents
+
+Foreword 
+
+Executive Summary 
+
+Chapter 1. Introduction:  
+The Need for Flood-Resilience across  
+Commercial Real Estate Properties in Canada
+
+1.1 Escalating Costs of  Natural  
+Disasters in Canada
+
+1.2 Flooding Impacts CRE Tenants 
+
+1.3 Flooding Impacts CRE Insurance 
+Rates and Availability
+
+1.4 Flooding Gives Rise to Lawsuits 
+
+1.5 Flooding Impacts Credit Ratings 
+
+1.6 Investors’ Attention to Climate Risk  
+and Adaptation
+
+1.7 Canada’s Commitment to Respond to  
+Climate Change, Reduce Flood Risk
+
+Chapter 2: Flood-Resilience Measures for  
+Existing CRE Properties in Canada
+
+2.1 Measures to Enact Before the Flood 
+
+2.1.1 Plans and Procedures 
+
+2.1.2 Equipment and Supplies 
+
+2.1.3 Major Retrofits 
+
+2.2 Measures to Enact During the Flood 
+
+2.3 Measures to Enact Immediately After  
+the Flood
+
+2.4 Engagement with Local Governments  
+on Climate Resilience
+
+Chapter 3: Examples of  Flood-Resilience  
+Measures Implemented
+
+5
+
+8
+
+10 
+
+11 
+
+14
+
+14  
+
+14
+
+15
+
+17 
+
+17 
+
+18 
+
+19
+
+19
+
+20
+
+20
+
+21
+
+22 
+
+24 
+
+25 
+
+BGIS: Flood-Resilience Retrofit  
+for a Financial Client
+
+Evergreen Brick Works: Flood Management  
+by Design and by Protocol
+
+Fiera Properties: Addressing  
+Flood-Resilience at an Office Complex
+
+FirstOnSite: Emergency Preparedness  
+for Critical Telecommunications Sites
+
+FirstOnSite: Flood Retrofit for a  
+Condominium Complex
+
+Healthcare of  Ontario Pension Plan:  
+Climate Risk and Resilience Assessment
+
+Infrastructure Ontario / CBRE:  
+Weather Service Predictor
+
+Infrastructure Ontario: Computer Rooms  
+Flood Protection
+
+Menkes: Social Media Tenant  
+Outreach Strategy
+
+Tridel: Preparing Property Managers to  
+Respond to Flood Emergencies
+
+Triovest: Flood-Resilience Retrofits  
+Following a Major Flood Event
+
+Chapter 4: Conclusion and Next Steps 
+
+Appendix A: Aon Flood & Water  
+Damage Resilience Technology Profiles
+
+References 
+
+25 
+
+26 
+
+28 
+
+29 
+
+29 
+
+29 
+
+30 
+
+30 
+
+30 
+
+31 
+
+31 
+
+32
+
+33 
+
+46
+
+7
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateEXECUTIVE 
+SUMMARY
+
+Flooding has emerged as the costliest natural disaster in 
+Canada. According to Public Safety Canada, the cost of  
+the federal Disaster Financial Assistance Arrangements 
+(DFAA) program, which provides funding support to 
+provinces and territories for major natural disasters, will 
+approach one billion dollars annually. Approximately 
+75% of  this cost is attributable to flood events.i Flooding 
+is also the lead driver in rising catastrophic insurable 
+losses for the property and casualty insurance sectors in 
+Canada, which experienced over $1.8 billion annually 
+in insured losses from 2009 to 2018, compared to $405 
+million annually from 1983 to 2008 (this data reflects an 
+adjustment for inflation and wealth accumulation).ii 
+
+Commercial real estate owners and managers are 
+not immune to the impacts of  flooding in Canada. 
+In addition to property damages, their tenants are 
+becoming increasingly concerned with potential business 
+disruptions and loss of  life during flood events. This is 
+not surprising – following the 2013 floods in Alberta, 
+between 150,000 to 180,000 people could not access 
+office buildings located in downtown Calgary for 
+approximately two weeks. This resulted in 5.1 million 
+lost work hours, equivalent to half  a billion dollars in 
+GDP loss to the province.iii In August 2018, when a flash 
+flood occurred in Toronto, Ontario, two individuals 
+almost lost their lives as they got trapped in an elevator 
+of  a commercial building and nearly drowned as the 
+elevator was stuck at the basement level, full of  water.iv   
+
+As the commercial real estate industry strives to 
+minimize its exposure to flood risk, this report provides a 
+concise list of  flood-resilience measures that can reduce 
+the potential for property damage, business disruptions 
+and potential flood-related injury and loss of  life 
+
+stemming from extreme rain events (Table 1).  
+These measures were developed by a consortium of  
+individuals that reflected a diverse range of  flood 
+risk expertise, with support from Intact Financial 
+Corporation, the Real Property Association of  Canada 
+(REALPAC) and the Building Owners and Managers 
+Association of  Canada (BOMA Canada). 
+
+Based on a national consultation with commercial 
+real estate owners, managers, institutional investors, 
+asset management consultants, insurance industry 
+representatives and others, these measures are deemed 
+broadly applicable for implementation across office 
+towers in Canada, with some measures equally 
+applicable to multi-unit residential towers and other 
+commercial and institutional buildings. As such, these 
+measures should be integrated into risk assessment 
+checklists and acquisition and investment questionnaires 
+used by property managers, owners and institutional 
+investors, respectively.
+
+As the National Building Code of  Canada is being 
+revised to incorporate climate change impacts, some 
+measures outlined in this report, such as water sensors 
+that prevent elevators from proceeding to flood-
+inundated levels, should be prioritized for inclusion in 
+code revisions. 
+
+The timely deployment of  best practices to mitigate 
+flood risk cannot be overstated. The upward curve 
+in insurable losses in Canada, combined with steep 
+increases in DFAA payments, collectively illustrate that 
+if  left unattended, the flood risk profile of  commercial 
+real estate will increase unless stakeholders adopt the 
+practices profiled in this report.   
+
+8
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateTable 1: Key Flood-Resilience Measures for Commercial Real Estate (Office Towers), Canada
+
+Major Retrofits*
+MR1. Elevating and flood-proofing 
+critical equipment: heating, cooling, 
+ventilation, and air conditioning (HVAC) 
+equipment; electrical transformers, 
+switchgear and service panels, as well as 
+communication systems are elevated above 
+expected flood levels. If  not feasible to 
+elevate, these systems are flood-proofed (e.g., 
+with equipment elevated off the ground and 
+drains at the lowest points on the floor). 
+
+MR2. Protecting server rooms: 
+server rooms are located on higher floors, 
+preferably on a raised platform, with a sump 
+pump installed at the lowest point. Water 
+sensors are installed for leak detection.
+
+MR3. Protecting high-voltage and 
+telecommunication pull rooms:  
+high-voltage and telecommunication pull 
+rooms are waterproofed and equipped  
+with drainage.
+
+MR4. Isolating electrical circuits: for 
+multi-level parkades, electrical circuits have 
+been isolated for each parking level.
+
+MR5. Electrical panel upgrades: 
+electrical panels are equipped with WIFI 
+enabled breakers to allow for remote shut off.
+
+Plans and Procedures
+PP1. Emergency plans: emergency 
+preparedness and response plans are in place 
+and include flood event procedures.
+
+PP2. Practice drills: building operations 
+staff are trained on flood event procedures. 
+Annually, practice drills are performed with 
+tenants and procedures are updated as required. 
+
+PP3. Emergency funds: dedicated funds are 
+available for emergency operations, including 
+flood events. Designated staff have access to 
+both credit cards and sufficient amounts of  
+cash to be used for emergency operations.
+
+PP4. Tenant communication channels: 
+tenant and stakeholder communication 
+channels have been established for 
+emergency situations, including flood events. 
+Tenant contact details are regularly updated.
+
+PP5. Emergency operations centres: 
+designated space is available for building 
+operations staff to use as emergency operations 
+centres. This space is equipped with water, 
+non-perishable food supplies and emergency 
+kits and is located above expected flood levels.
+
+PP6. Emergency response supply 
+contracts: standing orders are in place with 
+fuel suppliers, restoration and landscaping 
+companies to provide goods and services at 
+pre-arranged prices, under set terms and 
+conditions, as required for flood events.
+
+PP7. Emergency contact information: 
+contact information of  risk management 
+personnel, insurance adjusters and insurance 
+brokers is maintained and current.
+
+PP8. Insurance documentation: 
+documentation to access business 
+interruption insurance (e.g., financial 
+statements, lease agreements and inventory 
+counts) is regularly updated, backed-up 
+electronically and stored offsite.
+
+Equipment & Supplies
+ES1. Critical equipment and supplies: 
+critical equipment and supplies are available 
+onsite to respond to flood emergencies, (e.g., 
+sandbags, sump pumps, portable generators, 
+fuel, portable lights, extension cords, 
+dehumidifiers, protective clothing, etc.).
+
+ES2. Portable flood barriers and 
+sandbags: for buildings with critical 
+operations (e.g., buildings housing data 
+centers), portable flood barriers and 
+sandbags are available to protect the building 
+from overland flooding.
+
+ES3. Back-up generation: onsite back-up 
+generation equipment and fuel are available 
+and have the capacity to provide electrical 
+power to at least one elevator, all building 
+sump pumps, heat pumps, boiler, smoke 
+evacuation fans, fire sprinkler and fire alarm 
+systems, stairwell pressurization systems, and 
+emergency lighting equipment for 24-72 hours.
+
+ES4. Emergency lighting: battery-
+operated emergency lighting is available in 
+critical mechanical and electrical rooms, 
+as well as in emergency exit stairwells 
+for building evacuations, should back-
+up generation equipment malfunction. 
+A process is in place to regularly test all 
+battery-operated lighting and systems.
+
+ES5. Elevator water sensors: elevators are 
+equipped with water sensors that prevent them 
+from proceeding to flood-inundated levels. 
+
+ES6. Backwater valves: backwater valves 
+have been installed on storm and sanitary 
+sewer pipes.
+
+ES7. Hazardous materials storage: 
+hazardous materials are protected from 
+flooding (e.g., chemicals used in building 
+operations are stored in sealed containers, 
+or in inflammable cabinets located above 
+expected flood levels). Where hazardous 
+materials are stored, floor drains are 
+protected from spills.
+
+*  These retrofits may be cost-prohibitive to implement post-construction, but they may be warranted for critical sites.
+
+9
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateIntroduction
+The Need for Flood-Resilience across Commercial  
+Real Estate Properties in Canada
+
+Extreme weather events are on the rise in Canada, bringing  
+ever-increasing cost and disruption to governments, businesses,  
+and ultimately all Canadians.v  In the past decade, flooding emerged  
+as the most pervasive and costly natural disaster in the country, 
+causing financial and mental distress to those impacted.
+
+To limit the impacts of  flooding, all levels of  government 
+(Federal, provincial, territorial, municipal and Indigenous 
+governments) are making new infrastructure investments 
+and implementing flood risk reduction strategies. 
+
+Flood risk reduction requires a whole of  society 
+approach – and this report outlines flood-resilience 
+measures that can be implemented in Canada by 
+commercial real estate (CRE) owners and managers. 
+While the development of  this report focused on 
+measures applicable to office towers (high-rise  
+structures, over five stories), many also apply to  
+multi-unit residential towers, retail, industrial, 
+institutional properties and other asset classes.
+
+The report is organized as follows:
+
+•  Chapter 1 examines the need for climate adaptation 
+
+and presents key drivers for implementing flood-
+resilience measures across CRE properties in Canada;
+
+•  Chapter 2 outlines flood-resilience measures that 
+
+should be implemented for existing CRE properties  
+in Canada to reduce the potential for property 
+damage, business disruptions and flood-related loss  
+of  life;
+
+•  Chapter 3 provides examples of  flood-resilience 
+
+measures implemented by CRE owners and managers 
+in Canada; and 
+
+•  Chapter 4 provides concluding remarks and next steps.
+
+10
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateCHAPTER 11.1 Escalating Costs of Natural Disasters in Canada
+
+According to Public Safety Canada, the number of  
+natural disasters for which provinces and territories 
+required and obtained federal assistance under the 
+Disaster Financial Assistance Arrangements (DFAA) 
+increased nearly tenfold between 2005 and 2014, 
+compared to the previous decade. Over this 10-year 
+period, the total loss from floods amounted to just over 
+$12.5 billion, the largest expense for the DFAA. Going 
+forward, the annual costs of  the DFAA program are 
+expected to average $902 million, with $673 million 
+attributable to flood events. This substantially exceeds 
+the $100 million nominal program budget (Figure 1).vi 
+
+“
+
+Figure 1: Estimate of  the Average Annual Cost for Disaster 
+Financial Assistance Arrangements (DFAA) due to Weather 
+Events in Canada
+
+$900 million
+
+75% Attributable
+to flooding
+
+$100 million
+
+DFAA ANNUAL BUDGET
+
+2016
+
+ESTIMATED ACTUAL 
+DFAA ANNUAL COST
+
+Source: Parliamentary Budget Officer of  Canada. 2016. 
+Estimate of  the Average Annual Cost for Disaster Financial 
+Assistance Arrangements due to Weather Events.
+
+11
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateAnnual costs of the DFAA  program are expected to average $902 million.”Catastrophic insurable losses1 in Canada are also on 
+the rise. According to the Insurance Bureau of  Canada 
+(IBC), property and casualty insurance payouts from 
+extreme weather averaged $405 million annually from 
+1983 to 2008 and over $1.8 billion annually from 2009 
+
+to 2018 (Figure 2).vii Water damage from flooding is the 
+key driver behind these growing costs.
+
+Figure 2: Insured Catastrophic Losses for Property and Casualty 
+Insurance Sector, Canada (1983-2018)
+
+s
+n
+o
+
+i
+l
+l
+i
+
+B
+
+ 
+
+D
+A
+C
+$
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+Loss & Loss Adjustment Expenses
+Estimated Trend 
+
+Fort McMurray Fire
+
+Alberta & Toronto
+Floods
+
+Eastern
+Ice Storm
+
+Quebec
+Floods
+
+Ontario
+Wind & Rain
+
+Slave Lake
+Fire
+
+3
+8
+9
+1
+
+4
+8
+9
+1
+
+5
+8
+9
+1
+
+6
+8
+9
+1
+
+7
+8
+9
+1
+
+8
+8
+9
+1
+
+9
+8
+9
+1
+
+0
+9
+9
+1
+
+1
+9
+9
+1
+
+2
+9
+9
+1
+
+3
+9
+9
+1
+
+4
+9
+9
+1
+
+5
+9
+9
+1
+
+6
+9
+9
+1
+
+7
+9
+9
+1
+
+8
+9
+9
+1
+
+9
+9
+9
+1
+
+0
+0
+0
+2
+
+1
+0
+0
+2
+
+2
+0
+0
+2
+
+3
+0
+0
+2
+
+4
+0
+0
+2
+
+5
+0
+0
+2
+
+6
+0
+0
+2
+
+7
+0
+0
+2
+
+8
+0
+0
+2
+
+9
+0
+0
+2
+
+0
+1
+0
+2
+
+1
+1
+0
+2
+
+2
+1
+0
+2
+
+3
+1
+0
+2
+
+4
+1
+0
+2
+
+5
+1
+0
+2
+
+6
+1
+0
+2
+
+7
+1
+0
+2
+
+8
+1
+0
+2
+
+Source: IBC Facts Book, PCS, CatIQ , Swiss Re, Munich Re & Deloitte. Values are in 2018$ CAN; total natural catastrophe losses 
+normalized by inflation and per-capita wealth accumulation.
+
+1 Insured losses for a given disaster are catastrophic when they total $25 million or more per event.
+
+12
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateFigure 3 illustrates catastrophic insured losses associated 
+with flood events in Canada that occurred at the level 
+of  commercial properties (from 2009 to 2018). There 
+is a spike in losses that occurred in 2013, attributable 
+to $1.37 billion in insured damages associated with the 
+summer floods in Southern Alberta and in the Greater 
+Toronto Area.
+
+In 2018, catastrophic insured losses for severe weather 
+events across Canada exceeded $2 billion, according to 
+IBC. Relative to commercial real estate losses that year, 
+August 2018 flooding in Toronto contributed  
+$113 million in catastrophic insured losses.viii
+
+Figure 3: Insured Catastrophic Losses for Commercial Properties, Property and Casualty Insurance Sector, Flood Events,  
+Canada (2009-2018)
+
+s
+n
+o
+
+i
+l
+l
+i
+
+B
+
+ 
+
+D
+A
+C
+$
+
+1.4
+
+1.38
+
+1.36
+
+1.34
+
+1.32
+
+1.3
+
+0.12
+
+0.1
+
+0.08
+
+0.06
+
+0.04
+
+0.02
+
+0
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+Source: Catastrophe Indices and Quantification Inc. (CatIQ). Values for annual commercial loss and loss adjusted expenses, adjusted 
+for inflation to 2018 $CAD.
+
+“
+
+13
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateIn 2018, catastrophic insured losses for severe weather events across Canada exceeded $2 billion, according to IBC.”1.2 Flooding Impacts CRE Tenants
+
+Flooding is not a new phenomenon for CRE tenants 
+in Canada and it is well known that it leads to property 
+damage, business interruptions and lost work hours. 
+For example, following the June 2013 floods in Alberta, 
+between 150,000 to 180,000 people could not access 
+office buildings, located in downtown Calgary, for 
+approximately two weeks. This resulted in 5.1 million 
+lost work hours, equivalent to half  a billion dollars in 
+GDP loss to the province.ix
+
+More recently, the August 2018 flood in Toronto 
+disrupted business in several buildings including  
+City Hall, Scotia Bank Arena, Union Station, and 
+Rogers Centre. x Even more concerning, two tenants 
+were trapped in an elevator of  a commercial building 
+and nearly drowned as the elevator was stuck at the 
+basement level, full of  water.xi
+
+As the number of  severe flood events rises, in concert 
+with changing climate, tenants are beginning to ask 
+building managers if  their buildings are prepared for 
+extreme weather, and some owners are asking the same 
+of  their third-party managers.xii
+
+has become more expensive, or the coverage is limited/
+no longer available. 
+
+“ The industry average premium for 
+homeowner insurance has risen by  
+20-25% over the past five years in Canada. 
+More than half  of  this increase is directly 
+attributable to water damage and other 
+extreme weather events. The remainder is 
+due to the increase in insured values.”
+–  Patrick Barbeau, Senior Vice President, Claims  
+
+at Intact Insurance, March 2019.
+
+This is a warning sign for CRE owners and managers– 
+even when properties are insurable, premium increases, 
+higher deductibles, and coverage caps may mean that 
+the total amount of potential damage covered by insurance 
+will decline in concert with growing flood risk.xv
+
+1.4 Flooding Gives Rise to Lawsuits
+
+1.3 Flooding Impacts CRE Insurance 
+Rates and Availability
+In February 2019, the Office of  the Superintendent of  
+Financial Institutions (OSFI) noted that climate change 
+in Canada poses physical, investment and liability 
+risks. It stated that while the insurance industry is “well 
+positioned to manage physical risks in the medium-term, 
+there is growing concern about the potential longer-
+term impact of  climate change. A continued increase in 
+the frequency and magnitude of  weather-related claims 
+can create price-setting issues for insurance products.”xiii 
+OSFI stated that it wants all insurers to quantify their 
+exposure and develop strategic approaches for managing 
+climate risk.xiv
+
+Already in some residential areas in Canada, where 
+repeated flooding has occurred, home flood insurance 
+
+Flood-related lawsuits involving homeowners, 
+developers, local governments, Indigenous communities, 
+provinces, and private businesses, are on the rise in 
+Canada. CRE owners and managers are equally 
+exposed to the legal risk associated with flood damages. 
+For example, following a 2009 flood (caused by a 
+leaking pipe) in the building complex now known as 
+Brookfield Place in Toronto, Marsh Canada and other 
+tenants affected by the flood, filed and settled a lawsuit 
+against Centennial Plumbing and Heating Limited. 
+Consequently, Centennial Plumbing sought to be 
+reimbursed by Brookfield Properties Limited, responsible 
+for management of  the property, claiming the damage 
+was a result of  Brookfield’s negligence. While it was 
+ruled that Brookfield was not liable to reimburse 
+Centennial Plumbing in 2017, this case illustrates the 
+potential for lawsuits to arise when flooding impacts 
+commercial tenants.xvi
+
+14
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estate1.5 Flooding Impacts Credit Ratings
+
+In Canada, where flooding is the most common and 
+costly extreme weather risk impacting properties, it is 
+prudent for CRE owners and managers to investigate 
+the degree of  flood-preparedness in the cities and 
+provinces they operate. If  the creditworthiness of  
+the city is falling due to flood exposure or lack of  
+preparedness to withstand flood events, so might the 
+property values and tenancy rates. 
+
+Indeed, global credit rating agencies, including DBRS, 
+Moody’s and Standard & Poor’s are beginning to 
+examine climate change risks and potential impacts on 
+ratings of  tradable assets, including municipal bonds.xvii 
+In November 2017, Moody’s Investors Service outlined 
+four key credit risks associated with climate change that 
+its analysts consider when examining local and state 
+government risks:
+
+1. Economic disruption (e.g., property loss/damage; 
+
+lower revenues; business interruption; increased debt; 
+and higher insurance costs);
+
+3. Health and public safety (e.g., loss of  life, mental 
+
+distress, jeopardized critical emergency service 
+provisions); and
+
+4. Population displacement (e.g., short-term displacements 
+
+and longer-term population migration).xviii 
+
+Notably, flood risks also comprise a significant focus 
+for climate risk assessment metrics for Moody’s, where 
+points three and five below relate directly to flood risk:
+
+1. GDP Coastal Counties per Total State GDP, 2016;
+
+2. Tropical Cyclone Damage (1980–2017) per  
+
+State GDP, 2016;
+
+3. Coastal Dwelling Units in 100/500 Year Floodplains 
+
+per Total Coastal Dwelling Units;
+
+4. Damage from Non-Tropical Cyclone Weather Events 
+
+(1980-2017) per State GDP, 2016;
+
+5. Non-Coastal Dwelling Units in 100/500 Year 
+
+Floodplains per Total Non-Coastal Dwelling Units; and
+
+2. Physical damage (e.g., property loss/damage; loss of  
+utilities, transportation and communication networks);
+
+6. Agricultural, Forestry, Fishing and Hunting per  
+
+Total State GDP, 2016.xix
+
+15
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estate16
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estate1.6 Investors’ Attention to Climate Risk 
+and Adaptation
+In 2017, the Financial Stability Board’s Task Force 
+on Climate-related Financial Disclosures (TCFD) 
+provided recommendations for companies to disclose 
+their climate-related financial risk to investors, lenders, 
+insurers and other stakeholders.xx TCFD disclosures are 
+voluntary and include physical, liability and transition 
+risks associated with climate change, which would be 
+material to investors. 
+
+In 2018, GRESB, the leading environmental, social, and 
+governance global benchmark for real assets, added a 
+Resilience Module to its long-standing Real Estate and 
+Infrastructure Assessments. The Resilience Module was 
+broadly aligned with TCFD recommendations. As noted 
+by GRESB, “real asset investors are particularly exposed 
+to weather-related disaster issues, as the value of  their 
+long-term, often illiquid physical assets is intrinsically 
+linked to energy systems, transportation infrastructure, 
+and social and environmental circumstances.” xxi
+
+In Canada, Canadian Securities Administrators (CSA) 
+issued a CSA Staff Notice 51-333, Environmental 
+Reporting Guidance in 2010. The notice stipulated that 
+issuers must disclose material information pertaining 
+to environmental matters. As per CSA, “information 
+relating to environmental matters is likely material if  a 
+reasonable investor’s decision whether or not to buy, sell 
+or hold securities of  the issuer would likely be influenced 
+or changed if the information was omitted or misstated.” xxii 
+A subsequent study by CSA conduced in 2018 (CSA 
+Staff Notice 51-354: Report on Climate Change-Related 
+Disclosure Project), examined climate change-related 
+risk disclosure provided by Canadian issuers. It found 
+that 90% of  Canadian issuers disclosed regulatory, 
+policy or legal risks associated with climate change (e.g., 
+impacts of  carbon tax on profitability), 43% disclosed 
+physical risks and 33%, 31% and 18% disclosed market, 
+reputation and technology risks, respectively. xxiii
+
+With extreme weather events projected to become 
+more severe and frequent, disclosure of  physical risks 
+by Canadian issuers will grow in concert with the new 
+climate reality. Pension funds in particular, which take a 
+
+long view on their real estate investments, are beginning 
+to pay attention to how extreme weather risks may 
+affect returns. For real estate assets located in flood-prone 
+areas, disclosure regarding flood protection and resiliency 
+measures implemented will likely be deemed material.
+
+1.7 Canada’s Commitment to Respond to 
+Climate Change, Reduce Flood Risk
+Canada has made a number of  commitments to respond 
+to the challenge of climate change and to reduce disaster 
+risk, including signing the Paris Agreement xxiv and the 
+United Nations’ Sendai Framework for Disaster Risk Reduction 
+(DRR).xxv It also established the Pan-Canadian Framework 
+on Clean Growth and Climate Change (PCF), which 
+aims to both mitigate greenhouse gas emissions and build 
+resilience to extreme weather impacts.
+
+For example, under the PCF, Infrastructure Canada 
+launched the Climate-Resilient Buildings and Core 
+Public Infrastructure (CRBCPI) Project that aims 
+to integrate climate resiliency into building and 
+infrastructure design, guides and codes. xxvi As part of  
+this initiative, the Government of  Canada invested  
+$42.5 million into research regarding how to factor 
+climate resilience into the design of  buildings, roads, 
+bridges, water systems and rail transit in Canada.xxvii
+
+Specific to buildings, the National Research Council’s 
+Codes Canada division is developing new climate design 
+datasets to incorporate climate change impacts into the 
+National Building Code requirements, including new 
+requirements for building loads from rain, wind and 
+snow due to extreme weather. xxviii
+
+Concurrently, the Standards Council of Canada (SCC) 
+identified existing standards referenced in National Model 
+Construction Codes, Provincial and Territorial Regulations 
+and Master Building Specification that need to be updated 
+to include climate change considerations. It also supported 
+the development of new National Standards of Canada 
+that address flood risk reduction at the level of homes and 
+new and existing communities in Canada. xxiv  xxx
+
+17
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateFlood-Resilience Measures for Existing CRE  
+Properties in Canada
+
+This chapter outlines flood-resilience measures that can be  
+implemented by CRE owners and managers to better plan,  
+prepare and respond to flood events. The scope of  these  
+measures is outlined in Table 2. 
+
+Table 2: Scope of  Flood-Resilience Approaches for Existing Commercial Real Estate Properties in Canada
+
+In Scope
+Property-Level Measures:
+•  Emergency response procedures
+•  Flood preparedness activities
+•  Physical building improvements
+Geography:
+•  All of  Canada
+Flood Hazards:
+•  Riverine 
+•  Overland
+•  Sanitary sewer back up
+•  Storm sewer back up
+
+Property Types: 
+
+• 
+
+Commercial (primary focus is on office towers)
+
+Out of Scope
+•  Climate risk assessments
+•  Broader resilience plans
+
+Geography:
+•  Permafrost communities
+Flood Hazards:
+•  Water damage due to burst pipes, sink overflows,  
+
+fire system failures
+
+•  Storm surge and sea level rise
+•  Tidal flooding, dam failures and other unique flood 
+
+hazards
+
+Property Types:
+•  Industrial, institutional and multi-unit residential 
+
+buildings (MURB)*
+
+* Some flood-resilience measures identified for CRE properties may also apply to industrial, institutional, MURB properties and other asset classes.
+
+18
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateCHAPTER 2Notably, the assumption made in this report is that CRE 
+property owners and managers would use the results of  
+climate risk assessments to identify properties that are 
+the most vulnerable to flooding and have the greatest 
+need of  flood protection (e.g., high value properties, 
+critical facilities, heritage sites and properties housing 
+vulnerable populations).
+
+Climate risk assessments can be conducted internally, or 
+through utilizing external expertise. Guidance documents, 
+such as BOMA Canada’s Resilience Brief xxxi and the Urban 
+Land Institute’s Guide for Assessing Climate Change Risk xxxii 
+can aid with internal assessments. External assessments 
+can be provided by insurance and re-insurance 
+companies (e.g., AON, MunichRE and SwissRE), 
+engineering firms (e.g., AECOM, Stantec, WOOD), risk 
+modelling and advisory firms (e.g., Bloomberg, DNVGL, 
+Four Twenty Seven, JBA, Mantle314, Quinn & Partners 
+Inc., Risk Nexus, RMS, WSP, XDI) and others.
+
+Relative to flood, risk assessments typically include 
+determining property-level exposure to fluvial (i.e., 
+riverine) and pluvial (i.e., urban) flood hazards to 
+understand what flood levels are probable (e.g., 100-year 
+flood) and what flood levels are possible (e.g., 500-year 
+flood). These risk assessments should take into account 
+current and future climate projections.
+
+The flood-resilience measures outlined in Section 
+2.1.1 and 2.1.2 are broadly applicable and should be 
+considered for implementation across all CRE properties 
+in Canada. Detailed, site-specific analysis is required 
+to determine relevant major flood-resilience retrofits 
+outlined in Section 2.1.3.
+
+“
+
+2.1 Measures to Enact Before the Flood
+2.1.1 Plans and Procedures
+
+1.  Emergency plans: emergency preparedness and 
+response plans are in place and include flood event 
+procedures.
+
+2.  Practice drills: building operations staff are trained  
+
+on flood event procedures. Annually, practice drills 
+are performed with tenants, and procedures are 
+updated as required. 
+
+3.  Emergency funds: dedicated funds are available 
+for emergency operations, including flood events. 
+Designated staff have access to both credit cards  
+and sufficient amounts of  cash to be used for 
+emergency operations.
+
+4.  Tenant communication channels: tenant and 
+
+stakeholder communication channels (mass notification 
+systems and social media channels) have been 
+established for emergency situations, including flood 
+events. Tenant contact details are regularly updated.
+
+5.  Emergency operations centres: designated space 
+
+is available for building operations staff to use as 
+emergency operations centres. This space is equipped 
+with water, non-perishable food supplies and emergency 
+kits and is located above expected flood levels.
+
+6.  Emergency response supply contracts: standing 
+orders are in place with fuel suppliers, restoration and 
+landscaping companies to provide goods and services 
+at pre-arranged prices, under set terms and conditions, 
+as required for flood events. Consideration should be 
+given to developing a list of secondary suppliers, if the 
+primary suppliers are not available. 
+
+7.  Emergency contact information: contact 
+
+information of  risk management personnel, 
+insurance adjusters and insurance brokers is 
+maintained and current.
+
+8.  Insurance documentation: documentation to 
+
+access business interruption insurance (e.g., financial 
+statements, lease agreements, inventory counts, etc.) 
+is regularly updated, backed-up electronically and 
+stored offsite.
+
+19
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateClimate risk assessments can be  conducted internally, or through  utilizing external expertise.”2.1.2 Equipment and Supplies
+
+2.1.3 Major Retrofits
+
+1.  Critical equipment and supplies: critical 
+equipment and supplies are available onsite to 
+respond to flood emergencies, such as reusable 
+sandbags, submersible sump pumps, portable 
+generators, fuel, portable lights, extension cords, air 
+dryers, air moisture sensors, dehumidifiers, protective 
+clothing, two-way radios, batteries and medical 
+supplies. A satellite phone is available in the event of  
+internet and cell tower outage.
+
+2.  Portable flood barriers and sandbags: for 
+buildings with critical operations, portable flood 
+barriers and sandbags are available to protect the 
+building from overland flooding.
+
+3.  Back-up generation: onsite back-up generation 
+
+equipment and fuel are available and have the 
+capacity to provide electrical power to at least one 
+elevator, all building sump pumps, heat pumps, 
+boiler, smoke evacuation fans, fire sprinkler and fire 
+alarm systems, stairwell pressurization system, and 
+emergency lighting equipment for 24-72 hours.
+
+4.  Emergency lighting: battery-operated emergency 
+
+lighting is available in critical mechanical and 
+electrical rooms, as well as in emergency exit 
+stairwells for building evacuations, should back-up 
+generation equipment malfunction. A process is in 
+place to regularly test all battery-operated lighting 
+and systems.
+
+5.  Elevator water sensors: elevators are equipped 
+
+with water sensors that prevent them from proceeding 
+to flood-inundated building levels. 
+
+6.  Backwater valves: backwater valves have been 
+
+installed on storm and sanitary sewer pipes.
+
+7.  Hazardous materials storage: hazardous 
+
+materials are protected from flooding (e.g., chemicals 
+used in building operations are stored in sealed 
+containers, or in inflammable cabinets located above 
+expected flood levels). Where hazardous materials are 
+stored, floor drains are protected from spills.
+
+While most measures below may be cost-prohibitive to 
+implement post-construction, they may be warranted for 
+critical sites, or during major building retrofits:
+1.  Elevating and flood-proofing critical equipment: 
+
+heating, cooling, ventilation, and air conditioning 
+(HVAC) equipment; electrical transformers, switchgear 
+and service panels, as well as communication systems 
+are elevated above expected flood levels. If not feasible 
+to elevate, these systems are flood-proofed (e.g., with 
+equipment elevated off the ground and drains at the 
+lowest points on the floor). 
+
+2.  Protecting server rooms: server rooms are located 
+on higher floors, preferably on a raised platform, with 
+a sump pump installed at the lowest point. Water 
+sensors are installed for leak detection.
+
+3.  Protecting high-voltage and 
+
+telecommunication pull rooms: high-voltage 
+and telecommunication pull rooms are waterproofed 
+and equipped with drainage.
+
+4.  Isolating electrical circuits: for multi-level 
+
+parkades, electrical circuits have been isolated for 
+each parking level.
+
+5.  Electrical panel upgrades: electrical panels are 
+equipped with WIFI enabled breakers to allow for 
+remote shut off.
+
+It is also important to note how site design 
+considerations can be critical for property-level flood-
+resilience. For example, a major issue for CRE properties 
+during flash flood events is overland water entering 
+underground parking lots through intake and exhaust 
+vents. Accordingly, when designing a new site, it is 
+critical to elevate parking garage intakes and exhaust 
+vents above grade and cover them with a canopy, where 
+possible. Similarly, landscape design features such as 
+berms, swales, rain gardens and permeable pavements 
+can provide a range of  benefits, including flood 
+attenuation, biodiversity improvements and aesthetic 
+benefits. The SITES framework and certification system 
+can guide landscape architects, designers, engineers, 
+planners, developers and others to align land development 
+
+20
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estatewith sustainable design considerations.xxxiii Care should 
+be taken to ensure that such features do not present an 
+obstacle to the disabled. The Rick Hansen Foundation 
+Accessibility Certification can guide professionals in this 
+regard.xxxiv  
+
+Although the focus of  this report was on identifying 
+preventative measures to reduce flood risk, some 
+examples of  what needs to be done “during” and 
+“immediately after” flood events are also provided  
+on the next page. 
+
+2.2 Measures to Enact During the Flood
+
+•  Follow emergency procedures and instructions from 
+local authorities. If  evacuation orders are issued, all 
+tenants and building operation staff must leave the 
+premises immediately.
+
+•  Prohibit tenants and building operations staff from 
+entering floodwaters (one foot of  water can sweep 
+away a vehicle and hazardous materials can enter the 
+water easily)
+
+•  Procedures are in place to shutdown equipment that 
+may be affected by the flood. This includes shutting 
+off electrical equipment and flammable liquid lines at 
+
+the source (except for emergency generators and fire 
+pumps). Do not energize until a licensed electrician 
+inspects this equipment for damage.
+
+•  Fill up fuel tanks for emergency generators and  
+
+fire pumps.
+
+•  Protect building doors and windows from overland 
+
+flooding and debris damage (e.g., by setting up boards 
+and sandbags).
+
+•  Protect onsite waste disposal and collection facilities 
+
+from floodwater entry (e.g., through locking waste 
+disposal bins).
+
+•  Secure outdoor items (e.g., outdoor furniture landscape 
+items, waste containers and other equipment) that can 
+be swept away by the flood waters.
+
+•  Move machinery, equipment and valuables to higher 
+
+levels (above expected inundation).
+
+•  Take photos of  impacted areas for insurance claims 
+
+process.
+
+•  Provide regular updates to tenants and building 
+
+operation staff.
+
+21
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estate2.3 Measures to Enact Immediately After the 
+Flood
+
+Once the flood waters subside, the following steps should 
+be considered:
+
+•  Check for downed power lines and fuel spills caused 
+by the storm, report damages to the utility providers.
+
+•  Engage qualified gas fitters and boiler service 
+
+technicians to restart boilers, advising jurisdictional 
+authorities as necessary.
+
+•  Extract water from premises as soon as possible to 
+
+reduce damage and contamination.
+
+•  Remove damaged contents and furniture; disposing 
+
+of  it in accordance with regulations.
+
+•  Assess structural damage through visual inspections, 
+moisture meters, and thermal imaging to detect all 
+moisture.
+
+•  Check for contamination to determine the 
+
+required levels of  cleaning and sanitation (typically 
+this assessment is performed by an external 
+environmental consultant).
+
+•  Clean and sanitize the property, once dried, to 
+
+industry standards and scope provided by an external 
+environmental consultant.
+
+•  Initiate drying and dehumidification process and 
+
+keep daily moisture logs to measure progress.
+
+•  Test electrical, mechanical, fire protection, alarms 
+
+and other building systems; repair as required.
+
+It should be noted that there could be a wide range of  
+illness and injury due to floods. These adverse health 
+effects include “physical injuries such as cuts and 
+abrasions; infections due to contact with contaminated 
+flood water and contaminated surfaces; exposure to non-
+biological contaminants such as carbon monoxide, heavy 
+metals, and pesticides, which can lead to health impacts; 
+allergic or asthmatic episodes triggered by exposures 
+to mold; and emotional trauma and post-traumatic 
+stress.” xxxv  Accordingly, careful attention needs to be 
+paid as buildings go through clean up and restoration 
+phases following flood events. 
+
+22
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateELEVATORS:
+
+An In-Depth Look At Flood-Resilience Measures
+
+Elevator flooding is usually a reportable 
+event in most provinces in Canada. This 
+typically means once a flood occurs, the 
+Authority Having Jurisdiction (AHJ) must 
+be notified to ensure the elevator(s)  
+affected are inspected by the AHJ prior  
+to returning to service. 
+
+There are two common types of  elevators used at  
+CRE buildings in Canada: traction elevators and 
+hydraulic elevators. 
+
+Traction elevators function with the help of a rope that 
+passes over an electrically-powered pulley or wheel. xxxvi 
+This wheel is attached to an electric motor and when 
+the motor is powered, the wheel is set in motion, pulling 
+the rope and in turn lifting the elevator car to the desired 
+floors. xxxvii The wheel is usually placed in the machine 
+room, constructed on the highest floor of the building. xxxviii 
+
+Hydraulic elevators utilize a piston, placed at 
+the bottom of  the elevator and controlled by an 
+electrically-powered pump. Hydraulic elevators are 
+typically used in smaller buildings (5-6 stores high), 
+serving a vertical rise of  up to 60 feet. The elevator 
+pump, oil tank and controls are housed within a 
+common space, usually located at the bottom landing 
+served by the hydraulic elevator.
+
+Flood-resilience measures that are applicable to both 
+traction and hydraulic elevators include:
+
+•  Installing a back-flow preventer in the drain line between 
+
+the sump pit and the elevator pit to reduce the risk of  
+elevator pit flooding if the sump pump fails;
+
+•  Ensuring that the elevator sump pumps are 
+
+•  Waterproofing elevator lobby vestibule doors to 
+
+reduce floodwater incursion into the hoistway.
+
+Flood-resilience measures that are specific to traction 
+elevators include:
+•  Installing water sensors that trigger the elevator 
+
+operations program to move elevator cars to a level 
+high enough in the building to ensure that critical 
+elevator equipment (e.g., travelling cables, car 
+safeties, car bottom roller guides, wiring junction 
+boxes, etc.) are above the water line.
+
+In buildings where an elevator pit does not have a 
+drain:
+•  Securing portable pumps and required equipment 
+
+(e.g., extension cords) to be deployed in a flood 
+event.
+
+•  Installing water sensors in the elevator pit and 
+connecting these to the central alarm system or 
+BMS to provide immediate notification to building 
+operators of  a flood occurring within the elevator’s 
+pit space.
+
+•  Retrofitting electrical components in the elevator 
+
+pit to meet National Electrical Manufacturers 
+Association (NEMA) 4 protection requirements 
+(including waterproofing of  elevator receptacles, 
+switches and light fixtures).
+
+Flood-resilience measures that are specific to hydraulic 
+elevators include:
+
+Sealing the borehole’s annulus space to prevent 
+groundwater seeping up into the elevator pit through 
+this unprotected opening. This is particularly 
+important for properties located in areas with 
+seasonally high water tables.
+
+provided with emergency power so they can remain 
+operational during power outages; and
+
+Prepared by: Clifford Ayling, Director, Elevating Devices, PCL 
+Constructors Canada Inc.
+
+23
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estate2.4 Engagement with Local Governments on Climate Resilience
+
+Although CRE owners and managers should make  
+every effort to improve flood-resilience of  their 
+properties, this could be negatively impacted if  the 
+underlying infrastructure to service these properties fails. 
+As noted in the 2019 study Climate Risk and Real Estate 
+Investment Decision-Making by the Urban Land Institute 
+(ULI) and Heitman, it is critical for CRE owners and 
+managers to investigate the degree to which local 
+governments are proactive in mitigating climate risks. 
+
+ULI and Heitman surveyed global real estate investors 
+and managers and found that “local governments’ 
+preparedness for climate change influenced their 
+decisions regarding whether to invest long-term in those 
+markets.” xxxix Some CRE investment managers surveyed 
+by ULI and Heitman noted that they meet with elected 
+city officials to discuss climate resilience plans and to 
+signal to them that major asset owners are thinking 
+about this issue and want to see action taken. xl
+
+The Intact Centre notes the following areas as critical 
+to assessing relative to local and provincial/territorial 
+government flood preparedness:
+
+•  Availability of  updated and forward-looking flood 
+
+risk mapping; 
+
+•  Land use planning guidance, which takes into 
+account current and future climate projections;
+
+•  Proactive maintenance of  drainage, storm, water and 
+
+wastewater infrastructure systems; and
+
+•  Emergency preparedness and response including 
+
+coordination with agencies in charge of  
+transportation and electricity supply to remain 
+functional during flood emergencies.xli 
+
+As it relates to ageing infrastructure, large water main 
+breaks can cause localized floods, leading to property 
+damage and building closures. Some cities and utilities 
+have begun to implement monitoring solutions, such 
+as installing acoustic fiber optic cables to continuously 
+monitor the integrity of  pipes and provide notifications 
+to trained personnel if  potential problems are detected, 
+helping prevent major pipe bursts. xlii CRE owners and 
+managers need to take note of  these broader efforts that 
+local governments make to manage flood risk, as they 
+affect property-level resilience.
+
+If  the local governments and provinces are not stepping 
+up to the challenge to prepare and respond to climate 
+change and flood threats proactively, the risk is passed 
+on to everyone else. CRE industry is well positioned to 
+drive adaptation efforts within jurisdictions where they 
+operate. As noted by the ULI survey respondents, a 
+good place to start is to have a conversation with elected 
+officials regarding their climate risk management plans.
+
+“
+
+24
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateIf the local governments and provinces do not step up  to the challenge to prepare and respond to climate  change and flood threats proactively, the risk is  passed on to everyone else.” Examples of Flood-Resilience  
+Measures Implemented
+
+This chapter presents case studies of  flood-resilience measures  
+implemented at CRE properties across Canada to illustrate the 
+practicality of  measures outlined in Chapter 2. While the databank 
+of  flood-resilience case studies in Canada is a “work in progress”,  
+in the US, ULI’s report Returns on Resilience: The Business Case,  
+highlights real estate development projects that employ best practices in resilient 
+design (including flood-resilience) and show demonstrable returns on investment. xl
+
+BGIS: Flood-Resilience Retrofit for a 
+Financial Client
+In 2018, BGIS worked with a financial client to identify 
+and implement flood-resilience measures for select 
+branch locations across Canada exposed to urban flood 
+risk. Based on the assessment conducted by BGIS, the 
+following measures were implemented to help the client 
+limit flood damage from severe precipitation events and 
+plumbing failures:
+•  Installation of  sump pump alarms to trigger 
+
+notification alerts in case sump pits are at risk of  
+overflow (estimated cost of  alarm installation is 
+$1,000, annual alarm monitoring fee is $500);
+
+•  Installation of  backflow valves to reduce the risk of  
+
+sewer back-up flooding (estimated cost of  installation 
+is $3,500);
+
+•  Installation of  water sensors in server rooms 
+
+(estimated cost of  installation is $10,000 or higher, 
+depending on the room size and monitoring 
+equipment); and
+
+•  Installation of  heat tracers on interior and exterior 
+
+water pipes to keep them from freezing and 
+subsequently bursting (estimated cost of  installation is 
+$1,000 or higher, depending on the required length).
+
+In addition, BGIS team biannually (in the spring and 
+in the fall) cleans out roof  drains and downspouts at the 
+branch properties to avoid water pooling on the roof, 
+which can cause leaks and damage.  
+
+25
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateCHAPTER 3Evergreen Brick Works is located in the flood plains of  the Don River in Toronto, Ontario.
+
+Evergreen Brick Works: Flood Management 
+by Design and by Protocol
+
+Evergreen Brick Works is a hub – a place where the 
+world can experience sustainable practices that enable 
+flourishing cities of  the future. In 2010, Evergreen 
+transformed a collection of  deteriorating heritage 
+buildings into a global showcase for green design and 
+an award-winning public space. Open year-round, 
+Evergreen Brick Works welcomes more than 500,000 
+visitors annually to experience its public markets, 
+participate in conferences and events, enjoy outdoor 
+learning and nature play, and explore public art in the 
+heart of  Toronto’s ravine system.
+As an organization, Evergreen Brick Works 
+acknowledges that “Flooding at Evergreen Brick Works Is 
+Not a Matter of  If, It Is a Matter of  When.” Therefore, 
+Evergreen Brick Works embeds flood resiliency 
+knowledge and education into its work culture in  
+all of  its day to day activities and operations.
+
+Unlike many other CRE properties, Evergreen Brick 
+Works faces a unique set of  various activities that make 
+dealing with flood emergencies complicated. Evergreen 
+Brick Works has tenants, who operate within normal 
+office hours, but also hosts events, programs and 
+community engagement functions that happen after 
+hours, on weekends and holidays. 
+At any point of  time, Evergreen Brick Works could 
+have a large number of  people on site. This makes flood 
+risk management a paramount priority. In particular, 
+evacuation procedures and communication protocols are 
+critical to have in place in instances where the facilities 
+staff may need to shut down a high-profile function due 
+to a flood emergency. 
+Since 2013, Evergreen Brick Works has experienced three 
+major riverine flood events. Each event has turned the 
+11 acre site into a lake. By developing a comprehensive 
+flood management plan, Evergreen Brick Works managed 
+to reduce the recovery time and cost significantly from 
+millions of dollars to below one hundred thousand dollars. 
+Evergreen Brick Works has a goal to reduce future flood 
+recovery costs to below $30,000.
+
+26
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateTo achieve flood-resiliency, Evergreen Brick Works has 
+focused its efforts on an approach that was coined “Flood 
+Management by Design & by Protocol”.
+Relating to “Flood Management by Design”, Evergreen 
+Brick Works has implemented the following actions:
+•  Installed all electrical outlets above the 10-year flood line
+•  Located all major electrical and mechanical rooms on 
+
+the 2nd floor or higher
+
+•  Ensured new walls and floors are made of  solid dense 
+
+concrete to be easily washable and resistant to mold
+•  Across locations where a framed wall needed to be 
+
+installed, removable cement boards have been used to 
+be easily washed and dried
+
+•  Reprogrammed elevators to park on the 2nd floor 
+
+when not in use
+
+•  Used hollow plastic structures called “Cupolex” to 
+
+raise the floor above 10-year floodline while reducing 
+the quantity of  required concrete
+
+•  Installed flood gates at all entry points around  
+
+the buildings perimeter
+
+•  Installed permeable concrete pavement to reduce 
+
+water runoff from parking lots
+
+•  Installed green roofs to reduce water runoff from roofs
+•  Built cages and platforms for merchandise display in 
+
+retail stores, so that the items are always displayed 
+above the 10-year flood line
+
+•  At the children’s program area, built closets and 
+
+benches for placing backpacks and other items above 
+the 10-year flood line
+
+•  Installed 14 rain water cisterns that each retain 
+
+approximately 20,000 liters of  water, or more than 
+250,000 liters of  rainwater that could be used for 
+pressure washing after the flood
+
+Relating to “Flood Management by Protocol,” 
+Evergreen Brick Works implemented the following 
+actions:
+•  Developed a comprehensive flood management plan, 
+
+which includes procedures for weather watch, flood 
+watch, flood alerting, evacuation and recovery
+•  Developed a customized weather widget with 
+
+centralized weather information and flood gauges 
+that pulls the data from available sources in a central 
+location for analysis and action by facilities staff
+•  Integrated flood preparation checklist into daily 
+standing orders for each activity taking place at 
+Evergreen Brick Works
+
+•  Implemented “flood walk” program to communicate 
+
+key findings about the status of  flood readiness of  
+various spaces to staff and tenants
+
+•  Procured an inventory of  flood equipment (e.g., sump 
+pumps, hoses, pressure washers, sanitizer sprays and 
+large fans)
+
+•  Designated a place of  refuge on higher floors, 
+
+equipped with drinking water and food
+
+•  Partnered with a nearby church in higher elevation 
+up the adjacent hill to shelter children and others if  
+necessary
+
+•  Developed a confidential staff and tenants phone tree 
+
+as well as critical contacts
+
+•  Developed Flood Management, Flood Response and 
+
+Floor Recovery teams including volunteers
+
+•  Established partnerships with watershed authorities 
+
+(TRCA) and their flood duty officers
+
+•  Included a flood risk clause in the tenants’ 
+
+agreements, as well as third party events’ agreements 
+to ensure they are aware of  the risk and they take 
+their own measures in addition to the site’s efforts
+•  Informed every new hire about the site’s flood risk 
+
+and their possible engagement in flood recovery 
+and provided online and in-person health and 
+safety training for cleanup assistance as part of  the 
+orientation package
+
+27
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateFiera Properties further plans to enhance flood-resilience at 
+the Office Complex through implementing the following 
+measures:
+•  Inspect all buildings for the presence of backwater valves 
+to reduce potential storm and sanitary backflow events / 
+where backwater valves are missing initiate installation;
+
+•  Ensure City of Richmond and water pumping 
+
+trucks (McRaes Environmental) emergency contact 
+information are readily available for emergency 
+response teams;
+
+•  Ensure all emergency equipment (e.g., utility hole cover 
+removal tools, hoses, pumps, extra fuel, electrical cords, 
+etc.) are properly stored and are ready for use;
+
+•  Stockpile sand on site for sandbags if required for a 
+
+flooding event; 
+
+•  Develop emergency shut down procedures for main 
+electrical service in catastrophic flooding events; and
+
+•  Revisit tenant communications / evacuation protocols 
+
+to exercise for flood events.
+
+Fiera Properties: Addressing  
+Flood-Resilience at an Office Complex
+The City of Richmond in British Columbia is situated 
+below sea level and relies on pumping stations to reduce 
+and maintain seawater levels. Seasonally, the city is exposed 
+to extreme high tides (i.e., “king tides”) and, at times, city 
+storm drains are over capacity and storm drains located in 
+low-lying areas backflow.
+The Office Complex, managed by Fiera Properties, is 
+comprised of 13 buildings that span 707,000 square feet, 
+located on a 35-acre land parcel. Portions of the parcel 
+are located in the designated flood plain. Three of these 
+buildings are particularly vulnerable to flooding, as they 
+have parking and service rooms (including main electrical 
+services and telecommunications data rooms) located on the 
+ground floor, where storm drains are below the elevation 
+of the city storm drains. There is no ability to relocate or 
+elevate critical equipment located in these rooms.
+To address flood-resilience, Fiera Properties implemented 
+the following property-level protocols across the three most 
+vulnerable buildings:
+•  Installed automatically-activated sump systems to reduce 
+
+rising water levels; 
+
+•  Installed two gas-powered pumps and secured fuel 
+
+supplies for emergency response;
+
+•  Set up an “incident command center”, which is 
+
+equipped with a first aid room, emergency tools and 
+supplies; 
+
+•  Trained onsite staff and mobile security on emergency 
+
+response procedures, including flood response; and
+
+•  Instructed the onsite staff and mobile security to 
+
+inspect low elevation levels for flooding during high 
+precipitation events.
+
+“
+
+28
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateThe incident command centre is  equipped with a first aid room,  emergency tools and supplies.”FirstOnSite: Emergency Preparedness  
+for Critical Telecommunications Sites
+Several critical telecommunications sites are at risk of  
+flooding in Western Canada. These sites are impractical 
+to relocate or redesign. Accordingly, flood tube barriers 
+and pumps have been purchased for rapid deployment 
+in the event of  overland flooding. Standby generators 
+and diesel tanks have been raised. The estimated cost 
+of  implementing these measures was $175,000 per site. 
+Notably, natural gas has been approved as a fuel source 
+for emergency standby power in many jurisdictions 
+where these sites are located. Costs to retrofit vary, 
+however the benefits of  using natural gas for emergency 
+standby power include:
+
+•  Reliable fuel source without the need to resupply 
+
+diesel tanks;
+
+•  No risk of  diesel spills;
+
+•  Lower emissions;
+
+•  Less maintenance required than diesel;
+
+•  Extended run times; and
+
+•  Natural gas does not have to be stored so it does not 
+
+degrade over time. 
+
+FirstOnSite: Flood Retrofit for a  
+Condominium Complex
+A 180-unit condominium complex in High River, 
+Alberta, which was heavily damaged by the floods in 
+2013, elevated all the hot water tanks and furnaces from 
+grade upon replacement. The estimated cost of  this 
+retrofit was $20,000, with retrofit work conducted by  
+a local HVAC contractor. 
+
+“
+
+Healthcare of Ontario Pension Plan:  
+Climate Risk and Resilience Assessment
+In collaboration with Quinn & Partners and AON, 
+the Healthcare of  Ontario Pension Plan (HOOPP) 
+undertook a climate change risk and resilience 
+assessment on its global $14 billion commercial real 
+estate portfolio. HOOPP used historical extreme 
+weather and flood risk data, predicted climate change 
+risk parameters and a property survey to inform the 
+creation of  a risk and resilience matrix. The matrix 
+helps HOOPP to identify properties at a high risk of  
+extreme weather events and relates this risk information 
+to a property’s degree of  preparedness (resilience). 
+
+The climate change risk and resilience assessment 
+clarified that for HOOPP’s real estate portfolio the 
+main climate risk is flooding. HOOPP is now focusing 
+its flood-resilience planning and flood-protection 
+investments on high-risk properties. HOOPP is also 
+including property-level resilience practices in their 
+investment and asset management checklists to reduce 
+climate change-related risks. 
+
+Across HOOPP’s 190-property portfolio, the cost of  
+the climate change risk and resilience assessment was 
+approximately $500 per property. This cost included 
+access to forward-looking climate risk data, resilience 
+survey, analysis and development of  recommendations.
+
+29
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estate“	The	climate	change	risk	and	resilience	assessment	clarified	that	for		HOOPP’s	real	estate	portfolio	the	main	climate	risk	is	flooding.”as a direct channel to engage building occupants. 
+Various messages are posted on these accounts, including 
+flood warnings and emergency communication.
+
+Instagram
+@OneYorkStreet @OneYorkStreet
+
+Twitter
+
+Building
+One York 
+Street 
+25 York Street @25YorkStreet
+4711 Yonge
+Aero Centre
+
+@4711Yonge
+@AeroCentre
+
+@25YorkStreet 
+@4711Yonge
+@AeroCentre_GTA 
+
+Menkes realized the benefits of  having a direct channel 
+to communicate with building occupants during several 
+events in Toronto. For example, in 2018 there was a 
+daylong power outage caused by a Toronto Hydro 
+equipment failure at a Menkes managed property. 
+As occupants did not have access to their emails and 
+company servers were down, traditional tenant email 
+notifications were not getting through to the occupants. 
+However, the occupants were able to follow live updates 
+about the power outage on the social media channels. 
+These live updates were also critical during the April 23, 
+2018 North York City Centre van attack, as occupants 
+needed safety information, as well as information about 
+road closures and building operating schedules.
+
+“
+
+Infrastructure Ontario / CBRE: Weather 
+Service Predictor
+To make provincial buildings more resilient to extreme 
+weather, automated warnings based on forecasted 
+weather and Environment Canada Public Weather 
+Alerts go out to any impacted buildings within the 
+Infrastructure Ontario portfolio. An extreme weather 
+event may be a heavy snowfall, intense rain, high winds, 
+or a period of  extreme heat or cold. A set of  prescriptive 
+measures appropriate to the type of  weather event 
+are sent to field staff. Measures can include validating 
+building systems and supplies, communicating with staff 
+and tenants, or checking building access points. Sending 
+these alerts to field staff in advance of  the weather event 
+allows them to take precautionary measures to mitigate 
+risks of  incidents impacting the building.  
+
+Infrastructure Ontario: Computer Rooms 
+Flood Protection
+In its Design Guidelines (which must be followed for the 
+commissioning of  any building retrofit), Infrastructure 
+Ontario specifies that water detection sensors should 
+be installed under the raised floor of  a computer room, 
+whenever air conditioners are being installed. If  flooding 
+occurs, sensors will trigger the water leak detection 
+alarm. The Building Automation System (BAS) sends 
+alarm notifications, by email or other means, to the 
+building operators/facility managers. The building 
+operators can then decide what measures need to be 
+taken to ensure occupant and building equipment safety. 
+
+Menkes: Social Media Tenant Outreach 
+Strategy
+As a way to engage occupants in an influential way, 
+Menkes departed from traditional CRE industry 
+methods, such as posters and flyers, and used social 
+media to form the basis of  its outreach strategy. Using 
+platforms like Twitter, Facebook, and Instagram, 
+Menkes leveraged its diversified social media presence  
+
+30
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateSending these alerts to field staff in advance of the  weather event allows them to take precautionary measures to mitigate risks of incidents  impacting the building.”Tridel: Preparing Property Managers to 
+Respond to Flood Emergencies
+Tridel, the largest builder of  condominiums in the 
+Toronto area, provides property management staff 
+(e.g., superintendents, concierges and cleaners) with 
+emergency management training, emergency kits and 
+ladders. As part of  the training, property management 
+staff are instructed on flood response, with a significant 
+focus on leak containment. The staff are trained on 
+reading valve charts and drawings, which indicate valve 
+locations and which water flows each valve controls 
+(e.g., domestic water supply systems, hydronic systems 
+used for heating and cooling, fire protection systems and 
+storm and sanitary sewer systems). In case of  a leak, the 
+staff are able to perform shut off procedures, reducing 
+property damage. Emergency kits that are provided 
+to staff include screwdrivers, drywall knives, garbage 
+bags, gloves, goggles, flashlights, adjustable wrenches, 
+duct tape, clamps, pens, note pads, etc. Tridel conducts 
+emergency drills annually with the onsite property 
+management staff. An emergency drill log is maintained, 
+listing the type of  drill, the time conducted and any 
+additional training required. 
+
+Triovest: Flood-Resilience Retrofits  
+Following a Major Flood Event
+Following 2013 Alberta floods, Triovest set up a 
+permanent flood room at the Keynote Office Tower 
+in Calgary. The room stores critical equipment and 
+supplies, including portable flood barriers, sand bags, 
+submersible sump pumps, portable generators, fuel, 
+portable lights, extension cords, protective clothing, etc. 
+
+As well, Triovest purchased the Watergate flood 
+barrier system, which can be set up in less than 
+an hour and covers the perimeter of the city 
+block where the tower is located. The Watergate 
+flood barrier system (with sections of  it spanning from 
+0.6 to 1 meter in height) cost approximately $165,000.  
+It is stored in movable carts located in the flood room. 
+
+Triovest also worked with Fujitec Canada to retrofit 
+elevators with water sensors in its four-story Customs 
+House building in Calgary, Alberta. Fujitec specialists 
+installed water sensors at the bottom of  the building’s 
+elevator pits. The sensors automatically return elevators 
+to ground or higher floors should there be flooding in 
+the basement of  the building (i.e., if  the elevator pit is 
+full of  water). The cost of  retrofit, including equipment 
+and labour, was approximately $5,000 per elevator.
+
+31
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateConclusion and Next Steps
+
+Climate change and extreme weather events will continue to  
+challenge the stability of  returns from real estate investments.  
+As noted in this report, the time is now for institutional investors 
+and commercial real estate owners and managers to revisit their 
+risk assessment models and to assess their exposure to the most  
+costly natural disaster in Canada – flooding.
+
+Relative to commercial real estate assets, flood-resilience 
+measures outlined in this report can reduce the potential 
+for property damage, business disruption and flood-
+related loss of  life stemming from extreme precipitation 
+events. The focus of  these measures is on proactive 
+planning and preparedness activities that can be 
+executed across office towers in Canada.  
+
+It is important to acknowledge that flood damage can 
+arise in the absence of  extreme precipitation events, for 
+example due to city infrastructure failures (e.g., water 
+main breaks), domestic water and hydronic system 
+leaks. Appendix A, prepared by Global Construction 
+and Infrastructure Group, Aon Risk Solutions, outlines 
+emerging technologies that can help address these 
+broader water-related challenges.
+
+To be effective, many of  the flood-resilience measures 
+outlined in this report rely on regular maintenance 
+
+32
+
+activities. To this end, inspections, testing and 
+documentation processes comprise an important part of  
+risk management activities. Qualified professionals who 
+are responsible for inspections and testing must therefore 
+receive training on flood risk assessment and resilience 
+measures, such as the ones outlined in this report.
+
+The commendable leadership of  REALPAC and 
+BOMA Canada to establish the flood mitigation 
+practices presented in this report is self-evident.
+
+The next step for commercial real estate 
+– the formidability of which should not be 
+underestimated – will be the timely deployment 
+of these practices in anticipation of bigger 
+storms that have yet to come. 
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateCHAPTER 4Aon Flood & Water Damage Resilience  
+Technology Profiles
+
+A
+ 
+
+X
+I
+
+D
+N
+E
+P
+P
+A
+
+33
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateAon’s Commercial 
+Risk Solutions
+Global Construction & 
+Infrastructure Group
+
+Aon Flood & Water Resilience 
+Technology Profile
+
+How this technology prevents and mitigates  flood and water damage risk 
+Doxel's autonomous robots scans and captures images of the asset as it is being built and is 
+able to detect defects, inspect quality and measure progress through a robust artificial 
+intelligence system. This enables Doxel to identify micro issues that could turn into macro 
+flood and water damage events.  
+
+Product Description
+Doxel is an artificial intelligence solution for construction productivity. It uses autonomous 
+devices to monitor a site every day, both outdoors and indoors, with LIDAR and HD cameras. 
+Their proprietary artificial intelligence algorithm then processes the data, inspects installation 
+quality, and quantifies how much material has been installed correctly. 
+
+Their cloud-based dashboard then provides project managers with real-time feedback on 
+productivity, as well as how actual costs and time spent are comparing to the original budget 
+and schedule. As a result, managers can better control outcomes and keep their projects on 
+time and on budget. Benefits include:
+
+AI measures installed quantities 
+and calculates earned value for 
+thousands of line items, telling 
+you exactly how much you owe 
+for a day’s work.
+
+Budget 
+
+Doxel keeps you updated with 
+real-time progress reports, 
+measured production rates and 
+project completion forecasts.
+
+Schedule
+
+Doxel detects errors with 
+superhuman accuracy through 
+their AI engine, instantly letting 
+you know if field installations are 
+installed per the plan.
+
+Quality
+
+Risks Treated
+Key risks mitigated by the Doxel 
+system include:
+
+1
+
+Defects  
+(design/
+
+workmanship)
+
+2
+
+Loss in 
+
+Productivity 
+(construction)
+
+3
+
+Contractor 
+
+Default
+
+4
+
+Property 
+Damage 
+(own, others)
+
+5
+
+Bodily 
+Injury 
+
+ (own, others)
+
+6
+
+Schedule 
+& Cost 
+Overrun
+
+Company Profile
+Doxel 
+3250 Ash Street 
+Palo Alto, CA, USA
+
+CEO:
+Saurabah Ladha
+
+Category:
+Artificial Intelligence, Scanning/
+Reality Capture
+
+Website:
+www.doxel.ai/
+
+Location:
+North America
+
+Company ProfileSite 1001 1001 Locust Street, 4th Floor, Kansas City, MO 64106CEO: Cleve AdamsCategory:Smart BuildingsWebsite:https://site1001.com/Location:GlobalA cloud-based software platform that combines a building’s core information (design models, floorplans, asset details, warranty information, etc.), its maintenance and service records, and live data feeds from building systems, sub-sensors, and IoT devices, to create a continuously updated record of the building’s operational health and performance. Building owners, operators and managers enjoy the following benefits of Site 1001:How this technology prevents and mitigates flood and water damage risk Site 1001's comprehensive building platform combines the use of sensors, IoT devices and AI to stop leaks, flooding and monitor the overall health of the building before there is a chance of a risk occuring. Product DescriptionAon Flood & Water Resilience Technology ProfileBudget QualityOperations & Maintenance Continuously monitors building comfort, safety, and performance, while creating a continuously updated record of the state of the building for all in the building’s ecosystem.Reduce costs associated with maintenance and repair delays by delivering diagnostics, parts and maintenance details at the point of service.Helps identify operational anomalies and prevent building system failures. Mitigates risks from previously unnoticed and undetected issues such as mold and water leaks by automatically detecting and notifying before the issue becomes a problem.Risks TreatedKey risks mitigated by the Site 1001 system include:Property Damage  (resultant damage, own, others)1Delays in  claims  discover4Brand  Impact5Bodily Injury  (own, others)2Defects  (design workmanship)3Warranty6Aon’s Commercial Risk SolutionsGlobal Construction & Infrastructure GroupAon’s Commercial 
+Risk Solutions
+Global Construction &  
+Infrastructure Group
+
+Aon Flood & Water Resilience 
+Technology Profile
+
+How this technology prevents and mitigates flood and water damage risk
+With Upbrella’s innovative way to construct high-rise buildings, many of the 
+traditional risks of water damage are eliminated due to its sheltered construction 
+method and best practices.
+
+Product Description
+Upbrella works to bring sheltered conditions to high-rise construction projects by using 
+roof-lifting technology that envelops the structure and provides a protective enclosure that 
+supports the floor-by-floor construction of high buildings.
+
+Company Profile
+Upbrella 
+9160 boulevard Leduc, Bureau 
+310,Brossard, QC, Canada, J4Y 0E3
+
+CEO/Founder: 
+Joey Larouche
+
+Category:
+Engineering Solutions
+
+Website:
+www.upbrella.com
+
+Location:
+North America
+
+Risks Treated
+Key risks mitigated by Upbrella include:
+
+1
+
+Bodily 
+Injury  
+(own, others)
+
+2
+
+Property 
+Damage 
+
+(resultant damage, 
+
+own, others)
+
+3
+
+Defect 
+
+(workmanship)
+
+4
+
+Weather
+
+Industry leading worker health 
+and safety environment due to 
+weather sheltered enclosure that 
+allows 80% of the work to be 
+performed at worker’s height 
+with no tower cranes required. 
+
+Offers direct costs savings by 
+eliminating lost time and 
+productivity due to weather as 
+well as temporary set ups and 
+reduces waste management.
+
+Safety
+
+Budget 
+
+Faster delivery vs traditional 
+construction can reduce project 
+schedule by 20% - 25%. 
+
+Schedule
+
+Company ProfileArx Pax Labs, Inc.  20 S. Santa Cruz Avenue, Suite 102, Los Gatos, California 95030CEO/Founder: Greg Henderson, AIA Category: Construction Technology, ResiliencyWebsite: www.arxpax.comLocation: California HQ, Global solutionArx Pax unlocks “unbuildable” land. The SAFE (Self Adjusting Floating Environment) Foundation System is a modular, pre-cast concrete foundation system that provides a consistent building surface regardless of site location. SAFE adapts and integrates well proven technology to provide a scalable, repeatable foundation ideal for poor soils, flood and earthquake hazards. Ultimately, SAFE provides greater margins and less risk per unit of development and will disrupt real estate development models worldwide. Instead of spending billions on rebuilding after disasters, we can now build responsibly and sustainably to last for generations. Benefits include: How this technology prevents and mitigates flood and water damage riskArx Pax’s Self Adjusting Floating Environment (SAFE) Foundation System provides a consistent building surface regardless of site location. It provides scalable, repeatable foundations ideal for poor soils, floods and earthquake hazards.Product DescriptionAon Flood & Water Resilience Technology ProfileBudgetScheduleSafetyThe cost of SAFE is comparable to traditional pier-based foundation systems required in poor soils. Land price is significantly reduced therefore reducing overall development cost.Known SAFE Foundation System structural load capacity allows for the predesign of buildings independent of site geotechnical conditions allowing building predesign or structural duplication. To protect people, property and communities from natural disasters is our mission. Factory production of foundations will increase worker safety and reduce jobsite hazards.Risks TreatedKey Risks mitigated by the ArxPax  system include:Property Damage   (resultant damage, own, others)1Loss in Productivity  (operations)3Bodily  Injury (own)4Weather2Aon’s Commercial Risk SolutionsGlobal Construction &  Infrastructure GroupCompany ProfileClimaCell280 Summer StreetBoston, MA 02210CEO/FounderShimon Elkabetz (CEO, co-founder), Rei Goffer (Chief Strategy Officer, Co-founder), Itai Zlotnik (Chief Customer Officer)CategoryIoT Wireless sensors,  Machine Learning Websitehttps://www.climacell.co/LocationWe are a global company with offices in the US (Boston, MA and Boulder, CO) and Tel Aviv, IsraelClimaCell is pioneering an approach we call the “Weather of Things” — where we use existing infrastructure like cell signal interference, connected cars and airplane sensors to generate millions  of proprietary weather observations around the globe, each day. By assimilating these IoT data points into proprietary forecasting models and combining them with traditional weather sources like government radars, we output street-level, highly granular nowcasts and forecasts, updated minute-by-minute. We call this MicroWeather — which we deliver to operations-focused clients through a web-based user interface (HyperCast) and to data-focused clients via API.Aon’s Commercial Risk SolutionsGlobal Construction &  Infrastructure GroupHow this technology prevents and mitigates flood and water damage risk  Using the “Weather of Things” approach, ClimaCell is innovating the way we forecast weather. Through new and exciting methods of providing weather nowcasts and forecasts, weather risks can be mitigated and managed more efficiently to reduce risk exposure.Product DescriptionAon Flood & Water Resilience Technology ProfileRisks TreatedKey risks impacted by ClimaCell include:Property Damage (resultant damage, own, others)1Weather5Bodily Injury  (own, other)2Loss in Productivity (construction, operations)4Schedule & Cost Overrun3Labor makes up 20–30% of project costs, which can be stretched into significant overrun due to delays. HyperCast gives the granularity to make binary “go-no go” shift decisions, avoiding mistaken cancellations and minimizing missed shifts due to faulty forecasts. BudgetLightning, high winds, precipitation and extreme temperatures can create job-site hazards for crews and equipment. ClimaCell’s weather alerting system helps operators mitigate and manage these risks with advance warnings at the site level. SafetyAutomatic logging of weather conditions into the daily log via ClimaCell’s API saves a manual task and functions as the one source of weather truth across projects, for example in solving Liquidated Damages disputes.ProductivityCompany ProfileReconstruct, Inc. Development Headquarters:    Champaign, IllinoisBusiness Headquarters:  Menlo Park, CaliforniaCEO/Founder:Zak MacRunnels Category:Visual Command Centers for Construction Projects & Their 3D Timelines; Augmented Reality; Robotics; Artificial Intelligence; Remote Connectivity; Scanning/Reality Capture; Virtual RealityWebsite:www.reconstructinc.com Location:US, North America, Global Reconstruct provides a visual command center for construction projects and their 3D timelines. By integrating schedules, building information models (BIM), and reality capture into a single unified view, Reconstruct creates actionable insights for all stakeholders including owners, project executives, project managers, superintendents, field engineers, and trade forepersons. Reconstruct’s quantified and visual analytics enable proactive, strategic decisions. The Wall Street Journal describes Reconstruct as a ‘time machine’ that reconstructs the past while simultaneously predicting future risk. Benefits Include:How this technology prevents and mitigates flood and water damage riskReconstruct provides a visual command center for construction projects and their 3D timelines. By integrating schedules, building information models (BIM) and reality capture into a single platform, Reconstruct enables proactive and actionable insights for all stakeholders through quantified and visual analytics. Product DescriptionAon Flood & Water Resilience Technology ProfileEnlighten AnticipateCollaborateReconstruct’s web platform overlays 3D reality with BIM and schedule to keep everyone on the same page with a single version of the truth. Reconstruct’s predictive analytics identify work locations most at risk for future delays so that project teams can fix problems before they occur.   With integrated progress reports, at-risk reports, weekly reports, and visuals as-built reports project teams coordinate to maximize the project execution efficiency, safety, and profitability.  Risks TreatedKey risks mitigated by the Reconstruct  system include:Defects  (design, workmanship)1Loss in Productivity (construction)2Contractor Default3Schedule & Cost Overrun6Property Damage (own, others)4Bodily Injury  (own, others)5Aon’s Commercial Risk SolutionsGlobal Construction &  Infrastructure GroupAon’s Commercial 
+Risk Solutions
+Global Construction &  
+Infrastructure Group
+
+Aon Flood & Water Resilience 
+Technology Profile
+
+How this technology prevents and mitigates flood and water damage risk 
+Pillar’s moisture sensing technology can identify early stage water incidents, 
+thereby mitigating potential for greater damage.
+
+Company Profile
+Pillar Technologies 
+335 Madison Avenue,
+New York, NY 10017
+
+CEO: 
+Alex Schwarzkopf 
+
+Category:
+IoT/Wireless Sensors
+
+Website:
+http://pillar.tech/
+
+Location:
+North America
+
+Product Description
+Wirelessly connected, battery powered sensors that monitor key metrics like temperature, 
+pressure, humidity, smoke and dust.  Once in place Pillar’s sensor technology and 
+monitoring platform provides multiple benefits to all project stakeholders including:
+
+Risks Treated
+Key risks impacted by Pillar Technologies 
+system include:
+
+1
+
+Property 
+damage  
+(own, others)
+
+2
+
+Defects  
+(design/
+
+workmanship)
+
+3
+
+Delays in  
+Claims 
+Discovery
+
+4
+
+Weather
+
+The sensors provide real time, 
+constant protection of the job site 
+helps prevent events such as fire 
+and water damage. Also, it acts as 
+an early warning system to all 
+stakeholders and can also link 
+emergency response resources.
+
+It can reduce insurance claims 
+and deductibles by pushing alerts 
+that allow contractors to pinpoint 
+problem areas before damage 
+occurs. Also Pillar helps gain 
+insight into what did happen 
+during construction that may 
+have led to post construction 
+defect claims.
+
+Pillar provides site wide data to 
+gain improved insight into what is 
+happening on the job site in real 
+time, providing a construction 
+site nervous system that improves 
+productivity and risk management.
+
+Safety
+
+Budget 
+
+Productivity: 
+
+Product DescriptionEddy Solutions is committed to empowering property owners with Intelligent Water Management tools that identify issues, monitor usage and mitigate water damage. Eddy’s comprehensive, award-winning technology provides real time data and insights and enables remote and automatic water shutoff when necessary to protect and control water in all property types. Eddy’s system includes IoT enabled sensors, smart meters and shutoff valves, all connecting to a Homeowner App or Property Management dashboard to protect against water damage and improve overall risk management.Benefits3 key benefits associated with  Eddy Solutions include:Eddy Solutions 5255 Yonge Street Suite 900 Toronto, ON M2N 6P4 CEO and President Travis Allan CategoryIoT/Wireless Sensors,  Remote ConnectivityWebsitewww.eddysolutions.comLocationCanada and the USCompany ProfileAon’s Commercial Risk SolutionsGlobal Construction &  Infrastructure GroupHow this technology prevents and mitigates flood and water damage riskEddy Solutions is an innovative manufacturer of smart water metering products and related technologies. Their intelligent suite of products continually track and monitor the water environments of buildings and homes to identify issues, monitor usage, and ensure that water damage is mitigated.Aon Flood & Water  Resilience Technology ProfileRisks TreatedKey risks mitigated by Eddy  Solutions include:Property Damage(resultant damage, own)1Delays in  Claims  Discovery4Brand Impact6Loss in Productivity(operations)2Warranty5Ability to  Prove Impact Costs3ProtectionProtection against water damage that originates within a structure – internal plumbing leaks, burst pipes, appliance failures, heating and cooling issues, and bathroom fixture leaks.DataReal time data – The Eddy system collects, normalizes, and analyzes data on water damage and end user consumption habits on an individual and aggregate level.24/7 MonitoringEddy’s highly trained experts have  a deep understanding of water usage for each profile and provide remediation coordination.Company ProfileFullStack Modular LLC  63 Flushing Avenue-Unit # 63; Brooklyn, NY 11205CEO: Roger KrulakCategory: Full Volumetric Modular Design, Manufacture and ConstructWebsite: www.fullstackmodular.comLocation: U.S.FullStack Modular seeks to revolutionize the building process through manufacturing pre-fabricated components for high-rise multifamily, hospitality and student housing sectors. Their fully integrated modular solution for design, manufacturing and construction enables a higher level of control, predictability and scalability for development projects. How this technology prevents and mitigates flood and water damage riskFullStack’s fully integrated modular solution for design, manufacturing and construction offers an efficient, quality driven alternative to traditional construction. With complete weather protection, 80% of construction occurs off-site and at  ground level, resulting in fewer deliveries, safer working conditions and reduced weather impact.Product DescriptionAon Flood & Water Resilience Technology ProfileFireWaterSafetyThere is no welding or sweating of  pipes on site. All connections are  bolted, press fit or Victaulic connections  and the sprinkler standpipe can be extended within 1 hour in the stairwells which get stacked alongside the mods. The facades are installed in the factory and checked with aerospace accuracy to ensure perfect seal on site. Additionally, all mods are temporarily weather wrapped and receive a temporary EPDM roof to protect mod during transport and stacking.All the SMEP including connection pieces are shipped in the mods from the factory, no other deliveries are made to the site. Eliminates the need for scaffolding and our solution allows us to use the elevator shaft for people transport, eliminating the need for an exterior hoist. Risks TreatedKey risks mitigated by the FullStack Modular include:Bodily Injury (own, others)1Weather5Property Damage   (resultant damage, own, others)2Warranty6Defects  (design, workmanship)3Loss in Productivity (construction)4Aon’s Commercial Risk SolutionsGlobal Construction &  Infrastructure GroupCompany ProfileMegaSecur  940A Pierre-Roux East Blvd,Victoriaville (QC) G6T 2H6President & Founder: Daniel Dery Category:Public Safety/First Response in Security Environment; Product ManufacturingWebsites:www.megasecur.comwww.water-gate.com Locations:GlobalThe MegaSecur Water-Gate Barrier allows for the rapid, reliable and safe deployment of a water containment barrier that can be used in emergency situations. The concept of the Water-Gate is simple: it’s the weight of the water that stops the water. Its simple and unique design makes it possible for the FM certified polymer canvas to collect excess water, while instantaneously stabilizing the barrier to protect against water related emergencies. The Water-Gate Barrier can be used for short or long durations of time without impacting its efficiency and durability, as it is resistant to corrosion and toxic materials.Aon’s Commercial Risk SolutionsGlobal Construction &  Infrastructure GroupHow this technology prevents and mitigates flood and water damage risk The MegaSecur Water-Gate barrier is a turnkey solution that was designed to provide a rapid, reliable and safe solution in an emergency situation. Built for flooding, cofferdams, spill, fire water reservoirs and submerged areas, the Water-Gate water barrier is made out of a polymer canvas that automatically expands open as it collects excess water.Product DescriptionAon Flood & Water Resilience Technology ProfileBudget The Water-Gate Barrier eliminates the need to use and dispose of hazardous sandbags, which are expensive to get rid of and can have a negative effect on the environment.The Water-Gate Barrier is made from materials that are FM certified, flexible, durable and environmentally friendly.MegaSecur allows for the safe and rapid deployment of water containment barriers. Its simple, unique design collects excess water, while instantaneously stabilizing the barrier.Risks TreatedKey risks impacted by MegaSecur include:Property Damage (resultant damage, own, others)1Weather5Bodily Injury  (own, other)2Loss in Productivity (construction, operations)4SafetySchedule & Cost Overrun3Quality Aon’s Commercial Risk SolutionsGlobal Construction & Infrastructure GroupHow this technology prevents and mitigates flood and water damage risk The Tiger Dam™ system is a specifically placed flood containment system that enables the control of large volumes of flood water. To avoid business interruption and mass flooding, the Tiger Dam™ system was designed to act as a temporary emergency rapid deployment system that consists of elongated flexible tubes that can be virtually any length and take any shape.Aon Flood & Water Resilience Technology ProfileTiger Dam #300, 530 8th Ave SW  Calgary, AlbertaCEO and President Paul Vickers CategoryFlood Mitigation, Oil Spill Containment, Wildfire Applications, Emergency ResponseWebsitewww.canadafloodcontrol.comLocationGlobalCompany ProfileProduct DescriptionThe Tiger Dam System is a rapid deployable and re-usable containment bladder that is used in overland and flash flooding, oil spill containment and wildfire applications. Tiger Dam alleviates the need to use and dispose of hazardous sandbags, which are dangerous to the environment and expensive to get rid of. When deployed properly, the Tiger Dam System may divert up to 100% of floodwaters. Having your community or business equipped with a certified and engineered Tiger Dam for their next emergency is key, as it’s not a matter of if, but when.QualityTiger Dams are designed to take any shape and are the only engineered system that can be joined from sections into dams hundreds of miles long.SafetyTiger Dam is FM approved with a platinum level certification  (top level) for flood abatement.BudgetTiger Dams are 1/5 the overall cost of sandbags on their first use. Each dam replaces 500 sandbags.Risks TreatedKey risks mitigated by the Tiger Dam System include:Property Damage(resultant damage, own, others)1Loss in Productivity(construction, operations)4Bodily Injury(own, others)2Weather5Schedule & Cost Overrun3Product DescriptionPontarolo Engineering®, with its patented Cupolex structural void space technologies and applications, converts risk-driving impervious spaces into resilient assets. By manipulating the geometry of concrete through Cupolex’s form-based approach, Pontarolo Engineering’s design and engineering approach brings a unique set of additional performance functions to any construction project with limitless applications. Next to cost-benefits for our clients, Cupolex projects bring a set of ecological, social and municipal benefits by integrating risk-reducing functions, such as storm water capture and management, structural soil cells for flood mitigation and green infrastructure to combat urban heat.Pontarolo Engineering Inc. 55 Administration Rd.  Concord, ON Canada L4k 4G9CEO/Founder William J. Cannizzaro CategoryEngineering SolutionsWebsitewww.cupolex.comLocationGlobalCompany ProfileUrban ResiliencePontarolo Engineering converts impervious spaces into resilient assets. From parking lots to plazas, sidewalks to highways, Pontarolo gives these spaces additional resilient performance qualities.Resilient InfrastructurePontarolo Engineering reduces risk of transportation assets (LRT, airports and BRT, bike lanes), by integrating Cupolex in lines, streets, parking areas and sidewalks.Sustainable ConstructionCupolex structural void space construction solutions bring significant cost savings by using less concrete, gravel and aggregates, reduces GHGs emissions and increase implementation times.Risks TreatedKey risks mitigated by Pontarolo’s Cupolex solutions include:Property Damage(resultant damage, own, others)1Schedule & Cost Overrun4Loss in Productivity(construction, operations)2Brand Impact5Weather3Aon’s Commercial Risk SolutionsGlobal Construction &  Infrastructure GroupHow this technology prevents and mitigates flood and water damage risk Pontarolo’s Cupolex solution bring projects a set of ecological, social and municipal benefits by integrating risk-reducing functions, such as storm water capture and management, structural soil cells for flood mitigation and green infrastructure to combat urban heat.Aon Flood & Water Resilience Technology ProfileReferences
+
+i  
+
+ii  
+
+Parliamentary Budget Officer of  Canada. 2016. Estimate of  
+the Average Annual Cost for Disaster Financial Assistance 
+Arrangements due to Weather Events. Accessed at: www.
+pbo-dpb.gc.ca/web/default/files/Documents/Reports/2016/
+DFAA/DFAA_EN.pdf
+
+Insurance Bureau of  Canada. 2019. Facts of  the Property and 
+Casualty Insurance Industry in Canada. Accessed at: http://
+assets.ibc.ca/Documents/Facts%20Book/Facts_Book/2019/
+IBC-2019-Facts.pdf
+
+iii   Government of  Alberta. 2013. Economic Commentary: 
+
+Impact of  Southern Alberta Flooding on Hours Worked and 
+GDP. Accessed at: https://www.albertacanada.com/files/
+albertacanada/SP-Commentary_09-06-13.pdf  
+
+iv   CBC. 2018. Police Rescue Two Men from Water-filled Elevator 
+
+during Toronto Flooding. Accessed at: www.cbc.ca/news/
+canada/toronto/heavy-showers-1.4777111; Global News. 
+2018. Men Trapped in Toronto Elevator During Flash Flood 
+‘Prayed,’ Vowed to Get Out ‘No Matter What’. Accessed at: 
+https://globalnews.ca/news/4375978/toronto-flooding-rescue-
+elevator/ 
+
+v   Office of  the Auditor General of  Canada. 2017. 
+
+Report 2—Adapting to the Impacts of  Climate Change. 
+Accessed at: www.oag-bvg.gc.ca/internet/English/parl_
+cesd_201710_02_e_42490.html 
+
+vi   Parliamentary Budget Officer of  Canada. 2016. Estimate of  
+
+the Average Annual Cost for Disaster Financial Assistance 
+Arrangements due to Weather Events. Accessed at: www.
+pbo-dpb.gc.ca/web/default/files/Documents/Reports/2016/
+DFAA/DFAA_EN.pdf
+
+vii  
+
+Insurance Bureau of  Canada. 2019. Facts of  the Property and 
+Casualty Insurance Industry in Canada. Accessed at: http://
+assets.ibc.ca/Documents/Facts%20Book/Facts_Book/2019/
+IBC-2019-Facts.pdf
+
+viii   Canadian Underwriter. 2019. Two Weird Things about  
+
+the 2018 Catastrophe Season. Accessed at:  
+www.canadianunderwriter.ca/catastrophes/why-2018-was-
+unusual-from-a-cat-perspective-1004159387/ 
+
+ix   Government of  Alberta. 2013. Economic Commentary: 
+
+Impact of  Southern Alberta Flooding on Hours Worked and 
+GDP. Accessed at: https://www.albertacanada.com/files/
+albertacanada/SP-Commentary_09-06-13.pdf  
+
+x  
+
+Insurance Bureau Canada. 2018. Toronto Flood Causes over 
+$80 Million in Insured Damage. Accessed at: http://www.ibc.
+ca/on/resources/media-centre/media-releases/toronto-flood-
+causes-over-80-million-in-insured-damage 
+
+xi   CBC. 2018. Police Rescue Two Men from Water-filled Elevator 
+
+during Toronto Flooding. Accessed at: www.cbc.ca/news/
+canada/toronto/heavy-showers-1.4777111; Global News. 
+2018. Men Trapped in Toronto Elevator During Flash Flood 
+‘Prayed,’ Vowed to Get Out ‘No Matter What’. Accessed at: 
+https://globalnews.ca/news/4375978/toronto-flooding-rescue-
+elevator/ 
+
+xii    BOMA Canada. 2019 Resilience Brief. Accessed at:  
+http://bomacanada.ca/resources/resilience-brief/ 
+
+xiii    The Office of  the Superintendent of  Financial Institutions. 
+2019 The OSFI Pillar. Accessed at: www.osfi-bsif.gc.ca/Eng/
+Docs/pl201902.pdf  
+
+xiv    Ibid.
+
+xv   Urban Resilience Program. 2014. What the Real Estate Industry 
+
+Needs to Know about the Insurance Industry and Climate 
+Change. Accessed at: http://uli.org/wp-content/uploads/ULI-
+Documents/Insurance-White-Paper-FINAL.pdf  
+
+xvi    Meckbach, G. 2017. The Curious Case of  Who Pays 
+for a Building Flood Claim. Accessed at: https://www.
+canadianunderwriter.ca/insurance/curious-case-pays-building-
+flood-claim-1004124542/ 
+
+xvi    Moody’s Investors Service. 2017. Environmental Risks – 
+Evaluating the Impact of  Climate Change. Accessed at: 
+www.southeastfloridaclimatecompact.org/wp-content/
+uploads/2017/12/Evaluating-the-impact-of-climate-change-on-
+US-state-and-local-issuers-11-28-17.pdf   
+Standards & Poor’s Ratings Services. 2015. How Environmental 
+and Climate Risks Factor into Global Corporate Ratings. 
+Accessed at: www.environmental-finance.com/assets/files/
+How%20Environmental%20And%20Climate%20Risks%20
+Factor%20Into%20Global%20Corporate%20Ratings%20
+Oct%2021%202015%20(2).pdf  
+
+xvii    Moody’s Investors Service. 2017. Environmental Risks – 
+Evaluating the Impact of  Climate Change. Accessed at: 
+www.southeastfloridaclimatecompact.org/wp-content/
+uploads/2017/12/Evaluating-the-impact-of-climate-change-on-
+US-state-and-local-issuers-11-28-17.pdf  
+
+xix  
+
+Ibid.
+
+xx    Financial Stability Board. Task Force on Climate-related 
+
+Financial Disclosures. Accessed at: www.fsb-tcfd.org/about/ 
+
+46
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estatexxxv    Terry Brennan and Gene Cole. Camroden Associates.  
+Prepared for the U.S. Environmental Protection Agency 
+(EPA): https://www.epa.gov/sites/production/files/2014-08/
+documents/flood-related_cleaning_report.pdf  
+
+xxxvi   Science Struck. Different Types of  Elevators. Accessed at: 
+
+https://sciencestruck.com/different-types-of-elevators 
+
+xxxvii   Ibid
+
+xxxviii   Ibid
+
+xxxix   Urban Land Institute and Heitman. 2019. Climate Risk 
+
+and Real Estate Investment Decision-Making. Accessed at: 
+https://www.heitman.com/news/climate-risk-and-real-estate-
+investment-decision-making/
+
+xl   
+
+Ibid
+
+xli  Moudrak, M. and Feltmate, B. 2016. Climate Change 
+
+and the Preparedness of  Canadian Provinces and Yukon 
+to Limit Potential Flood Damage. Accessed at: https://
+www.intactcentreclimateadaptation.ca/wp-content/
+uploads/2016/10/Intact-Centre-Climate-Change-and-the-
+Preparedness-of-Canadian-Provinces-and-Yukon-Oct-2016.pdf  
+
+xlii    The Washington Suburban Sanitary Commission. 2018. 
+Acoustic Fiber Optic Monitoring System. Accessed at:  
+https://www.wsscwater.com/afo 
+
+xliii    Urban Land Institute. 2016. Returns on Resilience: The 
+Business Case. Accessed at: http://americas.uli.org/wp-
+content/uploads/sites/125/ULI-Documents/Returns-on-
+Resilience-The-Business-Case.pdf  
+
+xxi    Chris Pyke. GRESB. Resilience & Real Assets: Special 
+
+Report. Accessed at: gresb-public.s3.amazonaws.com/2018/
+Documents/Resilience_Report.pdf  
+
+xxii    Canadian Securities Administrators. 2010. CSA Staff Notice 
+
+51-333, Environmental Reporting Guidance. Accessed at: 
+www.osc.gov.on.ca/documents/en/Securities-Category5/
+csa_20101027_51-333_environmental-reporting.pdf  
+
+xxiii    Canadian Securities Administrators. 2018. CSA Staff Notice 
+
+51-354: Report on Climate Change-Related Disclosure 
+Project. Accessed at: www.osc.gov.on.ca/en/SecuritiesLaw_
+csa_20180405_51-354_disclosure-project.htm 
+
+xxiv    Government of  Canada. 2016. Canada’s Way Forward on 
+Climate Change: The Paris Agreement. Accessed at: www.
+climatechange.gc.ca/default.asp?lang=En&n=24700154-1
+
+xxv    Government of  Canada. 2017. Sendai Framework for Disaster 
+
+Risk Reduction (DRR) 2015–2030. Accessed at: www.
+publicsafety.gc.ca/cnt/mrgnc-mngmnt/dsstr-prvntn-mtgtn/
+pltfrm-dsstr-rsk-rdctn/snd-frmwrk-en.aspx 
+
+xxvi    Government of  Canada. 2019. Climate-Resilient Buildings 
+and Core Public Infrastructure Initiative. Accessed at: www.
+infrastructure.gc.ca/plan/crbcpi-irccipb-eng.html 
+
+xxivii   Ibid.
+
+xxviii   Ibid.
+
+xxix    CSA Group. Z800-18: Guideline on basement flood protection 
+
+and risk reduction. Accessed at: https://store.csagroup.org/
+ccrz__ProductDetails?sku=Z800-18 
+
+xxx    CSA Group. W204. Flood Resilient Design for New Residential 
+
+Communities. Accessed at: www.scc.ca/en/standards/
+notices-of-intent/csa/flood-resilient-design-for-new-residential-
+communities 
+
+xxxi    BOMA Canada. 2019. Resilience Brief. Accessed at: http://
+
+bomacanada.ca/resources/resilience-brief/
+
+xxxii   Urban Land Institute. 2015. A Guide for Assessing Climate 
+
+Change Risk. Accessed at: https://uli.org/wp-content/uploads/
+ULI-Documents/ULI-A-Guide-for-Assessesing-Climate-
+Change-Risk-final.pdf
+
+xxxiii   SITES. Accessed at: http://www.sustainablesites.org/
+
+xxxiv   The Rick Hansen Foundation Accessibility Certification. 
+
+Accessed at: www.rickhansen.com/become-accessible/rating-
+certification 
+
+47
+
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real EstateFor further information about the report, please contact:
+Natalia Moudrak
+Intact Centre on Climate Adaptation
+Faculty of  Environment, University of  Waterloo
+EV3 4334 – 200 University Avenue West
+Waterloo, ON, Canada  N2L 3G1
+nmoudrak@uwaterloo.ca
+
+

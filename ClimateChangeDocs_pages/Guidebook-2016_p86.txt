@@ -1,0 +1,41 @@
+SYNTHETIC SCENARIO
+
+Table 8 |  List of nine what-if (synthetic) scenarios constructed to simulate changes in discharge along the Rivières-des- 
+Prairies, on the North shore of Montreal. Q2 and Q100 represent total annual discharges with a return period  
+ 
+ 
+of 2 years and 100 years, respectively. 
+Source: Adapted from Thomas et al. 201254
+ 
+
+SCENARIO
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+PROJECTED CHANGE IN DISCHARGE
+Q2 years
+Q2 years +234 m3/s
+Q2 years +468 m3/s
+Q2 years +702 m3/s
+Q100 years + 468 m3/s
+Q100 years
+Q100 years + 1000 m3/s
+Q100 years + 1500 m3/s
+Q100 years + 2000 m3/s
+
+Figure 28 |  Extent of flood zone as simulated by synthetic scenario 9, presented in Table 8 (QT100 + 2000m3/s).  
+ 
+
+Source: Thomas et al. 201254
+
+71  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

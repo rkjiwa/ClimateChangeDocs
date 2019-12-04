@@ -1,0 +1,109 @@
+What climate information is presented and how 
+should it be interpreted?
+The  figure  presents  spatial  analogues  for  the 
+greater  Toronto  area  (GTA)  for  the  2080  time 
+horizon (2071-2100). On the top panel, the green 
+illustrate  regions  where  the  reference 
+areas 
+climate  (1971-2000)resembles  what  the  climate 
+of  the  GTA  is  projected  to  be  in  2080.  On  the 
+bottom  panel,  the  green  areas  represent  areas 
+where  the  reference  climate  of  Toronto  may  be 
+found in 2080.
+
+The top panel indicates that the area where recent 
+past (1971-2000) temperatures and precipitation 
+resemble the most what the greater Toronto area 
+may look like in 2080 is fairly large and includes 
+cities 
+like  Detroit,  Cleveland,  Chicago,  and 
+Pittsburgh. New York and Philadelphia also exhibit 
+a high level of similarity in the simulations.
+
+As  for  the  2080  location  of  Toronto’s  current 
+temperature  and  precipitation  distributions 
+(bottom  panel),  the  highest  similarities  are 
+obtained  along  a  transect  that  cuts  through  an 
+area  south  of  Lake  Superior  and  North  of  Lake 
+Huron, encompassing the cities of Sault Ste-Marie 
+and  Sudbury.  The  analogue  region  extends  past 
+Timmins in the North.
+
+One  of  the  interesting  uses  of  this  information 
+is  to  identify  analogue  regions  in  terms  of  their 
+current ability to adapt to the climate. This allows 
+an  evaluation  of  whether  the  region  of  interest 
+can  take  advantage  of  some  of  the  practices 
+developed  in  the  analogue  region  to  adapt  to 
+climate change.
+
+techniques 
+
+How is the figure constructed?
+Analogue 
+involve  a  comparison 
+between  the  anticipated  future  climate  of  a 
+region  of 
+interest  with  historical  climate  of 
+other regions47. The comparison is based on the 
+similarity  between  the  distributions  of  climate 
+variables  between  the  reference  and  future 
+horizons (1971-2000 and 2071-2100 in this case). 
+The  similarity  indices  can  be  calculated  using 
+various metrics (e.g.48-51).
+
+theory, 
+
+In 
+this  method  of  climate  data 
+communication allows for any number of variables 
+to be considered in the comparison. For example, 
+one  could  simply  want  to  find  a  temperature 
+analogue for a given city, while another user may 
+
+instead be interested in finding an analogue for the 
+same region that takes into account temperature, 
+precipitation, and growing degree-days.
+
+In  this  particular  case,  the  analogues  for  the 
+future climate around Toronto in 2071-2100 are 
+based on two climate indices, namely total annual 
+precipitation and annual temperature. To simplify 
+the interpretation, the median distance values for 
+136  CMIP3  simulations  were  divided  into  three 
+levels of similarity, plotted using a colour gradient. 
+The «high» level of similarity represents the first 
+10% of the median distance values, the «medium» 
+level  represents  the  10  to  20%,  and  the  «low» 
+level  represents  the  next  20  to  30%  of  values. 
+Values  with  a  smaller  similarity  index  (greater 
+than 30%) were not considered as analogues and 
+are therefore not shown on the map.
+ 
+What are the limitations/caveats/possible ways 
+to misinterpret the information?
+A noteworthy drawback of this technique is that 
+it  can  be  difficult  to  find  analogues  that  share 
+the  same  characteristics  for  a  large  number  of 
+climate variables. In fact, analogues often capture 
+only  a  few  key  aspects  of  the  climate  because 
+they are based on a few climate indices, not the 
+whole thing. For example, in this case, New York 
+shows  a  high  level  of  similitude  with  Toronto. 
+However, New York, being a much more coastal 
+city compared to Toronto, will experience climate 
+events that are vastly different from what Toronto 
+will  ever  experience.  Consequently,  the  choice 
+of the climate variables of interest will influence 
+the  results.  In  addition,  analyses  that  includes 
+analogues  often  rely  on  the  hypothesis  that 
+regions with similarities in certain aspects could 
+also  share  similarities  in  other  aspects  (such  as 
+soil  type,  topography,  vegetation)52,  which  may 
+not always be the case. Caution must therefore be 
+exercised when comparing a given region with its 
+analogues.
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  54
+
+

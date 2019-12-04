@@ -1,0 +1,66 @@
+ 
+
+ 
+
+The  IPCC (2007b)  defines  uncertainty  as  an  “expression  of the  degree to  which  a  value…is  unknown.  Uncertainty  can result from 
+lack  of  information  or  from  disagreement  about  what  is  known  or  even  knowable.  It  may  have  many  types  of  sources,  from 
+quantifiable errors in data to ambiguously defined concepts or terminology, or uncertain projections of human behaviour.”  
+
+Uncertainty  can  thus  be  described  by  quantitative  measures  (e.g.,  a  range  of  values  calculated  by  various  models)  and/or  by 
+qualitative  statements  (e.g.,  reflecting  the  judgement  of  a  team  of  experts).  Regardless  of  the  method  used,  it  is  essential  that 
+practitioners consistently communicate uncertainty across vulnerability assessments completed for the study.  
+
+Depending on the level of detail in the assessment and the capacity of the team, qualitative descriptions of uncertainty are likely the 
+most  applicable  here.  Qualitative  descriptions  communicate  the  relative  amount  and  quality  of  the  evidence  (i.e.,  “lacking,”  “not 
+reported,” “not available,” “good quality,” “anecdotal,” and “expert opinion”) and the degree of agreement (Table 1) with other results 
+in  the  literature  (i.e.,  “high  agreement  –  much  evidence,”  and  “high  agreement  –  medium  evidence”)  (IPCC,  2007b).  Avoid  vague 
+and/or overly broad statements that are difficult to support or refute.  
+
+ 
+
+Level of 
+Agreement 
+
+ 
+
+High Agreement, limited evidence  
+
+High agreement, medium evidence 
+
+High agreement, much evidence 
+
+Medium agreement, limited 
+evidence  
+
+Medium agreement, medium evidence 
+
+Medium agreement, much evidence 
+
+Low agreement, limited evidence  
+
+Low agreement, medium evidence 
+
+Low agreement, much evidence 
+
+Amount of evidence (number and quality of independent sources) 
+
+Table 1. Qualitative terminology for uncertainty (Source: adapted from IPCC, 2007b). 
+
+Several quantitative techniques are available to describe and communicate uncertainty. Wherever possible, experts should seek to 
+describe results in terms of likelihood of occurrence and degree of confidence in being correct. The IPCC’s report (2007b) provides a 
+comprehensive discussion of language for describing uncertainty and levels of confidence in climate change assessments, including 
+quantitative terminology.  
+
+ 
+
+ 
+
+ 
+
+A PRACTITIONER’S GUIDE TO CLIMATE CHANGE ADAPTATION IN ONTARIO’S ECOSYSTEMS (VERSION 1.0) 
+
+   43 
+
+ 
+
+

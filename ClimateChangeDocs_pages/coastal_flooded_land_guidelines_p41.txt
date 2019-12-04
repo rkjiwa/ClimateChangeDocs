@@ -1,0 +1,35 @@
+ 
+
+Figure B3: Coastal Flood Hazard – Adaptation for Climate Change 
+
+ 
+Sea Level Rise will gradually raise both the mean sea level (MSL) and the tidal levels along 
+the BC Coast. Both MSL and tidal levels will rise in approximately equal amounts in response 
+to SLR. For example, if the MSL rises 1.0m, all tide levels, including High Tide, also will rise 
+by  1.0m.    Over  time  this  will  mean  that  MSL  is  no  longer  approximately  the  same  as  the 
+terrestrial  vertical  datum  plane (CGD), unless  the  terrestrial  datum  plane  is  adjusted  at  the 
+same rate. 
+As sea level rises, the storms that occur will leave a mark on the slowly changing shoreline.  
+In particular the ‘Designated Storm’ will define; in conjunction with the local coastal exposure, 
+the nearshore bathymetry, shoreline orientation and topography, a Total Storm Surge and an 
+additional wave related runup (Wave Effects). The combination of antecedent storms and the 
+Designated  Storm  will  move  the  existing  Natural  Boundary  landward  to  a  new  Natural 
+Boundary location at the top of the wave affected zone. At any given time in the future, the 
+actual mark of this tide, storm and wave action will reflect the latest storm events, which may 
+or may not be “ordinary” and the response of the particular stretch of shoreline. 
+It is recommended that a combination of the ‘Designated Flood Level’ and an estimate of the 
+expected shoreline response be used to establish the future Estimated Natural Boundary for 
+planning  purposes,  as  this  is  a  more  predictable  and  practical  tool  than  relying  on  future 
+vegetation  or  soil  response  interpretations,  in  particular  when  SLR  changes  may  be  faster 
+than  the  new  shoreline  sediment  or  vegetation  responds.    It  is  also  not  clear  that  at  any 
+particular time the mark on the shoreline will reflect an “ordinary” year. The elevation of this 
+Estimated Natural Boundary location is defined as the Flood Construction Reference Plane 
+(FCRP). 
+To  calculate  the  FCL  a  Freeboard  allowance  is  added  above  the  Flood  Construction 
+Reference  Plane  (FCRP)  to  allow  for  uncertainty.  This  Freeboard  allowance  may  include 
+
+Appendix B 
+
+4 
+
+

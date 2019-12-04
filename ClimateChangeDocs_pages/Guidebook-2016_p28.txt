@@ -1,0 +1,30 @@
+The  definition  of  the  ‘past  period’  for  which 
+observed GHG emissions are available and used to 
+drive climate models is updated with each new IPCC 
+assessment. For the most recent, Fifth Assessment 
+Report, observations of GHG were used until 2005, 
+after which emissions scenarios were used as inputs 
+(see black vertical lines on Figure 5, Figure 6). Given 
+that the IPCC report was published in 2013, one 
+could question why the observations, which are 
+
+available until the present day, stop being used in 
+2005?  The decision on the last ‘past’ year is made 
+by the climate community and reflects the time 
+needed for climate scientists to produce climate 
+simulations, publish their results in peer-reviewed 
+scientific literature, and to write the chapters of the 
+IPCC report. These processes are all time consuming 
+endeavors and simply cannot be accomplished in 
+one year. 
+
+Figure 6 |  Timeline for the use of observed (pre-2005) and simulated CO2 (post 2005) concentrations in climate simulation  
+ 
+ 
+
+production available in the CMIP5 ensemble. 
+Source: T. Logan (Ouranos) 
+
+13  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

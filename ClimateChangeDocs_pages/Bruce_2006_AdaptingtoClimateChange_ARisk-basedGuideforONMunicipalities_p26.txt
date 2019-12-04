@@ -1,0 +1,162 @@
+ 
+
+•  Risk information library updated. 
+Decision 
+•  End if there are no feasible adaptation 
+
+options. 
+
+•  Go back if: 
+
+(cid:131)  Adequate data are not available for 
+evaluating the cost-effectiveness of 
+potential risk controls. 
+
+(cid:131)  Key stakeholders have not been 
+
+consulted. 
+
+(cid:131)  Assumptions and uncertainties 
+
+associated with estimates are not 
+acceptable to stakeholders, or 
+
+(cid:131)  New risks will be introduced if the 
+
+proposed control options are 
+implemented. 
+
+•  Proceed to the Next Step if: 
+
+(cid:131)  Feasible adaptation or risk control 
+
+options are defined and can be 
+implemented. 
+
+(cid:131)  Proposed actions are feasible from a 
+
+cost and effectiveness perspective and 
+are acceptable to stakeholders, and 
+
+(cid:131)  Residual risks are acceptable to 
+
+stakeholders. 
+
+Checklist 
+Adaptation and risk control 
+Have you: 
+ 
+
+1. 
+
+Identified and evaluated feasible adaptation 
+or risk control options, in terms of costs, 
+effectiveness, stakeholder acceptance and 
+other criteria? 
+
+2.  Selected the complement of adaptation or 
+risk control options that best reduce risks to 
+acceptable levels? 
+
+3.  Determined the costs and benefits of the risk 
+control measures, and a means for financing 
+them? 
+
+4.  Assessed and addressed any outstanding 
+
+stakeholder concerns? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.  Developed a risk communication plan for the 
+
+proposed adaptation or risk control 
+measures and for the residual risks? 
+
+6.  Ensured that the risk information library is 
+
+updated? 
+
+ 
+Example  
+(This example was developed based on a health 
+risk related to worsening urban smog.) 
+
+ 
+
+23
+
+The risk management team concluded that the 
+health risks are unacceptable from the combined 
+effects of warmer summers, especially night-
+time temperatures that are rising more rapidly 
+than day-time highs, thus providing little relief to 
+sufferers in heat waves and increasingly 
+frequent smog events.  
+The team identified many feasible adaptation 
+measures or risk control options that could be 
+implemented in the near-term and over the 
+longer-term. The team evaluated the options 
+and recommended the following portfolio of 
+controls for implementation: 
+Immediate: 
+•  Policy measures (e.g. incentives to promote 
+
+public transit and reduce vehicle use) and 
+operational changes (e.g. cancel non-
+essential municipal operations) to help 
+reduce the severity of smog events;   
+
+•  Public education and outreach to ensure 
+
+that vulnerable populations are informed of 
+the health risks and appropriate responses; 
+and 
+
+•  Ensure that hospitals and clinics are 
+
+equipped to cope with large admission 
+events.   
+
+•  Business continuity plans for key municipal 
+
+organizations are important adaptation 
+measures in this situation. 
+
+Over a longer period: 
+•  Plan new land uses and developments to 
+promote the “compact urban form” and the 
+use of public transit;  
+
+•  Retrofit programs for public transportation 
+
+systems; 
+
+•  Develop short-term emission limitation 
+
+actions; and  
+
+•  Advocate for stronger responses to urban air 
+pollution and greenhouse gas emissions by 
+higher levels of government and 
+international agreements. 
+
+The team concluded that these responses 
+balanced the need to reduce the frequency or 
+severity of the events, but also to limit the health 
+effects from events that do occur.  The near-
+term measures were determined to be low-cost, 
+voluntary and publicly acceptable measures that 
+will result in an immediate reduction in health 
+impacts and health care costs.  The land-use 
+and development planning recommendation is in 
+
+

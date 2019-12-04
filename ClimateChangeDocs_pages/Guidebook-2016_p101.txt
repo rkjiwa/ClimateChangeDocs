@@ -1,0 +1,56 @@
+Mitigation: Technological change or substitution that reduces greenhouse gas sources and emissions and 
+that enhance sinks of GHG.
+
+Natural variability: Component of the overall uncertainty that stems from the inherent unpredictability and 
+apparent randomness of the climate. It is characterized by monitoring observations and can be studied by 
+the initial conditions of an ensemble.
+
+No regret (adaptation) option: Adaptation measure that would be the most justified under all plausible 
+future scenarios.
+
+Normals: See Climate normals
+
+Polygon: See Grid
+
+Radiative forcing: The change in the net, downward minus upward, irradiance (expressed in Watts per square 
+metre) at the tropopause due to a change in an external driver of climate change; for example, a change in 
+the concentration of carbon dioxide or the output from the Sun.
+
+Range: The term range is used to represent the spectrum of output data from an ensemble of simulations 
+or scenarios.
+
+Representative Concentration Pathway (RCP): Scenarios that include time series of emissions and concen-
+trations of the full suite of greenhouse gases and aerosols as well as chemically active gases, and land use. 
+The word representative signifies that each RCP provides only one of many possible scenarios that would 
+lead to the specific radiative forcing characteristics. Four RCPs were selected as the basis for the climate pro-
+jections used in the Fifth Assessment Report published by the IPCC. 
+
+Reanalysis: Reanalyses are estimates of historical atmospheric and oceanic temperatures, wind, current, and 
+other meteorological and oceanographic quantities, created by processing past meteorological and oceano-
+graphic data using fixed state-of-the-art weather forecasting models and data assimilation techniques. They 
+allow the analysis of numerous climatic variables and are also used to validate RCMs and GCMs in the current 
+climate and to drive RCM simulations.
+
+Reference period: In practice, it often refers to a period of time from the recent past used in the produc-
+tion of climate scenarios. Future period values produced by climate models are compared with those from 
+this  period  to  evaluate  changes.  The  WMO  recommends  30-year  intervals  as  reference  periods,  such  as 
+1971-2000; however there are exceptions. For example, the current reference period used by the IPCC is 
+1985-2005. A synonymous term is baseline period. Accordingly, the terms ‘reference scenario’ or ‘baseline 
+scenario’ are used to refer to climate scenarios for a reference period.
+
+Regional Climate Model (RCM): Just like a GCM, the regional climate model is a mathematical representa-
+tion of the climate system, based on equations describing the physical processes governing the climate. This 
+includes processes and characteristics of the atmosphere, lithosphere, hydrosphere, cryosphere, and bios-
+phere. RCMs have a finer resolution than (GCMs). RCMs are typically ‘limited domain’ models meaning that 
+they cover only a portion of the globe.
+
+Resilience: The ability of a social or ecological system to absorb disturbances while retaining the same basic 
+structure and functions, and the capacity to recover from an impact that may have caused harm.
+
+Resolution: In climate models, this term refers to the physical distance (metres or degrees) between each 
+point on the grid used to compute the equations. Temporal resolution refers to the time step or time elapsed 
+between each model computation of the equations. See Grid
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  86
+
+

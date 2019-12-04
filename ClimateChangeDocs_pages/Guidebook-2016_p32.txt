@@ -1,0 +1,93 @@
+1.6.1 COUPLED MODEL INTERCOMPARAISON PROJECT (CMIP)
+As  discussed  above, 
+there  are  numerous 
+climate  modeling  centers  around  the  world, 
+each  developing  their  own  climate  model  and 
+there  are  currently  four  plausible  emissions 
+scenarios  to  consider  when  producing  climate 
+simulations.  Obtaining  such  a  simulation,  i.e. 
+running one model with one RCP for example, is 
+computationally intensive and even with today’s 
+high  performance  super  computers,  it  can  take 
+up to several months to run a global model over 
+the  entire  globe  for  a  meaningful  simulation 
+period, say 1850 to 2100. Consequently, it would 
+be impractical, if not impossible, for each climate 
+modeling center to run all available models with 
+all available RCPs. Therefore, to obtain a common 
+frame  of  simulations  and  the  largest  possible 
+ensemble,  the  modeling  centers  have  agreed  to 
+run their own models with the different RCPs and 
+to make the resulting simulations available to the 
+rest of the climate community. This collaboration 
+is  done  through  an  initiative  called  the  Coupled 
+Model Intercomparison Project (CMIP). Through a 
+web interface, it is possible to download different 
+simulations from different modeling centers that 
+are part of this project in order to obtain a large 
+ensemble  of  simulations.  The  CMIP  ensemble 
+forms  the  backbone  of  the  results  presented  in 
+the IPCC reports.
+
+As models and emissions scenarios are updated, 
+so  is  the  collection  of  simulations,  also  known 
+as the ensemble, made available through CMIP. 
+Currently, the scientific community is using the fifth 
+ensemble, called CMIP5. This newest generation of 
+participating models are run using the RCPs whereas 
+simulations  made  available  from  the  previous 
+CMIP3 used the SRES scenarios. CMIP5 simulations 
+
+CMIP5 vs CMIP3
+
+are generally executed at a higher spatial resolution 
+and the models typically have a more complete 
+representation  of  physical  parameterizations 
+(particularly of biophysical processes such as the 
+carbon-cycle) than their predecessors. It is generally 
+expected that the new generation of models will 
+provide a better representation of the climate; 
+however, not all models have evolved equally24. It 
+is worth mentioning that this development process 
+is always on-going. Climate centers are currently 
+developing a CMIP6 ensemble, which will be the 
+basis of the next IPCC report.
+
+Comparisons of projected future outputs between 
+the  two  generations  of  simulations  are  not 
+straightforward because the two ensembles used 
+two different sets of GHG scenarios. Nonetheless, 
+recent studies have shown that comparisons of 
+model means of temperature and precipitation 
+change  are  similar  in  CMIP3  and  CMIP5  for 
+climate projections with similar forcing25. Yet, the 
+CMIP5 ensemble compares more favourably with 
+observations for past climate simulations (23,26–28). 
+These  conclusions  should  reassure  users  that 
+climate information provided using CMIP3 models 
+remains valid and robust even if there is now a 
+gradual shift towards use of CMIP5 model results. 
+The conclusions also support the argument that an 
+ensemble of models should be used when making 
+decisions, as it has been shown that any single 
+model chosen from the ensemble scores lower than 
+the entire ensemble when multiple variables are 
+validated against observations29. In other words, 
+the mean of the simulation ensemble for the past 
+climate is generally closer to the observed values 
+than any given individual simulation. 
+
+It is generally believed that recent climate model simulations are likely to be more reliable than those 
+of an earlier generation of models (vintage). They are, after all, based on more recent knowledge and 
+incorporate more processes and feedbacks. However, the differences between the two vintages are 
+not always very distinct. Consequently, information provided with an older vintage remains valid when 
+a  new  vintage  is  produced.  Indeed,  impacts  studies  conducted  with  an  older  ensemble  should  not 
+be automatically disregarded when new simulations are made available. As such, the information in 
+this guide is often based on the newest generation of models (from the CMIP5 ensemble), but older 
+simulations (from the CMIP3 ensemble) are also presented in some cases. The focus of the guide is on 
+the interpretation of the climate information, and hence depends very little on the particular generation 
+of models or scenarios that were used. 
+
+17  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

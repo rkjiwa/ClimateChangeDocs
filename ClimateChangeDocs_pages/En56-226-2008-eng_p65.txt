@@ -1,0 +1,107 @@
+guidebook livia-rev-final:Layout 1  12/23/08  9:25 AM  Page 65
+
+APPENDIX 1
+
+objectives. This  type  of  analysis  begins  with  generating  a
+comprehensive list of options that could potentially address
+the defined problem. Influence diagrams or decision trees are
+then used to identify points where decisions would have to be
+made, and where chance occurrences would influence the
+direction of events. The likelihood of chance events is then
+evaluated, and the utility of different outcomes is calculated.
+A final step uses specific criteria to determine which set of
+options  has  the  greatest  potential  to  achieve  desired
+outcomes.
+
+Decision analysis has been applied to evaluate intersecting
+issues of adaptation, mitigation and sustainable development
+in the context of BC’s Gateway Programme. The method
+allows a complex and contentious set of issues and objectives
+to be structured in a way that can enhance understanding
+and communication to aid in the decision-making process
+(Wilson and McDaniels, 2007).
+
+Role of discounting in assessments 
+
+Discounting  is  a  method  used  in  economic  analyses  to
+compare the value of costs and benefits occurring at different
+points in time. To calculate the value today, of something that
+will exist in the future, a “discount rate” is used. A discount
+rate  expresses  the  degree  to  which  consumption  today  is
+preferred over consumption a year from now—the higher the
+discount  rate,  the  less  value  that  is  placed  on  that
+consumption  (or  good,  service,  cost,  benefit,  etc)  in  the
+future. Discounting is an important consideration because of
+our tendency to value a cost or benefit in the present more
+than  that  same  cost  or  benefit  in  the  future.  However,
+application in the context of climate change and sustainable
+development also begs consideration of preserving options
+for  future  generations,  which  would  imply  quite  a  low
+discount rate.
+
+A recent and controversial application of discounting was the
+United  Kingdom’s  “Stern  Review”  that  was  charged  with
+evaluating  the  cost  of  climate  change  adaptation  in
+comparison to the cost of inaction, globally. Considerable
+debate developed around the report’s conclusions, in part due
+to differing perspectives on whether the appropriate “social
+rate of time” discount rate had been applied. This type of
+discount compares the value of well-being today to well-being
+of future generations. Stern chose to use a very low discount
+rate that values well-being in the future as virtually equal to
+well-being today. While some defend this choice based on
+
+the imperatives of sustainable development, it is ultimately
+an ethical choice, not a technical choice. Hence, others begin
+from different ethical assumptions and conclude that a higher
+discount  rate  would  produce  more  appropriate  results
+(Varian, 2006).
+
+Downscaling techniques 
+
+Downscaling is the process of deriving local or regional scale
+climate information from models or data at a larger scale. In
+effect, the larger climate is used as a predictor of the local
+climate. There are two main types of downscaling techniques:
+dynamical and statistical. Dynamical downscaling uses the
+inputs  of  Global  Climate  Models  (GCMs)  in  order  to
+develop  Regional  Climate  Models  (RCMs).  Statistical
+downscaling  combines  large-scale  climate  variables  with
+locally  observed  variables  (often  from  a  specific  weather
+station) to produce a statistical model that is then used to
+project  future  changes  at  a  local  scale.  An  advantage  of
+statistical  downscaling  is  that  it  is  less  computationally
+demanding than dynamical downscaling, although it still
+requires a large amount of data to develop the model (Barrow
+et al, 2004; CCSN, 2007). 
+
+There are a variety of techniques that can be applied, as well
+as software that can assist in translating large-scale data to a
+local  scale.  The  Canadian  Climate  Change  Scenarios
+Network provides further information and software tools on
+their  website  (http://www.cccsn.ca).  This  method 
+is
+increasingly being applied in order to develop smaller-scale
+scenarios  that  can  aid  in  developing  climate  change
+adaptation policies at a local or regional scale. 
+
+Using expert judgments
+
+Expert judgments are evaluations performed by people who
+have a particular expertise relating to the question at hand.
+The  judgments  can  be  of  at  least  two  types,  and  are
+commonly a bit of both: that is, they may be issues of factual
+judgment (something that can be proven right or wrong) or
+of value judgment (expressing an opinion) that derives from
+expert  knowledge  of  the  issue  being  evaluated. This  is  a
+routine part of creating policy-relevant evaluations.
+
+Often  expert  judgment  is  done  informally,  although  it  is
+increasingly a formalized component of studies on climate
+change and associated uncertainty analyses. Two main ways
+
+CANADIAN COMMUNITIES’ GUIDEBOOK FOR ADAPTATION TO CLIMATE CHANGE
+
+65
+
+

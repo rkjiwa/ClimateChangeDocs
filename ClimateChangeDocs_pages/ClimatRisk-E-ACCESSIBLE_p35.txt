@@ -1,0 +1,85 @@
+Adaptation Activities
+
+Smart technologies
+
+Provinces are using Road Weather Information Systems (RWIS) to inform operations 
+and maintenance, trucking firms are monitoring real-time weather events in their 
+networks to enable efficient re-routing.
+Wind sensors are being installed on some rail bridges, allowing rail operators to 
+delay passage or adjust speeds, in the Greater Toronto Area, Metrolinx and GO 
+Transit have installed flood sensors in transit corridors. 
+Railway companies are actively monitoring weather events, climate risks, and 
+asset health by installing washout detectors and laser movement detection 
+systems, using fiber optics to detect slope movements, measuring track stability 
+with radar interferometer, and installing warning systems for extreme weather.
+Marine ports, such as Port Saint John, are using real-time weather and wave 
+forecasting tools, including the “SmartAtlantic” inshore weather buoy, to support 
+planning and navigation.
+Vessel operators in the Great Lakes-St. Lawrence Seaway System are using 
+Onboard Draft Information systems and other electronic navigation services to 
+support operations in low water conditions, in Arctic waters, vessels are using 
+radar and satellite technology to provide near real-time ice charts, images and 
+forecasts.
+The Quebec Geomatics Centre and the Ministry of Public Security have 
+implemented an online interactive mapping tool (GéoRISC portal) for the 
+Saguenay-Lac-Saint-Jean region, to allow decision-makers to limit and reduce 
+flooding impacts and ultimately plan for alternative road routes.
+
+Operations and maintenance requirements and practices
+
+To maintain the integrity of winter roads in Northern Canada, operators are 
+spraying roads and bridges and are constructing snow caches at key points along 
+the winter roads, for repair purposes.
+The City of Toronto is more regularly monitoring and clearing drainage culverts to 
+prevent issues during extreme precipitation events.
+The Quebec Ministry of Transportation has introduced a thermal monitoring 
+program for 13 airport runways in Nunavik. They are built on land sensitive to 
+permafrost thaw.
+Some jurisdictions are using combination ploughing and salting vehicles to better 
+react to freezing rain conditions.
+Carriers at northern airports have developed portable de-icing mechanisms to 
+more flexibly address aircraft icing requirements.
+Trucking firms are using technologies to reduce fuel consumption that also enhance 
+climate resilience. Aerodynamic devices (fairings and trailer skirts) can improve the 
+stability  of  trucks  during  wind  events,  and  auxiliary  power  units  (APUs)  can  help 
+truckers respond to increased frequency of cold snaps or heat waves.
+
+Chapter 
+
+Reference(s)
+
+Prairies 
+Ontario
+
+Prairies  
+Urban
+
+British Columbia
+
+Atlantic 
+
+Northern 
+Ontario 
+
+Quebec
+
+Northern  
+Ontario
+
+Urban 
+
+Quebec
+
+Urban 
+
+Northern  
+Prairies
+Prairies
+
+ 
+CHAPTER 2: SYNTHESIS 
+
+24
+24
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

@@ -1,0 +1,76 @@
+ 
+
+Background 
+
+Scope 
+This guideline document describes the principles for determining the exposure of low lying lands to 
+a flooding hazard due to their exposure to the sea and provides guidelines and direction for their 
+management. 
+
+2 
+
+2.1 
+
+2.2 
+
+Reference Documents 
+
+2.2.1  Standards and Guidelines 
+
+2.3 
+
+2.4 
+
+A  national  standard  or  guideline  for  the  management  of  lands  exposed  to  coastal  flood  hazards 
+does  not  exist.    This  document  is  intended  to  provide  guidance  for  coastal  exposure  in  British 
+Columbia. 
+
+Definitions 
+A summary of definitions and terminology used in this document is provided in Appendix A. 
+Where possible the same terminology and definitions as used in the existing document; Land Use 
+Guidelines 20043 are used; however, as the existing terminology and definitions sometimes need 
+modification, clarification or expansion to be appropriate for coastal conditions, in some cases new 
+or  revised  terminology  and  definitions  are  proposed.    It  is  recommended  that  the  reader  of  the 
+updated  documents  familiarize  themselves  with  the  updated  terminology  and  definitions  in 
+Appendix A as necessary. 
+
+Updated Definitions 
+In the existing documents the definition of the management parameters; Flood Construction Level 
+(FCL) and Setback, is based on the defined location of the Natural Boundary – a position defined in 
+law, and in the existing definitions, but which has a tenuous technical basis. The Natural Boundary 
+is  a  position  that  can  be  identified  on  an  existing  shoreline  as  indicated  in  Figure  2-1.  It  is  not 
+possible to identify the Natural Boundary for a future higher water level. Further background and 
+discussion is provided in Appendix B. 
+A brief summary of necessary changes is provided below and is summarized in Figure 2-2. 
+In  general  terms  the  reference  point  for  the  FCL  and  for  the  Setback  becomes  centred  on  an 
+estimated location for a future Natural Boundary, the location of which will change over time as sea 
+level rises.  The reference point can be estimated by defining: 
+
+1.  The Designated Flood Level (as indicated in Figure 2-2) 
+2.  An estimated future Natural Boundary location (as indicated in Figure 2-2): 
+
+The Designated Flood Level is defined as: 
+ 
+
+ 
+
+ 
+
+Designated Flood Level (DFL)  = 
+
+Future SLR Allowance 
++ Maximum High Tide (HHWLT) 
++ Total Storm Surge during Designated Storm 
+
+                                                      
+
+3 “Land Use Guidelines 2004” means the Flood Hazard Area Land Use Management Guidelines, May 2004, 
+prepared by the Ministry of Water, Land and Air Protection. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment/ Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+2 
+
+

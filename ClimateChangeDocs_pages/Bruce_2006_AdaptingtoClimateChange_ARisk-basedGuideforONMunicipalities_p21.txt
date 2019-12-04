@@ -1,0 +1,399 @@
+ 
+
+ 
+Impact Rating Matrix - Culverts and storm sewer systems capacity exceeded 
+
+Impact 
+
+ 
+ 
+
+Degree 
+
+Very low 
+Low 
+Moderate 
+Major 
+Very Severe 
+
+ 
+t
+
+n
+e
+m
+
+l
+
+i
+
+ 
+-
+e
+c
+a
+p
+s
+D
+√ 
+ 
+ 
+ 
+ 
+
+Social factors 
+
+ 
+
+ 
+
+&
+h
+
+ 
+
+t
+l
+
+a
+e
+H
+
+ 
+y
+t
+e
+a
+S
+
+f
+
+ 
+f
+
+o
+ 
+s
+s
+o
+L
+
+d
+o
+o
+h
+
+i
+l
+
+e
+v
+L
+
+i
+
+ 
+√ 
+ 
+ 
+ 
+
+ 
+√ 
+ 
+ 
+ 
+
+ 
+l
+
+a
+r
+u
+
+t
+l
+
+ 
+s
+t
+c
+e
+p
+s
+A
+
+u
+C
+√ 
+ 
+ 
+ 
+ 
+
+ 
+Risk Information Library.  Ensure that all the 
+data used to develop the estimations of the 
+frequency or probability and consequences or 
+impacts are recorded and carefully stored in the 
+risk information library.  This data may have to 
+be reviewed or updated if the steps are repeated 
+in the future and the baseline data will be very 
+important in this process.  Also, the rating 
+matrices and the rationale for the qualitative 
+
+STEP 4: Risk Evaluation 
+ 
+Purpose 
+•  Develop a process for comparing or ranking 
+
+each risk scenario. 
+
+•  Evaluate the risks by examining them in 
+terms of costs, benefits and acceptability, 
+considering the needs, issues and concerns 
+of stakeholders. 
+Identify unacceptable risks and prioritize 
+them for risk reduction or control strategies. 
+
+• 
+
+What to do and how to do it? 
+To this point in the process, only the hazards 
+and risks have been analyzed.  Now the 
+operational aspects and costs and benefits that 
+accrue in each scenario will be considered.   
+ 
+The  indirect  costs  and  benefits  can  be  extensive,  so  it  is 
+ 
+important to have the relevant expertise to assess them available 
+ 
+to the risk management team.  An example would be the impact 
+ 
+of reduced water availability to a golf course.  Water prices might 
+ 
+rise, making irrigation prohibitively costly.  In the short term, the 
+ 
+golf  course  might  lose  patronage  and  suffer  a  financial  impact.  
+Workers  might  lose  jobs.    In  the  longer  term,  the  golf  course 
+ 
+might  have  to  close,  and  the  land  could  be  converted  into 
+ 
+parkland  or  residential  housing.  Any  of  these  outcomes  has 
+ 
+associated economic and social costs and benefits
+
+ 
+
+18
+
+Economic factors 
+
+ 
+ 
+y
+t
+r
+e
+p
+o
+r
+P
+
+ 
+
+e
+g
+a
+m
+a
+D
+ 
+ 
+√ 
+ 
+ 
+
+ 
+l
+
+i
+
+a
+c
+n
+a
+n
+F
+
+i
+
+ 
+t
+c
+a
+p
+m
+
+I
+ 
+
+ 
+ 
+√ 
+ 
+ 
+
+ 
+
+ 
+
+n
+o
+
+ 
+t
+c
+a
+p
+m
+
+I
+
+s
+e
+c
+n
+a
+n
+F
+
+i
+
+ 
+l
+
+i
+
+i
+
+a
+p
+c
+n
+u
+M
+ 
+√ 
+ 
+ 
+ 
+
+Environmental factors 
+
+ 
+r
+i
+
+A
+
+√ 
+ 
+ 
+ 
+ 
+
+t
+
+ 
+r
+e
+a
+W
+
+ 
+√ 
+ 
+ 
+ 
+
+ 
+
+d
+n
+a
+L
+
+ 
+ 
+√ 
+ 
+ 
+
+ 
+-
+o
+c
+E
+
+ 
+s
+m
+e
+t
+s
+y
+s
+
+ 
+√ 
+ 
+ 
+ 
+
+values assigned in these charts should be 
+carefully annotated and stored for future 
+reference.   
+Ensure also that the stakeholder analysis and 
+data bank is updated. 
+ 
+DECISION:  GO TO NEXT STEP 
+(End of example for Step 3)
+ 
+(1)  Develop the costs and benefits of each risk 
+scenario including not only the direct costs 
+and benefits but also the important indirect 
+ones. 
+
+ (2) Analyze risk perceptions of key 
+
+stakeholders, including those representing 
+the general public. 
+
+(3)  Assess the acceptability of risks associated 
+
+with the risk scenarios and potential 
+outcomes. 
+
+(4)  Compare the risks using appropriate criteria 
+
+such as a summary of the consequence 
+data from the previous step assessing the 
+important social, economic and 
+environmental consequences using a 
+convenient scale ranging from very low to 
+extreme along with the frequency or 
+probability estimates.   
+(cid:131)  Consider using a “risk evaluation matrix” 
+to assist in comparing or prioritizing the 
+various risks.  Combine the frequency 
+and consequence ratings for each risk 
+as determined in Step 3 into a single 
+matrix.  Establish acceptability values 
+against which the various risks can be 
+compared.  The chart below is an 
+example for such a display. This chart 
+uses qualitative measures such as 
+“low”, “moderate”, “major”.  Other 
+
+

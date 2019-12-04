@@ -1,0 +1,59 @@
+ 
+
+Similar  testing  has  also  found  that  if  knowledgeable  people  (for  instance;  maintenance  or 
+inspection  crews)  or  vehicles  (for  inspection  during  storms)  are  present  on  the  dike,  then  safety 
+considerations may limit acceptable rates of overtopping to between 1 and 50 liters/s/m8. 
+Along a dike of approximately 1000 m length, a limit of 10 liters/s/m implies that during a six hour 
+storm the total volume of water overtopping the sea dike could amount to: 
+
+10 liters/s/m x 1000 m x 6 h x 3600 sec/hr = 216 million liters = 216,000 m3 
+
+This volume of water will amount to approximately 2 m of standing water over a land area of 10 
+hectares, unless it can be drained away. 
+In the case of the criteria in Table 4-2, it must be noted that reliable guidance does not exist to 
+define the effect of distance on the decay rate of overtopping and therefore it may not be clear how 
+far  behind  a  given  dike  or  seawall  a  building  must  be  to  satisfy  the  1  liter/m/s  threshold.    Site 
+specific engineering investigations are warranted in many situations. 
+Specification of a suitable Sea Dike Crest Elevation will generally be an iterative process as the 
+volume of overtopping for a given Designated Storm will be significantly influenced by the design of 
+the seaward face of the sea dike.  Acceptable quantities of overtopping may also be significantly 
+influenced by the design of the landward face of the sea dike, especially if space or land use does 
+not  permit  the  1:3  (V:H)  landward  slope  implied  by  the  criteria  in  Table  4-1.  Case  specific 
+engineering investigations will be warranted in many situations. 
+Examples of the application of the threshold conditions in Table 4-1 and Table 4-2 are provided in 
+Appendix C. 
+
+4.1.2  Seaward Face Design 
+
+General 
+The seaward face of a sea dike shall be designed to be stable and not vulnerable to breaching 
+during the Designated Storm.  The design of the seaward face shall take into consideration any 
+scour or erosion that may occur in front of the dike during the Designated Storm. 
+Guidance 
+Guidance  for  the  design  of  the  seaward  face  of  a  sea  dike  is  provided  in  the  Reference 
+Publications. 
+
+4.1.3  Landward Face Design 
+
+General 
+The landward face of a sea dike shall be designed to be stable and not vulnerable to erosion or 
+scouring by overtopping water during the Designated Storm. 
+Guidance 
+Guidance  for  the  design  of  the  landward  face  of  a  sea  dike  is  provided  in  the  Reference 
+Publications. 
+It  should  be  noted  that  design  guidance  for  the  landward  face  of  a  sea  dike  that  is  exposed  to 
+overtopping is, in general, limited in scope.  Structure specific detailed engineering investigations 
+will  likely  be  required  if  the  design  is  different  from  the  1:3  (V:H)  landward  slope  implied  by  the 
+criteria in Table 4-1 and Table 4-2. 
+
+                                                      
+8 These limits represent the extreme range that might be applicable.  An upper limit of 10 liters/s/m may be more 
+appropriate if personnel are outside of a vehicle. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+14 
+
+

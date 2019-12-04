@@ -1,0 +1,77 @@
+1.11 CLIMATE CHANGE SCENARIOS
+Climate  scenarios  are  plausible  and  simplified 
+representations of the future climate, constructed 
+from  climate  simulations.  They  represent  the 
+difference between the current climate and a future 
+climate. In essence, they represent a more tailored 
+product than climate model outputs (where the 
+time steps are minutes long). Climate scenarios give 
+the portrait of the future by averaging the outputs 
+of the simulations into a temporal resolution that 
+is better suited for impact studies (over years or 
+seasons for example). They are arguably the climate 
+information product most often used to evaluate 
+the potential impacts and consequences of our 
+changing climate. 
+
+Climate scenarios are generally grouped into the 
+following classes3: 
+
+ › Climate  model  scenarios  are  constructed  
+using climate data output from climate models  
+that simulate the future response of the climate  
+to increasing greenhouse gas concentrations;
+
+ › Analogue  scenarios  are  constructed  by  
+identifying  recorded  climate  regimes  that  
+resemble the future climate of a given region;
+
+ › Synthetic  scenarios  are  produced  by  varying  
+a particular climate variable by a realistic but  
+arbitrary amount to obtain probable futures.
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+1.11.1 REFERENCE PERIOD AND FUTURE HORIZONS
+Climate change scenarios compare the average 
+climate between a past period, referred to as the 
+reference period or horizon, and a future horizon. 
+Given  that  inter-annual  variability  can  remain 
+important in the future, the length of the reference 
+and  future  periods  must  be  relatively  long  to 
+detect clear projected climate change trends. Two 
+main periods are used, one is a 30-year average, 
+for which the reference horizon corresponds to 
+the same timescale as the one used to calculate 
+climate normals (WMO standards). Note however 
+that an important distinction must be made here 
+with climate normals, which are calculated from 
+observations  and  the  data  over  the  reference 
+period, which comes from climate simulations.  
+
+The time periods used as reference and future 
+horizons are used by climate research organisations 
+and are revised every decade. For example, a few 
+years ago, the reference period used by the WMO 
+was 1971 to 2000, while it is now 1981-2010 (the 
+AR5 from the IPCC uses 1986 to 2005). 
+
+Averages may also be calculated over 20-year time 
+periods, as is the case in most IPCC reports.  
+
+The future horizons will follow the time period for 
+the reference period, meaning that if the reference 
+period used is 30-years then the future horizons 
+will also be 30-years.
+
+29  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

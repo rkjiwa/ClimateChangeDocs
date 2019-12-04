@@ -1,0 +1,45 @@
+3.2 MORE INTENSE PRECIPITATION EVENTS
+
+Total annual precipitation from observed data shows significant upward trends for many of the 
+weather stations located in the south of the province. For some of these stations, the trends are 
+associated with increases in spring and fall precipitation.
+
+Increases in precipitation are expected in winter and spring throughout Québec. In the northern 
+and more central regions, this would also be the case in the summer and fall seasons. As in the case 
+of temperatures, these increases will be more significant for extreme precipitation events than for 
+averages. In fact, all climate models agree on future upward trends for extreme precipitation events, 
+everywhere in Québec, although these changes are more substantial moving northward. This applies 
+for maximum annual amounts in addition to all durations and frequencies. For example, a maximum 
+annual rainfall event with a 20-year return period over the 1986-2005 timeframe could occur more 
+frequently by 2046-2065 with a return period of around 7 to 10 years. Preliminary studies suggest that 
+future climate conditions could be more conducive to thunderstorms, which are usually accompanied 
+by larger quantities of precipitation, although the robustness of these projections is uncertain.
+For winter precipitation, the proportion of snow and rainfall relative to total accumulation depends 
+on temperature. Given that the climate has been warming in the recent past, downward snow 
+precipitation trends are already being observed in the south of Québec. An analysis of several 
+different data sources reveals that snow cover duration has decreased by approximately 2 days per 
+decade in the south of Québec between 1948 and 2005.
+
+Even if snowfall events decrease due to a shorter cold season, rainfall events during this season should 
+increase with warming temperatures in winter (see Figure 6). Changes in snow cover with respect 
+to these trends will vary according to the region, altitude, climatic regime, type of surface and 
+vegetation. Compared to the 1970-1999 average, snow cover duration by 2041-2070 could decrease 
+by up to 25 days in the North of Québec, from 25 to 45 days in the central region, from 45 to 75 days 
+for the Gulf of the St. Lawrence and between 45 and 65 days for the south of Québec. 
+
+Figure 6: Observed total summer (JJA: June, July and August) and winter (DJF: December, January and 
+February) precipitation for the period 1971-2000 (left panel) and projected (right panels) for the 2050 
+horizon (2041-2070).  The observed average is calculated using the CRU TS 3.21 dataset (CRU TS = 
+Climatic Research Unit Timeseries, 3.21 dataset is the name of the release). Future maps present the 
+ensemble median (i.e. the median of all available projections) as well as the 10th and 90th percentiles 
+(i.e., lower and higher bounds) of 19 future climate scenarios. Future climate scenarios were produced 
+using the “delta” method calculated from the using CMIP5 (Coupled Model Intercomparison Project 
+Phase 5) simulations (RCP 8.5) applied to the observed data (see Charron, 2014). (Source: Ouranos) 
+
+ 
+CHAPTER 7: QUEBEC 
+
+194
+194
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

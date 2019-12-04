@@ -1,0 +1,61 @@
+8.0 INFORMATION GAPS
+
+There are a number of gaps in available information related to the determination of climate 
+impacts on transportation in Canada’s northern region. These include reliable and relevant climate 
+information; available training, guidance and tools; and technical information for infrastructure. 
+
+Regarding climate information, territorial governments and others have expressed interest in 
+developing regional climate change scenarios in order to improve understanding of future conditions 
+(Environment Yukon, 2009). In a survey of mining and transportation practitioners in the Yukon, 
+participants also identified the need for downscaled climate data – some expressed concern that 
+the data they were using was not appropriate for their area. Projections related to climatic elements 
+such as rain-on-snow events, snow and permafrost interactions, and relationships between snowmelt 
+and rain are in particular demand (Northern Climate ExChange, 2014b). There are two notable 
+challenges to obtaining these climate change scenarios for the territories: limited baseline data is 
+available at the local level, and capacity in the northern territories is restricted by limited financial 
+and human resources (Government of Nunavut et al., 2011). The limited number of weather stations in 
+the North and short duration of climate records also present challenges to developing local climate 
+change scenarios. Practitioners have also indicated they lack practical and user-friendly guidance 
+tools for using climate data, as well as training for practitioners and decision-makers (Northern Climate 
+ExChange, 2014b).
+
+Further development of building standards, codes, and community planning information that 
+takes into account projected changes in climate have also been identified as desirable.  These 
+would need to consider existing technical guidance on factoring in future climate changes when 
+building on permafrost (Auld et al., 2010), and expand upon the Standards Council of Canada’s 
+Northern Infrastructure Standardization Initiative that has developed standards for: 1) thermosyphon 
+foundations (CSA Group, 2014a); 2) moderating the effects of permafrost degradation on building 
+foundations (CSA Group, 2014b); 3) managing changing snow-load risks for buildings in Canada’s 
+North (CSA Group, 2014c); and 4) drainage-system planning, design and maintenance in northern 
+communities (CSA Group, 2015). Relevant variables include ground ice content as well as 
+experienced and projected ground temperatures and permafrost thicknesses. Such information could 
+be used to develop maps identifying areas suitable for infrastructure development (Champalle et al., 
+2013), and be used at regional and local scales to determine areas with low, moderate, or high levels 
+of vulnerability (Calmels et al., 2015).
+
+Improved channels for information-sharing among northern practitioners and residents is another 
+important gap. Tools such as the Arctic Adaptation Exchange portal, developed during Canada’s 
+Arctic Council Chairmanship, help facilitate the sharing of adaptation best-practices among 
+circumpolar communities (Arctic Adaptation Exchange, 2014). 
+
+For marine transportation, updating geospatial databases to account for the challenges and 
+opportunities presented by a changing climate is important. This involves updating maps and 
+navigational charts to reflect changes in ice coverage and traffic, as well as providing the marine 
+community with information and charting strategies to deal with future climate uncertainty. Publicly 
+available data on coastal erosion would be particularly beneficial (Champelle et al., 2013). For 
+example, the Coastal Information System (maintained by the Geological Survey of Canada) provides 
+qualitative coastal changes based on multiple years of video and aerial photography that can be 
+used by communities experiencing coastal change (Couture et al., 2015). In addition, improved 
+hydrological monitoring would allow better understanding of the impacts of climate change on runoff 
+volumes, evaporation rates, and water levels, and would benefit community resupply operations in 
+the Northwest Territories. Lastly, improved water level monitoring, including a water level-monitoring 
+network and ice/debris advisory service, would benefit barge operators throughout the region 
+(Deton’Cho-Stantec, 2013).
+
+ 
+CHAPTER 3: NORTHERN TERRITORIES 
+
+58
+58
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

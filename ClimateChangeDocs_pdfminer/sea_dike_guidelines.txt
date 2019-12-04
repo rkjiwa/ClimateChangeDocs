@@ -1,0 +1,4089 @@
+ 
+
+Process Infrastructure 
+ 
+Ports, Marine & Offshore   
+ 
+
+Project No. 143111 
+Revision Number 0 
+
+BC Ministry of Environment  
+  
+Climate Change Adaption Guidelines for Sea 
+Dikes and Coastal Flood Hazard Land Use 
+Sea Dike Guidelines 
+  
+
+27 January 2011 
+
+  
+
+ 
+
+DISCLAIMER: 
+This document is for the private information and benefit only of the client for whom it was prepared and for the particular purpose previously advised to Ausenco Sandwell. The 
+contents of this document are not to be relied upon or used, in whole or in part, by or for the benefit of others without prior adaptation and specific written verification by Ausenco 
+Sandwell.  
+Particular financial and other projections and analysis contained herein, to the extent they are based upon assumptions concerning future events and circumstances over which 
+Ausenco Sandwell has no control, are by their nature uncertain and are to be treated accordingly. Ausenco Sandwell makes no warranties regarding such projections and analysis.  
+Ausenco Sandwell and its corporate affiliates and subsidiaries and their respective officers, directors, employees and agents assume no responsibility for reliance upon this document 
+or any of its contents by any party other than Ausenco Sandwell’s client.  
+Copyright to this document is wholly reserved to Ausenco Sandwell. 
+ 
+
+ 
+
+ 
+
+Revision Status  
+
+Revision 
+
+Date 
+
+Description 
+
+Contributors 
+
+FirstName 
+LastName 
+
+Position Title 
+
+For Internal 
+
+Information/Discussion  RA/KM/JSR 
+
+Reviewer 
+
+Approver 
+
+FirstName 
+LastName 
+
+Client 
+
+Client 
+
+Client 
+
+JM 
+
+JM 
+
+ 
+
+Position Title 
+
+FirstName 
+LastName 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Position 
+
+Title 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31 
+
+March 
+2010 
+17 May 
+2010 
+23 June 
+2010 
+31 
+
+October 
+2010 
+27 
+
+January 
+2011 
+
+A0 
+
+A1 
+
+A2 
+
+B 
+
+0 
+
+ 
+
+ 
+
+ 
+
+For Discussion 
+
+For Stakeholder 
+
+Meeting 
+
+For Client Use 
+
+Final Issue 
+
+ 
+
+ 
+
+JSR 
+
+JSR 
+
+JSR 
+
+JSR 
+
+ 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+ 
+
+Contents 
+
+Introduction and Application of this Document 
+General 
+Acknowledgement 
+Background 
+Scope 
+Definitions 
+Reference Documents 
+Design Criteria 
+General Requirements 
+Design Environment 
+Sea Dike Design 
+Bibliography 
+ 
+
+1 
+1.1 
+1.2 
+2 
+2.1 
+2.2 
+2.3 
+3 
+3.1 
+3.2 
+4 
+5 
+
+ 
+
+Appendix A – Definitions, Terminology and Acronyms 
+Appendix B – Uplift and Subsidence Rates 
+Appendix C – Sea Dike Examples 
+Appendix D – Storm Surge in BC Coastal Waters - Background 
+
+ 
+ 
+
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+4 
+4 
+4 
+12 
+15 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+ 
+
+1 
+
+1.1 
+
+Introduction and Application of this Document 
+
+General 
+This document provides guidelines for the design of sea dikes to protect low lying lands that are 
+exposed to coastal flood hazards arising from their exposure to the sea and to expected sea level 
+rise due to climate change. 
+This document will supersede the related sections of the existing “Dike Design and Construction 
+Guide  2003”,  which  means  the  “Dike  Design  and  Construction  Guide  –  Best  Management 
+Practices for British Columbia”, July 2003, published by the Province of British Columbia, Ministry 
+of Water, Land and Air Protection (now the Ministry of Environment). 
+This document provides guidelines intended to assist diking authorities, design professionals and 
+others  in  fulfilling  dike  design  requirements  as  legislated  under  the  British  Columbia  Dike 
+Maintenance Act.  This guideline document presents design standards relating to sea level rise and 
+consequential  aspects  in  a  generalized  form  only.    Application  of  this  information  for  specific 
+projects, which include new, repaired, upgraded or changed sea dikes, requires site specific design 
+and  expert  advice.    This  guideline  document  does  not  specifically  address  geotechnical  design, 
+structural design or construction standards, which may be indirectly affected by some aspects of 
+sea level rise.  Qualified professionals with specialist engineering or environmental expertise must 
+be involved and retained to design specific project components and to facilitate agency approvals. 
+This  document,  and  the  companion  document  “Guidelines  for  Management  of  Coastal  Flood 
+Hazard Land Use 2010”1 are specific to flood hazards arising from the exposure of BC lands to 
+the  sea.  In  some  locations,  specifically  river  estuaries,  the  lands  will  also  be  exposed  to  other 
+sources  of  flooding.  These  new  documents  are  companion  documents  to  the  existing  guideline 
+documents  which  address  flooding  hazard  from  rivers2.    Analysis  of  flooding  hazard  from  all 
+sources – rivers and the sea - will be required in estuaries.  
+The Sea Level Rise projections and potential responses described in this document are drawn from 
+the Policy Discussion Paper 20103.  
+
+1.2 
+
+Acknowledgement 
+Preparation of this document and its companion documents was made possible through funding by 
+Natural Resources Canada’s Regional Adaptation Collaborative program and administration by the 
+Fraser Basin Council. 
+
+                                                      
+1 “Guidelines for Management of Coastal Flood Hazard Land Use”- Climate Change Adaptation Guidelines for Sea 
+Dikes  and Coastal Flood Hazard Land Use in BC. Rev 0”. Prepared by Ausenco Sandwell for the British Columbia 
+Ministry of Environment. 
+2 “Dike Design and Construction Guide – Best Management Practices for British Columbia”, July 2003, published by the 
+Province of British Columbia, Ministry of Water, Land and Air Protection (now the Ministry of Environment) 
+3 “Draft Policy Discussion Paper - Climate Change Adaptation Guidelines for Sea Dikes  and Coastal Flood Hazard 
+Land Use in BC. Rev 0”. Prepared by Ausenco Sandwell for the British Columbia Ministry of Environment. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+1 
+
+2 
+
+2.1 
+
+2.2 
+
+2.3 
+
+ 
+
+Background  
+
+Scope 
+This guideline document describes the principles of determining the total water level and sea dike 
+crest  elevations  for  sea  dikes,  as  legislated  under  the  British  Columbia  Dike  Maintenance  Act.  
+Design will be performed at different levels of detail: 
+-  Conceptual design 
+-  Feasibility design 
+-  Detailed design. 
+This guideline is aimed at serving the conceptual design stage. 
+
+Definitions 
+A summary of definitions and terminology used in this document is provided in Appendix A. 
+Where  possible  the  same  terminology  and  definitions  as  used  in  the  existing  documents;  Dike 
+Design and Construction Guide 20032 and Land Use Guidelines 20044 are used; however, as 
+the existing terminology and definitions sometimes need modification, clarification or expansion to 
+be appropriate for coastal conditions, in some cases new or revised terminology and definitions are 
+proposed.    It  is  recommended  that  the  reader  of  the  updated  documents  familiarize  themselves 
+with the updated terminology and definitions in Appendix A as necessary. 
+
+Reference Documents 
+This Guideline document refers to several publications that are recognized as current examples of 
+best  practice  for  the  design  of  coastal  engineering  structures,  including  sea  dikes.    Where  such 
+reference  is  made  it  is  intended  to  refer  to  the  most  current  edition,  as  listed  below,  and  to  all 
+amendments or updates published thereto.  It should be noted that a Building Code or Standard 
+does not exist in Canada for coastal engineering structures. 
+The  referenced  publications  and  Standards  listed  below  are  intended  to  provide  guidance  on 
+internationally accepted best practice.  In some cases inter-comparison of documents will reveal 
+several  approaches  may  apply.    In  these  situations;  theoretical  analysis,  evaluation  of  the 
+approaches  for  application  to  the  specifics  of  British  Columbia  coastal  waters  and  recognized 
+engineering practise should be used to select among alternative methods. 
+Direct  measurement  of  specific  parameters,  over  appropriate  intervals  of  time,  may  also  be 
+necessary or advisable. 
+Detailed site or structure specific engineering investigations may also provide equivalent guidance 
+for design. 
+
+2.3.1  Standards 
+
+International  Organization  for  Standardization,  2007.  Actions  from  Wave  and  Currents  on 
+Coastal Structures. ISO 21650:2007(E). 
+
+                                                      
+4 “Land Use Guidelines 2004” means the Flood Hazard Area Land Use Management Guidelines, May 
+2004, prepared by the Ministry of Water, Land and Air Protection. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+2 
+
+ 
+
+British Standards Institution, 2000. British Standard Code of Practice for Maritime Structures. BS 
+6349. 
+
+2.3.2  Guideline Documents 
+
+CIRIA; CUR; CETMEF, 2007. The Rock Manual. The Use of Rock in Hydraulic Engineering (2nd 
+Edition). 
+US Army Corps of Engineering, 2002. Coastal Engineering Manual. EM 1110-2-1100. 
+EA,  ENW,  KFKI.  2007.  EurOtop.  Wave  Overtopping  of  Sea  Defenses  and  Related  Structures: 
+Assessment Manual. 
+
+2.3.3  Specific References 
+
+Battjes,  J  A  and  Groenendijk,  H  W.  2000.  Wave  Height  Distributions  on  Shallow  Foreshores. 
+Coastal Engineering. 
+Hydraulic  Engineeering  Division,  Rijkswaterstaat,  (1998).  Dikes  and  Revetments  –  Design, 
+Maintenance and Safety Assessment.  
+ 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+3 
+
+3 
+
+3.1 
+
+ 
+
+Design Criteria 
+
+General Requirements 
+The primary function of a sea dike is to protect the people and assets behind the dike against the 
+effects of flooding or inundation.  A sea dike is not intended to protect the shoreline or the adjacent 
+seabed against erosion, although this may become a secondary aspect of the sea dike design, or 
+the sea dike may be incorporated into a larger project with erosion protection, shoreline restoration 
+or marine habitat preservation as concurrent objectives. 
+Design criteria that are required but not specifically addressed in this guideline document include: 
+
+-  The safety standard, design and service objectives to be achieved by the dike 
+-  The design life of the dike 
+- 
+
+Inspection, maintenance and replacement or decommissioning of the dike. 
+
+Guidance  regarding  these  design  criteria  is  provided  in  the  companion  document:  Policy 
+Discussion Paper 20103. 
+
+3.2 
+
+Design Environment 
+
+3.2.1  General 
+
+This section describes the evaluation of physical environmental conditions that will be required to 
+define the main functional or geometric aspects of a sea dike. 
+
+3.2.2  Location of Facility (Reference elevation – depth of water) 
+
+The water depths and terrestrial elevations at the location of a sea dike shall be determined from 
+site-specific bathymetric and topographic surveys referenced to a common vertical and horizontal 
+datum.    Where  bathymetric  and  topographic  surveys  are  undertaken  with  respect  to  a  separate 
+datum, the relationship between the bathymetric datum and the topographic datum shall be defined 
+over the entire project area. 
+The  relationship  between  the  bathymetric  survey  datum,  the  topographic  survey  datum  and  the 
+tidal datum for the area shall also be defined over the project area5. 
+
+3.2.3  Sea Level Rise 
+
+Global Climate Change Sea Level Rise 
+Sea Level Rise is predicted to be moderate in the period from 2010 to 2025. However, the rate is 
+predicted to increase more quickly in the period leading up to 2100, and then continue to increase 
+steadily.  For the purpose of this document the current definition of the expected Sea Level Rise is 
+provided  in  Figure  3-1.    The  basis  for  this  definition  is  provided  in  the  policy  document:  Policy 
+Discussion Paper 20103. 
+ 
+
+                                                      
+5 In 2010 the vertical reference plane in Canada is in the process of being changed from a MSL related datum plane – 
+technically known as CGVD28 – to a geoid based datum plan.  The update program is described at 
+http://www.geod.nrcan.gc.ca/hm/index_e.php.  For the purpose of this document we use the term CGD to mean the 
+datum as defined in 2010 and approximately equal to MSL. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+4 
+
+ 
+
+ 
+
+Recommended Curve for Sea
+Level Rise Policy in BC 
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+ 
+
+]
+
+e
+g
+n
+a
+h
+C
+
+ 
+l
+
+e
+v
+e
+L
+a
+e
+S
+
+ 
+
+m
+
+[
+ 
+
+0
+0
+0
+2
+o
+
+ 
+
+t
+ 
+
+e
+v
+i
+t
+
+l
+
+a
+e
+r
+
+Figure 3-1: Projections of Sea Level Rise 
+
+source: Policy Discussion Paper (2010) 
+
+ 
+
+ 
+
+Figure 3-1 illustrates the range of uncertainty in projections, showing a median projection, as well 
+as a range in projections from low to high. The uncertainty increases into the future. As described  
+in the policy document: Policy Discussion Paper 20103, it is recommended that sea dike design 
+and assessment be based on the Recommended Curve for Sea Level Rise Policy in BC, shown on 
+Figure 3-1. 
+Unless  scientific  information  warrants  an  earlier  review,  the  Recommended  Curve  should  be 
+updated in five years and then again by 2025, as well as at least once every 25 years thereafter. 
+Regional Sea Level Rise 
+Global  sea  level  rise  expectations  must  be  adjusted  to  account  for  regional  variations  and  for 
+crustal movements particular to the area under consideration.  Regional variations to be considered 
+include: 
+  Variations particular to the Pacific Ocean Basin and to the NW Pacific portion;6 
+  Variations particular to coastal British Columbia waters; 
+  Local  variations  caused  by  crustal  movement,  leading  to  land  uprising  or  subsidence,  which 
+
+may offset or exacerbate the sea level rise. 
+
+The BC Sea Level Report (2008) provides the most recent summary of expected regional or local 
+climate change effects on sea level rise.  Recommended local variations for crustal movement are 
+
+                                                      
+6 Available satellite measurements of recent sea level rise show considerable variation around the globe compared to 
+the often quoted global means. Specific information on the regional variation expected over the North Pacific and 
+offshore coastal British Columbia during upcoming climate change is not as readily available at this time.  This 
+regional effect remains an element of uncertainty. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+5 
+
+ 
+
+provided in Chapter 3.0 - BC Sea Level Report (2008). Additional detail on subsidence rates for 
+specific areas of coastal BC area are provided in Appendix B. 
+ 
+In general terms, for most of coastal British Columbia, with the exception of the Lower Mainland 
+area and the Richmond – Delta regions in particular, vertical land movement is positive (rising) at 
+rates between 1 and 3 mm/yr.  Over a period of 100 years this will decrease the expected global 
+SLR by 0.1 to 0.3 m, but not enough to overcome the expected effects of climate change. 
+Subsidence is expected in the Richmond-Delta region at average rates of 1 to 2 mm/yr.  Over a 
+period of 100 years these rates will increase the expected sea level rise due to global SLR by 0.1 
+to 0.2 m. 
+
+3.2.4  Astronomical Tides 
+
+Predictions  of  expected  water  levels  due  to  astronomical  tides  are  available  throughout  coastal 
+British Columbia from the Canadian Hydrographic Service (CHS), Fisheries and Oceans Canada 
+and are published annually under the authority of CHS.  Volumes 5 through 7 of the Canadian Tide 
+and  Current  Tables  (issued  annually)  provide  sufficient  information  on  astronomical  tidal 
+characteristics for planning and preliminary design throughout most of BC coastal areas, through a 
+combination of Principal Reference Ports and numerous Secondary Ports. 
+As  the  tidal  information  at  Secondary  Ports  is  often  based  on  limited  durations  of  observations 
+(typically one month or possibly less), they may not be current and as they only provide corrections 
+for times and heights of specific tide parameters, project specific tidal measurement programs must 
+be undertaken for all projects, at the project location, prior to detailed design. 
+Indicative tidal ranges are summarized in Table 3-1.  The published data in Volumes 5 through 7 of 
+the  Canadian  Tide  and  Current  Tables  for  specific  areas  within  each  general  region  should  be 
+consulted as tidal ranges can vary by 1 m or more within each region.  Tidal ranges within a river 
+estuary  will  also  vary  significantly;  both  by  location  within  the  estuary  and  according  to  river 
+discharge.  Guidelines are available in Volume 5 for the Fraser River. 
+The tide ranges given in Table 3-1 have additional variation as noted below: 
+ 
+ 
+
+Inter-annual variation due to the 18.6 year cycle of tides (typically of the order of ± 0.1 m) 
+Intra-annual (seasonal) variation due to the particulars of the astronomical bodies and orbits 
+driving the tidal forcing 
+
+In  coastal  British  Columbia  waters,  the  mean  tidal  water  level  during  the  typical  stormy  winter 
+season (approximately mid-October through mid-January) will not be equal to the MWL from the 
+CHS published information as represented below in Table 3-1. 
+Definition  of  the  Designated  Flood  Level  for  the  design  of  a  sea  dike  will  require  definition  of  a 
+combination of appropriate tidal water levels and meteorological related water levels. 
+Joint probability analysis methods are often used to define appropriate combinations of tide and 
+storm surge that reflect the times of occurrence of the two processes; however, as tide is totally 
+independent of storm occurrence and resulting storm surge, reasonable and valid estimates can be 
+made  by  treating  the  statistics  of  each  process  as  independent.    In  this  case,  the  combined 
+probability is simply the product of the probability of high tide during the time period of interest and 
+the probability of the Designated Storm. 
+Guidance for defining appropriate combinations of storm surge is provided below in Section 3.2.5. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+6 
+
+Table 3-1: Tidal Ranges for General Regions 
+
+Source: Canadian Tide and Current Tables – Volumes 5, 6 and 7 (2010) 
+West Coast 
+Vancouver 
+
+Georgia Strait 
+
+Central Coast 
+
+Juan de Fuca 
+
+Strait 
+
+Northern BC 
+
+Tide 
+Parameter 
+
+Island 
+
+ 
+
+ 
+ 
+ 
+
+Meters with respect to CGD 
+
+2.7 
+1.7 
+0 
+-1.0 
+-2.9 
+
+4.2 
+2.9 
+0 
+-2.1 
+-3.4 
+
+2.0 
+1.3 
+0 
+-1.9 
+-3.1 
+
+1.5 
+0.6 
+0 
+-1.0 
+-1.9 
+
+2.0 
+1.3 
+0 
+-1.5 
+-2.2 
+
+HHWLT 
+HHWMT 
+MWL 
+LLWMT 
+LLWLT 
+Data for General Regions based on: 
+West Coast Vancouver Island: 
+Juan de Fuca Strait: 
+Georgia Strait: 
+Central Coast: 
+Northern BC: 
+Note:   
+- Tide parameters on the west coast of the Queen Charlotte Islands (Haida Gwaii) are more similar to the 
+Central Coast than to Northern BC. 
+- Ranges based on MWL as published by CHS ≈ 0.0 m CGD 
+ 
+
+parameters can vary up to ± 0.3 m along the coast 
+parameters can vary up to ± 0.4 m along the strait 
+parameters can vary up to ± 0.4 m over the strait 
+parameters can vary up to ± 1.0 m along the coast 
+parameters can vary up to ± 2.5 m along the coast 
+
+ 
+Tofino 
+Victoria   
+Point Atkinson 
+Bella Bella 
+Prince Rupert 
+
+ 
+
+3.2.5  Meteorological Water Level Effects 
+
+Sea levels along coastal British Columbia are also affected by meteorological and oceanographic 
+conditions specific to the area that result in differences between the predictable astronomical tides 
+(Section 3.2.4) and the actual water level at a given time.  These conditions include: 
+  Sea level change due to changes in atmospheric pressure. 
+  Sea level change due to the effects of strong winds blowing over the water surface. 
+  Sea level change due to wave momentum effects in shallow water 
+  Sea level change due to changes in ocean currents or temperature. 
+The integrated effect of these forcing mechanisms can be seen in measured water level data by 
+removing the predicted astronomical tide, which then defines a residual water level that reflects all 
+of the forcing mechanisms outlined above. 
+In coastal British Columbia waters, the characteristics of residual water levels can be defined with 
+the assistance of the long term measured water level records available from several long term CHS 
+tide recording stations along the coast.  Long records of recorded total water levels are available at 
+the stations summarized in Table 3-2. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+7 
+
+ 
+
+Table 3-2:  Summary of Long-Term Tidal Stations in BC 
+
+Region 
+
+Station 
+
+West Coast 
+
+Tofino 
+
+West Coast 
+
+Bamfield 
+
+Juan de 
+Fuca Strait 
+Georgia 
+Strait 
+
+ Northern 
+Georgia 
+Strait 
+Central 
+Coast 
+
+Northern BC 
+
+Haida Gwai 
+
+Victoria 
+
+Point 
+
+Atkinson 
+
+Campbell 
+
+River 
+
+Bella Bella 
+
+Prince 
+Rupert 
+Queen 
+Charlotte 
+
+City 
+
+CHS Station 
+
+ID 
+
+Years of 
+Coverage 
+
+8615 
+
+8545 
+
+7120 
+
+7795 
+
+1909 - present 
+
+1969 – present 
+
+1909 – present 
+
+1914 – present 
+
+8074 
+
+1958 – present 
+
+8976 
+
+9354 
+
+1906 – present 
+
+1909 – present 
+
+Comments 
+
+Gaps between 1920 and 
+
+1940 
+
+_ 
+
+Gaps between 1914 and 
+
+1950 
+
+Gaps between 1923 and 
+1927 and 1939 - 1944 
+
+Gaps between 1958 and 
+
+1972 
+
+Gaps between 1907 and 
+
+1962 
+
+Gaps between 1928 and 
+
+1939 
+
+9850 
+
+1957 – present 
+
+Gaps between 1959 - 1964 
+
+ 
+
+ 
+
+Tofino 
+Prince Rupert 
+
+A  preliminary  review  and  evaluation  of  the  residual  water  levels  resulting  from  these  stations  is 
+provided in the support materials provided in Appendix D. 
+Regional Meteorological Effects 
+A preliminary review of the residual water levels achieved at each station (Appendix D) indicates 
+that the general characteristics of residual water levels can be summarized on a regional basis as 
+follows: 
+  West Coast Vancouver Island – Juan de Fuca Strait and Georgia Strait:  
+  Central Coast – Queen Charlotte Islands – North Coast:  
+The larger residual water levels recorded at the Tofino and Prince Rupert tide gauge locations are 
+shown in Figure 3-2, which shows the peak water level after the predicted tide is removed.  For 
+clarity  the  only  events  shown  are  those  over  a  threshold  chosen  so  that  at  least  one  event  is 
+present for every year of record.  A review of the higher events from each data set confirmed that 
+the events were not spikes, with limited (one or two hours) duration above the threshold, and that 
+they correspond to known severe storms on the coast. 
+A preliminary extreme value analysis of the available data sets at Tofino and Prince Rupert, using a 
+Peak  over  Threshold  extreme  value  methodology,  after  ensuring  that  at  least  72  hours  exists 
+between  each  event,  and  after  considering  the  effect  of  various  threshold  values,  gives  the 
+estimates  of  expected  residual  water  levels  for  a  range  of  annual  exceedance  probabilities  (or 
+return periods) summarized in Table 3-3. 
+A  comparison  of  inter-station  residual  time  series  during  large  events  indicates  that  the  peak 
+residual  values  vary  approximately  ±  0.1  m  among  the  stations  within  the  two  groups  indicated 
+above. 
+Reference is also made to section 8.2.4, item 2 of the Draft Policy Discussion Paper - Climate 
+Change Adaptation Guidelines for Sea Dikes  and Coastal Flood Hazard Land Use in BC. Rev 0”.  
+ 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+8 
+
+ 
+
+)
+ 
+
+e
+d
+i
+t
+
+ 
+
+d
+e
+t
+c
+
+i
+
+d
+e
+r
+p
+
+ 
+
+o
+t
+ 
+t
+r
+
+w
+
+ 
+,
+
+m
+
+(
+ 
+l
+
+e
+v
+e
+L
+
+ 
+r
+e
+t
+a
+W
+
+ 
+
+ 
+)
+e
+g
+r
+u
+s
+m
+r
+o
+t
+s
+(
+ 
+l
+
+i
+
+a
+u
+d
+s
+e
+R
+k
+a
+e
+P
+
+ 
+
+ 
+
+1.4
+
+1.2
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+0
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+1
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+2
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+3
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+4
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+5
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+6
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+7
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+8
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+9
+9
+1
+-
+n
+a
+J
+-
+1
+
+0
+0
+0
+2
+-
+n
+a
+J
+-
+1
+
+0
+1
+0
+2
+-
+n
+a
+J
+-
+1
+
+0
+2
+0
+2
+-
+n
+a
+J
+-
+1
+
+Figure 3-2:  Residual Water Levels – Coastal British Columbia 
+
+ 
+
+Table 3-3:  Expected Magnitude of Residual Water Level Events 
+
+Prince Rupert
+Tofino
+
+ 
+
+AEP 
+
+(per cent) 
+
+50% 
+20% 
+10% 
+4% 
+2% 
+1% 
+0.2 % 
+0.1 % 
+
+AEP 
+
+(1/years) 
+
+Annual 
+1/5 yr 
+1/10 yr 
+1/25 yr 
+1/50 yr 
+1/100 yr 
+1/500 yr 
+1/1000 yr 
+
+West Coast 
+Vancouver 
+
+Island 
+0.73 
+0.83 
+0.9 
+1.0 
+1.1 
+1.2 
+1.3 
+1.4 
+
+Juan de 
+Fuca Strait 
+
+Georgia 
+Strait 
+
+Central 
+Coast 
+
+North 
+
+Coast BC 
+
+Same as 
+West Coast 
+
+Same as 
+West Coast 
+
+Same as 
+
+North Coast 
+
+0.75 
+0.81 
+0.86 
+0.91 
+0.95 
+1.0 
+1.1 
+1.1 
+
+Local Meteorological Effects 
+The tide gauges used for the analyses summarised above are generally located within harbours or 
+on the open coast in deep water.  Many sea dikes will be located inshore of the inter-tidal profile 
+and may have extensive areas of shallow water or drying inter-tidal banks – ie: Boundary Bay or 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+9 
+
+ 
+
+the West Richmond sea dikes - offshore of the dike.  In these situations the effect of strong winds 
+and  waves  may  further  increase  the  water  level  during  storms  and  site  specific  analysis  will  be 
+required. 
+Methodologies  for  assessing  the  magnitude  of  additional  surge  are  outlined  in  the  Reference 
+Publications. 
+Examples of the magnitude of these local effects are provided in the sample cases in Appendix C. 
+
+3.2.6  Wave Climate 
+
+Incident Deepwater Wave Climate 
+Definition  of  appropriate  sea  dike  crest  elevations  will  require  specification  of  the  incident  wave 
+climate during storms that are consistent with the selected design criteria.  For most sea dikes, with 
+their seaward face situated at or above normal high tide elevations, the design wave climate will 
+generally be controlled by the depth of water a short distance seaward of the toe.  Specification of 
+the  appropriate  location  to  define  the  design  wave  climate  is  generally  unique  to  the  design 
+methodology being used for a specific component of the dike.   
+Reference must be made to the specific requirements in the Reference Publications. 
+Local Wave Climate at the Dike 
+As a preliminary guideline, the maximum seastate7 that can exist in a given depth of shallow water 
+can  be  estimated  using  the  procedures  outlined  in  CIRIA;  CUR;  CETMEF  (2007)  or  US  Army 
+Corps of Engineering (2002). 
+The seastate that can exist at a sea dike depends strongly on the water depth at the toe of the sea 
+dike, the slope of the foreshore in front of the sea dike and in some cases on the seaward slope of 
+the sea dike itself. As guidance, the maximum seastate (Hs) 7 may be between approximately 0.5 
+and 1.2 times the depth of water.  In general, an iterative procedure will be required during design 
+to define the seastate. 
+It  will  also  be  necessary  to  check  that  the  seastate  at  the  toe  of  the  dike  is  consistent  with  the 
+Designated  Storm  for  the  annual  exceedance  probability  specified  for  the  sea  dike  planning  or 
+design process. 
+The details of the design seastate that are required for planning or design can be defined using the 
+procedures outlined in EA, ENW, KFKI (2007) or specifically in Battjes, et al. (2000). 
+
+3.2.7  Scour 
+
+Waves and currents may cause scour to occur on the seabed adjacent to a sea dike.  The scour 
+depth that may occur either during the design life of the sea dike or during the Designated Storm 
+should be considered and either allowed for in defining the necessary sea dike crest elevation or 
+scour protection should be provided as necessary. 
+
+                                                      
+
+7  The  term  “seastate”  is  used  in  this  document  to  encapsulate,  in  a  general  way,  all  of  the 
+parameters and characteristics that may be needed during design to define the waves at a given 
+instant in time.  The sea state is the general condition of the free surface of a body of water—with 
+respect to wind waves and swell—at a certain location and moment. The sea state is characterized 
+by  statistics, including wave  height(s),  period(s),  distribution  and  power spectrum.  The sea state 
+varies with time, as the weather or oceanographic factors change.  For engineering purposes the 
+seastate is often characterized by the significant wave height, Hs. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+10 
+
+ 
+
+3.2.8  Freeboard 
+
+It  is  common  practice  in  offshore  and  coastal  engineering  codes  and  standards  of  practice  to 
+include  provision  for  uncertainties  by  specifying  a  minimum  freeboard  or  similar  allowance.   
+Generally the freeboard accounts for the known uncertainties in technical elements of the design 
+methodology,  i.e.,  the  appropriate  wave  theory  for  the  depth  of  water  or  variations  in  seabed 
+conditions along the shoreline, among others.  
+In the specific case of the sea level rise to be considered for design, the problem is compounded 
+by  uncertainties  surrounding  the  present  estimates  of  the  future  extent  of  climate  change,  the 
+resulting sea level rise, the time frame over which a particular decision is being made and in some 
+cases for the actions or consequences of other stakeholders or property owners that may directly 
+affect a particular shoreline area. 
+A  more  detailed  review  of  issues  related  to  appropriate  freeboard  allowances  is  provided  in  the 
+companion policy document: Policy Discussion Paper 20103. 
+As  a  minimum,  it  is  recommended  that  the  present  freeboard  allowance  of  0.6  m  should  be 
+included in sea dike design, above and beyond any specific allowances adopted to deal with the 
+known uncertainties for the area in question.  These known uncertainties should be explicitly stated 
+during design. 
+ 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+11 
+
+ 
+
+4 
+
+Sea Dike Design 
+
+4.1.1  Crest Elevation 
+
+General 
+The crest elevation of a sea dike shall be established to provide the protection required during the 
+Designated Storm.  
+The Sea Dike Crest Elevation can be defined based on the following: 
+
+Designated Flood Level + Wave Run-up + Freeboard 
+
+  or: 
+
+Designated Flood Level + Acceptable Crest Height 
+
+ where: 
+Wave Run-up = vertical distance above the mean water level exceeded, by no more than 2% of 
+the waves at the toe of the sea dike 
+Acceptable  Crest  Height  =  vertical  distance  above  the  mean  water  level  required  to  keep  any 
+wave  overtopping  below  the  chosen  criteria  for  acceptable  rates  of  overtopping,  as  summarized 
+below in Table 4-1 or Table 4-2. 
+Alternatively an Acceptable Crest Height can be defined based on the results of a Quantitative Risk 
+Analysis (QRA) process that identifies an acceptable amount of inundation during the Designated 
+Storm. 
+In general, a Sea Dike Crest Elevation is established so that any overtopping that occurs during the 
+Designated Storm is within limits set to ensure that inundation behind the dike during the storm is 
+acceptable, that it is within the limits considered during the design of the dike armour components, 
+on the seaward and landward faces, and on the sea dike crest, and that it is consistent with any 
+requirement for personnel to be present on the dike during the Designated Storm Event. 
+The total quantity of overtopping during the Designated Storm should be defined to ensure that it is 
+consistent with the FCL defined for inundation behind a Sea Dike. 
+Overtopping of a sea dike can take two main forms.  If wave runup is high enough, relative to the 
+crest elevation of the dike, water can pass over the dike as a nearly continuous sheet or plume of 
+water.  In the second case, as waves break against the seaward face, a mixture of air and water 
+droplets – spray – can be carried over the dike, either by the momentum of the breaking wave or by 
+the added effect of entrainment into the onshore winds. Over time, if left undrained, the volume of 
+water contained in the spray can accumulate and result in flooding (inundation) behind the dike. 
+In  general,  it  is  usually  uneconomic  to  design  a  sea  dike  with  a  crest  elevation  high  enough  to 
+prevent all overtopping.  In many cases, other factors, including available land, existing land uses, 
+soil  conditions,  access,  visibility  over  the  dike  or  habitat  issues  may  limit  the  sea  dike  crest 
+elevation. 
+Guidance on acceptable limits for overtopping is available in the Reference Publications.  As initial 
+guidance, the average or mean overtopping discharges summarized below in Table 4-1 and Table 
+4-2 can be used. The criteria in Table 4-1 apply to a conventional sea dike with gentle seaward 
+slopes.  The criteria in Table 4-2 can be used to estimate the crest elevation required for a vertical 
+seawall that starts at or near the high tide elevation. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+12 
+
+ 
+
+It should be noted that these criteria do not cover all possible configurations of sea dikes, or all 
+issues that may be pertinent, and detailed engineering investigations may be required in specific 
+cases. 
+
+Table 4-1: Available Criteria for Acceptable Rates of Overtopping at a Sea Dike 
+
+Hazard and Reason 
+
+Mean Discharge 
+
+liters/s/m 
+
+source 
+
+No  damage  if  sea  dike  crest  or 
+rear slope is well protected 
+
+No  damage  if  sea  dike  crest  or 
+rear slope is a grass covered clay 
+embankment 
+
+No  damage  if  sea  dike  crest  or 
+rear slope is not protected 
+
+50 - 200 
+
+EA, ENW, KFKI (2007) 
+
+1-10 
+
+0.1 
+
+EA, ENW, KFKI (2007) 
+
+EA, ENW, KFKI (2007) 
+
+Note: 
+The mean discharge (q) is defined at the crest of the sea dike. 
+
+ 
+
+Table 4-2:  Available Criteria for Acceptable Rates of Overtopping at a Vertical Seawall 
+
+Hazard and Reason 
+
+Mean Discharge 
+
+liters/s/m 
+
+source 
+
+No  damage  expected  to  building 
+structural  elements  for  a  building 
+located behind the seawall. 
+
+(q is defined at the building) 
+
+No damage to Equipment set back 
+5  –  10  m  from  edge  of  seawall 
+crest. 
+
+(q is defined at the sea dike) 
+
+1 
+
+0.4 
+
+EA, ENW, KFKI (2007) 
+
+EA, ENW, KFKI (2007) 
+
+Note: 
+The existing criteria are vague on the definition of a building structural element. 
+
+ 
+The criteria in Table 4-1 were partially validated in 2007 by tests using an overtopping simulator on 
+a  real  sea  dike  in  the  Netherlands.    The  dike  had  an  landward  slope  of  1:3  (V:H)  and  was 
+constructed  of  clay  (less  than  30  per  cent  sand)  with  a  thick  grass  sod  cover.    The  sea  dike 
+successfully withstood a series of simulated 6 hour storms, up to a mean overtopping rate of 50 
+liters/s/m. 
+After  the  first  test,  the  grass  sod  was  removed  and  the  sequence  of  simulated  storms  was 
+repeated.  It  was  found  that  erosion  damage started  on  the “unprotected”  dike  at  an  overtopping 
+rate of 0.1 liters/s/m.  After 6 hours of overtopping at a mean rate of 10 liters/s/m, the sea dike was 
+considered “not too far from initial breaching”. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+13 
+
+ 
+
+Similar  testing  has  also  found  that  if  knowledgeable  people  (for  instance;  maintenance  or 
+inspection  crews)  or  vehicles  (for  inspection  during  storms)  are  present  on  the  dike,  then  safety 
+considerations may limit acceptable rates of overtopping to between 1 and 50 liters/s/m8. 
+Along a dike of approximately 1000 m length, a limit of 10 liters/s/m implies that during a six hour 
+storm the total volume of water overtopping the sea dike could amount to: 
+
+10 liters/s/m x 1000 m x 6 h x 3600 sec/hr = 216 million liters = 216,000 m3 
+
+This volume of water will amount to approximately 2 m of standing water over a land area of 10 
+hectares, unless it can be drained away. 
+In the case of the criteria in Table 4-2, it must be noted that reliable guidance does not exist to 
+define the effect of distance on the decay rate of overtopping and therefore it may not be clear how 
+far  behind  a  given  dike  or  seawall  a  building  must  be  to  satisfy  the  1  liter/m/s  threshold.    Site 
+specific engineering investigations are warranted in many situations. 
+Specification of a suitable Sea Dike Crest Elevation will generally be an iterative process as the 
+volume of overtopping for a given Designated Storm will be significantly influenced by the design of 
+the seaward face of the sea dike.  Acceptable quantities of overtopping may also be significantly 
+influenced by the design of the landward face of the sea dike, especially if space or land use does 
+not  permit  the  1:3  (V:H)  landward  slope  implied  by  the  criteria  in  Table  4-1.  Case  specific 
+engineering investigations will be warranted in many situations. 
+Examples of the application of the threshold conditions in Table 4-1 and Table 4-2 are provided in 
+Appendix C. 
+
+4.1.2  Seaward Face Design 
+
+General 
+The seaward face of a sea dike shall be designed to be stable and not vulnerable to breaching 
+during the Designated Storm.  The design of the seaward face shall take into consideration any 
+scour or erosion that may occur in front of the dike during the Designated Storm. 
+Guidance 
+Guidance  for  the  design  of  the  seaward  face  of  a  sea  dike  is  provided  in  the  Reference 
+Publications. 
+
+4.1.3  Landward Face Design 
+
+General 
+The landward face of a sea dike shall be designed to be stable and not vulnerable to erosion or 
+scouring by overtopping water during the Designated Storm. 
+Guidance 
+Guidance  for  the  design  of  the  landward  face  of  a  sea  dike  is  provided  in  the  Reference 
+Publications. 
+It  should  be  noted  that  design  guidance  for  the  landward  face  of  a  sea  dike  that  is  exposed  to 
+overtopping is, in general, limited in scope.  Structure specific detailed engineering investigations 
+will  likely  be  required  if  the  design  is  different  from  the  1:3  (V:H)  landward  slope  implied  by  the 
+criteria in Table 4-1 and Table 4-2. 
+
+                                                      
+8 These limits represent the extreme range that might be applicable.  An upper limit of 10 liters/s/m may be more 
+appropriate if personnel are outside of a vehicle. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+14 
+
+ 
+
+5 
+
+Bibliography 
+Battjes,  J  A  and  Groenendijk,  H  W.  2000.  Wave  Height  Distributions  on  Shallow  Foreshores. 
+Coastal Engineering. 2000, Vol. 40, pp. 161-182. 
+BC Sea Level Report 2008 means the report, “An Examination of the Factors Affecting Relative 
+and Absolute Sea Level in Coastal British Columbia” by R. Thomson, B. Bornhold, and S. Mazzotti, 
+2008,  Fisheries  and  Oceans  Canada,  Institute  of  Ocean  Sciences,  Sidney,  BC,  Canadian 
+Technical Report of Hydrography and Ocean Sciences 260, 2008. 
+British  Standards  Institution.  2000.  British  Standard  Code  of  Practice  for  Maritime  Structures. 
+London, UK : BSI Standards, 2000. BS 6349. 
+CIRIA; CUR; CETMEF. 2007. The Rock Manual. The Use of Rock in Hydraulic Engineering (2nd 
+Edition). London, UK : C683, CIRIA, London, 2007. 
+EA,  ENW,  KFKI.  2007.  EurOtop.  Wave  Overtopping  of  Sea  Defenses  and  Related  Structures: 
+Assessment Manual. 2007. 
+Hydraulic  Engineeering  Division,  Rijkswaterstaat.  (1998).  Dikes  and  Revetments  -  Design 
+Maintenance  and  Safety  Assessment.  (K.  W.  Pilarczyk,  Ed.)  Rotterdam,  The  Netherlands:  A.A. 
+Balkema. 
+ISO  (the  International  Organization  for  Standarization).  (2007).  Actions  from  Waves  and 
+Currents on Coastal Structures. Geneva: ISO 21650:2007(E). 
+US Army Corps of Engineering. 2002. Coastal Engineering Manual. Washington, DC : s.n., 2002. 
+Vol. in six volumes. EM 1110-2-1100. 
+ 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+15 
+
+ 
+
+Appendix A – Definitions, Terminology and Acronyms 
+
+ 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment / Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+Appendix A 
+
+ 
+
+Contents 
+
+Definitions 
+Annual Exceedence Probability (AEP) 
+Average Return Period 
+Designated Flood 
+Designated Flood Level (DFL) 
+Designated Storm (DS) 
+Diking Authority 
+Flood Construction Level (FCL) 
+Flood Construction Reference Plane (FCRP) 
+Flood Plain 
+Flood Proofing 
+Freeboard 
+
+Project Life 
+Sea Dike 
+Sea Dike Crest Elevation 
+Sea Dike System 
+Sea Level Rise (SLR) 
+Sea Level Rise Planning Area (SLR Planning Area) 
+Seastate 
+Setback 
+Standard Dikes 
+Storm Surge 
+Total Storm Surge 
+
+1 
+1.1 
+1.2 
+1.3 
+1.4 
+1.5 
+1.6 
+1.7 
+1.8 
+1.9 
+1.10 
+1.11 
+1.12  Natural Boundary 
+1.13 
+1.14 
+1.15 
+1.16 
+1.17 
+1.18 
+1.19 
+1.20 
+1.21 
+1.22 
+1.23 
+1.24  Wave Run-up 
+1.25  Wave Set-up 
+1.26  Wave Overtopping 
+1.27  Wind Set-up 
+2 
+2.1 
+2.2 
+2.3 
+2.4 
+2.5 
+2.6 
+2.7 
+2.8 
+2.9 
+2.10  Hs 
+2.11  HHWLT 
+2.12  HHWMT 
+2.13 
+2.14 
+2.15 
+2.16  MWL 
+2.17  QRA 
+2.18  R2% 
+
+IPCC 
+LLWLT 
+LLWMT 
+
+Acronyms and Symbols 
+CD 
+CGD 
+CHS 
+CIRIA; CUR; CETMEF 
+DPA 
+EA, ENW, KFKI 
+GCM 
+GHG 
+H1/10 
+
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+3 
+3 
+3 
+3 
+3 
+4 
+4 
+4 
+4 
+4 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+8 
+
+Appendix A 
+
+1 
+
+ 
+
+Definitions 
+The  incorporation  of  climate  change  related  sea  level  rise  considerations  into  existing  BC 
+Ministry of Environment documents is structured into three documents: 
+  Draft Policy Discussion Paper 2010 
+  Sea Dike Guidelines 2010 
+  Guidelines for Management of Coastal Flood Hazard Land Use 2010. 
+The  definitions  in  these  documents  follow,  where  possible,  the  definitions  and  terminology 
+that  are  either  consistent  with  the  existing  documents  or  consistent  with  existing  practise 
+worldwide.    In  some  cases  existing  definitions  or  terminology  require  modification  or 
+clarification  for  application  to  coastal  flooding  or  sea  dike  application  in  a  climate  change 
+driven sea level rise scenario. 
+Existing  definitions  are  provided  below  in  italics  followed  by  any  necessary  modification, 
+clarification or addition to the definitions or terminology in the existing documents. 
+Acronyms associated with the definitions that are used in the text are shown in brackets. 
+
+1.1  Annual Exceedence Probability (AEP) 
+The  probability,  likelihood  or  chance  of  a  particular  event  (e.g.,  a  storm  or  a  storm  surge) 
+being equalled or exceeded in any one year.  It is defined either as a number between 0 and 
+1 or as a corresponding percentage. 
+An  AEP  of  0.01  means  there  is  a 1% chance  of an  event,  of  a given  magnitude or  larger, 
+occurring in any single given year. An AEP of 0.01 or 1/100 yr also suggests that on average, 
+under certain conditions, the Average Return Period, or interval between recurrences of this 
+event, is approximately 100 years.  
+
+1.2  Average Return Period 
+Over a long period of time, the average number of years between occurrences of a particular 
+event. In general, the average return period is the reciprocal of the AEP – the relationship is 
+illustrated in the following table: 
+
+AEP 
+
+probability 
+
+0.5 
+0.1 
+0.01 
+0.005 
+0.001 
+0.0005 
+0.0002 
+0.0001 
+
+AEP 
+
+per cent  
+
+ 
+
+50% 
+10% 
+1% 
+0.5% 
+0.1% 
+0.05% 
+0.02% 
+0.01% 
+
+Average Return 
+
+Period 
+(years) 
+
+2 
+10 
+100  
+200 
+1000 
+2000 
+5000  
+10000 
+
+ 
+
+y
+t
+i
+l
+i
+
+b
+a
+b
+o
+r
+P
+
+ 
+
+s
+e
+s
+a
+e
+r
+c
+e
+d
+
+1 
+
+ 
+
+ 
+
+Appendix A 
+
+1 
+
+ 
+
+Using AEP to define the likelihood of hazard events is preferable to the average return period 
+as return period can lead to a false sense of security created by the belief that the indicated 
+number of years will pass before the next event of that magnitude occurs. 
+
+1.3  Designated Flood  
+A flood, which may occur in any given year, of such a magnitude as to equal a flood having a 
+200-year  recurrence  interval  based  on  a  frequency  analysis  of  unregulated  historic  flood 
+records or by regional analysis where there is inadequate streamflow data available. Where 
+the flow of a large watercourse is controlled by a major dam, the designated flood shall be set 
+on a site-specific basis. 
+In  coastal  areas,  the  existing  definition  of  a  Designated  Flood  is  not  appropriate  as  the 
+probability of flooding from the sea is the result of the joint occurrence of tide and a storm 
+crossing the coastal waters of British Columbia and at some time in the future, sea level rise 
+due to climate change.  
+In  estuaries,  where  a  river  discharges  into  the  sea,  the  definition  of  the  Designated  Flood 
+applies to the river. 
+In these documents the definition “Designated Flood” is replaced with the term “Designated 
+Storm” as defined below. 
+
+1.4  Designated Flood Level (DFL) 
+The observed or calculated elevation for the Designated Flood and is used in the calculation 
+of the Flood Construction Level. 
+In  coastal  areas,  the  Designated  Flood  Level  (DFL)  includes  the  appropriate  allowance  for 
+future sea level rise, tide and the total storm surge expected during the designated storm. 
+
+1.5  Designated Storm (DS) 
+A storm, which may occur in any given year, of such a magnitude as to equal a storm having 
+the designated annual exceedence probability (AEP).  
+The Designated Storm has several phenomena associated with it that will define components 
+of  the  Designated  Flood  Level,  including  storm  surge,  wind  set-up,  wave  run-up  and 
+overtopping for the storm.  These include: 
+  A time series of atmospheric pressure during the passage of the storm over the area in 
+
+question 
+
+  A time series of wind speed and direction during the passage of the storm over the area 
+
+in question 
+
+  A time series of wave conditions, including wave heights, periods and directions during 
+
+the passage of the storm in question. 
+
+1.6  Diking Authority 
+(a)  The  commissioners  of  a  district  to  which  Part  2  of  the  Drainage,  Ditch  and  Dike  Act 
+
+applies, 
+
+(b)  A person owning or controlling a dike other than a private dike, 
+(b1) If the final agreement of a treaty first nation so provides, the treaty first nation in relation 
+
+to dikes on its treaty lands, 
+
+Appendix A 
+
+2 
+
+ 
+
+(c)  A public authority designated by the minister as having any responsibility for maintenance 
+
+of a dike other than a private dike, or 
+
+(d)  A regional district, a municipality or an improvement district. 
+
+1.7  Flood Construction Level (FCL) 
+Uses the Designated Flood Level plus an allowance for Freeboard to establish the elevation 
+of the underside of a wooden floor system or top of concrete slab for habitable buildings. In 
+the  case  of  a  manufactured  home,  the  ground  level  or  top  of  concrete  or  asphalt  pad,  on 
+which  it  is  located,  shall  be  equal  to  or  higher  than  the  above  described  elevation.  It  also 
+establishes the minimum crest level of a Standard Dike. Where the Designated Flood Level 
+cannot be determined or where there are overriding factors, an assessed height above the 
+natural boundary of the water-body or above the natural ground elevation may be used (as 
+defined in the Land Use Guidelines 2004).  
+In coastal areas the FCL does not relate to the crest level of a sea dike, nor does it relate to 
+the crest level of flood proofing fill exposed directly to the designated flood level.  The FCL 
+does; however, include wave – structure interaction effects, to be determined at the location 
+of the site of the building. 
+
+1.8  Flood Construction Reference Plane (FCRP) 
+The  vertical  elevation  of  an  estimated  future  Natural  Boundary  from  which  the  FCL  is 
+determined. 
+
+1.9  Flood Plain 
+A lowland area, whether diked, flood proofed, or not, which, by reasons of land elevation, is 
+susceptible to flooding from an adjoining watercourse, ocean, lake or other body of water and 
+for  administration  purposes  is  taken  to  be  that  area  submerged  at  the  Designated  Flood 
+Level. 
+In  coastal  areas  the  concept  of  the  Flood  Plain  has  been  extended  to  a  “Sea  Level  Rise 
+Planning Area”; defined below.  Special measures may be warranted in this area. 
+
+1.10  Flood Proofing 
+The  alteration  of  land  or structures  either physically  or  in use  to  reduce  flood  damage and 
+includes the use of building setbacks from water bodies to maintain a floodway and allow for 
+potential erosion. Flood Proofing may be achieved by all or a combination of the following: 
+  Building on fill, provided such fill does not interfere with flood flows of the watercourse, 
+
+and is adequately protected against floodwater erosion 
+
+  Building raised by structural means such as foundation walls, columns, etc. 
+  A combination of fill and structural means. 
+In  coastal  areas  exposed  to  flooding,  construction  of  fill  as  a  flood  proofing  measure  may 
+substantially increase the freeboard required to define the FCL, if the fill is directly exposed to 
+the Designated Flood Level. In this case, the FCL must be equivalent to the crest level of a 
+sea dike with the same characteristics as the seaward face of the fill.. 
+
+1.11  Freeboard  
+A  vertical  distance  added  to  the  Designated  Flood  Level.  Used  to  establish  the  Flood 
+Construction Level.   
+
+Appendix A 
+
+3 
+
+ 
+
+In coastal areas, the vertical distance to be added to a Designated Flood Level is site and 
+structure specific. 
+
+1.12  Natural Boundary 
+Means the visible high watermark of any lake, river, stream or other body of water where the 
+presence  and  action  of  the  water  are  so  common  and  usual  and  so  long  continued  in  all 
+ordinary years as to mark upon the soil of the bed of the lake, river, stream or other body of 
+water a character distinct from that of the banks thereof, in respect to vegetation, as well as in 
+respect to the nature of the soil itself (Land Act, Section 1).  In addition, the natural boundary 
+includes the best estimate of the edge of dormant or old side channels and marsh areas.  For 
+coastal  areas,  the  natural  boundary  shall  include  the  natural  limit  of  permanent  terrestrial 
+vegetation.  
+Natural Boundary is an established concept in BC law – and reflects a change in vegetation 
+and soil based on effects of the sea. In the Flood Hazard Area Land Use Guidelines 2004, 
+building setbacks were established from Natural Boundary, on the unstated assumption that 
+the location of Natural Boundary is relatively static (other than erosions and accretions).  
+Natural boundary is, in practice, often difficult to determine in the field or from remote survey. 
+In  coastal  areas,  the  Natural  Boundary  reflects  a  snapshot  historical  record  of  tide,  storm 
+surge and wave runup effects, which may be the mark of a recent storm in an ordinary year or 
+it may be the mark of the most severe storm in recent times.  There is no way of knowing for 
+certain.  A technical basis for the Natural Boundary in coastal areas is site and time specific.  
+In the future the location and elevation of a Natural Boundary will change from time to time 
+due to changes associated with sea level rise and it will likely lag sea level rise.  It is also 
+unlikely to immediately reflect the action of the water, especially the storm surge and waves, 
+during a Designated Storm. 
+
+1.13  Project Life 
+The number of years a particular project; including a sea dike, a building or a community, is 
+intended  to  serve  before  it  is  replaced,  upgraded  or  dismantled.    Regular  maintenance  to 
+ensure the project provides the intended purpose is expected during the project life. 
+
+1.14  Sea Dike 
+A dike, floodwall or any other thing that prevents flooding of land by the sea. As defined in the 
+Dike Maintenance Act, “dike” means “an embankment, wall, fill, piling, pump, gate, flood box, 
+pipe, sluice, culvert, canal, ditch, drain”. 
+
+1.15  Sea Dike Crest Elevation 
+Sea  Dike  Crest  Elevation  has  essentially  the  same  meaning  as  “dike  crest  height”  in  the 
+existing  document  “Dike  Design  and  Construction  Guide  2003”.  However,  the  existing 
+definition  of  dike  height  suggests  that  consideration  of  wave  run-up  and  set-up  is  optional. 
+The term Sea Dike Crest Elevation is defined to specifically cover scenarios where wave run-
+up, overtopping and wind and wave setup must be included in defining the height of the dike. 
+
+1.16  Sea Dike System 
+A  system  of:  dikes,  dunes,  berms  or natural shorelines  that  provide  a  similar  function;  and 
+associated  engineering  works  (e.g.,  tidal  gates,  outfalls,  outlet  structures,  seawalls,  quay 
+walls, ramps, adjacent building features, etc.) used to protect land from flooding or inundation. 
+In the Netherlands where dike systems are highly evolved, a dike system is termed a “dike 
+ring” that forms the flooding defence for a region.  There are approximately 95 such rings in 
+
+Appendix A 
+
+4 
+
+ 
+
+the Netherlands and each ring is the responsibility of a separate organizational entity, subject 
+to national overview. 
+In BC, multiple Diking Authorities may share responsibility for the same sea dike system. 
+
+1.17  Sea Level Rise (SLR) 
+An allowance for increases in the mean elevation of the ocean associated with future climate 
+change, including any regional effects such as crustal subsidence or uplift.  
+
+1.18  Sea Level Rise Planning Area (SLR Planning Area) 
+An  area  of  land  that  may  be  subject  to  future  flooding  due  to  Sea  Level  Rise.  This  area 
+defines a future coastal flood plain.  The SLR Planning Area extends from the existing Natural 
+Boundary  landward  to  the  highest  predicted  point  of  potential  flooding  related  to  SLR  plus 
+flooding  expected  from  the  combination  of  high  tide,  total  storm  surge  and  expected  wave 
+runup during the Designated Storm. 
+Predictions  of  SLR  for  the  SLR  Planning  Area  definition  shall  use  best  predictions  for 
+minimum periods of 90-100 years and 200 years forward. From time to time, both the Natural 
+Boundary and the predictions for SLR are subject to change, and therefore the extent of a 
+SLR Planning Area may be revised at regular intervals in the future. 
+
+1.19  Seastate 
+The  term  “seastate”  is  used  to  encapsulate,  in  a  general  way,  all  of  the  parameters  and 
+characteristics that may be needed during design to define the waves at a given instant in 
+time.    The  sea  state  is  the  general  condition  of  the  free  surface  of  a  body  of  water—with 
+respect  to  wind  waves  and  swell—at  a  certain  location  and  moment.  The  sea  state  is 
+characterized  by  statistics,  including  wave  height(s),  period(s),  distribution  and  power 
+spectrum. The sea state varies with time, as the weather or oceanographic factors change.  
+For engineering purposes the seastate is often characterized by the significant wave height, 
+Hs. 
+
+1.20  Setback  
+Means withdrawal or siting of a building or landfill away from the natural boundary or other 
+reference line to maintain a floodway and to allow for potential land erosion.   
+
+1.21  Standard Dikes 
+Dikes built to a minimum crest elevation equal to the Flood Construction Level and meeting 
+standards  of  design  and  construction  approved  by  the  Ministry  of  Environment  and 
+maintained by an ongoing authority such as a local government body. 
+
+1.22  Storm Surge  
+A change in water level caused by the action of wind and atmospheric pressure variation on 
+the  sea  surface.  The  typical  effect  is  to  raise  the  level  of  the  sea  above  the  predicted 
+astronomical tide level, although in some situations, such as when winds blow offshore, the 
+actual water level may be lower than that predicted. The magnitude of a storm surge on the 
+BC  coast  will  be  dependent  on  the  severity  and  duration  of  the  storm  event  in  the  North 
+Pacific, its track relative to the BC coast and the seabed bathymetry at the site. 
+
+1.23  Total Storm Surge 
+The combination of the storm surge generated in deep water plus the additional local surge or 
+wind setup generated by the effect of the winds during the Designated Storm over shallow 
+
+Appendix A 
+
+5 
+
+ 
+
+water at a particular site.  In general the deep water storm surge is nearly the same as that 
+recorded at a tidal gauging station.  Additional surge may occur at other sites.  For planning 
+purpose, winds during a Designated Storm will start to generate local surge in water depths 
+less than 30 m. 
+
+1.24  Wave Run-up 
+The vertical distance that waves run-up the seaward slope of a structure or a shoreline.  The 
+vertical  distance  is  measured  from  the  mean  water  level,  which  is  the  same  as  the 
+Designated Flood Level. 
+For  coastal  flooding  hazard  management  the  Wave  Run-up  is  taken  as  50  per  cent  of  the 
+calculated  run-up  elevation  on  the  natural  shoreline.    This  ratio  is  based  on  analysis 
+completed  for  this  assignment  (2010)  and  may  be  revised  as  more  information  becomes 
+available. 
+For defining a Sea Dike Crest Elevation the Wave Run-up is taken to be the vertical distance 
+exceeded by no more than 2% of the waves during the Designated Storm at the toe of the 
+sea dike 
+
+1.25  Wave Set-up  
+An increase in mean water surface close to the shoreline caused by wave action; important 
+during storm events as it results in a further increase in water level above the tide and surge 
+levels, landward of the location where waves start to break. Wave set-up will lead to larger 
+waves existing at the seaward toe of a sea dike than might otherwise be expected. 
+
+1.26  Wave Overtopping 
+The passage of water over the top of a sea dike as a result of wave runup or related surge 
+and setup.  Water overtopping a sea dike may pass over the dike as a flow of water or as 
+spray and the specific characteristics are site and structure specific. 
+
+1.27  Wind Set-up 
+A rise of the water surface above the water level on the open coast due to the local action of 
+wind stress on the water surface. 
+
+2 
+
+Acronyms and Symbols 
+
+2.1  CD 
+Tide and chart datum – in Canadian waters the plane below which the tide will seldom fall.  
+Tide  datum  and  chart  datum  is  usually  the  same  provided  the  chart  is  the  largest  scale 
+available chart for area.  For a site specific survey tide and chart (sounding) datum may be 
+different and the specifics should be stated explicitly. 
+
+2.2  CGD 
+Canadian Geodetic Datum.  In 2010 the vertical reference plane in Canada is in the process 
+of being changed from a MSL related datum plane – technically known as CGVD28 – to a 
+geoid 
+at 
+http://www.geod.nrcan.gc.ca/hm/index_e.php.  The term CGD is taken to mean the datum as 
+defined in 2010 and approximately equal to MSL. 
+
+described 
+
+program 
+
+plan. 
+
+ 
+
+based 
+
+datum 
+
+The 
+
+update 
+
+is 
+
+Appendix A 
+
+6 
+
+ 
+
+2.3  CHS 
+Canadian Hydrographic Service 
+
+2.4  CIRIA; CUR; CETMEF 
+European agencies sponsoring the “Rock Manual” 
+
+2.5  DPA 
+Development Permit Area 
+
+2.6  EA, ENW, KFKI 
+European agencies sponsoring the “EurOtop” Manual 
+
+2.7  GCM 
+Global Climate Model 
+
+2.8  GHG 
+Green house gases 
+
+2.9  H1/10 
+Mean height of the highest 10 per cent of waves in a given seastate 
+
+2.10  Hs 
+Significant wave height – the mean height of the highest 1/3 of waves in a given seastate – 
+approximately equal to the wave height estimated at sea by experienced observers. 
+
+2.11  HHWLT 
+Higher high water large tide 
+
+2.12  HHWMT 
+Higher high water mean tide 
+
+IPCC 
+
+2.13 
+International Panel on Climate Change 
+
+2.14  LLWLT 
+Lower low water large tide 
+
+2.15  LLWMT 
+Lower low water mean tide 
+
+2.16  MWL 
+Mean water level  
+
+2.17  QRA 
+Quantitative Risk Analysis 
+
+Appendix A 
+
+7 
+
+ 
+
+2.18  R2% 
+Wave run-up height exceeded by 2% of waves in a given seastate 
+
+Appendix A 
+
+8 
+
+ 
+
+Appendix B – Uplift and Subsidence Rates 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment / Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+Appendix B 
+
+ 
+
+Contents 
+
+1 
+1.1 
+1.2 
+
+Uplift and Subsidence Rates 
+Introduction 
+Site Specific Data 
+ 
+
+1 
+1 
+1 
+
+Appendix B 
+
+ 
+
+ 
+
+1 
+
+1.1 
+
+1.2 
+
+Uplift and Subsidence Rates  
+
+Introduction 
+This Appendix provides a brief summary of the available information on subsidence and uplift 
+rates along the British Columbia coast. 
+The BC Sea Level Report (2008) – Chapter 3 - provides a description of crustal movements 
+along the coast of British Columbia and a brief summary of rates for selected locations. More 
+specific  site detail  is  provided  in  Table  1-1  based  on  an unpublished  addendum  to  the  BC 
+Sea Level Report (2008) provided by BCMOE. 
+
+Site Specific Data 
+The data in Table 1-1 summarizes the rates of uplift (positive) or subsidence (negative) and 
+the standard error based on relative sea-level rates corrected for eustatic sea level rise (tide 
+gauge stations) or on absolute trends of vertical motion (GPS stations).  
+
+Table 1-1:  Table of Current (2010) Uplift and Subsidence Rates for Tide Gauge and 
+
+GPS stations in British Columbia 
+
+Uplift / Subsidence 
+
+Rate 
+
+V 
+
+uplift (+) 
+
+Station 
+
+Name 
+
+Data Type 
+
+Lat. 
+
+Lon. 
+
+T 
+
+ 
+
+Prince Rupert 
+
+Queen Charlotte City 
+
+Bella Bella 
+
+Winter Harbour 
+
+Zeballos 
+
+Gold River 
+
+Tofino 
+
+Port Alberni 
+
+Bamfield 
+
+Port Renfrew 
+
+TG = tide gauge 
+
+station 
+
+GPS = GPS 
+
+station 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+°N 
+
+°W 
+
+54.317 
+
+130.324 
+
+53.252 
+
+132.072 
+
+52.163 
+
+128.143 
+
+50.513 
+
+128.029 
+
+49.979 
+
+126.846 
+
+49.679 
+
+126.126 
+
+49.154 
+
+125.913 
+
+49.233 
+
+124.814 
+
+48.836 
+
+125.136 
+
+48.555 
+
+124.421 
+
+Years 
+
+of 
+
+record 
+
+77 
+
+45 
+
+45 
+
+18 
+
+13 
+
+13 
+
+58 
+
+40 
+
+37 
+
+27 
+
+(mm/yr) 
+
+0.5 
+
+2.2 
+
+2.3 
+
+1.7 
+
+5.1 
+
+0.7 
+
+2.7 
+
+2.5 
+
+1.6 
+
+-0.4 
+
+σ 
+
+0.2 
+
+0.3 
+
+0.4 
+
+0.8 
+
+1.6 
+
+1.8 
+
+0.3 
+
+0.6 
+
+0.4 
+
+0.6 
+
+Appendix B 
+
+1 
+
+ 
+
+Station 
+
+Name 
+
+Data Type 
+
+Lat. 
+
+Lon. 
+
+T 
+
+Uplift / Subsidence 
+
+Rate 
+
+V 
+
+uplift (+) 
+
+ 
+
+Port Hardy 
+
+Alert Bay 
+
+Campbell River 
+
+Little River 
+
+Point Atkinson 
+
+Vancouver 
+
+New Westminster 
+
+Fulford Harbour 
+
+Patricia Bay 
+
+Victoria 
+
+Sooke 
+
+Albert Head (Colwood) 
+
+Bamfield 
+
+Langley 
+
+Richmond 
+
+Telegraph Cove 
+
+Port Hardy 
+
+Surrey 
+
+Vancouver 
+
+Eliza (W of Zeballos) 
+
+Esquimalt 
+
+TG = tide gauge 
+
+station 
+
+GPS = GPS 
+
+station 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+TG 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+°N 
+
+°W 
+
+50.722 
+
+127.489 
+
+50.587 
+
+126.931 
+
+50.042 
+
+125.247 
+
+49.741 
+
+124.923 
+
+49.337 
+
+123.253 
+
+49.287 
+
+123.110 
+
+49.200 
+
+122.910 
+
+48.769 
+
+123.451 
+
+48.654 
+
+123.452 
+
+48.424 
+
+123.371 
+
+48.370 
+
+123.726 
+
+Years 
+
+of 
+
+record 
+
+43 
+
+33 
+
+37 
+
+25 
+
+73 
+
+58 
+
+38 
+
+40 
+
+31 
+
+98 
+
+12 
+
+48.390 
+
+123.487 
+
+10.8 
+
+48.835 
+
+125.135 
+
+49.104 
+
+122.657 
+
+49.115 
+
+123.147 
+
+50.544 
+
+126.843 
+
+50.686 
+
+127.375 
+
+49.192 
+
+122.860 
+
+49.276 
+
+123.089 
+
+49.873 
+
+127.123 
+
+48.429 
+
+123.429 
+
+4.5 
+
+3.9 
+
+3.9 
+
+6 
+
+5.5 
+
+3.9 
+
+3.8 
+
+6.2 
+
+6.6 
+
+(mm/yr) 
+
+2.5 
+
+3.5 
+
+4.1 
+
+3.0 
+
+1.3 
+
+1.2 
+
+4.6 
+
+1.4 
+
+1.7 
+
+1.2 
+
+3.3 
+
+0.6 
+
+3.9 
+
+-0.7 
+
+-2.1 
+
+4.0 
+
+3.9 
+
+0.7 
+
+-0.3 
+
+1.0 
+
+1.4 
+
+σ 
+
+0.4 
+
+0.4 
+
+0.5 
+
+0.6 
+
+0.2 
+
+0.2 
+
+2.0 
+
+0.2 
+
+0.8 
+
+0.2 
+
+0.9 
+
+0.7 
+
+1.5 
+
+0.9 
+
+0.9 
+
+1.0 
+
+1.3 
+
+0.9 
+
+1.0 
+
+1.1 
+
+0.8 
+
+Appendix B 
+
+2 
+
+ 
+
+Station 
+
+Name 
+
+Data Type 
+
+Lat. 
+
+Lon. 
+
+T 
+
+Uplift / Subsidence 
+
+Rate 
+
+V 
+
+uplift (+) 
+
+ 
+
+Holberg 
+
+Nanoose Bay 
+
+Nootka Island 
+
+Patricia Bay 
+
+Port Alberni 
+
+Chemainus 
+
+Ucluelet 
+
+Prince Rupert 
+
+Sandspit 
+
+Bella Bella 
+
+TG = tide gauge 
+
+station 
+
+GPS = GPS 
+
+station 
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+GPS 
+
+°N 
+
+°W 
+
+50.640 
+
+128.135 
+
+49.295 
+
+124.086 
+
+49.592 
+
+126.617 
+
+48.648 
+
+123.451 
+
+49.256 
+
+124.861 
+
+48.923 
+
+123.704 
+
+Years 
+
+of 
+
+record 
+
+10.8 
+
+10.8 
+
+6.2 
+
+7.1 
+
+4.5 
+
+3.4 
+
+48.926 
+
+125.542 
+
+10.8 
+
+54.277 
+
+130.435 
+
+53.254 
+
+131.807 
+
+52.158 
+
+128.110 
+
+2.0 
+
+1.8 
+
+1.7 
+
+(mm/yr) 
+
+2.4 
+
+2.1 
+
+3.2 
+
+1.4 
+
+3.7 
+
+2.0 
+
+2.6 
+
+-1.7 
+
+2.0 
+
+3.8 
+
+σ 
+
+0.9 
+
+0.8 
+
+1.0 
+
+0.8 
+
+1.0 
+
+1.3 
+
+0.8 
+
+1.7 
+
+1.9 
+
+2.0 
+
+Notes: 
+Source: “Addendum to Thomson, R.E., Bornhold, B.D., and Mazzotti, S. 2008. An Examination of the Factors 
+Affecting Relative and Absolute Sea Level in Coastal British Columbia. Can. Tech. Rep. Hydrogr.Ocean Sci. 260: 
+v + 49 p” – provided by BCMOE, T Neale, 23 March 2010 
+ 
+ 
+ 
+
+Appendix B 
+
+3 
+
+ 
+
+Appendix C – Sea Dike Examples 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment / Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+Appendix C 
+
+ 
+
+Contents 
+
+1 
+1.1 
+1.2 
+1.3 
+1.4 
+
+Examples of Sea Dike Guidelines 
+Introduction 
+Boundary Bay Sea Dike 
+Richmond – Sturgeon Bank Sea Dike 
+Granville Island 
+ 
+
+1 
+1 
+1 
+7 
+12 
+
+Appendix C 
+
+1 
+
+ 
+
+1 
+
+1.1 
+
+Examples of Sea Dike Guidelines 
+
+Introduction 
+The sea dike examples shown in this Appendix are intended solely as examples of the application 
+of the Sea Dike Guidelines and are not intended as specific guidelines for dike requirements at any 
+of the locations.  Simplifying assumptions have been made in the development of these examples, 
+especially with regard to design criteria, solely for the purpose of developing examples.  A detailed 
+planning  or  design  process  will  need  to  undertake  site  specific  investigations  to  develop  the 
+appropriate  design  criteria.    The  examples  illustrated  in  this  section  also  do  not  consider 
+environmental or land-use issues and the dike footprints shown in these examples do not reflect 
+any  consideration  of  these  important  issues.    No  consideration  is  given  to  the  stages  of  design, 
+approval  or  construction  that  might  be  necessary  to  implement  these  examples  nor  do  the 
+examples reflect any consideration of alternate designs that might be suitable based on detailed 
+site specific requirements or design. 
+
+1.2 
+
+Boundary Bay Sea Dike 
+
+1.2.1  Location 
+
+The  existing  Boundary  Bay  sea  dike  is  located  along  the  south  boundary  of  the  Corporation  of 
+Delta  (Delta)  and  the  north  shore  of  Boundary  Bay,  Figure  1-1.    The  dike,  which  runs  from 
+approximately 17A Ave. in Tsawwassen to the boundary with Surrey in the east, generally protects 
+low  lying  agricultural  land.    The  protected  area  also  includes  the  Boundary  Bay  airport  and  the 
+Delta Heritage Airport.  
+The dike is directly exposed to long-term sea level rise, tides, storm surge and to the local wind 
+setup and the wave climate generated by SE through SW winds associated with severe storms in 
+the south end of the Strait of Georgia and across Boundary Bay, Figure 1-2.  The maximum direct 
+exposure is due S across to Orcas Island in the US Gulf Islands; however, wave generation may 
+occur over the open water extending SE towards Rosario Strait, located east of Orcas Island.  The 
+maximum available fetch is limited to approximately 45 km. 
+The seaward slope of the existing dike is armoured with a conventional armour stone protection 
+system.  A gravel road (with some paved sections) is located on the crest, Figure 1-3 and Figure 
+1-4.  The landward slope is planted with grass, Figure 1-5. 
+The existing dike cross-section in the vicinity of this example is shown in Figure 1-6. 
+ Land elevations in the area behind the dike are reported to be subsiding at a rate of approximately 
+1-2 mm/year.  Typical present (2010) land elevations behind the dike are approximately 1.5 to 1.8 
+m CGD. 
+The net expected (including land subsidence) regional sea level rise by 2100 for this area is 1.2 m. 
+
+Appendix C 
+
+1 
+
+ 
+
+Figure 1-1:  Location of Boundary Bay Sea Dike Example 
+
+source CHS Chart 3001 – Not for Navigation 
+
+ 
+
+Figure 1-2: View from Existing Dike Looking S (mid-tide) 
+
+Dike toe in foreground – Orcas Island in background to the right. 
+
+ 
+
+2 
+
+Appendix C 
+
+ 
+
+Figure 1-3: View Looking W along Seaward Face of Dike 
+
+ 
+
+ 
+
+Figure 1-4: View looking W along Existing Dike Crest 
+
+Appendix C 
+
+3 
+
+ 
+
+Figure 1-5: View Looking W at Lands behind Dike 
+
+ 
+
+Sea Side
+
+Land Side
+
+~3
+
+~1
+
+El. 4.0m 
+
+El. 3.8m 
+
+0 m 
+
+20 m 
+
+10 m 
+
+0
+
+-10 m 
+
+ 
+
+Figure 1-6:  Typical Cross-Section of Existing Dike 
+
+source: Corporation of Delta Engineering 
+
+elevations: CGD 
+
+ 
+
+Appendix C 
+
+4 
+
+ 
+
+1.2.2  Assessment of Dike Design Guidelines – Boundary Bay Sea Dike 
+
+1.2.2.1  Design Basis 
+
+  AEP for Designated Storm: 1/200 for 2010 (Existing Guidelines), 1/500 for 2100 and 2200 
+
+(Updated Guidelines) 
+
+  Tides: Based on CHS Tide Tables, Vol 5, Secondary Port: 7579 Crescent Beach 
+  Designated Storm assumed to have storm force winds (≥ 48 knots); depth limited waves at 
+
+toe of dike and peak winds, storm surge and seastate maxima occur simultaneously. 
+
+  Storm Surge during Designated Storm as per Table 3-3, this document. 
+  Wave set-up is included in the determination of Wave Runup. 
+  Cross section slope and armour details are taken to be the same general type as on the 
+existing  dike  except  that  a  1:3  grass  protected  interior  slope  is  implicitly  assumed  to  be 
+present to conform with available acceptance criteria for mean overtopping rates, Table 4-
+1, this document. 
+
+ 
+
+CASE 
+
+Table 1-1: Summary of Sea Dike Crest Elevations 
+
+Boundary Bay 
+2010 
+
+“existing” 
+Guideline 
+
+2100 
+
+“ updated” 
+Guideline 
+
+2200 
+
+“updated” 
+Guideline 
+
+CGD = MWL = +2.8 m CD 
+
++1.6 m CGD 
+
+Reference vertical plane 
+Elevation of Toe of Sea Dike 
+Regional SLR (m, wrt MWL) 
+Reference Tide level  (HHWLT) (m) 
+Storm Surge AEP 
+Storm surge height (m) 
+Local wind set up (m) 
+Designated Flood Level (m, CGD) 
+Wave Runup (R 2%) m 
+Runup elevation for “green” water alone (m, CGD) 
+Crest Elevation for 10 L/s/m (m, CGD) 
+Crest Elevation for 1 L/s/m (m, CGD) 
+Freeboard (m) 
+Comment: 
+The values in the Table above Designated Flood Level are site specific and those shown are guideline values for 
+these examples.  The values in the Table below Designated Flood Level result from the site specific values based 
+on the procedures defined in the Standards and Guidelines referenced in this document 
+
+1.2  
++1.8  
+1/500 
+1.3 
+0.5 
+4.8 
+2.6 
+7.4  
+6.9  
+7.8  
++0.6 
+
+2.4  
++1.8  
+1/500 
+1.3 
+0.5 
+6.0 
+3.6 
+9.6  
+9.3  
+10.5  
++0.6 
+
+0  
+
++1.8  
+1/200 
+1.25  
+0.4 
+3.45 
+1.4 
+4.9 
+4.4  
+5.0  
++0.6 
+
+The resulting crest elevations in Table 1-1 show clearly how careful evaluation of the acceptance 
+criteria for overtopping volumes of water is critical to the design of a sea dike that can be expected 
+to provide the required degree of safety to the community located behind the dike. 
+
+1.2.3  Conceptual Dike Arrangement 
+
+An example dike cross-section for the year 2100, as per Table 1-1 above, is shown below in  
+
+Appendix C 
+
+5 
+
+ 
+
+Figure 1-7 where the range of dike elevations, not including a freeboard allowance, is indicated for 
+overtopping  acceptance  criteria  of  1  L/s/m  and  10  L/s/m.    The  example  section  is  positioned 
+directly over the crest of the existing dike for illustration purposes only. 
+
+Figure 1-7:  Example Sea Dike for 2100 – Boundary Bay 
+
+elevations: CGD 
+
+ 
+
+  
+
+Appendix C 
+
+6 
+
+ 
+
+1.3 
+
+Richmond – Sturgeon Bank Sea Dike 
+
+1.3.1  Location 
+
+The Richmond-Sturgeon Bank Sea Dike is located on the shoreline of West Richmond and protects 
+the City of Richmond from inundation by storm surge and associated wave effects from the Strait of 
+Georgia, Figure 1-8. The sea dike is one part of the dike system that surrounds Richmond. 
+The dike is directly exposed to sea level rise, storm surges and only indirectly to the wave climate 
+in the Strait of Georgia as some protection is provided by the extensive inter-tidal flats of Sturgeon 
+Bank, by the jetties located on the main and north arms of the Fraser River and by the Iona jetty.  
+This site is most exposed to severe NW winds that follow in the wake of severe storm systems; 
+however at  a  detailed  stage  of  evaluation,  consideration  about  the  present  and  future  degree  of 
+protection against SE and S winds provided by the Steveston Jetty will be required. 
+The seaward slope of the existing dike consists of a grass covered 1:5 slope with a steep grass 
+covered landside slope leading to a drainage channel, Figure 1-9 and Figure 1-10.  The existing 
+dike cross-section in the vicinity of this example is shown in Figure 1-11. 
+Land-use immediately behind the dike consists mainly of residential and recreational (golf course) 
+land  uses,  Figure 1-12.  Some  areas  of  the  adjacent  lands have  recently  been  redeveloped  to  a 
+higher density than the historical single-family housing,  
+Land elevations in the area are reported to be subsiding at a rate of approximately 1-2 mm/year. 
+The net expected (including land subsidence) regional sea level rise by 2100 for this area is 1.2 m. 
+
+Figure 1-8: Location of West Richmond Sea Dike Example 
+
+source CHS Chart 3001 – Not for Navigation 
+
+ 
+
+7 
+
+Appendix C 
+
+ 
+
+ 
+
+ 
+
+Figure 1-9: View of Seaward Face 
+
+ 
+
+Figure 1-10: View of Landward Face 
+
+ 
+
+ 
+
+Appendix C 
+
+8 
+
+ 
+
+Sea Side
+
+5
+
+1
+
+1.5 m 
+
+El. 3.35m 
+
+0 m 
+
+10 m 
+
+0
+
+20 m 
+Figure 1-11:  Existing Dike Cross-Section (typical) 
+
+-10 m 
+
+ elevations CGD 
+
+Land Side
+
+ 
+
+Figure 1-12: View of Land Use behind Dike 
+
+ 
+
+Appendix C 
+
+9 
+
+ 
+
+ 
+
+1.3.2  Assessment of Dike Design Guidelines – Richmond West Sea Dike 
+
+1.3.2.1  Design Basis 
+
+  AEP for Designated Storm: 1/200 for 2010 (Existing Guidelines), 1/500 for 2100 and 2200 
+
+(Updated Guidelines) 
+
+  Tides: Based on CHS Tide Tables, Vol 5, Secondary Port: 7594 Sand Heads 
+  Designated Storm assumed to have storm force winds (≥ 48 knots); depth limited waves at 
+
+toe of dike and peak winds, storm surge and seastate maxima occur simultaneously. 
+
+  Storm Surge during Designated Storm as per Table 3-3, this document. 
+  Wave set-up is included in the determination of Wave Runup. 
+  Cross section slope and armour details are taken to be the same general type as on the 
+existing  dike  except  that  a  1:3  grass  protected  interior  slope  is  implicitly  assumed  to 
+conform  with  available  acceptance  criteria  for  mean  overtopping  rates,  Table  4-1,  this 
+document. 
+
+  The mean overtopping rate criteria in Table 4-1 are assumed to apply for a seaward slope 
+
+of 1:5. 
+
+ 
+
+CASE 
+
+Table 1-2: Summary of Sea Dike Crest Elevations 
+
+Richmond West 
+
+2010 
+
+“existing” 
+Guidelines 
+
+2100 
+
+“ updated” 
+Guidelines 
+
+2200 
+
+“updated” 
+Guidelines 
+
+CGD = MWL = +2.9 m CD 
+
++1.5 m CGD 
+
+Reference vertical plane 
+Elevation of Toe of Sea Dike 
+Regional SLR (m, wrt MWL) 
+Reference Tide level  (HHWLT) (m) 
+Storm Surge AEP 
+Storm surge height (m) 
+Local wind set up (m) 
+Designated Flood Level (m, CGD) 
+Wave Runup (R 2%) m 
+Runup elevation for “green” water alone (m, CGD) 
+Crest Elevation for 10 L/s/m (m, CGD) 
+Crest Elevation for 1 L/s/m (m, CGD) 
+Freeboard (m) 
+Comment: 
+The values in the Table above Designated Flood Level are site specific and those shown are guideline values for 
+these examples.  The values in the Table below Designated Flood Level result from the site specific values based on 
+the procedures defined in the Standards and Guidelines referenced in this document 
+
+2.4  
++2.0  
+1/500 
+1.3 
+0.4 
+6.1 
+3.8 
+9.9  
+8.7  
+10.6  
++0.6 
+
+1.2 
++2.0 
+1/500 
+1.3 
+0.4 
+4.9 
+2.7 
+7.6  
+6.8  
+7.8  
++0.6 
+
+0 
+
++2.0 
+1/200 
+1.25 
+0.3 
+3.55 
+1.5 
+5.1  
+4.6  
+5.1  
++0.6 
+
+ 
+
+Appendix C 
+
+10 
+
+ 
+
+The resulting crest elevations in Table 1-2 show clearly how careful evaluation of the acceptance 
+criteria for overtopping volumes of water is critical to the design of a sea dike that can be expected 
+to provide the required degree of safety to the community located behind the dike. 
+Changes to the dike cross-section, including details of the toe protection that might be considered, 
+the slope of the seaward and landward faces and the surface treatment of both slopes will result in 
+different crest elevations from those presented in Table 1-2. 
+ 
+
+1.3.3  Conceptual Dike Arrangement 
+
+An example dike cross-section for the year 2100, as per Table 1-2 above, is shown below in Figure 
+1-13  where  the  range  of  dike  elevations,  not  including  a  freeboard  allowance,  is  indicated  for 
+overtopping  acceptance  criteria  of  1  L/s/m  and  10  L/s/m.    The  example  section  is  positioned 
+directly over the crest of the existing dike for illustration purposes only. 
+ 
+
+Figure 1-13 Example Sea Dike for 2100 – West Richmond 
+
+elevations: CGD 
+
+ 
+
+Appendix C 
+
+11 
+
+ 
+
+ 
+
+1.4 
+
+Granville Island 
+Granville Island is a popular and developed urban site located inside False Creek in Vancouver, 
+BC, Figure 1-14.  At present, the area is not diked and flooding has not been experienced during 
+storms on the existing grade slab, which has an elevation of approximately + 4 m CGD.  As sea 
+level rises over the next century, the area will become exposed to an increasing risk of flooding and 
+measures will need to be taken to adapt to the risk.  If protection of the existing land-use is adopted 
+as the option, a sea dike will be required. 
+For  the  purpose  of  this  example  the  west  end  of  Granville  Island,  which  is  partially  exposed  to 
+English Bay, Figure 1-15 and Figure 1-16, is considered. 
+Land elevations in the area are reported to be stable, neither rising nor subsiding. 
+The net expected (including land subsidence) regional sea level rise by 2100 for this area is 1.0 m. 
+ 
+ 
+
+Figure 1-14:  Location of Granville Island Sea Dike Example 
+
+source CHS Chart 3001 – Not for Navigation 
+
+ 
+
+Appendix C 
+
+12 
+
+ 
+
+Figure 1-15:  View Looking NW from Granville Island showing Exposure to English Bay 
+
+ 
+
+Figure 1-16:  View Showing Exposed NW Corner of Granville Island 
+
+Appendix C 
+
+ 
+
+13 
+
+ 
+
+1.4.1  Assessment of Dike Design Guidelines – Granville Island 
+
+1.4.1.1  Design Basis 
+
+  AEP for Designated Storm: 1/200 for 2010 (Existing Guidelines), 1/500 for 2100 and 2200 
+
+(Updated Guidelines) 
+
+  Tides: Based on CHS Tide Tables, Vol 5, Secondary Port: 7710 False Creek 
+  Designated Storm assumed to have storm force winds (≥ 48 knots); the maximum seastate 
+present  at  the  wall  is  taken  to  be  0.6  m  and  storm  surge  and  seastate  maxima  occur 
+simultaneously. 
+
+  Storm Surge during Designated Storm as per Table 3-3, this document. 
+  Wave set-up is included in the determination of Wave Runup. 
+  A  near  vertical  seawall  was  adopted  for  the  sea  dike  in  this  example  due  to  the  close 
+proximity of highly used public buildings near  the edge of the existing island slope.  For 
+simplicity, the presence of the overhanging timber deck platforms was not considered. 
+
+  The mean overtopping rate criteria in Table 4-2 are assumed to apply for a seaward slope 
+
+consisting of a vertical seawall located at the top of the existing rock armoured slope. 
+
+ 
+
+CASE 
+
+Table 1-3: Summary of Sea Dike Crest Elevations 
+
+Granville Island 
+
+2010 
+
+“existing” 
+Guidelines 
+
+2100 
+
+“ updated” 
+Guidelines 
+
+2200 
+
+“updated” 
+Guidelines 
+
+CGD = MWL = +3.0 m CD 
+
++4.0 m CGD 
+
+Reference vertical plane 
+Elevation of Granville Island grade slab 
+Regional SLR (m, wrt MWL) 
+Reference Tide level  (HHWLT) (m) 
+Storm Surge AEP 
+Storm surge height (m) 
+Local wind set up (m) 
+Designated Flood Level (m, CGD) 
+Wave Runup (R 2%) m 
+Runup elevation for “green” water alone (m, CGD) 
+Crest Elevation for “no damage 10m away” (m., CGD) 
+Freeboard ( m) 
+Comment: 
+ a: The assumed conditions for 2010 have not been experienced during the lifetime of the present Granville Island 
+
+1.0  
++2.1  
+1/500 
+1.3 
+0.2 
+4.6 
+0.6 
+5.2 
+6.2  
++0.6 
+
+2.0  
++2.1  
+1/500 
+1.3 
+0.2 
+5.6 
+0.6 
+6.2 
+7.6  
++0.6 
+
+0  
+
++2.1  
+1/200 
+1.25 
+0.1 
+3.45 
+1.7a 
+- 
+-  
+- 
+
+development. 
+
+The values in the Table above Designated Flood Level are site specific and those shown are guideline values for 
+these examples.  The values in the Table below Designated Flood Level result from the site specific values based on 
+the procedures defined in the Standards and Guidelines referenced in this document 
+
+ 
+
+Appendix C 
+
+14 
+
+ 
+
+1.4.2  Conceptual Dike Arrangement 
+
+ 
+An  example  seawall  dike  cross-section  for  the  year  2100,  as  per  Table  1-3,  is  shown  below  in 
+Figure 1-17 where the top of the seawall, not including a freeboard allowance, is designed for an 
+overtopping acceptance criteria of 0.4 L/s/m, which is expected to keep any spray loads at or below 
+the  capacity  of  the  adjacent  buildings.  This  acceptance  threshold  is  higher  than  might  be 
+appropriate  if  untrained  casual  pedestrians  were  expected  to  be  present  during  storms.  The 
+example seawall is located on the existing grade slab on Granville Island of approximately +4 m 
+CGD.  Foundation considerations have not been addressed in this example. 
+
+Figure 1-17: Example Sea Dike for 2100 – Granville Island 
+
+source: BTAworks1 
+elevations: CGD 
+
+ 
+
+ 
+
+                                                      
+
+1 BTAworks is the architectural and urban research and development division for Bing Thom Architects and 
+provided  the  conceptual  sketch  in  Figure  1-17  as  part  of  their  ongoing  interest  and  Research  and 
+Development  in climate change influences on the City of Vancouver. 
+
+ 
+
+Appendix C 
+
+15 
+
+ 
+
+Appendix D – Storm Surge in BC Coastal Waters - Background 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment / Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+Appendix D 
+
+ 
+
+Contents 
+
+1 
+2 
+2.1 
+2.2 
+2.3 
+2.4 
+2.5 
+
+Introduction 
+Atmospheric Sea Level Rise in BC Coastal Waters 
+Introduction 
+Expected Coastal Deepwater Storm Surges for BC 
+Local Storm Surge 
+Joint Occurrence of Storm Surge and Tide 
+Joint Occurrence of Storm Surge and Waves 
+ 
+
+1 
+1 
+1 
+3 
+4 
+5 
+6 
+
+Appendix D 
+
+ 
+
+ 
+
+1 
+
+2 
+
+2.1 
+
+Introduction 
+This Appendix provides a brief summary of investigations undertaken to provide guidelines for 
+the preparation of the document: Sea Dike Guidelines, 2010. 
+Further investigations are warranted as noted in each case. 
+
+Atmospheric Sea Level Rise in BC Coastal Waters  
+
+Introduction 
+Sea levels along the coastal British Columbia coast are strongly affected by the mid-latitude 
+storm systems in the North Pacific.  The strong winds and low atmospheric pressures in the 
+storms  result  in  a  large,  though  low  in  amplitude,  surge  wave  that  affects  considerable 
+portions of the Northwest North American coastline at the same time. 
+A  detailed  discussion  of  all  aspects  of  these  storm  systems  is  beyond  the  scope  of  this 
+document;  however  a  brief  discussion  is  provided  as  background  to  the  definition  of  storm 
+surge used in this document. 
+In particular, the connection between the offshore character of the storms and the resulting 
+storm surge is discussed.  As an example, the storm of 12 March – 15 March, 2010 is shown 
+below.  This storm entered the Gulf of Alaska near the southern tip of the Aleutian Islands on 
+12  March  2010,  moving  in  a  generally  easterly  direction  along  the  50th  parallel  of  latitude, 
+Figure 2-1. 
+The evolution of the storm over the period up to 15 March 2010 is shown in Figure 2-2, by 
+which time hurricane force winds were expected in the Hecate Strait area of coastal British 
+Columbia.  This storm generated gale to storm force winds throughout much of the Gulf of 
+Alaska. 
+The surface effect of the storm winds on 12 March can be seen in Figure 2-3, where the red 
+shading centred approximately on the 53rd parallel of latitude corresponds to a surge, above 
+tide, of approximately 0.6 m.  This large area of surge is being setup by the combination of 
+the inverse barometer affect due to the low atmospheric pressure and to the effect of the gale 
+to storm force winds circulating around the low pressure centre. 
+In  this  particular  case,  the  storm  crossed  the  North  American  coastline  north  of  Dixon 
+Entrance and the surge mainly affected Alaska state coastal waters.  A track south of the 50th 
+parallel would have brought the deepwater surge directly onto the British Columbia coast. The 
+length of coastline affected by the storm surge for a storm of this severity is clearly as long or 
+even longer than the west coast of British Columbia. 
+ 
+ 
+
+Appendix D 
+
+1 
+
+ 
+
+Figure 2-1:  Mid-Latitude Extra-Tropical Storm of Mid-March 2010 
+
+Note: central pressure = 966 mb 
+
+ 
+
+Appendix D 
+
+2 
+
+ 
+
+Figure 2-2:  Evolution of Storm 12 March – 15 March 2010 
+
+ 
+
+ 
+
+ 
+
+source: BC Storm Surge Model - http://www.pac.dfo-mpo.gc.ca/sci/juandefuca/npac_lr 
+
+Figure 2-3:  Storm Driven Surge in Gulf Alaska 
+
+2.2 
+
+Expected Coastal Deepwater Storm Surges for BC 
+Examination of the surges recorded along the BC coastline has shown that in many, if not in 
+most cases, the deepwater surge generated in the North Pacific, after modification over the 
+continental  shelf,  arrives  relatively  unchanged  at  all  stations  in  the  general  north  coast  or 
+south coast areas of British Columbia.  An example of the storm surges recorded on the coast 
+for a storm on 9 – 16 December 1995, is shown in Figure 2-4 and illustrates how the surge 
+wave  retains  its  main  characteristics  all  the  way  from  its  arrival  on  the  west  coast  of 
+
+Appendix D 
+
+3 
+
+ 
+
+Vancouver Island (as recorded at Tofino), its passage up Juan de Fuca Strait (as recorded at 
+Victoria and then into the Strait of Georgia (as recorded at Point Atkinson).  The peak of the 
+surge, at approximately 22:00 hr on 12 December at Point Atkinson, occurred 5 hours earlier 
+at Tofino and only increased in magnitude by approximately 0.1 m.  The peak of the surge, 
+which is at least 6 hours long (within a 0.1 m tolerance), coincided with a peak in the gale 
+force SE winds that characterised this particular storm.  
+As part of this assignment, the self-similar characteristics of the incident surge wave from the 
+North  Pacific  were  examined  for  multiple  storms  and  the  trend  exhibited  in  Figure  2-4  is 
+typical.    On  the  basis  of  these  trends  the  expected  magnitudes  for  the  incident  deepwater 
+storm surge were grouped and characterized as described in this report.  
+ 
+
+Victoria res WL
+
+Tofino res WL
+
+Pt Atkinson res WL
+
+)
+e
+d
+
+i
+t
+ 
+t
+r
+
+w
+
+ 
+,
+
+m
+
+(
+ 
+l
+
+e
+v
+e
+L
+
+ 
+r
+e
+
+t
+
+a
+W
+
+ 
+l
+
+i
+
+a
+u
+d
+s
+e
+R
+
+1
+
+0
+
+-1
+
+5
+9
+-
+c
+e
+D
+-
+2
+0
+
+5
+9
+-
+c
+e
+D
+-
+9
+0
+
+time (pst)
+
+5
+9
+-
+c
+e
+D
+-
+6
+1
+
+Figure 2-4: Storm Residual Water Level, 9 – 16 Dec 1995 
+
+ 
+
+2.3 
+
+Local Storm Surge 
+The incident deepwater storm surge, as illustrated in Figure 2-4, will be further modified as it 
+propagates over shallow water, especially across the extensive tidal flats in the Fraser River 
+Delta.    Methods  for  estimating  the  additional  effects  are  provided  in  the  Reference 
+Publications. 
+ 
+
+Appendix D 
+
+4 
+
+ 
+
+2.4 
+
+Joint Occurrence of Storm Surge and Tide 
+An  important  element  in  the  design  of  a  sea  dike  is  establishing  the  appropriate  stage  of 
+astronomical tide, for combination with a storm surge, to be used for setting the total water 
+level, and associated wind and wave related effects, for the Designated Flood Level. 
+This  topic  is  an  area  of  ongoing  research  and  development  and  warrants  additional 
+investigations  of  its  own.    For  the  purpose  of  this  document,  which  maintains  the  existing 
+guidance in the Dike Design and Construction Guide 2003, that combines the maximum 
+high tide with the appropriate storm surge, the problem becomes one of assigning an AEP to 
+the selection of the storm surge (and the Designated Storm) that is consistent with the total 
+water level or Designated Flood Level. 
+The problem can be addressed by considering storms and the associated effects, including 
+storm surge, winds and waves, as processes that are totally independent of the astronomical 
+tides.  The combined probability, or alternatively, the AEP of the combined effects, becomes 
+simply the product of the probability of the storm and the probability of there being a high tide 
+present on the coast at the same time. 
+The  simultaneous  values  of  residual  water  levels  and  the  associated  astronomical  tides 
+recorded at Tofino are shown in Figure 2-5.  This data, which covers approximately 66 winter 
+storm periods during the total record shows that the combination of both a high tide (4.1 m) 
+and a high storm surge (residual water level) is quite rare. 
+ 
+
+Figure 2-5:  Simultaneous Residual Water Levels and Predicted Tide – Tofino 
+
+Note: MWL = 2.1 m (predicted tide) 
+
+ 
+In simple terms, the probability of having a high tide during the winter storm season, which 
+typically spans 3 to 4 months (mid-October to mid-January), is related to the number of days 
+in this period when a high tide is expected – spring tides typically exist for approximately 3 
+
+ 
+
+Appendix D 
+
+5 
+
+ 
+
+days every 2 weeks and during those three days only exist for 2 to 3 hours (within a range of 
+approximately ± 0.1 m) on each of the three days. 
+The probability of a high tide window is then approximately: 
+3 days x 2 hours/window 
+14 days x 24 hours/day  
+
+3 days x 3 hours/window 
+14 days x 24 hours/day  
+
+   or between  
+
+1/56 to 1/37 
+
+ 
+ to 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+As the duration of the peak of a storm surge is typically approximately 6 hours long (within a 
+range of ± 0.1 m), or approximately twice the duration of the high tide then the probability of 
+having the peak of a storm surge at high tide becomes 2/56 to 2/37 or 1/26 to 1/18.5.  
+
+For the purpose of this report we have taken the probability of a high tide window during the 
+occurrence of a storm to be approximately 1/20.  On this basis the total AEP for high tide and 
+a typical winter storm (the annual average expected storm) becomes 1/20 x ½ ≈ 1/40.  By the 
+same reasoning the estimated AEP for the total water level during the largest storm surge of 
+record shown in Figure 2-5, occurring at MWL becomes approximately 1 x 1/300 ≈ 1/300. 
+ 
+The AEP for high tide and a storm with an AEP of 1/200 years (the current guidance AEP) 
+becomes 1/20 x 1/200 ≈ 1/4000. 
+ 
+The AEP for a storm that will yield a Designated Flood Level with an AEP of 1/10000 years 
+becomes 1/500, which is not significantly greater in actual effect than the current guidance in 
+British Columbia. 
+ 
+
+2.5 
+
+Joint Occurrence of Storm Surge and Waves 
+The selection of a sea dike crest elevation that satisfies the chosen design criteria requires 
+the identification of the wave climate that is expected to occur during the Designated Storm.  
+Preliminary examination of the joint occurrence of recorded waves and residual water levels 
+(storm  surge)  from  two  areas  in  coastal  British  Columbia  waters  suggests  that  the  largest 
+waves are not necessarily associated with the largest storm surges, Figure 2-6 and Figure 
+2-7. 
+For the purpose of this assignment it has been assumed for the sea dike examples, that the 
+wave climate present at the sea dike is controlled by the depth of water at the sea dike and 
+that  the  wave  climate  in  deep  water  is  sufficient  to  sustain  the  depth  limited  conditions.  
+Further  investigations  are  warranted  for  all  areas  of  coastal  British  Columbia  and  will  be 
+required during more detailed engineering for sea dikes. 
+
+Appendix D 
+
+6 
+
+ 
+
+ 
+
+ 
+
+Figure 2-6:  Simultaneous Residual Water Levels and Significant Wave Height 
+
+Residual Water Level from Tofino – Waves from La Perouse Bank 
+
+ 
+
+Figure 2-7: Simultaneous Residual Water Levels and Significant Wave Height 
+
+Residual Water Level from Point Atkinson – Waves from Halibut Bank 
+
+ 
+
+Appendix D 
+
+ 
+
+7 
+
+

@@ -1,0 +1,193 @@
+Towards	
+  Effective	
+  Dialogue	
+  between	
+  Engineering	
+  Practitioners	
+  and	
+  Climate	
+  Scientists	
+  -­‐	
+  A	
+  Primer	
+  to	
+  Define	
+  Common	
+  Language	
+  
+
+	
+  
+ 
+refer to mitigation activities in response to a vulnerability assessment and the scientist can 
+perceive this to mean a broadening of the scope to include greenhouse gas management issues 
+relative to the contemplated actions. 
+ 
+What the average engineer considers to be mitigation would normally be called adaptation in the 
+climate change literature.  The parties can alleviate this by discussing and agreeing to the 
+definitions that they will be using during the execution of the assessment and by revisiting these 
+definitions if, and when, confusion arises. 
+ 
+3.18  Normalize	
+  
+
+More	
+  Applied	
+  	
+  
+
+ 
+The engineer may use the term normalize in a 
+very general or non-technical fashion.  They 
+may use normalize in the sense of aligning 
+measured and reference data points, in the 
+same sense that they may refer to calibration or 
+the scientist may refer to validation. 
+
+More	
+  Theoretical	
+  
+
+ 
+The scientist may use the term normalize in the 
+sense of statistical data management techniques 
+aimed at reducing the error associated with a 
+data set.  They may also refer to processes that 
+are used to align different sets of data to a 
+common mean and variance.  The latter is 
+similar to the approaches that may be applied 
+to grade results from a class to align those 
+results with a pre-defined mark distribution. 
+ 
+
+	
+  
+
+	
+  
+
+ 
+Potential	
+  Source	
+  of	
+  Confusion	
+  
+	
+  
+The engineer may ask for information to be normalized when they are actually asking the 
+scientist to validate the model outputs.  The scientist may perceive this to be a request to 
+complete a variety of statistical operations on the information with the aim of reducing variances 
+or adjusting data sets to pre-defined variance ranges and mean values.  The scientist may not be 
+able to actually do the tasks that they perceive the engineer to be requesting.  In fact, the engineer 
+may actually be asking the scientist to provide information on validation of the model outputs, an 
+activity that the scientist may have completed already as part of their routine analysis. 
+ 
+3.19  Parameter	
+  
+
+More	
+  Applied	
+  	
+  
+
+ 
+Typically, the engineer may refer to design 
+parameters.  Generally, they would use the 
+term to cover fixed design threshold values.  
+Less commonly, they may refer to a parameter 
+as a variable in a computation. 
+
+More	
+  Theoretical	
+  
+
+ 
+The term can have broad range of 
+interpretations in climate science.  It can 
+include something that is measure (eg., 
+precipitation) and thus can be very close to the 
+engineering concept.  On the other hand, it can 
+also include constants in climate models that 
+are adjusted to change model behaviour and to 
+
+Rev	
+  6	
+  –	
+  Jun	
+  4,	
+  2014	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+
+	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+
+	
+  	
+  	
+  	
+  	
+  Page	
+  24	
+  of	
+  33 
+
+

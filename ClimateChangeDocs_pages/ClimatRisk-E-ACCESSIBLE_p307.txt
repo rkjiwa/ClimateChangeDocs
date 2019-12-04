@@ -1,0 +1,81 @@
+ 
+
+1
+Y
+D
+U
+T
+S
+ 
+E
+S
+A
+C
+
+CASE STUDY 1: AN INNOVATIVE TOOL TO ASSESS CLIMATE 
+RISKS AT THE CITY OF TORONTO 
+
+Adaptation is critical for large cities’ transportation networks, given the social and economic importance of 
+safe and fluid mobility. The City of Toronto anticipates that climate-related risks to its transportation system 
+will significantly increase in coming decades (City of Toronto, 2008). Decisions made today regarding 
+capital investments, program delivery, and relationships with key partners will be important to ensure that 
+the City improves its resilience to climate change. 
+
+This reasoning underpinned the City of Toronto’s decision to develop a Climate Change Adaptation 
+Strategy. Toronto’s City Council provided the necessary political capital, resulting in a report and program 
+entitled “Ahead of the Storm: Preparing Toronto for Climate Change” (City of Toronto, 2008). This was 
+a screening-level, cross-cutting exercise in assessing organizational vulnerability to climate change, 
+including a review of international best-practices and tools. Transportation was a key focus area of a multi-
+stakeholder working group, featuring participants both internal and external to the City of Toronto. The 
+resulting report recommended the development of a practical tool for assessing vulnerabilities and risks to 
+the city’s transportation infrastructure and operations, in the context of both extreme weather events and 
+slow-onset climate change. The City selected a consultant consortium to create a Climate Change Risk 
+Assessment Tool and Process (CCRAT). This software application enables service and infrastructure providers 
+to identify and prioritize key environmental and climate change-related risks, as well as to assess the 
+benefits of various mitigation and adaptation actions.
+
+The City of Toronto’s Transportation Services Division (TSD) demonstrated leadership and helped develop 
+and apply the CCRAT pilot. The outputs included an overview document, an assessment process, a 
+software tool, and a user manual. This was a ground breaking exercise for the City. Prior to this undertaking, 
+the City did not know if it was feasible to deploy a risk assessment tool with available resources and 
+knowledge. 
+
+In 2011, TSD applied CCRAT to evaluate the vulnerability and resilience of 90 high-priority assets and critical 
+services to seven extreme weather events. Through a series of 15 half-day workshops, 14 risk assessors,  
+looked at 1650 impact scenarios for the time periods 2010-2020 and 2040-2050. The team developed 
+“risk scenarios” (combinations of extreme weather events and impacts) based on identified causes and 
+vulnerabilities. Impacts could be multiple or cascading (i.e., up to “four-order impacts”), for example, 
+economic impacts resulting from transportation delays caused by road or lane closures during extreme 
+weather events. TSD’s risk assessors also identified more than 60 existing initiatives that enhance adaptive 
+capacity, as well as 100 short- and long-term adaptation actions. Examples of ongoing initiatives include:
+
+•  Adding heating and cooling fans in traffic signal controllers; 
+
+•  Developing guidelines for the construction of “green” streets; 
+
+•  Coordinating efforts to enhance the urban canopy to reduce heat-island effects; and,
+
+•  Using combination ploughing and salting vehicles to better react to freezing rain conditions (City of 
+
+Toronto Environment Office, 2011).
+
+The development and application of the CCRAT was an opportunity for the municipality to demonstrate its 
+due diligence to citizens, and build organizational awareness. Another key output was the city’s Climate 
+Change Risk Management Policy, which established an institutional foundation for adaptation. 
+
+Practitioners involved with the CCRAT consider it a success. The use of both top-down (city-driven) and 
+bottom-up (grassroots) approaches where appropriate was considered particularly beneficial, as was 
+the establishment of a well-defined work program in which roles and responsibilities of all stakeholders 
+were clearly delineated. Each functional group within TSD developed clearly-defined expectations for the 
+services they deliver and the infrastructure they maintain. The appointment of specially-trained risk assessors 
+for each group was viewed as integral to organizational cohesion. Selecting a chief risk assessor as a 
+
+ 
+CHAPTER 9: URBAN 
+
+…
+
+296
+296
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

@@ -1,0 +1,85 @@
+•  Performing regular maintenance of stormwater management systems, especially culverts, to 
+maintain capacity, and designing drainage systems to direct runoff away from the roadbed 
+(rather than parallel with the roadway), therefore avoiding erosion of the roadbed and exposure 
+of utilities (City of Toronto, 2014).
+
+•  Maintaining positive cross-slope to facilitate the flow of water from road surfaces, and increasing 
+
+culvert/ditch capacities (United States Federal Highway Administration, 2015).
+
+•  Sealing and/or elevating where appropriate street-level vents and manholes, protecting 
+
+underground pump rooms, circuit breaker houses and other underground facilities that provide 
+power to subway systems (McLeod and Stevanovic-Briatico, 2014).
+
+•  Elevating portions of vulnerable roads, sidewalks and bicycle paths above projected sea-level or 
+
+flood lines (Schwartz, 2011).
+
+INSTITUTIONAL ADAPTATION
+
+Institutional adaptation refers to the adoption of policies targeting climate change. This includes 
+changes to transportation agencies’ service delivery, and approaches to infrastructure maintenance. 
+For instance, on rail lines experiencing buckling, service or speed reductions might be implemented at 
+least in the short term to ensure safety (Savonis et al., 2008). This category also includes:
+
+• 
+
+Innovative financing measures available to municipalities for adaptation, such as:
+
+ -
+
+ -
+
+ -
+
+“Green” bonds (debt instruments used to raise private capital for projects with specific 
+environmental purposes, including urban transit and active transportation);
+
+Local tax rebates or incentives for green roofs and other stormwater management 
+infrastructure and practices, which may produce benefits for transportation in terms of 
+reduced runoff; and,
+
+Intergovernmental grants targeted for resilient transportation infrastructure (Harford et al., 
+2015).
+
+•  Organizational practices identified through the PIEVC (Public Infrastructure Engineering 
+
+Vulnerability Committee) climate change vulnerability assessment protocol. For example, 
+recommendations from a PIEVC assessment of impacts related to higher temperatures and 
+increased precipitation on roads and associated structures in Sudbury included the following:
+
+ - More closely monitoring hydraulic data for culverts, as well as key pavement performance 
+
+indicators (e.g., freeze-thaw cycles, average and extreme temperatures) annually; 
+
+ - Changing pavement mixtures to better withstand heat (i.e. SuperPave);
+
+ -
+
+ -
+
+Performing sensitivity analyses on the slope stability of high-risk embankments; and,
+
+Improving tree coverage on low-speed roads to reduce the urban heat island effect 
+(Engineers Canada, 2014).
+
+•  Organizational planning, financial and risk management practices. One example is the work 
+
+undertaken by TransLink to integrate climate risk into decision-making processes, which is a 
+responsibility of their Chief Financial Officer (see Case Study 5).
+
+• 
+
+Intelligent Transportation Systems (ITS). These are becoming more prevalent, and have potential 
+adaptive applications in urban centres. ITS technologies can help municipalities “adaptively 
+manage” traffic flow, infrastructure maintenance practices, and investment patterns through the 
+collection of data on operations, structural integrity of infrastructure, and other variables, including 
+
+ 
+CHAPTER 9: URBAN 
+
+291
+291
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

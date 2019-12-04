@@ -1,0 +1,54 @@
+…
+
+One of the major conclusions of this work is that no technique can be efficiently implemented without 
+a thorough assessment of the surrounding terrain at the appropriate scale. This includes information on 
+the site’s ground composition (including ice distribution and volume); thermo-physical properties; history; 
+specific processes driving or sustaining permafrost; and the drainage network’s sensitivity to change.
+
+Written by Katerine Grandmont (Cold Regions Geomorphology and Geotechnical Laboratory, Université 
+de Montréal).
+
+5.0 RAIL TRANSPORTATION
+
+Rail plays a smaller role in the territories than in other Canadian regions, but does provide important 
+services. Similar to road infrastructure, rail track is particularly vulnerable to the effects of permafrost 
+degradation. Thawing may cause heaving, sinkholes, potholes and settlement issues for railways in 
+northern Canada (IMG-Golder Corporation Environmental Consulting, 2012). Associated adaptations 
+can either be active, removing heat from the embankment, or passive, reducing heat absorption 
+(Ferrell and Lautala, 2010). Some engineering solutions for roads can also be applied to rail 
+infrastructure, including embankment widening and the installation of thermosyphons, snow sheds, 
+and insulation. The following methods may also be used: 
+
+•  Ventiduct embankments refer to pipes placed alongside the traditional soil embankment, 
+
+allowing air to pass through the embankment and drawing heat from the soil. In order to reduce 
+heat absorption of the soil during the summer months, these pipes can be sealed (Ferrell and 
+Lautala, 2010).
+
+•  Stone embankments are used to create pore space within embankments and allow air to 
+
+penetrate the structure and natural convection to remove heat from the subgrade (Ferrell and 
+Lautala, 2010).
+
+•  Snow/sun sheds reduce snow accumulation and solar radiation on the embankment. They can 
+
+also reduce water infiltration and permit airflow, removing heat from embankment surfaces (Ferrell 
+and Lautala, 2010).
+
+Extreme weather can damage embankments and create washouts and soil/rock slides, which may 
+result in rail line closures (IMG-Golder Corporation Environmental Consulting, 2012). The incorporation 
+of higher-capacity culverts for embankments and bridges can mitigate the effects of seasonal 
+drainage and extreme events (IMG-Golder Corporation Environmental Consulting, 2012). Some rail 
+companies also have winter operating plans that include snow removal, sanding and salting, track 
+and wheel inspections, temporary slow orders, and personnel training initiatives (Lemmen and Warren, 
+2004). Although rail transport is limited in Canada’s North, greater rail infrastructure development may 
+be feasible in the future (Yukon Government, 2013). For a more detailed assessment of impacts and 
+adaptations related to Canada’s rail sector, refer to other regional chapters.
+
+ 
+CHAPTER 3: NORTHERN TERRITORIES 
+
+50
+50
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

@@ -1,0 +1,30 @@
+ 
+
+Design  and  Construction  Guide  20031,  then  an  amount  of  0.9  m  remains  to  account  for 
+storm surge and wave effects for conditions greater than the “Ordinary Storm”.  An allowance 
+of 0.9 m is a reasonable allowance in many situations to allow for a rise in the total water level 
+during a severe storm. 
+
+ 
+
+ 
+
+Figure B2: Coastal Flood Hazard - Interpretation of Existing 2004 Definitions 
+
+ 
+
+Figure B3 extends this interpretation of the Existing Definitions to include a specific allowance 
+for Sea Level Rise (SLR) and the expected effects during a ‘Designated Storm’ – i.e.: a storm 
+that  meets  a  stated  risk  criteria.    These  combined  influences  define  the  total  water  level 
+expected at any time in the future for any designated annual exceedence probability (AEP). 
+(See Definitions in Appendix A). 
+
+                                                      
+1 “Dike Design and Construction Guide – Best Management Practices for British Columbia”, July 2003, published 
+by the Province of British Columbia, Ministry of Water, Land and Air Protection (now the Ministry of Environment) 
+
+Appendix B 
+
+3 
+
+

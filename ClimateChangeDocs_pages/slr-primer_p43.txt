@@ -1,0 +1,58 @@
+Regulatory Tools
+
+1. Regulation of Land Use
+
+Tool Description
+Land use can be regulated through neighbourhood plans, character guidelines, capital works plans, 
+strategic plans, growth management plans and setback regulations. Land use can also be regulated 
+through the establishment of appropriate zoning within areas subject to or potentially subject to coastal 
+hazards. Zoning can regulate a wide range of activities, including restrictions on land uses, land use 
+densities, setbacks, siting circumstances and servicing standards.
+
+Application
+Land use regulation – especially zoning – is a tool available in all provinces, although the specific scope 
+of regulation ranges from jurisdiction to jurisdiction. The three key elements of land use regulation 
+pertaining to sea level rise and coastal hazards consist of minimum building setbacks from coastal hazards 
+or structural protection from coastal hazards, minimum elevation of buildings in relation to flood risk, and 
+restrictions on land use. This tool can also be used to create new composite zones, such as a Sea Level Rise 
+Planning Areas.
+
+Enabling Legislation
+In B.C., under Section 903 of the Local Government Act, a local government may by bylaw divide the whole 
+or part of the municipality or regional district into zones, name each zone, establish their boundaries 
+and regulate the use of land, siting and density of buildings and other structures within each one. This 
+legislation could be used to create new zones with respect to coastal areas and enable a local government 
+to regulate the use of land.
+
+In B.C., provincial guidelines82 call for new construction containing habitable space to be located above 
+the historical 1 in 200 year flood event plus an additional safety margin (called freeboard) to deal with 
+uncertainty. The resulting elevation is called the Flood Construction Level (FCL). Section 910 of the Local 
+Government Act allows a local government to designate as a flood plain, by bylaw, any area where it 
+considers that flooding may occur on land. When an area is designated as a flood plain, the bylaw may 
+specify setbacks – based on the provincial guidelines – from the water or a dike and what structural 
+support is required to elevate a floor system (or mobile home pad) above the flood level. 
+
+Other provinces have similar land use regulations. Zoning restrictions, minimum setbacks, lot grading, 
+minimum building elevations and erosion protection are all commonly used to mitigate hazard risks. 
+
+In Quebec, provincial setback lines differ based on regional variations and available data on erosion rates. 
+Most of the coastal areas require a 10–15 metre setback for the protection of the shorelines as established 
+by provincial policy in 1987. From 2000 to 2004 a group of five ministries conducted precise erosion 
+rate research in the Côte-Nord region. From this research setbacks of between 60 and 160 metres were 
+suggested for that region, depending upon the rate of erosion. However, these suggested setbacks were 
+not set as policy and therefore not widely adopted as regulation. In 2011, a uniform 30-metre setback 
+for all other coastal communities was proposed. Many municipalities, however, have requested similar 
+research and detailed erosion maps as were completed for the Côte-Nord to ensure they have irrefutable 
+data in the face of potential legal challenges by coastal property owners. The Province is in the process of 
+commissioning detailed studies on erosion and subsidence rates in order to develop up-to-date precision 
+maps for all the shorelines of Quebec. Studies are being completed one area at a time in order of priority 
+related to vulnerability.83 
+
+82  Flood Hazard Area Land Use Management Guidelines (May 2004)
+83 
+
+(Désgagnés 2013)
+
+41
+
+Regulatory Tools

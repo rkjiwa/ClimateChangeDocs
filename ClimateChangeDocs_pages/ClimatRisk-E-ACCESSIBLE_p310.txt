@@ -1,0 +1,81 @@
+ 
+
+3
+Y
+D
+U
+T
+S
+ 
+E
+S
+A
+C
+
+CASE STUDY 3: TRANSPORTATION ADAPTATIONS TO CLIMATE 
+CHANGE IN THE CITY OF WHITEHORSE, YUKON
+
+Whitehorse is a significant regional transportation hub, with rail, marine, and air transportation all playing 
+important roles in the city’s history. The city relies heavily on the Alaska Highway for external connectivity 
+and on the automobile for urban mobility, although public transit services are also available. The city’s 
+climate is relatively warm (compared to other northern communities) and semi-arid due to its location 
+within the range shadow of coastal mountains. In recent years, however, Whitehorse has experienced 
+highly variable precipitation, including many winters with above-average snowfall. Climate changes of 
+this nature pose a number of risks to the city’s transportation network. Projected increases in wildfires and 
+the intensity, duration, and frequency of storm events (and associated flood and drainage concerns) 
+create indirect risks to road traffic. Local officials identify highway obstructions and washouts during 
+extreme weather events as a key concern, as they can prevent the delivery of food and other essential 
+goods. Other impacts to urban transportation include increased frequency of freeze-thaw cycles; strain 
+on the road-maintenance budget in high-snowfall winters; and, greater stress on culverts due to increased 
+summer and winter precipitation.
+
+To address these concerns, the City of Whitehorse participated in the development of the community-
+based Whitehorse Climate Change Adaptation Plan in 2011 (Hennessey and Streicker, 2011). This project 
+involved a diversity of community stakeholders. While not legally-binding (the document is policy-relevant, 
+but not policy-determinate) the plan has helped to “mainstream” the changing climate into municipal 
+decision-making processes, meaning that climate data and projections are incorporated into investment 
+and planning decisions. The plan’s broad goals include enhancing transit’s mode share, intensifying 
+development, and increasing the region’s share of agricultural production through food security planning 
+(including the production of more food in nearby greenhouses, reducing reliance on imports). Suggested 
+adaptations for urban transportation include:
+
+• 
+
+Establishing annual budgets aimed at managing climate change concerns, including planning for 
+increased snow removal requirements; 
+
+• 
+
+Expanding the use of road monitoring stations; 
+
+•  Conducting exploratory feasibility studies of automatic road de-icing techniques; and
+
+• 
+
+Increasing the porosity of road surfaces to improve re-charge following precipitation. 
+
+These adaptations include both “low-regret” and “no-regret” measures. For example, when road 
+improvements are required due to the lifecycle or condition of the infrastructure, the Plan suggests that 
+the City upgrade water and sewer systems to accommodate larger stormwater flows. This requires only a 
+modest marginal-cost increase to the budget for the project. At the same time, this strategy means only 
+those roads nearing the end of their lifespan or in very poor repair will be adapted in the near-term, given 
+that the cost of replacing usable infrastructure with larger drainage capacity is prohibitive. For practical 
+purposes, this is an adaptation approach that must be implemented in a piecemeal manner. A “no-regret” 
+adaptation on the operational side involves proactive early-spring inspections of drainage to identify 
+frozen storm drains and reduce flood risks. 
+
+Flooding is also a concern on Whitehorse’s residential roadways, with some older subdivisions having 
+experienced localized issues as a result of outdated drainage systems. As a result, stormwater infrastructure 
+in new subdivisions is now designed with higher volume thresholds. Additionally, Whitehorse is using 
+transportation redundancy as an adaptation solution on a small scale; subdivisions are no longer permitted 
+to be built with only one road-access point in case of washouts, flooding, and wildfire hazards. 
+
+Written with input from John Streicker (City ofWhitehorse) and Jocelyn Beatty (University of Waterloo).
+
+ 
+CHAPTER 9: URBAN 
+
+299
+299
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

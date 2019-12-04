@@ -1,0 +1,85 @@
+ 
+
+4
+Y
+D
+U
+T
+S
+ 
+E
+S
+A
+C
+
+CASE STUDY 4: WATER LEVELS, ICE REMOVAL, AND ADAPTIVE 
+MANAGEMENT AT THE ST. LAWRENCE SEAWAY MANAGEMENT 
+CORPORATION
+
+A changing climate is likely to produce significant impacts for transportation operators in the Great Lakes-
+St. Lawrence Seaway. The Seaway is an important international marine shipping route spanning 3,700 km 
+over many jurisdictions. Critical stretches include the Welland Canal (connecting Lakes Ontario and Erie) 
+and the segment from Lake Ontario to Montreal. The St. Lawrence Seaway Management Corporation 
+(SLSMC) is the Canadian agency responsible for ensuring marine traffic moves safely and efficiently through 
+13 of the waterway’s 15 locks.
+
+There is much uncertainty regarding water levels throughout the Seaway, as they tend to vary year-to-
+year. Some studies suggest lower water levels will be the norm through the 21st century (Shlozberg et al., 
+2014). Other studies suggest that increased precipitation may cause periodic fluctuations in these levels 
+(MacKay and Seglenieks, 2013). Either way, strategies to deal with uncertainty are recommended.  For 
+shippers, lower water levels pose risks to shipping capacity and efficiency, reducing the volume of freight 
+that can be moved. Andrey et al. (2014) suggests that for each centimetre of water lost, the capacity of 
+an average ship decreases by six containers (60 tons). 
+
+Over the short-term, significant ice formation has been problematic for shippers and infrastructure 
+operators in the Seaway, including the SLSMC. Ice build-up delays seasonal opening and increases 
+removal, break-up, and flushing requirements. While flow-management infrastructure upgrades are 
+considered too costly and difficult to implement (Andrey et al, 2014), the SLSMC has adopted a number of 
+adaptive procedures in light of observed and projected impacts.
+
+For instance, the SLSMC collects extensive climate data to determine how environmental conditions will 
+affect infrastructure performance over the short and long term. It also monitors water levels, temperature 
+and wind conditions, and ice patterns. The organization uses this data to predict seasonal Seaway opening 
+and closing dates, secure requisite ice-breaking services and assets, and rent an appropriate volume of 
+ice-management equipment for channels and locks. 
+
+However, practitioners have observed increased variability in weather along the Seaway in recent years, 
+making it difficult for the SLSMC to accurately predict opening and closing conditions and associated 
+processes. During the navigation season, the SLSMC has procedures to deal with extreme (short-term) 
+events, including wind causing low water levels. These include: 
+
+• 
+
+Suspending navigation and temporarily redirecting vulnerable vessels to safe anchorage areas until 
+conditions become acceptable again. 
+
+•  Activating “no-meet zones” when required (prohibiting two-way marine traffic), 
+
+•  Restricting speed and draft to reduce navigational risks (i.e. striking bottom).  
+
+Reduced maximum permissible shipping draft6 is an especially problematic impact of declining water 
+levels, since the costs of reduced efficiency are transferred to shippers and businesses further down 
+the supply chain. To increase safety for deep-draft vessels, many vessels have installed onboard Draft 
+Information Systems. This software application provides graphical representations of the anticipated under-
+keel conditions for a vessel given its position, speed, and heading in relation to surrounding water levels 
+and bathymetry. The system allows vessels to take proactive, draft-altering measures to ensure safe transit 
+by adjusting speeds. In 2014, 39 inland commercial ships used this application in the Seaway, though there 
+is potential for greater uptake.
+
+Ice is another major consideration for the SLSMC, and caused delays opening the Montreal-Lake Ontario 
+Seaway section in 2014, increasing removal, break-up, and flushing requirements. Ice management 
+
+6 
+
+ Draft refers to the vertical distance between the waterline and the bottom of a ship’s hull. This affects the  
+depth of a ship in the water.
+
+ 
+CHAPTER 6: ONTARIO 
+
+…
+
+173
+173
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

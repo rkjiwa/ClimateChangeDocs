@@ -1,0 +1,32 @@
+Part of the challenge in incorporating climate information into an adaptation framework or into a decision-
+making process is deciding what type of climate information is needed. Indeed, while the previous chapter 
+explained many of the underlying climate science concepts, it is just as important for a decision-maker to 
+understand the various climate information products that can be used to deliver that information.   
+In order to familiarize decision-makers with climate information and its different uses, this chapter presents a 
+simple categorization framework that divides climate information into three levels: basic, intermediate, and 
+detailed information. The choice of the most appropriate climate information is often made in collaboration 
+with  climate  service  providers.  The  goal  here  is  to  help  decision-makers  better  evaluate  their  climate 
+information needs.
+Two main concepts are addressed here: climate information categories, which reflect the climate data 
+needed and climate information formats, which reflect the way the data is presented.
+
+2.1 CLIMATE INFORMATION CATEGORIES
+Climate information categories represent the climate data or climate information; namely the climate variable, 
+the horizon, and the resolution of the model, which is provided to the user. The categories are based on a 
+few key criteria that are specifically related to the type of climate information that is required. These criteria 
+are shown in Figure 16. The categories are meant to separate climate information into three very broad 
+complexity levels, from information that is fairly simple to prepare and understand to information that is 
+more complex to produce and often more difficult to understand and where the uncertainties are more important.
+
+Figure 16 |  Key criteria used to evaluate the climate information needs of decision-makers (adapted from Lu 200643).
+
+Categories and user type
+
+Climate information categories do not reflect a type of decision-maker but rather reflect the reason 
+why the information is required, and the specifics of the climate data itself.  This implies that users that 
+may be very familiar with climate information may, at times, only require basic information, while users 
+unfamiliar with climate information may require detailed information. 
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  34
+
+

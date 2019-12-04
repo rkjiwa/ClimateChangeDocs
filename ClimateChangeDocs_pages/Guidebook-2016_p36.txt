@@ -1,0 +1,45 @@
+winter temperature, precipitation and snow cover. 
+The analysis reveals that selecting 12 simulations 
+out of a possible 86 allows a good representation 
+of the range. 
+
+Moreover,  some  input  from  users  and  climate 
+service providers can help the selection process in 
+some cases37. For example, some planning exercises 
+may warrant the need to focus on evaluating worst 
+case scenarios (which could imply only considering 
+
+models run with RCP 8.5).  A method that is often 
+adopted by users is to select a «low», «median» 
+and  «high»  climate  change  scenario  that  will 
+adequately cover the range of all the simulations 
+that are available. Figure 10 highlights an example 
+of  this  technique,  where  the  temperature  and 
+precipitation  outputs  are  used  to  select  the 
+scenarios that are closest to the 10th, 50th and 90th 
+percentile changes out of the available simulations.
+
+Figure  10  |    Projected  change  in  mean  summer  temperature  (June,  July  and  August)  and  mean  winter  
+temperature (December, January and February). The changes are shown for an ensemble of GCMs 
+ 
+under three RCPs (2.6, 4.5 and 8.5). The elliptical lines indicate the 10th, 50th and 90th percent confidence  
+ 
+intervals. The scenarios close to the 10th, 50th and 90th percentile changes are circled in blue and  
+ 
+highlighted with blue arrows. 
+ 
+Source: T. Logan (Ouranos) 
+ 
+
+Limitations of selection 
+
+An important point to remember is that selections of a few representative simulations out of a range 
+of available outputs are invariably based on a limited number of climate indices over a given temporal 
+window (annual temperature and precipitation for example). They may therefore not be representative 
+of other indices over different temporal timescales (monthly snow cover for example). In other words, 
+the selection is only valid for the indices and timescales that were used to choose the scenarios in the 
+first place. 
+
+21  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

@@ -1,0 +1,46 @@
+AIR TEMPERATURE
+
+Average air temperature in Canada increased by 1.5˚C from 1950-2010, and is projected to increase 
+by about 1.5-2.5˚C by mid-century (in a low-emissions scenario), with increasing frequency of 
+extreme heat and decreasing frequency of extreme cold (Bush et al., 2014). In cities, these trends are 
+exacerbated by the urban heat-island effect, referring to the difference between surface and air 
+temperatures (typically 10-15˚C for surfaces and 1-3˚C for air) in urban centres and surrounding rural 
+areas. The heat island effect occurs due to a combination of factors (Figure 9), including: 
+
+• 
+
+• 
+
+• 
+
+The lack of vegetation in cities (which regulates temperature);
+
+The low solar-reflective capacity of urban infrastructure;
+
+The high heat-absorbance of urban materials (e.g., black asphalt) – highly-developed areas have 
+less surface moisture available for evapotranspiration (which cools surrounding air) than natural 
+ground cover, due to impervious surfaces like pavement and concrete (75-100 percent cover in 
+most cities);
+
+•  Anthropogenic (human-caused) heat production (e.g., air conditioning, vehicles, industrial 
+
+activities); and, 
+
+•  Urban topography (e.g., narrow streets limit the capacity of buildings to radiate heat at night and 
+
+limit the passage of cooling winds) (United States Environmental Protection Agency, 2008). 
+
+Urban heat islands have implications for the integrity of transportation infrastructure, particularly 
+pavement. Figure 10 provides an example of an urban heat island map for Montreal, Quebec. 
+
+Figure 9: An illustration of an urban heat island profile. The impacts of heat waves tend to be greater 
+in urban, rather than suburban or rural areas, likely owing to the ‘heat island’ effect. (Source: Natural 
+Resources Canada)
+
+ 
+CHAPTER 9: URBAN 
+
+277
+277
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

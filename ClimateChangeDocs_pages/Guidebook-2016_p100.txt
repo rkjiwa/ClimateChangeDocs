@@ -1,0 +1,60 @@
+Climate simulation: Climate simulations represent the outcome of running a climate model for a certain 
+period of time. The time span of a simulation can range from a few years to thousands of years and will ite-
+ratively be computed at intervals of a few minutes. They are run for both the past and the future.
+
+Climate statistic: Any statistics used to describe the state of the climate system or of one of its components. 
+Examples include mean values, the occurrence or frequency of extremes and standard deviations.
+
+Climate variability: The variations above or below a long-term mean state of the climate. This variability can 
+be due to natural internal processes within the climate system (internal variability) or to variations in anthro-
+pogenic external forcing (external variability).
+
+Consensus: The term is used to refer to agreement between models. It represents the proportion of members 
+of a simulation ensemble that ‘agree’ with the sign (whether positive or negative) of the projected change.
+
+Delta: The relative change for a climate variable between the future and baseline or reference period, as 
+simulated by a climate model.
+
+Downscaling: A method that allows climate model output to be delivered over a finer resolution than the 
+one  generally  obtained  from  global  climate  models.  Two  different  approaches  are  prioritized:  statistical 
+downscaling and dynamical downscaling (see Section 4 for more detail on each method).
+
+Emission scenario: A plausible representation of the future development of emission of substances that are 
+potentially radiatively active in the atmosphere, such as greenhouse gases and aerosols). They are based on 
+assumptions regarding driving forces like demographic and socioeconomic development, or technological 
+change.
+
+Ensemble: The term ensemble is used in this guidebook to refer to the complete set of climate simulations 
+or scenarios that is used for a particular study. It is used synonymously with the term multimodel ensemble. 
+Note, however, that other, more restrictive, definitions exist (for example, an ensemble could represent a set 
+of simulations made with the same climate model, using the same emissions scenario, but initialized using 
+different starting conditions).
+
+Global Climate Model (GCM): Computer model that is a mathematical representation of the climate system, 
+based on equations that drive the physical processes governing the climate, including the role of the atmos-
+phere, hydrosphere, biosphere, etc. It represents a unique tool that helps reproduce a complex ensemble of 
+processes relevant for climate evolution. Note the term Global Circulation Model is often used as a synonym. 
+
+Greenhouse gases (GHG): Gaseous constituents of the atmosphere, both natural and anthropogenic, that 
+absorb and emit radiation at specific wavelengths and that cause the greenhouse effect. Primary greenhouse 
+gases include water vapour (H2O), carbon dioxide (CO2), nitrous oxide (N2O), methane (CH4) and ozone 
+(O3).
+
+Grid (grid points): Discrete model «cells» which represent computational units of a climate model. The simp-
+lest model grids typically divide the globe (or model domain) into constant angular grid spacing (i.e. a lati-
+tude / longitude grid). A climate model’s horizontal resolution is often expressed as the size of a single grid 
+cell (e.g. 1° x 1° grid or 10 km by 10 km grid).
+
+Horizon: A future time period of interest over which the outputs of climate simulations are examined or for 
+which future scenarios are produced. The climate science community tends to converge on common time 
+horizons that are recommended by the World Meteorological Organization (WMO). The horizons typically 
+encompass a 30- or 20- year period. For example, horizon 2050 often corresponds to the years 2041-2070.
+
+Index: The term (climate) index is used to refer to properties of the climate that are not measured in the field 
+or calculated by climate models but rather that are calculated or derived from more basic climate variables 
+such as temperature and precipitation. Examples include the number of growing degree-days, freeze-thaw 
+cycles, and the drought code index. (see Variable).
+
+85  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

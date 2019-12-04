@@ -1,0 +1,82 @@
+What are the limitations/caveats/possible ways 
+to misinterpret the information?
+Figures  of  this  type  give  decision-makers  an 
+estimate of past general conditions for their area 
+of interest. However, the values are averaged for 
+a  relatively  long  period  of  time  that  masks  the 
+season-to-season  or  year-to-year  variability  in 
+the  climate.  This  information  is  more  adequate 
+for ‘big picture’ decisions. For example, it is clear 
+from such information that while you may be able 
+to grow grain species in southern Canada, it is not 
+possible to do so in Northern Canada. However, 
+the  information  may  not  provide  enough  detail 
+for  more  local  decisions;  for  example,  such  as 
+deciding what specific crop species to plant. This 
+decision  would  require  additional  information, 
+such as the range in climate conditions that will 
+be experienced by the crop species. In addition, 
+the map shows average recent past conditions but 
+gives  no  indication  about  how  those  conditions 
+may  change  in  the  future.  Consequently,  using 
+historical 
+to 
+maladaptation.
+
+information  alone  could 
+
+lead 
+
+What climate information is presented and how 
+should it be interpreted?
+The  figure  presents  a  map  of  observed  average 
+annual temperatures across Canada for the period 
+1971-2000 on a 10 km by 10 km grid. 
+
+This figure shows that average or normal annual 
+temperatures  vary  greatly  across  Canada.  For 
+example, while average temperatures in Toronto 
+are  around  5°C,  average  annual  temperatures 
+in  Whitehorse  and  Yellowknife  are  closer  to 
+-5  to  -10°C.  This 
+implies  that  populations, 
+infrastructures  and  ecosystems  are  already 
+adapted to different climatic conditions.
+
+How is the figure constructed?
+Climate  normals  are  observed  climate  variable 
+averages  calculated  using  time-series  of  climatic 
+data  obtained 
+from  meteorological  stations 
+across Canada*. Such maps can represent simple 
+climatic variables such as mean temperature and 
+precipitation  but  the  same  format  can  be  used 
+to  showcase  any  other  climatic  indices,  such 
+as  growing  degree-days  or  number  of  freeze-
+thaw  cycles.  Meteorological  station  data  can  be 
+averaged over any given region of interest (a single 
+province for example) and for any given time step, 
+depending on data availability (such as annual or 
+monthly for example).
+
+In this case, the figure shows 30-year temperature 
+normals  on  a  regular  grid  (where  each  polygon  
+or  grid  point  is  10  km  by  10  km),  and  where 
+each  polygon  value  corresponds  to  the  average 
+temperature  for  the  1971-2000  period.  The 
+daily  temperature  values  are  averaged  for  each 
+year  from  1971  and  2000  and  the  average  of 
+those  30  values  is  plotted  on  the  figure.  Note 
+that climate normals  are generally given for the 
+same timeframe that is used as a reference in the 
+construction of climate scenarios, but that it is not 
+necessarily  always  the case.
+
+* This data comes from a Natural Resources Canada database44 in the form of a gridded data set that covers all of Canada with a grid 
+size of 10 km by 10 km with a daily time step (Environment Canada meteorological station data is interpolated on this grid). The data 
+covers the period 1950-2010. The same analysis could be done using station data itself or using other similar datasets with different 
+grid sizes (e.g. CANGRID).
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  46
+
+

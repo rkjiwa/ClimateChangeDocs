@@ -1,0 +1,127 @@
+What  climate  information  is  presented  and  how 
+should it be interpreted?
+The figure presents the evolution of the number of 
+annual  growing  degree-days  from  1971  to  2100  for 
+a region surrounding Yellowknife in the North West 
+Territories.  Growing-degree  days  correspond  to 
+the  absolute  difference  in  mean  daily  temperature 
+above  a  threshold  of  5°C.  For  example,  if  the  daily 
+mean  temperature  is  equal  to  10°C,  the  number  of 
+growing degree-days for that day is equal to 5. If the 
+temperature  is  below  5°C,  the  growing  degree-days 
+are equal to zero. 
+
+The  left  panel  shows  a  projected  increase  in  the 
+number  of  growing  degree-days  from  1971  to 
+2100.  The  simulation  ensemble  (grey  envelope) 
+covers approximately the same range as the natural 
+variability  (black  dots).    The  right  panel  shows  an 
+upward shift in the distributions of the simulations for 
+2050 and 2090, particularly for the median and 90th 
+percentile distributions indicating a change in mean 
+climate conditions. The shapes of the coloured future 
+distributions do not change drastically (compared to 
+the  black  observed  distribution)  indicating  that  the 
+inter-annual  variability  is  relatively  similar  between 
+the observed and future horizons.
+
+How is the figure constructed?
+This  type  of  figure  presents  the  evolution  of 
+projected values of a specific climatic variable for a 
+particular  region  of  interest.  Hence,  it  shows  how 
+the values evolve over time. Here, three horizons are 
+represented,  a  1971-2000  reference  period,  a  2050 
+horizon (2045-2065) and a 2090 horizon (2081-2100) 
+with  a  total  of  79  simulations  (75  from  the  CMIP3 
+global ensemble and 4 from the regional CRCM 4.2.3 
+model). 
+
+left  panel 
+
+The 
+is  constructed  by  averaging  the 
+growing degree-days for all grid points for the region 
+of  interest  shown  in  the  hatched  area.  The  black 
+line  shows  observed  values  (notice  the  observed 
+natural  variability  of  the  climate  over  that  time 
+period), the blue  line  represents the median  of the 
+CMIP3 ensemble simulations and the grey envelope 
+represents  the  confidence 
+interval  around  the 
+median. A bias correction post-processing method is 
+used to obtain future values. 
+
+The  right  panel  shows  the  distribution  of  the  30 
+observed  annual  growing  degree-day  values  for 
+the  reference  period  (black  line),  as  well  as  the 
+distributions  of  the  30  projected  years  for  three 
+individual climate scenarios for both the 2050 (2046-
+2065)  and  2090  (2081-2100)  horizons.  The  three 
+plotted scenarios are selected from the 79 available 
+simulations  by  first  calculating  the  average  delta 
+values for all scenarios for the two time horizons. The 
+
+three individual scenarios for each horizon are then 
+chosen as those having (1) the median (blue curve), 
+(2) the 10th (green curve) and (3) the 90th (red curve) 
+percentile  values  of  the  average  projected  change 
+out of the 79 simulations for the horizon in question. 
+Note that the three scenarios are not necessarily the 
+same  for  each  horizon  of  interest  (i.e.  the  scenario 
+showing  the  median  change  in  2050  is  probably 
+not the median scenario in 2090). This panel uses a 
+scaling post-processing method which allows a direct 
+comparison  of  future  scenarios  with  the  observed 
+distribution.
+
+  average  conditions 
+
+What are the limitations/caveats/possible ways to 
+misinterpret the information?
+The left panel reveals that while there is definitely a 
+projected  increase  in  growing  degree-days,  there  is 
+also  a  widening  of  the  grey  envelope  (uncertainty) 
+into the future. An important point is that the grey 
+envelope contains all sources of uncertainty, not just 
+the inter-annual variability. For example, the widening 
+of  the  envelope  could  lead  a  user  to  mistakenly 
+conclude  that in  the future, the simulations  project 
+both  warmer 
+(centered 
+approximately  in  the  middle  of  the  envelope)  and 
+an  increased  variability  between  individual  years 
+(inter-annual variability). However, this is not how the 
+figure should  be interpreted. The width of the grey 
+envelope for the future horizons is in fact the result of 
+multiple sources of uncertainty, not only inter-annual 
+natural variability, but also uncertainty between the 
+different  SRES  families  (i.e.  more  or  less  GHGs  in 
+the atmosphere), as well as uncertainties in climate 
+model sensitivity (i.e. how sensitive different climate 
+models are to a given increase in GHG concentrations). 
+It  is  therefore  false  to  assume  that  the  wider  grey 
+envelope for future horizons solely represents greater 
+inter-annual  variability,  as  represented  by  the  grey 
+envelope for the reference period.
+
+In order to better understand whether there is indeed 
+an increase in the inter-annual variability (increased 
+fluctuations  between  years)  we  need  to  investigate 
+the panel on the right. Comparing the coloured future 
+distributions with the observed distribution highlights 
+the fact that the distribution shape does not change 
+much in the future (similar widths, tails, etc.). What is 
+projected is a simple upward shift of the distribution 
+in the future, with an increased separation between 
+the  green,  blue  and  red  curves  between  2050  to 
+2090. Going back to the left panel we can now much 
+more  easily  conclude  that,  in  this  case,  the  change 
+in the grey envelope width is due to this increasing 
+separation between the individual climate scenarios 
+(due  to  differences  in  emissions  and  climate  model 
+sensitivity) and not because of an increase in inter-
+annual variability.
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  60
+
+

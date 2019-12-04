@@ -1,0 +1,69 @@
+The goal of this section is to present how climate information can be tailored to the audience. In other words, 
+the same climate information (e.g. past trends or projected future changes) can be presented using different 
+formats. For example, projected changes in temperatures can be presented using a synthesis table (e.g. p.43), 
+a map (e.g. p.48), or using a graph that plots the evolution of the change over time (e.g. p.59). 
+The objective of this chapter is to present as many of the most commonly used formats as possible (Table 5). 
+However, new formats are continually being developed by climate service providers and particular formats 
+can always be created to meet the preferences of decision-makers or the particularities of a project.
+In order to increase the capacity of decision-makers to critically evaluate the information that is provided to 
+them, all figures, graphs and maps presented in this section are accompanied by explanations that describe: 
+1) what climate information is presented and how should it be interpreted, 2) how the figure is constructed 
+and 3) what are the limitations/caveats/possible ways to misinterpret the information.  In addition, the use 
+of coloured font will remind the reader that additional information on key climate science concepts can be 
+found in Chapter 1.
+
+Table 5 |  Climate information formats associated with each of the three climate information categories. 
+
+CATEGORY
+
+BASIC
+
+TYPE OF CLIMATE INFORMATION 
+
+COMMONLY PROVIDED
+Historical trends and future 
+mean changes over large spatial 
+and temporal scales and for 
+simple climate variables
+
+INTERMEDIATE
+
+Future changes or future 
+absolute values of more complex 
+climate variables over finer 
+spatial scales
+
+DETAILED
+
+Future changes in means, 
+absolute values and extremes 
+over finer spatial scales
+
+EXAMPLES OF COMMON CLIMATE 
+
+INFORMATION FORMATS
+
+Synthesis tables 
+Climate normals 
+Historical trends (station data, 
+homogenized climate records)
+Delta changes: 
+   Map of projected global changes
+   Map of projected regional changes 
+All formats from the basic category +
+Spatial analogues 
+Scatter plots 
+Map of projected future values
+Evolution of future values 
+Cumulative distribution function
+
+All formats from the basic and 
+intermediate categories +
+Temporal series 
+Analysis of extremes –IDF curves
+Analysis of low-confidence climate 
+indices and events 
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  40
+
+

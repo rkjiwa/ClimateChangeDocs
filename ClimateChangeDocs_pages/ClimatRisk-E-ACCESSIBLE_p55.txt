@@ -1,0 +1,63 @@
+…
+
+Future projections are consistent with observed trends. Climate change scenarios (in the absence of 
+adaptation measures) project that the length of the winter road operating season will decrease from 
+approximately 65 days in 2010 to 58 days by 2020 and 49 days by 2050 (with a 6 to 8 day margin of error 
+per season).
+
+Adaptation costs: It is possible that the winter road will remain viable through 2050, although there may 
+be significant costs associated with flexible scheduling and increased construction and maintenance 
+requirements. These costs are estimated in the range of $55 to 155 million3 over a 35-year horizon.
+
+There is also a significant risk of disruptions associated with late opening, early closure, or non-opening 
+of the road. If the TCWR season length drops to fewer than 45 days, the road will no longer be able 
+to accommodate an average season’s demand. This has direct implications for mine production. In 
+these circumstances, the most significant costs are likely to be associated with a shift to other modes of 
+transportation. The total estimated cost of this scenario over 35 years is approximately $213 million, with a 
+maximum cost of $1.8 billion (consisting mainly of production losses). 
+
+In summary, changes to the TCWR’s operational season length create significant economic risks for both 
+operators and users, assuming demand for the road increases or remains stable. Improved understanding 
+of climate thresholds and associated costs for road owners and users may help to inform future economic 
+and vulnerability assessments for winter roads.
+
+Written based on findings from Perrin et al., 2015.
+
+3 
+
+These estimates represent net present values in 2015 dollars with a 4% discount rate applied.
+
+4.3 ADAPTATION PRACTICES
+
+Adaptation practices for roads vary by season and type of road (e.g., all-weather vs. winter). 
+Generally, adaptation approaches for northern roads fall under three major categories: maintenance 
+and monitoring practices; infrastructure planning and siting; and construction techniques and 
+technologies. 
+
+4.3.1 MAINTENANCE AND MONITORING PRACTICES
+
+4.3.1.1 All-weather roads
+
+Ongoing monitoring of infrastructure conditions is important for identifying maintenance priorities, in 
+preparation for gradual climatic changes and extreme weather events. In areas at risk of permafrost 
+thaw, all-weather roads can be maintained through several methods, including clearing snow from 
+vulnerable sections of roads built on permafrost (e.g., side slopes); conducting alternative routing 
+assessments prior to reconstruction; and road-shoulder widening (Transportation Association of 
+Canada, 2010). Culverts experiencing accelerated permafrost degradation can be replaced or 
+expanded if runoff capacity is exceeded, and accompanying ditching/drainage may be enhanced 
+in this event as well (Deton’Cho-Stantec, 2013). As permafrost thaws, all-weather roads that carry 
+significant traffic – particularly heavy vehicles – will require greater maintenance compared to lower-
+traffic routes.
+
+Monitoring can also mitigate the impact of forest fires, which often result in the closure of road 
+segments. While some delays are inevitable, a public notification system can help mitigate 
+bottlenecks and other effects of closure. Monitoring ground conditions after a forest fire is also 
+important, as fires typically have an impact on underlying permafrost (Semeniuk, 2014).
+
+ 
+CHAPTER 3: NORTHERN TERRITORIES 
+
+44
+44
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

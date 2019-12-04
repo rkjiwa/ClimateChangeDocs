@@ -1,0 +1,106 @@
+2.2 PROJECTED CHANGES 
+
+The Plan2Adapt tool (Pacific Climate Impacts Consortium, 2013c), developed by the Pacific 
+Climate Impacts Consortium, provides generalized climate change projections for British 
+Columbia for three time horizons as well as for each of the ecoprovince designations based on 
+a standard set of climate model projections (Tables 3 and 4).  Projections are broadly consistent 
+with observed climate trends (see Section 2.1). Overall, the climate in British Columbia will shift 
+over the next 80 years with upwards of 2.7 °C of annual warming, wetter winters, generally drier 
+summers and significantly longer frost-free periods.  
+
+Table 3: Projected changes in selected climate variables for the province of British Columbia for three 
+time periods – the 2020s, 2050s and 2080s. Projected changes are relative to the historic baseline 
+1961-1990. The ensemble median is a mid-point value, chosen from a set of 15 Global Climate Model 
+(GCM) projections for each of A2 and B1. (Source: Pacific Climate Impacts Consortium, 2013c)
+
+Climate Variable
+
+Season
+
+Mean Temperature
+
+Precipitation
+
+Snowfall
+
+Annual
+
+Annual
+
+Summer
+
+Winter
+
+Winter
+
+Spring
+
+Projected Change from 1961-1990 Baseline 
+
+Ensemble Median
+
+2020s 
+
+(2010-2039)
+
++1.0
+
++4%
+
++0%
+
++4%
+
+-2%
+
+-30%
+
+2050s 
+
+(2040-2069)
+
++1.8 °C
+
+2080s 
+
+(2070-2099)
+
++2.7 °C
+
++6%
+
+-1%
+
++8%
+
+-10%
+
+-58%
+
++9%
+
++0%
+
++13%
+
+-12%
+
+-70%
+
+Frost-Free Days
+
+Annual
+
++10 days
+
++20 days
+
++30 days
+
+ 
+CHAPTER 4: BRITISH COLUMBIA 
+
+74
+74
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016
