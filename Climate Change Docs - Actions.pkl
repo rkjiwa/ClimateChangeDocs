@@ -1,0 +1,820 @@
+ROOT_self_VB LEFT_aux_VB LEFT_nsubj_NN RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_neg_RB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_punct_, LEFT_advcl_VBN LEFT_punct_, LEFT_aux_TO RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_, RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_JJ LEFT_punct_, RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VB LEFT_aux_VBP LEFT_neg_RB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_NNS LEFT_amod_JJ RIGHT_cc_CC RIGHT_conj_NN RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_NN LEFT_prep_IN LEFT_punct_, LEFT_dep_NN LEFT_nummod_CD RIGHT_punct_-RRB- RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBN RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_ADD RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_ADD RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBP LEFT_advmod_RB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_JJ RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_, RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_prt_RB RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_ccomp_VBZ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_, RIGHT_conj_NN RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_punct_, LEFT_nsubj_PRP LEFT_aux_MD RIGHT_xcomp_VB
+ROOT_self_VB LEFT_advmod_RB RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_intj_UH RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN
+ROOT_self_VB RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_, RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_punct_, LEFT_nsubj_PRP LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN
+ROOT_self_VB LEFT_advcl_VBD LEFT_punct_, RIGHT_dobj_PRP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_ADD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_:
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_PRP LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNP RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_NNS LEFT_amod_JJ RIGHT_punct_, RIGHT_conj_NNS RIGHT_punct_.
+ROOT_self_NN LEFT_compound_VB RIGHT_punct_, RIGHT_conj_NNS RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_punct_, RIGHT_dobj_PRP RIGHT_prt_RP RIGHT_cc_CC RIGHT_conj_VB
+ROOT_self_VBG LEFT_csubj_VB LEFT_aux_VBP RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ RIGHT_ccomp_VBP
+ROOT_self_VB RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_PRP RIGHT_punct_, RIGHT_npadvmod_NNS RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_PRP RIGHT_punct_, RIGHT_npadvmod_NN RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NN RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, LEFT_nsubj_PRP LEFT_aux_MD RIGHT_ccomp_VBZ RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_punct_: LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_PRP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_prt_RP RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_RB LEFT_punct_, RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB
+ROOT_self_VB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VBP RIGHT_punct_-LRB- RIGHT_advcl_VBP RIGHT_punct_-RRB- RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBN LEFT_punct_, RIGHT_prep_IN
+ROOT_self_VB LEFT_advcl_VBN LEFT_punct_, RIGHT_prep_IN
+ROOT_self_VB LEFT_advcl_VBG RIGHT_prep_IN RIGHT_punct_, RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_prep_IN
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_advcl_VBN
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_NNS RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_dobj_NN RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_PRP RIGHT_punct_, RIGHT_npadvmod_NN RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NN RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_prt_RP RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advmod_RB
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_RP RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_JJ LEFT_punct_, RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_JJ LEFT_punct_, RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBD LEFT_punct_, RIGHT_acomp_VBN
+ROOT_self_VB LEFT_nsubj_PRP LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_PRP LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VBZ RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_NNS RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, LEFT_aux_VB LEFT_neg_RB RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_prt_RP RIGHT_dobj_NN RIGHT_prep_IN RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_MD LEFT_neg_RB LEFT_punct_, LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NN RIGHT_xcomp_VBG
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_:
+ROOT_self_VB LEFT_prep_VBG LEFT_punct_, LEFT_nsubj_PRP LEFT_aux_MD RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_advmod_RB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD LEFT_neg_RB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubj_VB RIGHT_cc_CC RIGHT_conj_NNS RIGHT_punct_.
+ROOT_self_RB RIGHT_cc_CC RIGHT_conj_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VBG LEFT_nsubj_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_xcomp_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_advcl_VBP LEFT_punct_, LEFT_nsubjpass_PRP LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_punct_, RIGHT_conj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_NNS LEFT_amod_JJ RIGHT_relcl_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_prep_IN RIGHT_advcl_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_oprd_JJ RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_:
+ROOT_self_JJ LEFT_advmod_RB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_, RIGHT_conj_VBG RIGHT_relcl_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_NN RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_mark_IN LEFT_prep_IN LEFT_punct_, RIGHT_dobj_PRP RIGHT_prt_RP RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NNS RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_NNP LEFT_compound_NNP LEFT_compound_NNP RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_, RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_JJ RIGHT_relcl_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_VBG LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NN LEFT_compound_NN RIGHT_prep_IN RIGHT_prep_IN
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_dobj_NNS RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VBZ LEFT_advcl_VBP LEFT_punct_, LEFT_nsubj_PRP RIGHT_acomp_JJ RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, LEFT_intj_UH RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_NNP LEFT_compound_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, LEFT_intj_UH RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, LEFT_intj_UH RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_, RIGHT_npadvmod_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, LEFT_intj_UH RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_cc_IN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_NN RIGHT_cc_CC RIGHT_conj_NNS RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNP RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB LEFT_amod_JJ LEFT_punct_, RIGHT_dobj_NNS RIGHT_dobj_NNS
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNP RIGHT_advmod_RB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_advcl_VBP LEFT_punct_, LEFT_nsubj_PRP RIGHT_acomp_JJS RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_nsubjpass_NNP LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBP LEFT_prep_IN LEFT_punct_, LEFT_csubj_VB RIGHT_dobj_ADD RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_ccomp_VB LEFT_punct_: LEFT_nsubj_PRP LEFT_aux_MD RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_, RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB LEFT_punct_, RIGHT_dobj_NNS RIGHT_oprd_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_ccomp_VBD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubj_NNP RIGHT_dobj_NNS RIGHT_advmod_RB RIGHT_prep_IN RIGHT_punct_-RRB- RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_PRP LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNP RIGHT_cc_CC RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_PRP RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_ccomp_VBD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_advcl_VBZ RIGHT_punct_, RIGHT_advcl_VBZ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dative_PRP RIGHT_dobj_NN RIGHT_punct_, RIGHT_dobj_NN
+ROOT_self_VB RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_NN LEFT_compound_NN LEFT_compound_NN LEFT_punct_HYPH RIGHT_cc_CC RIGHT_conj_VBP
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_acl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_xcomp_VB
+ROOT_self_VB RIGHT_dobj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_PRP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_prep_IN RIGHT_dative_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_RB LEFT_punct_, RIGHT_dobj_NNP RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_NN RIGHT_dobj_NNS RIGHT_dobj_NNS RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_neg_RB RIGHT_cc_CC RIGHT_conj_NN RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN
+ROOT_self_VB RIGHT_dobj_NN RIGHT_dobj_VBG RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_NNPS LEFT_compound_NN RIGHT_prep_IN RIGHT_advcl_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBN RIGHT_dobj_NN RIGHT_advmod_RB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_dobj_NN RIGHT_cc_CC RIGHT_cc_CC RIGHT_conj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advmod_RB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubj_NNP RIGHT_dobj_NNS RIGHT_advmod_RB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBP RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBD LEFT_nsubj_NNP RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_-RRB- RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN
+ROOT_self_IN RIGHT_pobj_NN RIGHT_pcomp_VB
+ROOT_self_VB RIGHT_prep_IN
+ROOT_self_VBP LEFT_nsubj_NN LEFT_advmod_RB RIGHT_dobj_NN RIGHT_dative_IN
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN
+ROOT_self_VBN LEFT_advmod_RB LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_ccomp_VB
+ROOT_self_VB LEFT_aux_VB LEFT_nsubj_NN RIGHT_dobj_NN
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NNS
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_csubj_VBG RIGHT_attr_NN
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_xcomp_VB
+ROOT_self_VB LEFT_npadvmod_NN LEFT_punct_HYPH RIGHT_dobj_NN
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prt_RP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VBD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advcl_VBZ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_advmod_NNS RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_acomp_JJ RIGHT_acomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_JJ RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NN RIGHT_advcl_VBZ RIGHT_punct_.
+ROOT_self_NN RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_amod_VB LEFT_nmod_NN LEFT_amod_JJ RIGHT_relcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_advmod_RB LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD LEFT_advmod_RB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_parataxis_NN RIGHT_punct_.
+ROOT_self_VBN LEFT_advcl_VBN LEFT_punct_, LEFT_nsubjpass_PRP LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubj_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_punct_, RIGHT_dobj_NN RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_neg_RB RIGHT_dobj_NN RIGHT_prt_RP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_NN LEFT_advcl_VBZ LEFT_punct_, RIGHT_dobj_NN RIGHT_prep_RB RIGHT_advcl_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBN LEFT_csubjpass_VB LEFT_auxpass_VBZ RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_attr_NN RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_TO RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB LEFT_advmod_RB RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_oprd_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_NNS LEFT_nsubj_NN RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBP LEFT_mark_IN LEFT_nsubj_NNS RIGHT_acomp_JJ RIGHT_punct_VBZ RIGHT_acomp_JJ RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_JJ RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_punct_, RIGHT_ccomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBZ RIGHT_punct_.
+ROOT_self_VBG LEFT_mark_IN LEFT_nsubj_PRP LEFT_aux_VBP RIGHT_dobj_NN RIGHT_punct_, RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_acomp_JJ RIGHT_cc_CC RIGHT_conj_VBP RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_auxpass_VBP RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_oprd_JJ RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_VBN LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_PRP LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VB RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_advmod_RB RIGHT_cc_CC RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_ccomp_VBZ RIGHT_punct_.
+ROOT_self_VB LEFT_neg_RB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_nsubj_NN RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_advmod_RB RIGHT_punct_, RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBZ RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN LEFT_compound_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN RIGHT_dobj_NN RIGHT_punct_-RRB- RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_amod_JJ RIGHT_punct_-LRB- RIGHT_prep_IN RIGHT_punct_-RRB- RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubj_NN LEFT_advmod_RB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBG LEFT_nsubj_NNP RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_NN RIGHT_amod_JJ RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBD LEFT_nsubj_NNP RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBD LEFT_nsubj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBD LEFT_nsubj_NNS RIGHT_prt_RP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_acl_VBN RIGHT_punct_CD
+ROOT_self_VB RIGHT_dobj_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBP RIGHT_dobj_NN
+ROOT_self_VB RIGHT_dobj_PRP RIGHT_dobj_NN RIGHT_prep_IN
+ROOT_self_VBZ LEFT_nsubj_PRP RIGHT_acomp_JJ RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_aux_VB LEFT_nsubj_NN RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_csubj_VBG RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NNP RIGHT_ccomp_VBP RIGHT_punct_:
+ROOT_self_VBZ LEFT_advcl_VBP LEFT_nsubj_PRP RIGHT_acomp_JJ RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VBZ LEFT_prep_IN LEFT_punct_, LEFT_nsubj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_cc_CC LEFT_nsubjpass_NN LEFT_aux_MD LEFT_advmod_RB LEFT_auxpass_VB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBN LEFT_punct_, LEFT_nsubj_PRP LEFT_aux_MD RIGHT_dobj_NN RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_acomp_VBN RIGHT_prep_VBG RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_PRP RIGHT_advmod_RB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNP LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_acomp_JJ RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_, RIGHT_advcl_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB LEFT_punct_, RIGHT_ccomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_punct_, LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_advmod_RB RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_PRP RIGHT_acomp_JJ RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_advmod_RP RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VBP LEFT_nsubj_NNS RIGHT_attr_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_PRP RIGHT_acomp_JJ RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD LEFT_advmod_RB RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_cc_CC RIGHT_conj_VBD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBG RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBG RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBG RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, LEFT_prep_IN LEFT_punct_, LEFT_aux_MD RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_auxpass_VBP LEFT_advmod_RB LEFT_neg_RB RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_oprd_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, RIGHT_prt_RP RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_advmod_RB LEFT_auxpass_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBZ
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VBD RIGHT_punct_.
+ROOT_self_NNS LEFT_nsubj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_cc_CC RIGHT_conj_VBD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VB
+ROOT_self_NNS LEFT_compound_NN RIGHT_prep_IN
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_CC RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NNP RIGHT_acl_VBG RIGHT_cc_CC RIGHT_conj_NN
+ROOT_self_VB RIGHT_ccomp_JJ RIGHT_punct_, RIGHT_cc_CC RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_acl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_conj_VBD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_VBG RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_prt_RP RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_csubj_VBG RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NN RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advmod_RB RIGHT_cc_CC RIGHT_conj_VB
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_advcl_VB LEFT_punct_: LEFT_nsubj_NN RIGHT_acomp_JJ RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_parataxis_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VB RIGHT_cc_CC RIGHT_conj_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBZ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBN RIGHT_prt_RP RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_cc_CC RIGHT_conj_NNS RIGHT_prep_IN RIGHT_acl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_advcl_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBN RIGHT_prt_RP RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prep_IN
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_NNS RIGHT_punct_, RIGHT_relcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VBP
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD LEFT_advmod_RB RIGHT_prt_RP RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_agent_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_, RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB
+ROOT_self_VBP LEFT_nsubj_NNS RIGHT_attr_NN RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_advmod_RB LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prt_RP RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NN RIGHT_punct_, RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_xcomp_VB RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD LEFT_neg_RB RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_NN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_parataxis_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_CC RIGHT_appos_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_prep_IN RIGHT_punct_, RIGHT_prep_IN RIGHT_punct_, RIGHT_relcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBP LEFT_nsubj_NNS RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_advmod_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubj_NNS RIGHT_dobj_NN RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VB
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NN RIGHT_npadvmod_NN RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_prep_IN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBP RIGHT_dobj_NNS RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_prep_IN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_JJ LEFT_nsubj_NNS RIGHT_prep_IN RIGHT_punct_:
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_, RIGHT_conj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS
+ROOT_self_VB RIGHT_dobj_NN
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NNPS
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_NN
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VBG LEFT_nsubj_NNS RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_NNP RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBP RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN LEFT_compound_NN RIGHT_prep_IN RIGHT_prep_IN RIGHT_relcl_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBP LEFT_nsubj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_csubj_VBG RIGHT_acomp_JJ RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VBG RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBN LEFT_punct_, RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_xcomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_agent_IN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNP RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_prep_IN
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_NN LEFT_compound_NN RIGHT_cc_CC RIGHT_conj_NNS RIGHT_advcl_VB
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VB
+ROOT_self_NNS RIGHT_dobj_NNS
+ROOT_self_VBN LEFT_nsubj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG
+ROOT_self_NNS LEFT_compound_NN RIGHT_punct_-LRB- RIGHT_relcl_VBN RIGHT_punct_, RIGHT_relcl_VB
+ROOT_self_NNS RIGHT_relcl_VBP RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_punct_, LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB LEFT_advmod_RB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_dobj_NNS RIGHT_punct_. RIGHT_punct_-RRB- RIGHT_punct_.
+ROOT_self_VBN LEFT_ccomp_VBN LEFT_punct_, LEFT_advmod_CC LEFT_nsubjpass_NN LEFT_aux_MD LEFT_advmod_RB LEFT_auxpass_VB RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prt_RP RIGHT_prep_IN RIGHT_conj_VBN
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_acomp_JJ RIGHT_advcl_VBN RIGHT_punct_, RIGHT_cc_RB RIGHT_conj_VBZ
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_auxpass_VBZ LEFT_advmod_RB RIGHT_prep_IN RIGHT_punct_, RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_advmod_RB LEFT_punct_, LEFT_prep_IN LEFT_punct_, LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN
+ROOT_self_VBN LEFT_advmod_RB LEFT_punct_, LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, LEFT_nsubj_NN LEFT_csubj_VBG LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_ccomp_VBN
+ROOT_self_VBZ LEFT_advcl_VBG LEFT_nsubj_PRP RIGHT_advmod_RB RIGHT_acomp_JJ RIGHT_xcomp_VB
+ROOT_self_VBN LEFT_prep_IN LEFT_punct_, LEFT_nsubjpass_NNS LEFT_punct_, LEFT_aux_MD LEFT_auxpass_VB
+ROOT_self_VBN LEFT_nsubjpass_RB LEFT_aux_MD LEFT_advmod_RB LEFT_auxpass_VB RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBN LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_-RRB-
+ROOT_self_VBN LEFT_advcl_VB LEFT_punct_, LEFT_nsubjpass_NN LEFT_aux_MD LEFT_neg_RB LEFT_auxpass_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_punct_, LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VBZ LEFT_csubj_VBG RIGHT_advmod_RB RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_DT LEFT_auxpass_VBZ LEFT_advmod_RB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VBN RIGHT_punct_. RIGHT_punct_-RRB-
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD LEFT_neg_RB RIGHT_prep_IN RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VBZ
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD LEFT_neg_RB RIGHT_acomp_JJ RIGHT_prep_IN RIGHT_prep_IN
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_auxpass_VBZ LEFT_advmod_RB LEFT_advmod_RB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_DT LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNP RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_MD LEFT_nsubj_NN RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_DT RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_advmod_DT
+ROOT_self_VB LEFT_advmod_RB LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_acomp_JJ RIGHT_punct_, RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_PRP LEFT_advcl_VBG LEFT_punct_, LEFT_dep_PRP LEFT_compound_VBZ RIGHT_acomp_JJ RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_nsubj_PRP LEFT_aux_MD RIGHT_acomp_JJ RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNP LEFT_auxpass_VBZ RIGHT_advmod_RB RIGHT_advcl_VB RIGHT_punct_, RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_DT LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNP RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_PRP LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_agent_IN RIGHT_prep_IN RIGHT_punct_, RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_agent_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_prep_IN RIGHT_advcl_VBP
+ROOT_self_VB LEFT_advcl_VBP LEFT_punct_, LEFT_nsubj_PRP LEFT_aux_MD RIGHT_xcomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_JJ RIGHT_punct_, RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_advmod_RB LEFT_auxpass_VB RIGHT_dative_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_DT RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_advmod_RB LEFT_punct_, LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VBZ RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_prep_IN RIGHT_parataxis_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_mark_IN RIGHT_nsubj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_DT LEFT_aux_MD RIGHT_ccomp_VBN RIGHT_punct_-RRB- RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNP LEFT_auxpass_VBZ RIGHT_advmod_RB RIGHT_advcl_VB RIGHT_punct_, RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_DT LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNP RIGHT_punct_.
+ROOT_self_VB LEFT_ccomp_VBP LEFT_punct_, LEFT_nsubj_DT LEFT_aux_MD RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBG LEFT_punct_, LEFT_nsubj_NNS RIGHT_dobj_DT RIGHT_punct_:
+ROOT_self_VBN LEFT_advcl_VB LEFT_punct_, LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_advmod_RB RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_advcl_VB LEFT_nsubjpass_NN LEFT_auxpass_VBZ RIGHT_punct_.
+ROOT_self_VBN LEFT_advcl_VB LEFT_nsubjpass_NNP LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_agent_IN RIGHT_cc_CC RIGHT_conj_VBN
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_xcomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_advcl_VBZ LEFT_punct_, LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_advcl_VB
+ROOT_self_VBZ LEFT_csubj_VBG RIGHT_attr_NN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_PRP LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_advcl_VB RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN LEFT_aux_MD RIGHT_dobj_NN RIGHT_cc_RB RIGHT_conj_VBN
+ROOT_self_VB LEFT_csubj_VBG LEFT_aux_MD RIGHT_ccomp_VB RIGHT_punct_, RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, LEFT_nsubj_NN LEFT_aux_MD RIGHT_punct_, RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_punct_, LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_DT LEFT_aux_MD RIGHT_attr_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_advcl_VBN LEFT_punct_, LEFT_nsubjpass_PRP LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NNS LEFT_aux_MD RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBZ LEFT_nsubj_NN LEFT_advmod_RB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NNS LEFT_amod_JJ LEFT_amod_JJ RIGHT_punct_, RIGHT_conj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS
+ROOT_self_VB LEFT_advcl_VBN RIGHT_dobj_PRP RIGHT_prep_IN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_punct_, LEFT_advcl_JJ LEFT_punct_, LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_, RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VBN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_neg_RB LEFT_auxpass_VB RIGHT_prep_IN
+ROOT_self_VBN LEFT_punct_-LRB- LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_advcl_VBN RIGHT_punct_-RRB- RIGHT_punct_.
+ROOT_self_NN LEFT_compound_NN RIGHT_cc_CC RIGHT_conj_NNS RIGHT_punct_.
+ROOT_self_VB LEFT_prep_VBG LEFT_aux_MD RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_JJ LEFT_punct_, RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB LEFT_advcl_VBZ LEFT_punct_, RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_NNS LEFT_amod_VB LEFT_compound_NN RIGHT_punct_, RIGHT_appos_NNS RIGHT_punct_, RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VBZ LEFT_mark_IN LEFT_nsubj_NN RIGHT_attr_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_mark_IN LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_neg_RB LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_-LRB- RIGHT_prep_IN RIGHT_punct_-RRB- RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_, RIGHT_advcl_VBN RIGHT_punct_:
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_advcl_VB RIGHT_cc_CC RIGHT_conj_NN RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN RIGHT_cc_CC RIGHT_conj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VBD RIGHT_punct_.
+ROOT_self_VBZ LEFT_mark_IN LEFT_nsubj_NN RIGHT_dobj_NN RIGHT_advmod_RB RIGHT_punct_, RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_dobj_NNP RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_RB RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_RBR RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VBN LEFT_nsubjpass_NN LEFT_aux_MD LEFT_auxpass_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_PRP LEFT_aux_MD LEFT_advmod_RB RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VBG LEFT_advmod_WRB RIGHT_ccomp_NN RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_ccomp_VB RIGHT_punct_.
+ROOT_self_VBN LEFT_prep_IN LEFT_punct_, LEFT_nsubjpass_NNS LEFT_aux_MD LEFT_auxpass_VB RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_DT LEFT_aux_MD LEFT_advmod_RB RIGHT_dobj_NNP RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_advmod_RB RIGHT_dobj_NN RIGHT_advcl_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB LEFT_prep_IN LEFT_punct_, RIGHT_acomp_JJ RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_, RIGHT_advcl_VB RIGHT_ccomp_VBN
+ROOT_self_VB RIGHT_advmod_JJR RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_JJ LEFT_compound_NNP LEFT_compound_VB LEFT_compound_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN
+ROOT_self_VB RIGHT_dobj_NN RIGHT_oprd_VBD RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB LEFT_nsubj_NN RIGHT_dobj_JJR RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advcl_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VBG RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_NN
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_ccomp_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_, RIGHT_prep_IN
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN
+ROOT_self_VB RIGHT_dobj_NN RIGHT_oprd_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_oprd_VBN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN
+ROOT_self_VB RIGHT_dobj_NN RIGHT_npadvmod_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NNS RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_advcl_VBP RIGHT_punct_.
+ROOT_self_VB RIGHT_appos_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_dative_NNP RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NN RIGHT_prep_IN RIGHT_cc_CC RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS
+ROOT_self_VB RIGHT_dobj_NNS
+ROOT_self_VB RIGHT_ccomp_VBN
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prt_RP RIGHT_dobj_NNS RIGHT_advcl_VBN RIGHT_punct_.
+ROOT_self_VBG LEFT_mark_IN LEFT_nsubj_PRP LEFT_aux_VBP RIGHT_dobj_NN RIGHT_punct_, RIGHT_conj_VB RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_NN LEFT_compound_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_NN LEFT_nsubj_NN RIGHT_dobj_NNP
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advmod_RB RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_advmod_RB
+ROOT_self_NNS LEFT_compound_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_prep_IN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_xcomp_VBG RIGHT_punct_.
+ROOT_self_NNS LEFT_compound_VB LEFT_compound_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_punct_HYPH RIGHT_prt_RP RIGHT_dobj_NN RIGHT_npadvmod_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NNS RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_punct_.
+ROOT_self_VB RIGHT_dobj_NN RIGHT_prep_IN RIGHT_punct_.
