@@ -1,0 +1,56 @@
+1.9.1 WHEN IS DOWNSCALING NECESSARY
+The idea that finer resolution climate data is better 
+can be attractive; however, downscaling will not 
+necessarily  yield  more  useful  information  to 
+the decision-maker. Moreover, increased model 
+resolution  does  not  guarantee  superior  model 
+performance for all variables and all time-scales. 
+Arguably,  many  adaptation  strategies  will  be 
+developed for a relatively small area (local scale), 
+which  may  therefore  require  finer  resolution 
+climate information. However, the mean change 
+projected from a GCM over a 200 km grid cell may 
+not be very different from what is projected once 
+the  data  are  downscaled  to  a  smaller  grid  cell 
+(from either dynamical or statistical downscaling), 
+particularly  given  the  uncertainties  around  the 
+model  ensemble  projections.  In  other  words, 
+downscaling may improve the accuracy of some 
+of the information given, but not for all variables 
+over all time periods. 
+
+Before  deciding  on  the  necessity  and  added-
+value  of  downscaled  information,  the  climate 
+variable of interest and the landscape features of 
+the region of interest must be analyzed. Surface 
+characteristics  like  topography,  coastlines  or  the 
+vicinity of a body of water do not have the same 
+effect  on  the  various  climate  variables  and  this 
+influence  could  also  vary  from  one  season  to 
+another.  For  instance,  air  surface  temperature 
+is  generally  uniform  over  larger  regions  of  flat 
+terrain,  but  changes  abruptly  by  the  seashore. 
+On the other hand, precipitation generally tends 
+to be more variable in space. Thus, in the latter 
+case,  the  choice  of  reverting  to  a  dynamical 
+downscaling  technique  may  be  preferable  but  it 
+might not be necessary for someone interested in 
+the temperature over a large region. In addition, 
+the added time needed to resolve the information 
+at  a  finer  scale  is  non-negligible  and  should 
+be  accounted  for  (in  deciding  if  downscaling  is 
+necessary). 
+
+Downscaling and bias correction (post-processing)
+
+There is often some confusion in separating downscaling and bias correction concepts. Bias correction 
+techniques are part of what are often referred to as post-processing techniques (see next section) and 
+are  not,  strictly  speaking,  related  to  downscaling  techniques.  However,  many  statistical  downscaling 
+methods often involve a bias-correction step. In addition, while dynamical downscaling in and of itself 
+does not involve any form of bias correction, the outputs from regional climate models are at times bias 
+corrected. Hence, users often wrongly assume that bias correction and downscaling are one and the 
+same. 
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  24
+
+

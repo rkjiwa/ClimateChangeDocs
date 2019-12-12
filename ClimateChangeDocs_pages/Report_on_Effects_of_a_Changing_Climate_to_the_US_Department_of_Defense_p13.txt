@@ -1,0 +1,66 @@
+emergency events.  At the installation level, natural resource managers work to evaluate 
+the threat of wildfires to key resources and promote sustainable management practices, 
+such as the development and implementation of fire management plans for major 
+facilities and aligned special areas. 
+
+•  DLA is upgrading its data center layout and mechanical equipment to ensure provision of 
+
+the cooling needed for processors and servers to operate efficiently in warmer 
+temperatures.  All data centers will eventually migrate to a cloud server following the 
+Data Center Optimization Initiative. 
+
+•  Other DLA approaches to increase installation resilience involve relocation of assets 
+
+from flood-prone areas to safer areas.  For example, at two flood-prone sites, DLA 
+installed backup power generators and other mechanical equipment like chillers on a 
+higher elevation or mounted on concrete pads in accordance with building codes.  Other 
+mechanical rooms were located in building rooftops, which helps prevent flood water 
+damage to equipment.  In addition, other measures control rainwater flow, such as the use 
+of retention swales to divert storm water, green roofs to absorb rainfall, and cisterns to 
+store rainfall during downpours. 
+
+ 
+
+ 
+
+ 
+RESEARCH 
+
+Current Efforts 
+
+DoD’s Strategic Environmental Research and Develop Program (SERDP) and 
+
+Environmental Security Technology Certification Program (ESTCP) invest in research focused 
+on improving DoD understanding of environmental risks to installations and mission.  SERDP 
+and ESTCP investments support the development of the science, technologies, and methods 
+needed to manage and enhance the resilience of DoD installation infrastructure with the goal of 
+maximizing mission readiness.  The following are a few examples of SERDP research efforts 
+related to infrastructure and mission resiliency: 
+
+• 
+
+• 
+
+In response to drought risk, SERDP initiated a study to understand and assess 
+environmental vulnerabilities on installations in the desert southwest.  This research seeks 
+to detect and assess drought response of sensitive riparian forests to drought stress over 
+recent decades and will be carried out within three DoD bases in the Southwest, with 
+widely applicable results. 
+
+In response to wildfire risk, SERDP developed a Fire Science Strategy in 2014 focused 
+on the following: improved characterization, monitoring, modeling, and mapping of fuels 
+to support enhanced smoke management and fire planning at DoD installations; enhanced 
+smoke management using advanced monitoring and modeling approaches; and research 
+to quantify, model, and monitor post-fire effects. 
+
+•  SERDP and ESTCP investments seek to understand changes to the arctic terrestrial 
+
+environment relevant to DoD infrastructure.  Permafrost degradation can impact soil, 
+vegetation, buildings, roads, and airfields.  SERDP and ESTCP investments are leading 
+to tools for making arctic infrastructure more "aware" of permafrost changes before 
+
+13 
+
+ 
+
+

@@ -1,0 +1,104 @@
+What climate information is presented and how 
+should it be interpreted?
+The  top  figure  shows  projected  changes 
+in 
+annual  mean  temperature  across  the  globe  for 
+the  horizon  2081-2100  in  comparison  to  the 
+reference period 1986-2005, for RCPs 2.6 and 8.5, 
+as published by the Intergovernmental Panel on 
+Climate Change (IPCC) in their latest assessment 
+report,  published  in  201319.  The  figure  suggests 
+that the Arctic region will warm more rapidly than 
+the  global  mean,  and  that  mean  warming  over 
+land will be larger than over the ocean. 
+
+The  bottom  figure  also  presents  projected 
+changes  in  mean  annual  temperature  but  for  a 
+smaller  domain,  namely  across  Canada,  for  the 
+horizon  2080  (2071-2100)  in  comparison  with 
+the reference period 1971-2000. Median changes 
+in  annual  temperature  for  the  2080  horizon 
+range from 2.5°C to 5°C, while the 10th and 90th 
+percentiles suggest changes as low as 1°C and as 
+high as 8°C (not in the same locations however). 
+The  greatest  changes  are  expected  to  occur  in 
+Northern regions.
+
+How is the figure constructed?
+The  information  presented  in  these  figures  is 
+essentially the same as the information given in 
+synthesis tables except that the expected changes 
+are presented as maps, usually based on gridded 
+data.  The  changes  are  calculated  for  a  specific 
+future  horizon  by  comparing  it  to  the  reference 
+period (this is often referred to as the change-field 
+method).  The  difference  is  calculated  for  each 
+polygon  (or  model  grid  cell)  and  for  all  climate 
+simulations that have been chosen. The changes 
+can be calculated for any given time frame, such 
+as monthly, seasonal or annual changes (as is the 
+case here). 
+
+In both figures, a large number of models were 
+used  to  compute  the  changes.  In  Figure  A,  32 
+models  from  the  CMIP5  ensemble  were  used 
+with RCP2.6 and 39 CMIP5 models with RCP8.5. 
+For Figure B, the changes or deltas were obtained 
+using  137  global  model  simulations  from  the 
+CMIP3 using 3 SRES emissions scenarios (A2, A1b, 
+B1). The changes are subsequently plotted over a 
+common grid. Note that the size of the polygons 
+is generally driven by the resolution of the climate 
+models used. For example, global climate models 
+typically have a resolution of approximately 200-
+300 km whereas regional climate models have a 
+resolution of approximately 45 km and less.
+
+To synthesize the outputs from all the simulations 
+used, a mean (as in the top Figure) or a median 
+(as in the bottom Figure) of the ensemble is often 
+shown. As with the synthesis table, the range in 
+the  simulations,  which  gives  an  estimate  of  the 
+uncertainty  in  the  projections,  should  also  be 
+represented. In Figure A (globe), this is done by 
+the  use  of  hatching  and  stippling  that  indicate 
+whether  the  multi-model  mean  presented  on 
+the  figure  is  small  or  large  in  comparison  with 
+the natural variability. In Figure B (Canada), this 
+is  done  by  giving  not  only  the  median  value  of 
+the  simulation  ensemble  (left  panel)  but  also 
+giving complementary maps that show the range 
+in  the  simulations,  expressed  by  the  10th  and 
+90th percentiles. The choice of the percentiles is 
+arbitrary, and could potentially take on any value 
+of  choice,  such  as  25th  and  75th  percentiles  for 
+example.
+ 
+What are the limitations/caveats/possible ways 
+to misinterpret the information?
+While  such  figures  point  to  the  fact  that 
+temperatures  are  increasing  across  large  scales, 
+they  also  highlight  the  fact  that  not  all  regions 
+will experience the same increase. Consequently, 
+this type of climate information may be useful to 
+raise  the  awareness  of  stakeholders  to  climate 
+change.  However,  it  does  not  detail  how  local 
+changes may differ significantly from this global or 
+national picture. Consequently, using such coarse 
+projections  implies  that  the  local  relevance  of 
+adaptation decisions is less certain.
+
+In  addition,  the  values  shown  on  such  figures 
+give  the  amount  of  change  that  is  estimated  by 
+the models. However, in order to appreciate how 
+important that change may be, it is often necessary 
+to combine this information with climate normals, 
+which give users a baseline value upon which to 
+evaluate the projected changes. Similarly, climate 
+trends can provide additional context to aid with 
+the  interpretation  of  the  magnitude  of  future 
+changes.
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  50
+
+

@@ -1,0 +1,60 @@
+specific to Quebec infrastructure. Nevertheless, it is clear that any impact on the rail system has 
+significant repercussions on the entire supply chain in Canada (QGI Consulting, 2009). See Chapter 5 
+for more information on these challenges.
+
+Managing water runoff along train tracks is a major concern (AREMA, 2003). Extreme weather events 
+and episodes of heavy rain can cause drainage and erosion problems, and increase the risk of a 
+system breach due to disruptions in communications. For example, an episode of heavy rain in 2010 
+eroded the soil under the tracks of a section of the Arcelor Mittal railway. In addition to preventing the 
+trains from moving, the erosion caused a rupture in the fiber optic cables that ensure communication 
+throughout the system. Extreme weather events can also increase the risk of tracks being blocked by 
+debris. As the climate continues to warm, extreme weather events and episodes of heavy rain will 
+become more frequent and/or more pronounced (Ouranos, 2015) increasing the vulnerability of rail 
+transportation in Quebec.
+
+Brakes are also frequently tested during bad weather. In some sectors, particularly in the center 
+of the province, personnel must remain on site and in personnel camps, during heavy storms. 
+Maintenance work is then suspended and delays associated with performing inspections and 
+additional maintenance costs are to be expected based on the increasing frequency of such events 
+(Gouvernement du Québec, 2015).
+
+Climate factors that contribute to triggering landslides (e.g., abundant rain, rapid snow melt and 
+such other events likely to increase as the climate warms) have a tendency to increase rail system 
+vulnerability.  This would be especially significant in areas prone to landslides, such as the clay rich 
+regions of the St. Lawrence valley, where soil characteristics interact with land use and exacerbate 
+the vulnerability of rail transportation systems. 
+
+Similar to road transportation, rail transportation is vulnerable to impacts from forest fires caused 
+by lightning. The economic impact of fires is particularly significant for the network in the center of 
+the province, where there is little redundancy. In 2013, Arcelor Mittal Mines Canada, which uses rail 
+tracks in Quebec and has three camps for its staff, saw its operations restricted for several days near 
+Manic-Cinq due to fires and smoke. Access to industrial sites, including those for general maintenance 
+activities, was restricted by near zero visibility conditions. Decreased visibility created by bad weather 
+(fires, heavy rains, etc.) also makes operating a locomotive more complex and dangerous. 
+
+Changes in freeze-thaw cycles also affect track integrity and can reduce the lifespan of 
+infrastructure. They can also trigger landslides, which is particularly problematic on tracks where 
+required clearances around the infrastructure are minimal. 
+
+Tracks undergo a certain expansion during times of extreme heat and a certain contraction during 
+deep freezes, but generally react well to temperature variations. However, in the context of significant 
+thermal variation, this expansion phenomenon can damage tracks.
+
+4.3.1 RAIL TRANSPORTATION IN THE ST. LAWRENCE CORRIDOR
+
+Bank erosion, flooding and submersion problems, phenomena heightened by climate change, affect 
+coastal train tracks such as the Charlevoix Railway Inc. and the Gaspé Railway Company, as well 
+as railways located along streams, like the Compagnie de chemin de fer de l’Outaouais and the 
+Chemin de fer Québec Central.  Erosion can compromise network structural integrity, and even cause 
+a complete interruption of activities in the affected region. A landslide in Gascons on the Gaspé 
+Peninsula suggests such rail network vulnerabilities in this region (Locat et al., 2013). Furthermore, in the 
+Charlevoix and North Shore areas (around Sept-Îles particularly), some track segments are affected 
+by challenges related to slope stability, geotechnical issues, or rockfall (Leroueil et al., 2001). 
+
+ 
+CHAPTER 7: QUEBEC 
+
+204
+204
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

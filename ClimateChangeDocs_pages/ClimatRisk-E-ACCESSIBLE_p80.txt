@@ -1,0 +1,53 @@
+in the province demonstrate vulnerability to both extreme weather events and incremental changes 
+in climate conditions. While difficulties persist in identifying the location and criticality of infrastructure 
+vulnerabilities and communicating them to decision-makers, progress is evident in advancing climate 
+adaptation broadly. 
+
+This chapter examines the interactions and vulnerabilities of transportation infrastructure and operations 
+to changes in weather and climate in British Columbia. It has a strong focus on engineering approaches 
+to climate adaptation in the transportation sector.  The science and practice of adaptation is a relatively 
+new undertaking in the engineering field, with the consideration of future climate conditions remaining a 
+challenge and new way of thinking for engineering professionals (see Box). 
+
+ADAPTING ENGINEERING PRACTICES TO CLIMATE CHANGE 
+
+While engineers have long considered climate related parameters in engineering design work, this has usually 
+meant looking back at historic trends. Given the current rate of climate change, this is no longer a reliable 
+approach.  Provincial Professional Engineering Associations are responding by adding new professional 
+requirements to ensure that potential climate change impacts are taken into account in the design process 
+for the service life expected of the infrastructure.  This is a cultural change for agencies responsible for 
+infrastructure, consultants carrying out engineering design work and clients commissioning the work. It is 
+expected that future engineering work related to new infrastructure design and rehabilitation will reflect such 
+action and progress. 
+
+Due to the newness of this field and current limitations of climate models in providing information to engineering 
+designers, many questions cannot yet be answered. For example, a particular climate parameter like extreme 
+wind will have a significant effect on the future functionality and safety of a bridge being designed today.  
+Anticipating how this parameter may behave 75 years from now is a level of uncertainty most engineering 
+designers have not had to deal with before. 
+
+It will take time for engineers to develop procedures and processes to adequately deal with climate change, 
+and maximize the likelihood that infrastructure being constructed today remains safe and effective for public 
+use for the whole of its design life.
+
+1.1 POPULATION
+
+As of October 2014, British Columbia had a population of 4.7 million (Government of British Columbia, 
+2015a). The population is growing and becoming more urban, with the greatest growth in Greater 
+Vancouver (Government of British Columbia, 2015b). In 1981, 22% of British Columbia’s population 
+resided in rural areas and by 2011 this had declined to 14% (Statistics Canada, 2011). While the total 
+number of rural residents remained relatively constant over that period, at around 600,000, urban 
+population grew from 2.1 million to 3.8 million.
+
+Most of the province’s population is concentrated in southern coastal areas (Figure 1). The Capital City 
+of Victoria on southern Vancouver Island has a population of 327,000, while Greater Vancouver on the 
+southern mainland of the province has a population of 2.4 million and comprises almost 60% of the 
+province’s population (Government of British Columbia, 2015b).  
+
+ 
+CHAPTER 4: BRITISH COLUMBIA 
+
+69
+69
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

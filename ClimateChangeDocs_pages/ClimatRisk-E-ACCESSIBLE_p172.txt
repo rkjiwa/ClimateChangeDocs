@@ -1,0 +1,82 @@
+ 
+
+1
+Y
+D
+U
+T
+S
+ 
+E
+S
+A
+C
+
+CASE STUDY 1:  ASSESSING THE RESILIENCE OF HIGHWAY 
+DRAINAGE INFRASTRUCTURE AT THE ONTARIO MINISTRY OF 
+TRANSPORTATION 
+
+There are concerns that an increase in the severity of precipitation events may threaten the future design 
+capacity of Ontario’s highway drainage infrastructure. The Ontario Ministry of Transportation (MTO) 
+undertook two interrelated research initiatives to assess this vulnerability and determine appropriate 
+adaptation strategies.  
+
+PROJECT 1:  UPDATING INTENSITY, DURATION, AND FREQUENCY (IDF) CURVES FOR 
+ONTARIO
+
+This project aimed to update Ontario’s intensity, duration, and frequency (IDF) curves to more accurately 
+characterize precipitation in the province. 
+
+In partnership with the University of Waterloo, researchers developed IDF curves for all locations in the 
+province. These curves use Environment and Climate Change Canada’s most recent historical climate 
+data, and are available via an easy-to-use online platform.5 The MTO continues to partner with the 
+University of Waterloo to identify trends in the historical rainfall record, which can provide an alternative 
+method of developing future scenarios.
+
+PROJECT 2:  ASSESSING HIGHWAY DRAINAGE AND STORMWATER MANAGEMENT 
+INFRASTRUCTURE
+
+This project assessed the resilience of existing highway drainage infrastructure to future precipitation loads, 
+and identified adaptation strategies for a variety of infrastructure components, over their design life.  
+
+Researchers sampled two sections of provincial highway, representing different levels of use (Highway 37 
+near Belleville and Highway 417 near Ottawa). They analyzed the capacity of 25 pipe runs in each section, 
+as well as 46 culverts. The project had three key stages.  
+
+Stage 1:  Identifying reliable (i.e. likely) precipitation projections under future climate conditions. Based on 
+a review of climate studies in Ontario, and analysis of data, the researchers determined that projected 
+precipitation intensity varies across the province. Accordingly, the researchers considered three climate 
+change scenarios feasible for the infrastructure resilience analysis: 10-, 20-, and 30-percent increases in 
+rainfall intensity. (Note that horizons for change were not defined in this study.) 
+
+Stage 2: Assessing design capacities of sewers and culverts. This stage identified the proportion of existing 
+infrastructure that will meet future capacity requirements based on the three precipitation scenarios – that 
+is, the proportion of infrastructure with “hydraulic resilience.” While researchers identified minor impacts on 
+sewers for the two sample highway networks, most infrastructure was deemed to possess sufficient capacity 
+for future conditions.
+
+Stage 3:  Identifying adaptation measures to alleviate potential drainage issues. This stage required 
+researchers to match adaptations to the risks identified. It was determined that where an increase in the 
+flow velocity presents erosion risks to culverts, more erosion-resistant materials can be used to protect 
+drainage structures. If headwater elevation is a concern, the chosen adaptation will depend on severity.  
+In general, MTO does not allow drainage designs which permit overtopping (i.e. flooding) on Ontario 
+highways; however, if overtopping is unavoidable, twinning existing sewers and culverts to increase 
+capacity is useful.  
+
+Bridges are typically designed with limited excess drainage capacity, due to the greater expense of these 
+structures. However, this study determined that precipitation increases up to 30 percent do not pose a 
+threat to bridges. If bridge scour or erosion is likely, physical protection can be provided. 
+
+5 
+
+ The tool can be found at http://www.mto.gov.on.ca/IDF_Curves/terms.shtml
+
+ 
+CHAPTER 6: ONTARIO 
+
+…
+
+161
+161
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

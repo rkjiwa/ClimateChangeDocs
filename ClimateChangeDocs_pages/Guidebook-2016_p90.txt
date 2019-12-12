@@ -1,0 +1,56 @@
+Understanding climate information is a foundation step in making well-informed decisions in the face of climate change. 
+However, climate information is only one of many aspects that must be considered in a decision-making 
+process. Numerous other factors, such as demographic changes, technological advances and tolerance to 
+risk, to name a few, also play critical roles9. While it is beyond the scope of this guide to detail the adaptation 
+decision-making process, key messages relevant to the information presented in this guidebook include:
+
+1.  Decision-makers routinely deal with many different sources of uncertainty concerning the future, aside 
+from the fact that the climate or the weather is also changing. Variables such as demographic changes, 
+economic growth and many others, impact the way decisions are made, but do not prevent long-term 
+decisions such as investing in major infrastructure or protecting areas from development. Lessons learned 
+from decision-making in the face of these other uncertainties can help inform the decision-making process 
+under a changing climate.
+
+2.  Climate information should never be the sole basis upon which decisions are made but instead must 
+be used in combination with other  decision-support  tools  such as cost-benefit, multi-criteria analyses or 
+hazard mapping tools. Including a range of factors will help ensure that decisions are robust and more readily 
+implemented. Such analysis will help recognize adaptation measures that may be theoretically attractive but 
+that could generate undesired impacts, may not be economically viable or do not have enough public support 
+to be put in place.
+
+3.  There is no such thing as the best climate scenario. The range of results obtained from a large number 
+of climate simulations must be used to guide decisions. This spread in climate model results informs the 
+decision-maker on the probable outcomes from worse to best given the current state of knowledge.
+One way that the range in climate model results feeds into an effective decision-making framework is through 
+the use of a sensitivity analysis that allows decision-makers to assess the consequences of each alternative 
+future. The goal is to evaluate the impacts associated with the range of different climate scenarios and assess 
+how adaptation measures perform in the face of this range of plausible futures. Different approaches can be 
+used to conduct a sensitivity analysis, such as:
+
+ › estimating the consequences of each alternative future;
+
+ ›
+
+ 
+
+identifying climate scenarios under which a given policy or adaptation measure would fail and what the  
+consequences might be;
+
+ › using the full range of available scenarios to determine which adaptation measures will perform well  
+regardless of the magnitude or intensity of the expected climate change – these are often referred to as  
+no-regret measures.
+
+ 
+ 
+Scenario planning represents another way to consider the uncertainties. In this approach, initial common 
+steps are identified for a number of different possible solutions that do not confine the results to only one 
+end point, but rather leave many options open. Critical milestones can be used to reassess the adaptation 
+measures in light of the best available science, and adjustments to plans made as required.
+
+4.  Decision-making in a changing world implies that an iterative risk management approach should be 
+prioritized. Decisions must be re-evaluated and adjusted as new knowledge about both climatic and non-
+climatic variables becomes available. Monitoring and learning should be an important part of the process.
+
+75  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

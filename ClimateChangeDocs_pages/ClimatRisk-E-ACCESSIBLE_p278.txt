@@ -1,0 +1,83 @@
+1.0 INTRODUCTION
+
+Urban transportation systems are vulnerable to both extreme weather events and the incremental 
+impacts of a changing climate. Extreme weather disrupts and delays urban travel by washing out 
+roadways and transit routes, and by damaging the electrical and communications systems upon 
+which these modes rely. Increased temperatures cause pavement rutting, buckling of rail lines, and 
+damage to infrastructure built on permafrost in Northern communities. These and other climate risks 
+can affect the cost, efficiency, and safety of urban transportation in Canada.
+
+In this chapter, urban transportation refers to all modes of transportation that carry people and 
+goods within cities and, more broadly, metropolitan areas. This includes infrastructure and vehicles 
+(automobiles, buses), rail transit (including metros, light rail transit [LRT], and commuter rail), and 
+active modes, such as walking and cycling. Note that airports, regional and national rail systems, 
+marine ports, and ferry services3 are discussed in regional chapters of this report.  
+
+The focus of this chapter is on the vulnerability 
+of urban transportation to the impacts of both 
+gradual changes in climate and extreme 
+weather events, taking into account the 
+interactions between cities’ concentrated 
+infrastructure, services, and populations. The 
+chapter also explores current efforts Canadian 
+municipalities are making, and those planned 
+for the future, to increase transportation 
+resiliency. While some of these adaptations can 
+be costly, many can be classified as “no-regret” 
+or “low-regret” actions – strategies which involve 
+few additional costs, produce co-benefits, 
+or prevent higher future costs. Integrating 
+climate considerations into decision-making 
+processes (i.e. mainstreaming), for example, 
+in the development of Official Plans, financial 
+management processes, and infrastructure 
+investment decisions, makes it easier to identify 
+this type of adaptation.
+
+Statistics Canada has recently replaced the term 
+“urban centre” with “population centre.”  There 
+are three categories, including: 
+
+• 
+
+Small population centres (with populations 
+between 1,000 and 29,000); 
+
+•  Medium population centres (between 
+
+30,000 and 99,000); and,
+
+• 
+
+Large population centres (populations 
+exceeding 100,000) (Statistics Canada, 
+2011a). 
+
+This chapter primarily focuses on the last two 
+categories, although “urban centres” and 
+“population centres” are used interchangeably.
+
+Recognizing that research examining climate impacts on urban transportation is limited in Canada, 
+this chapter also draws upon relevant research from the United States, to supplement domestic 
+content where appropriate.
+
+1.1 TRENDS IN URBAN CANADA
+
+Canada is growing increasingly urban. In the 2011 national census, 81 percent of Canadians 
+indicated that they lived within medium or large population centres.  Population trends suggest that 
+the nation’s largest urban areas – known as Census Metropolitan Areas (CMAs) – are growing rapidly, 
+largely as a result of their ability to attract economic generators such as financial services, research 
+and development agencies, and tourists, as well as newcomers to Canada (Filion and Bunting, 2010). 
+Figure 1 presents the population growth in Canadian CMAs from 2006-2011.
+
+3 
+
+ Ferries provide important transit services only in a few urban centres in Canada (e.g., Halifax and Vancouver).
+
+ 
+CHAPTER 9: URBAN 
+
+267
+267
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

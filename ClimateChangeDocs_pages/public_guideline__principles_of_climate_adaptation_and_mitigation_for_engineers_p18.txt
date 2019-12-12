@@ -1,0 +1,116 @@
+expanded to include a much broader spectrum of players. The need for climate specialists is outlined in Principle # 4. However,
+the impacts of climate change can be far reaching and outside of the scope of an engineer’s normal practice. To accommodate
+this reality, the professional should structure project teams to ensure that, as a minimum, the team possesses:
+
+»
+
+Fundamental understanding of risk and risk assessment processes;
+
+»
+
+Directly relevant engineering knowledge of the system;
+
+»
+
+Climatic and meteorological expertise/knowledge relevant to the region;
+
+»
+
+Expertise in natural sciences such as hydrology, geology, forestry, biology and other specialized sciences;
+
+»
+
+Hands-on operation and maintenance experience with the system or similar systems;
+
+»
+
+Hands-on management knowledge with the system or similar systems;
+
+»
+
+»
+
+Local knowledge and history, especially regarding the nature of previous climatic events, their overall impact in the
+region and approaches used to address concerns; and
+
+High awareness of levels of process or design “minimum acceptable performance” for the community and stakeholders
+reliant on the design.
+
+Additionally, the professional should also consider adding skills for the team in:
+
+»
+
+Social impact analysis (social scientists and policy specialists);
+
+»
+
+Environmental impact analysis;
+
+»
+
+Economic impact analysis;
+
+»
+
+Political decision makers;
+
+»
+
+Insurance specialists;
+
+»
+
+Environmental practitioners;
+
+»
+
+Community stakeholders;
+
+»
+
+Emergency planning and response specialists; and
+
+»
+
+Other stakeholders as appropriate. This may include members of the public or at the political level e.g. city councillor.
+
+Skill sets may include those supporting climate change mitigation – to achieve energy efficiency, use of renewable energy,
+carbon reduction or reducing resource consumption to minimize GHG emissions.  For mitigation opportunities the GHG
+emissions can be modelled and various alternative reduction options can be evaluated.  Mitigation modelling should consider
+potential operational changes that would accrue with climate change and therefore affect future emissions. 
+
+For most infrastructure projects the opportunities for mitigation, adaptation and resilience are likely to be interrelated.  It is
+important therefore that the team include these objectives as part of their project constraint management.
+
+Practitioners may possess more than one of the requisite skill sets. Thus, teams may comprise a smaller number of individuals
+than the skills list may suggest. Engineers should evaluate the skills represented on their teams to ensure that the right balance
+of skill and experience is represented to reasonably anticipate climate change and incorporate reasonable adaptive measures
+into the project.
+
+Where professionals do not have the skills outlined above, they should consult with other qualified professionals to augment the
+team’s expertise, as they would normally do when they encounter issues outside of their professional scope of practice.
+
+3.7.2 Implementing actions
+
+The following actions can help engineers secure the requisite range of skills and expertise that are needed to identify potential
+climate risks and impacts as well as to develop acceptable adaptation solutions. Not all may be needed or appropriate as skill set
+needs depend on the situation at hand and the stakeholders that need to be involved.
+
+The engineer is encouraged to give thought to and implement other actions or engage other stakeholders and expertise not listed
+in this guideline. These should be reported to their regulator and Engineers Canada. These will be incorporated into the next
+edition of this guideline.
+
+»
+
+During the formation of multi-disciplinary teams, review the overall service life and operability requirements of the
+engineered system and ensure that the entire range of skills necessary to assess climate implications of the work are
+covered.
+
+»
+
+In working papers and files maintain a written record of the team membership, skill sets, and training of each member
+of the multi-disciplinary team relative to the project/assignment.
+
+18
+
+

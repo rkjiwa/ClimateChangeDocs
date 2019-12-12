@@ -1,0 +1,74 @@
+OTHER CLIMATE RISKS 
+
+Increasing freeze-thaw cycles (a trend expected to continue) are generating more frequent 
+rockslides, affecting rail operations in mountainous areas (Middleton, 2000). Freeze-thaw cycling also 
+creates problems for track stability, particularly in the region’s northern reaches (Middleton, 2000). 
+
+Extreme snow and wind events can delay rail services, particularly in combination. Strong winds are 
+expected to present scheduling challenges in future, requiring trains to reduce speeds or move to 
+sidings (Miller, 2014). 
+
+Hudson Bay Railway is uniquely affected by permafrost thaw. This line is critical to operations at the 
+Port of Churchill, and also for local residents – grain-car derailments have resulted in passenger service 
+cancellations due to the absence of alternate routes (Wang et al., 2016). Reliability may become 
+increasingly difficult to maintain if adaptations are not made (Case Study 5).
+
+ 
+
+5
+Y
+D
+U
+T
+S
+ 
+E
+S
+A
+C
+
+CASE STUDY 5: RAIL IN THE HUDSON BAY LOWLANDS: A SPECIAL 
+CIRCUMSTANCE
+
+Manitoba’s most northerly rail line (terminating in Churchill) faces challenges associated with thawing 
+permafrost and muskeg (Tweed, 2015). Muskeg provides a poor base for rail, primarily due to its low 
+compressibility (Lautala et al., 2008). Rail shifts, sinks, or even rises as a result of frost heaves in these 
+areas. The Hudson Bay Railway Rehabilitation program, an initiative jointly funded by the governments 
+of Manitoba and Canada in partnership with the line’s operator, OmniTRAX, is a 10-year undertaking 
+specifically designed to reduce the impacts of permafrost degradation and warmer temperatures on rail 
+service, particularly from The Pas to Churchill. This initiative involves stabilization of the rail bed – to date, 
+about $50 million has been spent on rehabilitation of the Bay Line since the program began in 2008 (Wang 
+et al., 2016).
+
+However, rail-line rehabilitation has not been as successful as initially hoped, due to challenges associated 
+with the discontinuous permafrost and muskeg terrain. The rail line (and its original ballast) was laid over the 
+winter of 1928-1929 atop frozen muskeg, the season when track stability is greatest. As temperatures warm, 
+the ballast has been dissipating into the muskeg, resulting in more frequent remediation.  For example, in 
+June-July 2014, OmniTRAX added 40,000 tonnes of ballast under the Gillam-to-Churchill section of the rail 
+line (Tweed, 2015), following the previous year’s remediation effort, which added 15,000 tonnes of ballast.  
+The company now considers backfilling an operational rather than a capital cost.  Recent research 
+(Addison et al., 2015) confirms that stabilization measures have not been effective, and that deterioration is 
+accelerating.
+
+Given projections for long-term warming in the Hudson Bay Lowlands, supporting the rail bed will become 
+increasingly difficult. In response, geotechnical engineers are developing adaptation strategies. 
+
+As permafrost thaws, some technical efforts to stabilize the railway will increase in costs and difficulty 
+(Wang et al., 2016), although others may become more feasible. One proposed measure involves lifting 
+the track and adding a layer of gravel to insulate permafrost (enhancing stability), although the continued 
+maintenance required makes this option challenging (Wang et al., 2016). Another approach to stabilizing 
+muskeg in the rail bed involves mixing cement with the vegetative mat (provided shifting muskeg can be 
+controlled); however, this option requires further testing and evaluation given that frozen substrate makes it 
+difficult to mix cement into the muskeg (Eddie Choi, Canadian Pacific Railway, personal communication, 
+2015). Permafrost thaw may enhance the viability of this stabilization technique, although the long-term 
+effectiveness remains uncertain.
+
+Written by Al Phillips and Will Towns
+
+ 
+CHAPTER 5: THE PRAIRIES 
+
+128
+128
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

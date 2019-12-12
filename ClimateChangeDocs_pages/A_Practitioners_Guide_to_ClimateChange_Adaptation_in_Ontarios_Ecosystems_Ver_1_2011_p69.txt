@@ -1,0 +1,108 @@
+ 
+
+ 
+
+APPENDIX 1: ECOLOGICAL RESPONSE MODELS TO ASSESS VULNERABILITY  
+
+Model Type 
+
+Description 
+
+For more information 
+
+Conceptual models 
+
+ Qualitative descriptions and diagrams of key attributes and 
+
+ 
+
+processes related to species, habitats, or ecosystems  
+ Can illustrate important linkages to stressors and how 
+
+changes in stressors affect important attributes (e.g., soil 
+texture) and functions (e.g., nutrient uptake, water flux). 
+
+General 
+characterization 
+models 
+
+ 
+
+ Represent broad groups (e.g., amphibians, riparian species) 
+or generalized traits to identify how groups of species might 
+respond to climate and/or habitat change by applying the 
+classes of vulnerability to species distribution maps. 
+
+ Another characterization approach involves meta-analyses 
+
+that collate information to estimate common responses of 
+species (especially effective at validating responses over 
+large areas) (e.g., CCFM Tree Vulnerability Ranking Index 
+and NatureServe Climate Change Vulnerability Index).  
+
+ For a review of conceptual model development, see 
+Heemskerk, Wilson, and Pavao-Zuckerman (2003). 
+
+ Various types of conceptual modelling tools and 
+
+software can be found at 
+http://www.fileheap.com/software/conceptual_data_m
+odel.html).  
+
+ NatureServe Climate Change Vulnerability Index: 
+
+(http://www.natureserve.org/prodServices/climatechan
+ge/ClimateChange.jsp). 
+
+ 
+
+Habitat and occupancy 
+models 
+
+ 
+
+ 
+
+ Expressed as ranges in specific biophysical attributes (e.g., 
+climate, soils, vegetation or land cover, and elevation) that a 
+species will occupy (e.g., suitable habitat).  
+
+ Software used to develop niche and occupancy 
+
+models can be downloaded from the Internet:  
+
+ Genetic Algorithm for Rule-set Production (GARP)  
+
+ Uses GIS to determine the spatial distribution of suitable 
+
+(http://www.nhm.ku.edu/desktopgarp/);  
+
+habitat for individual species. 
+
+ Maximum Entropy Modeling (Maxent) 
+
+ Niche-based models are also used to estimate species 
+
+(http://www.cs.princeton.edu/~schapire/maxent/);  
+
+distributions and habitat suitability: they generally involve 
+more quantitative approaches with estimates of the 
+probability of occurrence of a species. 
+
+ Regression Trees and Random Forests 
+
+(http://rattle.togaware.com/rattle-download.html); and 
+ Bioclim (http://software.informer.com/getfree-bioclim-
+
+download-software/). 
+ 
+
+ 
+
+A PRACTITIONER’S GUIDE TO CLIMATE CHANGE ADAPTATION IN ONTARIO’S ECOSYSTEMS (VERSION 1.0) 
+
+   68 
+
+ 
+
+

@@ -1,0 +1,5143 @@
+ 
+
+ 
+
+ 
+
+2017 
+
+Yukon ‘State of Play’: Analysis of 
+Climate Change Impacts and 
+Adaptation 
+
+Research Northwest & Morrison Hershfield 
+
+November 14, 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THIS PAGE HAD BEEN INTENTIONALLY LEFT BLANK 
+
+November 14, 2017 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+ 
+Executive Summary 
+This report was commissioned by Environment Yukon’s Climate Change Secretariat to provide 
+the public and other stakeholders with an understanding of how climate change is affecting 
+Yukon, what actions have been taken to date to help us adapt, and the key challenges that we’ll 
+need to address to adapt in the future. This work will also explore the economic challenges and 
+opportunities related to adaptation. 
+
+This is not a comprehensive analysis of all the issues around climate change and adaptation 
+efforts. It is a synthesis of existing knowledge and provides a focused snapshot of selected key 
+adaptation challenges in the Yukon. 
+
+The strongest measure of climate change in Yukon is relative change in annual temperature. The 
+annual average temperature has increased 2°C over the past 50 years, while winter 
+temperatures have increased 4°C. 
+
+Annual precipitation (rain and snowfall), another important indicator of climate change, has 
+increased by 6% in the Yukon over the past 50 years, with the greatest increase seen during the 
+summer months. 
+
+Temperature is projected to increase by more than 2°C over the next 50 years. Winters are 
+projected to warm faster than any other season. Precipitation is projected to increase by 10% to 
+20% over the next 50 years in Yukon. Snowfall is projected to arrive later in the fall and become 
+more variable over the winter, with periods of little snow and intense snow-fall events likely 
+becoming more common. 
+
+Adaptation to climate change starts when governments, communities, and individuals adjust 
+their expectations about the future and make decisions to better prepare for changing 
+conditions. Yukon has already started to adapt to the effects of climate change and decision 
+makers have an interest in addressing present and future climate change impacts through 
+adaptation. 
+
+Growing concern for Yukon’s changing climate has led to increased research and adaptation 
+initiatives that contribute to the development of new knowledge and local capacity and 
+expertise. Ensuring that the climate change funding and programming opportunities 
+substantively enhance the adaptive capacity of communities is critical to Yukon’s long-term 
+adaptation efforts.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+I 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Table of Contents 
+ 
+
+November 14, 2017 
+
+1. .. Introduction ....................................................................................................................1 
+
+1.1 ... Context 
+
+1.2 ... Approach 
+
+1 
+
+2 
+
+2. .. Yukon’s Changing Climate ................................................................................................4 
+
+2.1 ... Historical Changes in Temperature and Precipitation 
+
+2.2 ... Expected Future Changes in Temperature and Precipitation 
+
+2.2.1  Community-Level Climate Change Projections 
+
+2.3 ... Community-Level Observations of Climate Change 
+
+2.3.1  Yukon First Nation Elders see Climate Change Impacts to Water, Wildlife and 
+
+Traditional Foods 
+
+2.3.2 
+
+Ice Breakup on Yukon River in Dawson City 
+
+5 
+
+6 
+
+7 
+
+7 
+
+8 
+
+9 
+
+2.3.3  Changes in Vegetation and New Bird Species on Qikiqtaruk-Hershel Island 
+
+10 
+
+3. .. Yukon’s Capacity to Adapt .............................................................................................. 12 
+
+3.1 ... Yukon Adaptation Efforts to Date 
+
+3.2 ... Key Challenges to Advancing Yukon’s Adaptive Capacity 
+
+12 
+
+13 
+
+4. .. Extreme Weather Events and Wildfire ............................................................................ 16 
+
+4.1 ... Extreme Weather Events 
+
+4.1.1  Adaptation to Flood Hazards 
+
+4.2 ... Wildfire 
+
+4.3 ... Adaptation to Wildfire Hazards 
+
+4.3.1  Adaption Opportunity: FireSmart Plus 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+5. .. Infrastructure ................................................................................................................ 23 
+
+5.1 ... Adaptation to Infrastructure Impacts 
+
+24 
+
+5.1.1  Adaptation Opportunity: Improved Accounting for Long-Term Infrastructure Costs  25 
+
+6. .. Changing Climate, Changing Land ................................................................................... 28 
+
+6.1 ... Adaptation to the Changing Land 
+
+6.1.1  Adaptation Opportunity: Agriculture 
+
+29 
+
+30 
+
+7. .. Human Health and Wellbeing ......................................................................................... 33 
+
+7.1 ... Health and Wellbeing Adaptation 
+
+7.1.1  Adaptation Opportunity: Community-Based Climate Monitoring 
+
+35 
+
+35 
+
+8. .. Bibliography .................................................................................................................. 37 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+II 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+9. .. Key Contacts .................................................................................................................. 41 
+
+November 14, 2017 
+
+ 
+
+APPENDIX A  Yukon’s Climate 
+APPENDIX B  List of Yukon Climate Change Adaptation Projects: 2008 through 2017 
+ 
+
+Cover Photo: Kaskawulsh Glacier (Purdon, Matthias)  
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+III 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+List of Figures 
+ 
+
+November 14, 2017 
+
+Figure 1: Temperature Departures from the 1960-91 Average — Winter 2015/2016 .................... 6 
+Figure 2: Timing of the Ice Breakup on the Yukon River in Dawson City ...................................... 10 
+Figure 3: Green Resilience: Adaptation and Mitigation Synergies ................................................ 14 
+Figure 4: Yukon annual temperature variation, 1950-2016 .......................................................... 42 
+Figure 5: Yukon annual precipitation variability, 1950-2016 ........................................................ 43 
+Figure 6: Yukon projected annual temperature anomalies (A2, A1B, B1) .................................... 44 
+Figure 7: Yukon projected annual precipitation anomalies (A2, A1B, B1). ................................... 45 
+ 
+
+ 
+
+ 
+
+ 
+
+List of Photos 
+ 
+Photo 1: Slims River ......................................................................................................................... 3 
+Photo 2: Calliope Hummingbird, Quiqtaruk-Hershel Island .......................................................... 11 
+Photo 3: Yukon Landslide .............................................................................................................. 15 
+Photo 4: Flooding at Army Beach .................................................................................................. 17 
+Photo 5: Yukon Wildfire ................................................................................................................ 20 
+Photo 6: Fighting Yukon Wildfire ................................................................................................... 22 
+Photo 7: Thawing Permafrost and Roads ...................................................................................... 25 
+Photo 8: Minto Mine ..................................................................................................................... 27 
+Photo 9: Caribou ............................................................................................................................ 28 
+Photo 10: Drying Fish .................................................................................................................... 34 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+IV 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+1.  INTRODUCTION 
+
+This report was commissioned by Environment Yukon’s Climate Change Secretariat to provide 
+the public and other stakeholders with an understanding of how climate change is affecting 
+Yukon, what actions have been taken to date to help us adapt, and the key challenges that we’ll 
+need to address to adapt in the future. This work will also explore the economic challenges and 
+opportunities related to adaptation. 
+
+This is not a comprehensive documentation of all the issues around climate change and 
+adaptation efforts. It is a synthesis of existing knowledge and provides a focused snapshot on 
+selected key adaptation challenges in the Yukon.   
+
+1.1  CONTEXT 
+
+Climate change is already affecting Yukon and consideration of climate is becoming increasingly 
+important in decision making and planning for the future. The Yukon Climate Change Impacts 
+and Adaptation ‘State of Play’ report was developed to provide Yukoners with the latest 
+information about climate change impacts and adaptation in Yukon. Included in the analysis are 
+the economic impacts of climate change. The report is designed to support public participation 
+in decision making about climate change issues that affect Yukon communities by providing a 
+snapshot of climate change impacts and adaptation efforts to date. 
+
+Canada, along with most other countries, has begun taking more aggressive action on climate 
+change. The recently adopted Pan-Canadian Framework on Clean Growth and Climate Change 
+(2016) commits to action in the areas of climate change mitigation, adaptation, carbon pricing, 
+and clean economic growth.  
+
+The Yukon government has committed to renewing its climate change strategy in a manner that 
+better integrates its approaches to energy, climate change risk and action, and clean 
+growth/economic development. Throughout this process, Yukon government aims to engage 
+with the public to solicit feedback on the renewal of this strategy.  
+
+The effects of climate change pull on environmental, social, and economic threads, not all of 
+which are directly related to the changing climate, but are still important to consider when 
+planning for effective adaptation actions. These include environmental changes caused by 
+drivers other than climate change, as well as demography, culture and economic development. 
+Indeed, “climate change has compounded some of the existing vulnerabilities caused by these 
+other factors” (Larsen et al., 2014).  
+
+Adaptation to climate change starts when governments, communities, and individuals adjust 
+their expectations about the future and make decisions to better prepare for changing 
+conditions. Yukon has already started to adapt to the effects of climate change and decision 
+makers have taken steps to address present and future climate change impacts through 
+adaptation policies and initiatives. Despite this, efforts to integrate climate change 
+considerations into decisions and implement effective adaptive actions face significant 
+challenges. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+1 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Our ability to adapt to climate change will have an 
+important influence on what Yukon’s future will 
+look like. If we are proactive in our approach to 
+adaptation many issues can be avoided and some 
+impacts lessened. However, some impacts will be 
+much more difficult to adapt to. 
+
+Building momentum for climate change adaptation 
+will take time and concerted effort. Developing 
+expertise and allocating adequate financial 
+resources to adaptation initiatives and planning is 
+critical. This report was developed in part to help 
+support collaborative opportunities for climate 
+change adaptation where connections are not 
+always clear and simple. 
+
+1.2  APPROACH 
+
+Our approach to this report has been to: 
+
+November 14, 2017 
+
+What is Climate Change Adaptation? 
+
+Climate change adaptation refers to 
+actions that reduce the negative 
+impact of climate change and/or take 
+advantage of new opportunities. It 
+involves making adjustments in our 
+decisions, activities and thinking 
+because of observed or expected 
+changes in climate. 
+
+(Lemmen, Warren, Lacroix, and Bush, 
+2008). 
+
+  Provide a synthesis of the most up to date information available on climate change impacts 
+
+and adaptation in Yukon (Section 2); 
+
+  Select and present concrete examples of some of the Yukon-specific work being done to 
+
+better understand the effects of local climate change (Section 2.3); 
+
+  Provide an overview of our assessment of the Yukon’s capacity to adapt to climate change 
+
+(Section 3) along with a list of known adaptation initiatives undertaken in the territory 
+(APPENDIX B); and, 
+
+  Examine in more detail four issues that are particularly important as the Yukon continues to 
+
+adapt to the realities of climate change: 
+
+o 
+
+Increased risk of extreme weather and wildfire hazards (Section 4); 
+
+o  Damage to infrastructure (Section 5); 
+
+o  Changing ecological landscapes (Section 6); and, 
+
+o  Concerns regarding human health (Section 7). 
+
+The four major issues grew from our review of the relevant literature and discussions with key 
+contacts. For each of the four issues listed above, we summarize how climate change and 
+current adaptation efforts intersect with the issue now and how we expect those intersections 
+to change.  
+
+We have attempted to identify further opportunities for adaptation, economic costs and 
+possible economic benefits. These opportunities are not intended to be exhaustive or definitive, 
+but to provide a starting point for a renewed conversation about how Yukon can address 
+current and future climate change impacts. 
+
+  
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+2 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Our focus on further opportunities for adaptation has been guided by four questions: 
+
+November 14, 2017 
+
+  Are the risks of not taking further adaptation action significant? 
+
+  Are there possible economic benefits from the adaptation action itself? 
+
+  Will Yukon regret doing this if the climate threat does not materialize?  
+
+ 
+
+Is this action a win for Yukon communities even if the climate threat turns out to not be a 
+severe as some scenarios projected? 
+
+We have also attempted to explicitly highlight where the suggested adaptation opportunities 
+might intersect with other issues and opportunities in Yukon (e.g. Fire Smart and biomass heat). 
+Adaptation opportunities and efforts are rarely stand-alone issues. 
+
+ 
+
+Photo 1: Slims River 
+
+ 
+
+(Environment Yukon) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+3 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+2.  YUKON’S CHANGING CLIMATE 
+
+November 14, 2017 
+
+Climate change is a complex problem that impacts 
+natural, human, and cultural systems in many 
+ways. In Yukon, changes to the climate have 
+already been observed and impact our water, 
+ecosystems, landscapes, and ways of life. How 
+climate change is understood and talked about in 
+Yukon is grounded in scientific evidence, the 
+Traditional Knowledge of Yukon First Nations, and 
+the observations of Yukoners.  
+
+Changes are expected to continue and increase in 
+the decades ahead. The amount of change and 
+associated impacts will ultimately depend on the 
+success of global efforts to curb emissions of 
+greenhouse gasses (i.e. mitigate climate change) 
+and our ability to adapt to climate change  
+
+Gradual and Sudden 
+
+Although temperature and 
+precipitation seem to be changing 
+slowly, the interaction between 
+“gradual” changes and other factors 
+can produce complex and sudden 
+effects. For example, warmer annual 
+temperatures associated with 
+climate change have accelerated the 
+retreat of the Kaskawulsh glacier, 
+which led to a sudden diversion of 
+water from the Slims River to the 
+Alsek River in 2016. This resulted in 
+a substantial drop in water levels in 
+the Slims River and in Kluane Lake, 
+which impacts the communities of 
+Burwash Landing and Destruction 
+Bay.  
+
+Temperature and precipitation are well understood 
+and widely used indicators of climate change that 
+drive a broad range of climate impacts. The Yukon 
+generally has only about 50 years of temperature 
+and precipitation data, not a significant record 
+given that a climate normal is usually defined over a 30-year period. This lack of long-term data 
+makes additional proxy data drawn from historical, local, and indigenous sources of knowledge 
+particularly valuable in improving our understanding how climate change is affecting the Yukon. 
+
+ 
+
+Variability Within Long-Term Trends 
+
+Long-term climate trends are important, but these 
+broader changes are driven in part by short-term 
+weather variability. Extreme swings in temperature and 
+precipitation can have serious impacts on everything 
+from infrastructure to wildlife breeding cycles, but 
+increases in the severity, frequency or duration of 
+extreme events are not easily captured in long-term 
+trends. For example, a one degree increase in average 
+annual temperature can mean 25 days where 
+temperatures are 15 degrees above the seasonal 
+normal if climate remains at normal levels the rest of 
+the year. This example shows how averaging change in 
+temperature throughout the year can hide the extent of 
+extreme temperature variability. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+This section summarizes analyses 
+of temperature and precipitation 
+data to show how Yukon’s 
+climate has changed and how it 
+is expected to change in the 
+future. Projections for 
+temperature and precipitation 
+change in Old Crow and 
+Whitehorse are also highlighted 
+as local examples of the type of 
+change Yukoners can expect to 
+see in their communities.  
+
+As climate change impacts 
+Yukon’s regions in different 
+ways, this section also includes 
+discussion of how Yukoners are 
+observing the impacts of climate 
+change in their own communities 
+
+ 
+4 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+and in culturally and ecologically important places. These and other related changes present a 
+wide range of challenges and opportunities for future adaptation efforts in Yukon.  
+
+November 14, 2017 
+
+2.1  HISTORICAL CHANGES IN TEMPERATURE AND PRECIPITATION 
+
+The strongest measure of climate change in Yukon is relative change in annual temperature. The 
+annual average temperature has increased 2°C over the past 50 years, while winter 
+temperatures have increased 4°C. These temperatures are understood to be increasing at twice 
+the rate of southern Canada and the global average. This rise in temperature means that winters 
+are getting shorter and spring and fall are getting relatively longer. There are significantly fewer 
+very cold days in the winter but no significant change in the number of very hot days (above 
+30oC) in the summer. (Furgal and Prowse, 2008; Larsen et al., 2015).  
+
+Warmer average temperatures are associated with a wide variety of impacts on Yukon 
+communities and landscapes. For example, more rapid permafrost thaw is resulting in an 
+increase in impacts on community infrastructure built on permafrost areas. Warmer 
+temperatures have also resulted in widespread melting of glaciers and the rate of melt 
+continues to increase. Yukon has lost 22% of its glacial cover over the last 50 years (Derksen et 
+al. 2012).  
+
+Annual precipitation (rain and snowfall), another 
+important indicator of climate change, has increased 
+by 6% in the Yukon over the past 50 years, with the 
+greatest increase seen during the summer months 
+(Streicker, 2016). Changes in precipitation cause 
+changes in surface and ground water, permafrost, 
+vegetation and wildlife. Yukoners have experienced 
+higher summer precipitation and more extreme rain 
+events, associated flood events, permafrost thaw 
+(more snow cover traps heat in the ground), and 
+river bank erosion. The trend points towards a 
+further increase in annual precipitation and possibly 
+more extreme variability in precipitation as well. 
+
+Yukoners have observed an increase in short-term 
+extremes in temperature and precipitation and data 
+suggests that variability is increasing in Yukon. 
+Projected future changes in temperature and 
+precipitation suggest that short-term extremes will 
+happen more often (Streicker, 2016).  
+
+El Nino 
+
+During “El Nino” years, periodic 
+warming of the Pacific Ocean drives 
+warmer and more extreme weather 
+patterns across North America. In 
+2015-16 El Nino contributed to 
+Yukon winter temperatures that 
+were almost 70C above seasonal 
+averages (Environment Canada, 
+2017). Typically, El Nino years have 
+been observed 5 out of every 100 
+years, but new research suggests 
+that global climate warming is likely 
+to increase the number of El Nino 
+events to 10 in every 100 years 
+under current emission scenarios 
+(Guojian, et al., 2017).   
+
+Figure 1 shows how winter temperatures in 
+2015/2016 departed from the 1961-1990 average across Canada. The biggest departure from 
+average occurred in the central Yukon. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+5 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Figure 1: Temperature Departures from the 1960-91 Average — Winter 2015/2016  
+
+November 14, 2017 
+
+(Environment and Climate Change Canada, 2017) 
+
+ 
+
+2.2  EXPECTED FUTURE CHANGES IN TEMPERATURE AND PRECIPITATION  
+
+The Intergovernmental Panel on Climate Change has developed three scenarios for future 
+temperature changes for Polar Regions. All scenarios show both an increase in temperature and 
+its variability. Temperature is projected to increase by more than 2°C over the next 50 years in 
+Yukon (Streicker, 2016). Winters are projected to warm faster than any other season (IPCC, 
+2014).   
+
+Precipitation is projected to increase by 10% to 20% over the next 50 years in Yukon. All 
+scenarios project a significant increase in precipitation. In practical terms, this means that 
+precipitation is expected to become more variable and increase in summer months. Snow fall is 
+projected to come later in the fall, become more variable with periods of little snow, and it is 
+likely that intense snow-fall events will be more common (Streicker, 2016). 
+
+These expected continuing changes in temperature and precipitation matter to Yukoners as they 
+will need to cope with, and adapt to changes in local environments, impacts on community 
+infrastructure built on permafrost areas, more extreme rain events and associated floods.  
+
+For more detail on how Yukon’s climate has changed and how it is expected to change in the 
+future see APPENDIX A at the end of this report.    
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+6 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+2.2.1  Community-Level Climate Change Projections 
+
+November 14, 2017 
+
+The Scenarios Network for Alaska and Arctic Planning (SNAP) has developed a climate model 
+that projects temperatures and precipitation patterns for approximately 80 locations in the 
+Yukon. These projections give a sense of how, at a broad level, climate is expected to change at 
+those locations. SNAP releases these projections with the qualifier that there is inherent 
+uncertainty in projecting future climate change, but that the value of developing and using the 
+projections in community adaptation planning “allows for greater flexibility in the face of high 
+uncertainty” (SNAP 2017). One weakness in the SNAP model is that it does not take temperature 
+inversions (i.e. significant temperature differences between lower altitude and higher altitude 
+areas) into account, an important issue in many Yukon communities.  
+
+We have selected Whitehorse and Old Crow as examples to illustrate what the SNAP model 
+provides. See APPENDIX A. Some selected highlights of the SNAP projections for Old Crow and 
+Whitehorse are: 
+
+  Winter temperatures are projected to increase significantly for both Old Crow and 
+
+Whitehorse; 
+
+  Both Old Crow and Whitehorse are projected to have much warmer spring (May and June) 
+
+temperatures with little extra rainfall in those months; 
+
+  Overall precipitation is projected to increase steadily in Old Crow; and 
+
+  An overall increase in precipitation for Whitehorse but with more variability than Old Crow. 
+
+In general, the same changes are projected for both Whitehorse and Old Crow with notably 
+warmer temperatures and more precipitation expected in the coming decades. At a practical 
+level, these trends likely lead to different kinds of anticipated changes in both communities such 
+as:  
+
+  A longer growing season that will allow more local agriculture and therefore more local food 
+
+supply; 
+
+ 
+
+Increased fire risk early in the fire season which will have the effect of extending the fire 
+season and its associated risks and costs; 
+
+  A reduced period during which ice and frozen ground can be used for travel or food storage 
+
+which may reduce traditional activities; and 
+
+  A shift in precipitation from snow to rain, which impacts water storage capacity and surface 
+
+water availability. 
+
+2.3  COMMUNITY-LEVEL OBSERVATIONS OF CLIMATE CHANGE 
+
+Yukoners have observed and experienced the impacts of climate change in their communities. 
+Indigenous elders speak to changes on the land, communities, and traditional practices 
+originating from changes in climate.  
+
+Sections 2.3.1 through 2.3.3 highlight three examples from of local climate change impacts that 
+have been observed at the community-level. These examples help to illustrate how our changing 
+climate is affecting people in different areas of Yukon, and helps us better understand potential 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+7 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+impacts that we may see in the future. They are also strong reminders of the need for improving 
+local climate monitoring and data collection, and partnerships that will sustain these efforts, to 
+better understand and adapt to climate change impacts that affect Yukon communities.  
+
+November 14, 2017 
+
+2.3.1  Yukon First Nation Elders see Climate Change Impacts to Water, Wildlife and 
+
+Traditional Foods 
+
+Yukon First Nations elders and 
+other community members have 
+concerns about the changes that 
+are taking place on their lands 
+that affect their way of life. 
+Elders have documented many 
+changes on the land and in their 
+communities and are concerned 
+about the future. 
+
+Elders highlighted the following 
+changes in forums held in 2003-
+2004 in Yukon First Nation 
+Communities (Huntington, Fox, 
+and Dickson, 2005):   
+
+ 
+
+In northern Yukon, freezing 
+rains in the early winter have 
+created a layer of ice that 
+limit the ability of some 
+animals to access food 
+sources.  
+
+Indigenous Knowledge 
+
+Indigenous knowledge and observations are important 
+to understanding climate change in Yukon. This 
+knowledge indicates that important changes have 
+already occurred. “In the Yukon community members 
+are reporting changes including: unpredictable weather, 
+glaciers and permafrost are melting, wildlife migration 
+patterns, new species, insect populations, increasing 
+forest fires and different water levels.” (Champagne and 
+Aishihik First Nations and Alsek Renewable Resources 
+Council, 2009).  
+
+At another Yukon workshop elders described similar 
+experiences with the weather becoming unpredictable, 
+expressing growing concern about impacts of climate 
+change on wildlife, land, and water (Dickson, in 
+Henderson and Fox 2005 p. 77). 
+
+ 
+
+  The bush and the forest are changing and shrubs are getting larger, and more abundant in 
+
+areas where they were not typically seen before. 
+
+  Birds that usually migrate south in August and September are now being seen in October 
+
+and November.  
+
+ 
+
+ 
+
+In some areas, thawing permafrost has caused the ground to drop or has made the area 
+smell foul. 
+
+In more southerly communities, rings around the moon are no longer seen, although they 
+are still visible in the northernmost community.  Similar changes to the visual character of 
+the atmosphere have been observed by Inuit Elders who observed changes in the location of 
+the sunset on the horizon (Kunuk and Mauro, 2015). These observations indicate higher 
+levels of moisture in the air linked to increases in temperatures.  
+
+  There are more frequent sightings of cougars, and mule deer, and new types of insects. 
+
+  People used to be able to predict when it would get colder by looking at tree leaves. It has 
+
+become more difficult to do that now. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+8 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+ 
+
+Lakes and streams are drying up or becoming choked with weeds, making the water 
+undrinkable. 
+
+November 14, 2017 
+
+  Many animals are changing where they go and their behavior. Bears used to go into their 
+
+dens in October and November, but are now out until December.  
+
+  There is a growing dependence on market foods and people eat fewer traditional foods.  
+
+These are just a few examples of the type of climate change impacts that are causing alarm for 
+many Yukon First Nation elders. Importantly, elders emphasize the need for each community to 
+have the ability to prepare for change and to be a part of designing the strategies that are being 
+developed to respond to climate change impacts.  
+
+Initiatives like the ongoing adaptation planning efforts of the Champagne Aishihik First Nation 
+(CAFN) and the Selkirk First Nation (SFN) are examples of this work in action. These initiatives 
+have sought to engage directly with community members to understand environmental changes 
+that First Nations citizens are seeing on their traditional territories, and develop new ideas and 
+approaches to preserving traditional practices in the face of climate change. 
+
+2.3.2 
+
+Ice Breakup on Yukon River in Dawson City  
+
+Long-term community level impact information like the breakup data discussed here is valuable 
+for measuring change, understanding the rate of change over time, and can help inform 
+planning for the future. The trend from the past 120 years of breakup data is strong evidence 
+that that fast ice cover on the Yukon River – the ice that extends into water from shore – will 
+continue to diminish in Dawson. Although still an uncommon occurrence, in the winter of 2016-
+2017 an official ice road was not possible because of poor ice conditions. Long-term data on the 
+ice break up is an indicator that can help inform adaptation measures like extending the ferry 
+season, and planning for shorter ice road seasons. 
+
+The exact timing of the ice breakup on the Yukon River in Dawson has been recorded every year 
+since 1886. The practice that originated from a lively betting tradition now provides a long-term 
+indication of how changes in climate are impacting the breakup. Figure 2 shows the timing of 
+the ice breakup over the past 120 years. The trend line shows the spring breakup occurring on 
+average 6 days earlier per century. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+9 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Figure 2: Timing of the Ice Breakup on the Yukon River in Dawson City 
+
+November 14, 2017 
+
+ 
+
+(Environment Yukon, 2017) 
+
+Earlier breakup means that the ice road across the Yukon River that connects the town of 
+Dawson with West Dawson will experience shorter seasons, limiting access to food, medical 
+care, and work and recreation opportunities for West Dawson residents. All West Dawson 
+residents plan for the shoulder season when there is no access to town, however, when the 
+season extends longer than anticipated residents may be faced with shortages in food or other 
+essential goods that occasionally require expensive helicopter re-supplies. Furthermore, not 
+captured in the ice break-up data is that warmer and more variable temperatures increase the 
+risk of mid-winter and spring flooding. In 2009, ice jamming and unusual patterns of river ice 
+break-up triggered significant damage to infrastructure in Dawson City. 
+
+2.3.3  Changes in Vegetation and New Bird Species on Qikiqtaruk-Hershel Island  
+
+Documented changes in vegetation and the observation of new bird species on Qikiqtaruk-
+Herschel Island serve as an example of how climate change is affecting Yukon’s most northern 
+region. 
+
+A seventeen-year study of the vegetation communities on Qikiqtaruk-Herschel Island 
+documented rapid changes to the island’s vegetation ecology (Myers-Smith et al. 2017). Shrubs 
+and grasses are growing higher and expanding into areas that were typically bare or had 
+minimal vegetation. The changes were linked to warming air temperatures along with longer 
+growing seasons and increasing permafrost thaw.  
+
+Recent bird surveys conducted on Qikiqtaruk found several migratory bird species that are 
+normally only found in areas a thousand kilometers further south. The most striking example of 
+this was the discovery of a Calliope Hummingbird in the summer of 2017 (see Photo 2).  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+10 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+These observations indicate how changes in climate are changing local ecology and landscapes 
+across Yukon. This has far reaching consequences for wildlife and vegetation that are still not 
+fully understood. While we know that some birds and shrub are changing in response to shifting 
+temperatures, plant or animal species that cannot adapt or move to more favourable areas fast 
+enough may experience stress and other negative impacts. 
+
+November 14, 2017 
+
+ 
+
+Photo 2: Calliope Hummingbird, Quiqtaruk-Hershel Island 
+
+  
+
+(Eckert, Cameron, June 2017) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+11 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+3.  YUKON’S CAPACITY TO ADAPT 
+
+November 14, 2017 
+
+Yukon’s climate change adaptation landscape involves a diverse group of governments and non-
+governmental organizations with a wide range of jurisdictional responsibilities, resources, and 
+areas of interest and expertise. While the variety of actors involved makes it difficult to 
+assemble a comprehensive picture of Yukon’s adaptation capacity, analyzing some of the 
+adaptation projects or initiatives that have been undertaken by these groups provides us with a 
+snapshot. 
+
+3.1  YUKON ADAPTATION EFFORTS TO DATE 
+
+Over $13 million has been invested since 2008 in the 80 adaptation projects identified in this 
+analysis, most of which (85%) was provided through federal government agencies and 
+programs. More than two-thirds of these projects were partnerships between two or more 
+organizations, with most implemented by First Nations or territorial government agencies – 
+often in partnership with other non-profit, indigenous, or academic organizations – and funded 
+by the federal government.  
+
+Two notable federal adaptation programs that have served as drivers of territorial efforts to 
+date to address climate change impacts are: 
+
+ 
+
+Indigenous and Northern Affairs Canada’s Climate Change Preparedness in the North 
+program (formerly Climate Change Adaptation Program) supports identification and 
+assessment of climate-related risks, adaptation research and planning, and efforts to 
+address major climate change issues such as related to infrastructure, extreme weather 
+events, and permafrost degradation. This analysis has identified 35 projects financed 
+through the two funding streams of the program (for First Nations communities and 
+territorial government departments, respectively).  
+ 
+
+  Health Canada’s Climate Change Health Adaptation Program has emphasized a community-
+
+focused approach; projects address climate change-related needs identified by the 
+community, strengthen a community’s adaptive capacity, and involve community members 
+in the project’s results. This analysis identified 23 Yukon projects funded through this 
+program, many of which focused on food security and Traditional Knowledge transfer 
+between elders and youth. 
+
+The focus of most of these projects has been determined by the capacity and specific interests 
+of proponents, and the criteria set out by funding agencies. These criteria, designed to be 
+enabling rather than proscriptive, have provided significant flexibility for proponents to address 
+climate change impacts of interest to their organizations or communities. While this flexible, 
+project-based approach has helped to realize adaptation actions that might not otherwise occur, 
+it is also more piece-meal than strategic, and does not easily lend itself to a more coherent 
+effort to develop capacity or expertise in areas where they are most needed, or where they can 
+have the biggest impact.  
+
+A summary of adaptation projects identified for this analysis can be found in APPENDIX B. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+12 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+3.2  KEY CHALLENGES TO ADVANCING YUKON’S ADAPTIVE CAPACITY 
+
+November 14, 2017 
+
+Building partnerships, developing Yukon-specific climate information, fostering innovation, and 
+initiating dialogue with communities about climate change impacts have been the focus of much 
+of the adaptation work that has been undertaken to date in the territory. Building on this work, 
+and re-focusing efforts towards the targeted development of capacity and resources will be an 
+important component of building resilience to climate change across sectors and communities. 
+There are, however, certain challenges that will need to be addressed along the way.  
+
+Most of these challenges relate to the multi-faceted nature of climate change (i.e., its 
+complexity and uncertainty) and difficulties related to governance (i.e., difficulty of 
+implementing adaptation due to limited annual budgets and competing priorities). The sense of 
+urgency to address challenges that limit Yukon’s capacity to adapt is growing as impacts of 
+climate change, and related issues of community development and sustainability, increase. 
+Other specific issues that limit Yukon’s ability to adapt to climate change include: 
+
+  Climate change is complex and cannot be fully understood or dealt with by one organization 
+
+or government – especially in Yukon, which has eleven self-governing First Nations in 
+addition to federal, territorial and municipal agencies with overlapping jurisdictions and 
+interests.  
+
+  Government departments and policy-makers sometimes struggle to prioritize long-term 
+
+planning objectives related to climate change adaptation when faced with immediate needs 
+and financial constraints. Furthermore, it is often difficult for many decision-makers to see 
+tangible connections between the issues they are mandated to address and the interaction 
+of these issues with climate change. 
+
+  A challenge in the Yukon, as in the rest of Canada, is that there has been little effort to 
+
+actively support climate change adaptation through changes to existing legislation or 
+regulations. In part, this appears to stem from a general reluctance to open legislation for 
+changes and from a lack of clarity or consensus on what changes should be made.   
+
+  Difficulties in integrating adaptation into long-term planning are compounded by limited 
+
+local-level information or projections about climate change impacts, which serves to 
+increase uncertainty about what actions should be taken to address climate change impacts 
+at a local scale.  
+
+  Financial management and administration systems are sometimes designed in ways that do 
+
+not adequately consider the long-term financial costs of climate change in present-day 
+spending and procurement decisions (e.g., new buildings are not required to take into 
+consideration possible impacts of climate change). 
+
+  Slow progress on mitigating climate change (i.e., reducing GHG emissions) in Yukon risks 
+
+slowing adaption as well. Successful climate change mitigation measures, particularly in the 
+areas of infrastructure and buildings, will help adaptation and vis-versa (see Figure 3).  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+13 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Figure 3: Green Resilience: Adaptation and Mitigation Synergies 
+
+November 14, 2017 
+
+(Centre for Clean Air Policy, 2016) 
+
+ 
+
+ 
+
+ 
+
+As impacts of climate change become more apparent, the adaptive capacity of many 
+communities may be challenged or exceeded but the severity of these impacts, reducing their 
+ability to adapt. “Extreme impacts can exceed human and financial resources to address them, 
+and can cause physical, financial and psychological stress. Stress on local governments and 
+service providers, and other responders to disasters, can reduce adaptive capacity to address 
+climate change impacts in both the short and long terms” (Manuel et al., 2012 in Lemmen, D.S., 
+et. al. 2016 p. 118). Building partnerships and relationships with communities so that they can 
+address key vulnerabilities over the long-term will help address this challenge. 
+
+No Regrets 
+
+The broader benefits of acting to adapt to climate risks is the low/no regrets model where 
+decisions or actions related to climate change make sense in development terms regardless 
+if a specific climate threat materializes in the future. This is achieved by building resilience to 
+changing economic, social and environmental conditions (Adapted from Siegel, 2011). This 
+approach is useful when considering how to plan and prioritize adaptation measures. One 
+can ask: will we regret doing this if the climate threat does not materialize? Is this action 
+good for Yukon communities even if the climate threat turns out to not be as severe as 
+some scenarios project? 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+14 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Although progress has been made in this area, climate change adaptation still is not 
+systematically considered in most government policy decisions. This makes Yukon more 
+vulnerable to climate change impacts, as present-day solutions are developed without adequate 
+understanding of how the problems being addressed may be affected by climate change over 
+the long term. 
+
+November 14, 2017 
+
+ 
+
+Photo 3: Yukon Landslide 
+
+ 
+(Environment Yukon, 2006) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+15 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+4.  EXTREME WEATHER EVENTS AND WILDFIRE 
+
+4.1  EXTREME WEATHER EVENTS 
+
+November 14, 2017 
+
+The variability of our climate is expected to increase. This will mean more extreme weather 
+events and greater fluctuations in precipitation, which are associated with increases in 
+landslides and flooding. Flooding can negatively affect communities in a range of ways, including 
+population displacement, impacts on critical infrastructure, interruptions to business activities, 
+decreased production due to worker displacement, impacts on physical health, and impacts on 
+mental health, including depression, anxiety, and post-traumatic stress disorder (Henstra, D. and 
+Thistlethwaite, J., 2017). 
+
+Some of the direct and 
+indirect costs that result 
+from extreme rainfall 
+events are exemplified by 
+the flash floods that 
+simultaneously washed 
+out the Alaska Highway at 
+Rancheria and at the 
+south end of Kluane Lake 
+in 2012. 
+
+The highway was closed 
+for a total of four days at 
+Rancheria and two days at 
+Kluane Lake. During this 
+period, the costs that 
+resulted from these 
+closures included: 
+
+  Both the emergency 
+
+Alaska Highway Closed 
+
+“The Alaska Highway reopened Monday evening near 
+Rancheria following the completion of a road detour around 
+the substantial washout at Canyon Creek. Northbound 
+commercial trucks stranded at the highway lodge since the 
+washout occurred last Thursday night were the first to be 
+taken over the single-lane detour… Once Rancheria was 
+cleared, some 200 commercial trucks waiting in Watson Lake 
+to come north were released… Larger industrial vehicles 
+followed. Then private vehicles and RVs were released in 
+groups behind a pilot car. Southbound traffic backed up in 
+Teslin was released at about the same time as vehicles waiting 
+in Watson Lake to come north.”  
+
+(Whitehorse Star, June 12, 2012). 
+
+road repairs and the permanent repairs; 
+
+  The business costs to trucking companies as hundreds of trucks sat idle for days and trucking 
+
+schedules were disrupted; 
+
+  The time costs to travellers, both locals and tourists, whose plans were disrupted and 
+
+delayed; 
+
+  The costs to businesses who ran out of goods (particularly at grocery stores, where shelves 
+
+sat empty), and to others whose workers were unavailable due to the travel disruption; 
+
+  The costs of delays in mail and parcel delivery services; and 
+
+  The knock-on losses to tourism businesses as people changed their plans in response.   
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+16 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+4.1.1  Adaptation to Flood Hazards 
+
+November 14, 2017 
+
+In Canada, flooding has surpassed theft and burglary as the largest single source of property 
+insurance claims (Henstra, D. and Thistlethwaite, J., 2017). Mitigating flood hazard risk requires 
+that we improve knowledge and awareness of what values (e.g. personal or commercial 
+property, public infrastructure, industrial infrastructure, sites for traditional activities, etc.) are 
+exposed to these risks, and what arrangements are currently in place to reduce vulnerability to 
+flooding.  In 2016, Yukon government collected digital elevation data in 13 communities to 
+identify what areas might be exposed to flooding at different water levels. This data is currently 
+available online and is being used to create flood risk maps for use by residents, decision-makers 
+and land-use planners. 
+
+ 
+
+Photo 4: Flooding at Army Beach 
+
+ 
+
+(Environment Yukon, 2007) 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+17 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Other adaptations to climate change-driven increases in flood hazards in Yukon, both flash 
+flooding and other higher water levels, are currently being advanced through ongoing efforts to 
+reduce flood risks and damage, including: 
+
+November 14, 2017 
+
+  Better land planning and zoning to account for flood risks; 
+
+  Flood control infrastructure in already developed areas subject to floods; 
+
+  Re-assessment of eligibility of property owners for compensation in areas subject to 
+
+repeated flooding; 
+
+ 
+
+Improved road infrastructure standards, including elevation and culvert size requirements; 
+and 
+
+  Updated storm sewer standards. 
+
+4.2  WILDFIRE  
+
+Wildfire in Yukon forests is an existing hazard to Yukon communities and infrastructure that can 
+have environmental and economic consequences. Most Yukoners live in the boreal forest, 
+where fire is an integral part of the ecology: “fires are frequent and their ecological influence at 
+all levels—species, stand and landscape—drives boreal forest vegetation dynamics” (NRCan, 
+2017). In addition, many areas near communities, residences, and other infrastructure have 
+accumulated deadfall and forest debris. The Yukon has seen many large wildfires (e.g., in 1958) 
+and will see them again. 
+
+Whitehorse Saved by Rain 
+
+“Rain saved Whitehorse last week. If it hadn't come, forestry officials say there would have 
+been little hope for the town with a 30-mile front of fire advancing. In some places 20 miles 
+away, the fire came up within five miles of the White Pass tank farm and was seen plainly 
+from city streets Friday evening… Nobody outside was more worried than local inhabitants 
+who were told by Mayor Gordon Cameron to prepare for emergency evacuation. It was 
+decided… that in event of the fire getting too close, local residents would be sent to 
+Carcross either in their own cars or by special White Pass trains.” 
+
+(Whitehorse Star, July 24, 1958). 
+
+ 
+
+There are many factors — forest age, past fire suppression, lack of fuel management, insect 
+infestations, drought, and trees blown down by storms — influencing the likelihood of wildfires. 
+“Quantifying the multiple effects of climate change will be challenging, particularly because 
+there are great uncertainties attached to possible interactions among them, as well as with 
+other land-use pressures” (Price et.al., 2013). However, it appears that climate change is likely 
+increasing both the likelihood and potential severity of wildfire hazards in Yukon:  
+
+  Analysis of historical wildfire data examining annual area burned does not reveal a 
+
+statistically significant increase in fire risks in Yukon, but a trend is apparent when looking 
+more broadly at regional data from Alaska and the Northwest Territories that indicates an 
+increased wildfire risk is expected (Streicker, 2016); 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+18 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+  Natural Resources Canada states that climate change during the 21st century is expected to 
+result in more frequent large fires in many boreal forests: “Large wildfires, which can cause 
+serious economic losses, are expected to become more frequent, but increases in mean 
+annual area burned will be relatively gradual.” (Price et. al., 2013); 
+
+November 14, 2017 
+
+  Climate change impacts that could add damaged or dead wood to the forest fuel load (for 
+
+example, from insect outbreaks, ice storms or high winds) may increase the risk of fire; and 
+
+  Recent major wildfires in Fort McMurray (2016) and Interior British Columbia (2017) are 
+
+important reminders of our limited ability to supress intense wildfires and avoid major 
+losses of homes, businesses, and community infrastructure. 
+
+The mechanism by which climate change can be expected to result in increased wildfire risk 
+includes greater risk of dry winters and dry summers (through increased precipitation variability 
+despite average precipitation increasing) and through increased heat and desiccation of existing 
+fuel sources. There may also be trends in convective storms leading to more lightning strikes. 
+
+4.3  ADAPTATION TO WILDFIRE HAZARDS 
+
+In practical terms, the primary means of adapting to the increased likelihood and potential 
+severity of wildfires in Yukon largely overlap with existing efforts to reduce risks, including: 
+
+  More robust emergency preparedness and public infrastructure (including communication 
+
+systems along with road access to vulnerable areas) will limit a broad range of risks and 
+improve overall public safety; 
+
+  Evacuation and emergency response plans, both at the household and community level. The 
+
+Yukon Emergency Measures Organization is responsible for coordinating community-level 
+plans, but it is up to individuals to both be aware of these plans and to create their own 
+household plans;  
+
+ 
+
+Land use planning that accounts for increased wildfire risks when planning new 
+developments. One suggestion in the Whitehorse Community Adaptation Plan is to 
+strategically place agricultural land developments as fire-breaks to reduce wildfire risk;  
+
+  Encourage the increased use of fire-resistant building materials, including metal cladding, 
+
+metal roofs and metal soffits, along with closing in areas under decks and porches, to 
+provide better protection from wind-driven embers. Yukon Community Services already 
+provides this advice to Yukoners, however, a more concerted public education campaign 
+and incentive program, or possibly changes to building code requirements for rural-
+residential lots, could further reduce risks; 
+
+  Encourage fuel reduction (deadfall removal, tree thinning, replacement of conifer trees such 
+
+as spruce with more fire-resistant birch or aspen) on private property. Yukon Community 
+Services already provides this advice to Yukoners; however, a more concerted public 
+education campaign and incentive program could reduce risks; and 
+
+  Systematic identification and prioritization of fuel rich areas for targeted fuel reduction on 
+
+public land near communities. 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+19 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Photo 5: Yukon Wildfire 
+
+November 14, 2017 
+
+  
+  (Yukon Government Protective Services) 
+
+4.3.1  Adaption Opportunity: FireSmart Plus 
+
+Most Yukoners are familiar with the FireSmart program. FireSmart has an annual budget of 
+$850,000, and has spent approximately $15 million since 1999 on efforts to thin trees and 
+reduce fuel loads around most Yukon communities. The program’s primary aim is to reduce fire 
+risks, but it is also a local economic development tool that provides seasonal employment.  
+
+There are several issues, however, currently limiting the capacity of the FireSmart program to 
+effectively reduce wildfire risk to communities: 
+
+  The program’s relatively modest funding is spread throughout the Yukon and is not 
+
+systematically focused on priority areas where wildfire risk is most significant; 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+20 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+  Wooded areas are thinned but very little area is cleared. (Note that clearing at least small 
+areas of spruce further reduces fuel load. The cleared areas then begin the natural process 
+of succession with far lower risk of fire); and 
+
+November 14, 2017 
+
+  FireSmart projects can and do provoke public objections that block them from undertaking 
+
+fuel reduction activities in certain areas. 
+
+The risks of wildfire are expected to increase with climate change and the likely impacts of an 
+extreme fire for Yukon communities (and especially for Whitehorse) become larger and costlier 
+every year as fuel loads increase and the community grows. A more aggressive and targeted fuel 
+reduction effort could significantly reduce this risk. This may be accomplished by exploring a mix 
+of tested and innovative approaches, including: 
+
+ 
+
+Improved community awareness and communications to enhance understanding of wildfire 
+risks and the importance of fuel reduction and management in reducing those risks; 
+
+  Selectively cutting and clearing small patches and, where appropriate, replacing significant 
+amounts of spruce with naturally re-growing aspen, willow and poplar that is less prone to 
+wildfire; and 
+
+  Actively maintaining a mix of increased aspen, willow or poplar trees to stop succession back 
+
+to spruce. 
+
+Building on the above actions, fuel reduction activities also present a further economic 
+development opportunity by supplying firewood and wood chips for bio-fuel heating. The 
+Dawson City wastewater treatment plant currently has been using local wood chips for heat for 
+several years and the Whitehorse Correctional Centre uses a wood pellet fired heating system. 
+There is considerable opportunity to expand the use of wood heat in Yukon, which presents a 
+unique synergy between efforts to reduce reliance on fossil-fuels for heating, while increasing 
+resilience to the impacts of climate change. 
+
+The very recent Teslin Tlingit Council (TTC) project to convert ten buildings in Teslin from either 
+propane or electric heat to a district biomass heating system is an example of the opportunities 
+to combine adaptation to climate change with local economic development. Some highlights of 
+the Teslin project include: 
+
+  Community support for the project was built up over many years, beginning in 1998 in the 
+
+TTC forest management plan and being revisited in community plans in 2009 and 2015; 
+
+  The project identified a sustainable and economical supply of wood chips processed from 
+locally-sourced waste wood – either from fire smarting activities, development-related, or 
+from the Teslin Tlingit Council-owned sawmill (Hogan, 2017); 
+
+  The ongoing operations of the project are anticipated to provide one full-time position plus 
+
+an unknown employment benefit from local wood supply contracts.   
+
+There is a significant risk attached to not taking more action on fuel reduction as an adaptation 
+measure. The forest continues to age and wildfire fuel builds up year by year. There are obvious 
+economic benefits to going forward with a FireSmart Plus approach linked to biomass heating as 
+is clearly illustrated by the TTC’s efforts in Teslin. Even if greater risks of wildfire do not emerge 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+21 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+from climate change to the degree anticipated, a FireSmart Plus approach will still reduce the 
+existing risks while providing benefits.    
+
+November 14, 2017 
+
+ 
+
+Photo 6: Fighting Yukon Wildfire 
+
+(Environment Yukon, 2006) 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+22 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+5.  INFRASTRUCTURE 
+
+November 14, 2017 
+
+Infrastructure in the 
+Yukon is already being 
+impacted by climate 
+change and the warmer 
+temperatures, higher 
+precipitation levels, and 
+greater weather variability 
+that is projected will 
+further increase 
+environmental stressors to 
+buildings, roads, power 
+and communications 
+systems, water and sewer 
+systems, and mine sites. 
+Specific climate change 
+challenges for Yukon 
+infrastructure include: 
+
+Art and Margaret Fry Recreation Centre 
+
+In August 2017, engineers deemed large portions of the Art 
+and Margaret Fry Recreation Centre structurally unsound due 
+to permafrost thaw, forcing the City of Dawson to close most 
+of the building for over a month until the decision was made to 
+re-open in September 2017. In 2009, Yukon government 
+allocated $4 million in funding to improve the centre, but a 
+2014 study estimated that $12.5 million in improvement costs 
+would be required (Yukon News, November 21, 2014). In 
+addition to repair costs, there are other financial and social 
+costs — including loss of recreational and social opportunities 
+and the staff time needed to manage the issue itself — that are 
+difficult to quantify. 
+
+  Most existing infrastructure was designed and built based on historical climate data that 
+
+may not be appropriate for future conditions. Even small increases in snow load, storm 
+severity and frequency, and thawing permafrost may directly affect structural integrity; 
+
+  Buildings sited on permafrost are highly vulnerable as rising temperatures increase the rate 
+
+of thaw. The cost of repairs required to keep affected buildings open and functioning is 
+significant, but there are additional financial and social implications including periods of 
+closure that negatively affect users (e.g. Dawson City’s recreation centre in 2017); 
+
+  Thawing permafrost, landslides, 
+erosion and other climate-driven 
+damage to infrastructure is having a 
+major impact on roads and highways 
+in Yukon. Highways and Public Works 
+reports higher operating and 
+maintenance costs for many roads 
+and bridges related to these climate 
+impacts. Risks to highway 
+infrastructure are of concern 
+because there are limited 
+transportation corridors through 
+which consumer goods and critical 
+supplies can enter the territory; 
+
+Dempster Highway 
+
+Climate-related operations and maintenance 
+costs for the Dempster highway have increased 
+significantly in the past two decades. On 
+average, an additional $200,000 dollars per year 
+has been needed to maintain the Dempster 
+highway since 2005 (Burns, 2015). This trend is 
+expected to continue and financial challenges to 
+fund major road repairs are anticipated. 
+
+  Thawing permafrost and increased precipitation has led to problems with mine 
+
+infrastructure both for operating mines and at abandoned sites. Changes in the hydrological 
+cycle – especially extreme precipitation events and melt patterns – are creating higher-than-
+planned-for water flows that can exceed the capacity of water management structures; and 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+23 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+  Thawing permafrost and other climate hazards present a growing risk for electricity 
+
+November 14, 2017 
+
+generation and distribution infrastructure, including generation facilities and powerlines. 
+
+Ross River School 
+
+Thawing permafrost beneath the Ross River School has led to structural damage requiring 
+significant repairs. It was built in 2001 with a thermosiphon system – a method for passive 
+heat exchange – designed to insulate and maintain the permafrost below the building. The 
+system has not been successful. The building has required repairs in 2004, 2006, 2013, 2015 
+and is still in need of further repairs. In 2015, the school was closed for 5 months, a major 
+disruption in a small community where the school is the center of many activities. 
+Approximately $3 million was spent on the repairs in 2013 and 2015 and cost estimates for 
+further repairs are approximately $1.7 million. (CBC North News reports, May 10, 2017, May 
+29, 2017 and August 4, 2017). In addition to the well-documented repair costs, there are 
+other financial and social costs — including the disruption of the school year, increased child 
+care costs, loss of recreational and social opportunities and the staff time needed to 
+manage the issue itself — that are difficult to quantify. 
+
+ 
+
+5.1  ADAPTATION TO INFRASTRUCTURE IMPACTS 
+
+Increasing the resilience of Yukon’s infrastructure to climate change will require a shift in the 
+way we think about design requirements of our built environment and the way that we evaluate 
+the financial costs of construction, maintenance, and repair. Long-term infrastructure planning 
+that takes future climate change into account will be an important aspect of this work. Other 
+factors that will influence the resilience of Yukon’s infrastructure to climate change include: 
+
+  Developing critical infrastructure partnerships with federal government agencies, First 
+
+Nations, municipalities and the private sector to access funding and implement 
+infrastructure adaptation projects (see National Strategy for Critical Infrastructure, 2009; 
+National Action Plan for Critical Infrastructure, 2014);  
+
+  Developing and applying new infrastructure standards and best practices. For example, the 
+Northern Infrastructure Standardization Initiative developed many national standards that 
+are directly relevant to land-based infrastructure in northern communities such as technical 
+guidance on factoring in future climate changes when building on permafrost. New 
+infrastructure design and maintenance standards that recognize climate resilience as a key 
+objective are currently under development and are expected to be completed by 2020; 
+
+ 
+
+Improving mechanisms for monitoring and data collection regarding buildings, roads and 
+other infrastructure impacts by climate change, and making this information more 
+accessible and transparent to a wide variety of user groups, may help to stimulate new 
+insights into climate-resilient design; 
+
+  Providing opportunity for more innovative building design that leverages lessons learned 
+
+and best practices from other jurisdictions. More importantly, this approach may also create 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+24 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+space to grow and export local expertise and experience with sub-arctic and arctic 
+infrastructure construction and repair, particularly for permafrost affected areas; 
+
+  Engaging communities on a range of infrastructure challenges to discuss the sustainability of 
+
+community infrastructure, gather key (climate related and other) information, and 
+incorporate the results into infrastructure and other relevant planning processes; and 
+
+ 
+
+Integrating climate change considerations into mining infrastructure development, 
+maintenance and reclamation – a process which can last for over 100 years – to ensure that 
+mines are built with future climate in mind. 
+
+5.1.1  Adaptation Opportunity: Improved Accounting for Long-Term Infrastructure Costs 
+
+Improving the accounting for long-term infrastructure costs related to climate change will 
+provide benefits, but not doing so does not create significant risks. There are possible economic 
+benefits in the long-term but also some economic costs. However, a better accounting approach 
+to infrastructure will not likely result in regrettable outcomes even if the threats to 
+infrastructure posed by climate change turn out to be less than anticipated. 
+
+ 
+
+Photo 7: Thawing Permafrost and Roads 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+(Environment Yukon)  
+
+ 
+25 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+The Yukon government commonly uses life cycle costing (LCC) to help decide among options for 
+some infrastructure projects. LCC measures the total cost of infrastructure throughout its life 
+including planning, design, construction, operations and maintenance, and any other related 
+costs. LCC is an excellent tool that lays out the financial case for a decision such as whether to 
+completely renovate an old building for a new use or construct a new building, or to compare 
+the total costs of trade offs between capital and operating costs (e.g., investing more up front in 
+energy efficiency to save on operating costs throughout the life of the building). 
+
+November 14, 2017 
+
+There is the opportunity for the LCC approach currently used by YG to be expanded to explicitly 
+encompass climate-related infrastructure risks. Examples might include an LCC analysis of 
+culvert size selection when building or rebuilding highways. Installing a larger culvert costs more 
+than a smaller one, but the larger culvert may also prevent road washouts during future flash 
+flood events. Developing a metric to estimate the (increased) likelihood of such floods and 
+including the average of repair and disruption costs saved in the LCC may present an 
+opportunity to improve this decision-making process. Another example may be to develop a 
+metric to estimate the indirect costs incurred (e.g., loss of recreational and social opportunities) 
+when buildings are closed for repairs and include it in the LCC analysis from the onset.       
+
+The application of full life-cycle cost accounting to the mining industry presents a more complex 
+challenge. Mining companies build privately-owned infrastructure on public land and generally 
+have an interest in minimizing their up-front costs. Unless the mining company is large and has 
+ready access to capital, it may not be able to finance significantly higher capital costs associated 
+with a full LCC analysis even if those result in net financial benefits in the long-term.  
+
+Regulators are already requiring mines to account for climate change in mine design and closure 
+plans, particularly with respect to water management. Governments and the public have an 
+interest in ensuring the long-term stability of mine sites, but the industry continues to have a 
+strong incentive to minimize capital costs and trust that future cash flow and profits will cover 
+any future climate-driven cost-increases. These conflicting incentives make the application of 
+full life-cycle cost accounting to the mining industry challenging. 
+
+Minto Mine 
+
+The Minto copper gold mine in the central Yukon is an example of a successful operating 
+mine that has struggled to overcome mine design and water management shortcomings 
+since it began production in 2007. Some of these issues are a result of the site’s 
+discontinuous permafrost while others stem from higher than expected water levels on site 
+that exceeded the design requirements it was built for. In 2009, the mine had two 
+emergency discharges of untreated water into the Yukon River as its water containment 
+systems were overflowing. 
+
+Capstone Mining, owner of the Minto mine, has stated that “…future extreme weather in 
+Yukon could again result in excess run-off at the mine site, which could have an adverse 
+effect on the results of operations at the Minto Mine and on our business, financial 
+condition, results of operation and prospects...” (Capstone Mining Corporation, 2015)   
+
+ 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+26 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Photo 8: Minto Mine 
+
+November 14, 2017 
+
+ 
+
+(Environment Yukon) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+27 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+6.  CHANGING CLIMATE, CHANGING LAND  
+
+November 14, 2017 
+
+There is clear evidence that vegetation zones are shifting, forests are more vulnerable to insect 
+infestations and animal species' habitat, ranges, and diversity are changing. Changes to seasonal 
+weather patterns and climate variability also have direct impacts on the way that some species 
+of wildlife feed and breed. 
+
+Climate is the most important factor that influences the development of terrestrial ecosystems. 
+Within areas of similar climate, ecosystems vary because of differences in topography and soil. 
+Shifting climates within these bioclimate zones may mean that some of the flora and fauna that 
+have adapted to the historical climate of that area may face increasing ecological pressure under 
+different present and future climatic conditions. These shifts drive changes in the type of 
+vegetation that is present or pervasive in certain areas, and also to the seasonal events (e.g. 
+flowering) in the lifecycle of native plants. Furthermore, climate change may also make areas 
+more hospitable to invasive species, as it enables some plants, insects and animals to survive 
+and thrive in parts of the territory that were previously less hospitable. 
+
+Photo 9: Caribou 
+
+(Environment Yukon, 2009) 
+
+ 
+
+Wildlife species ranges are projected to shift northward on both land and sea, bringing new 
+species into the north while limiting the range of other species already present on those 
+landscapes. Seasonal changes are also affecting reproductive cycles and species productivity for 
+some animals. In southern Yukon, for example, seasonal temperature increases have been 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+28 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+shown to advance the breeding cycle of rock and white-tailed ptarmigan and reduce the average 
+number of eggs produced (Wilson and Marten, 2010). Other documented ecological impacts 
+include more difficult winter and spring feeding for some animals due to deeper snowpack and 
+changes to freeze-thaw cycles that lead to thicker layers of ice on and in the snow. Spring and 
+summer have also seen greater levels of insect harassment of caribou (Furgal and Prowse, 2008; 
+Streicker, 2016), which interrupts summer feeding, reducing overall animal health and leading to 
+reduced reproduction.   
+
+November 14, 2017 
+
+Aquatic species are also affected by changes in water temperature and other climate change 
+impacts to Yukon’s hydrological regimes. Climate change-related impacts on ocean and fresh-
+water habitats for wild salmon exacerbate existing environmental and human-caused stressors, 
+jeopardising migration and reducing reproductive success. According to the federal department 
+of Fisheries and Oceans, the annual Yukon River Chinook salmon migration has historically 
+reached up to 150,000 fish; by 2016 this number declined to less than 75,000, and salmon 
+productivity has been consistently low since 2008. In response, several Yukon First Nations have 
+imposed restrictions on salmon fishing for their citizens, cancelling or limiting the amount of fish 
+available for seasonal fish camps. 
+
+The cumulative impacts of these ecological, biological and hydrological impacts are less well 
+understood. How these changes will impact the health of keystone species like caribou and 
+salmon, which serve as indicators of overall ecosystem health, is of significant concern for 
+Yukoners – especially Yukon First Nations whose traditional culture, diet and livelihoods are 
+intimately connected with Yukon’s landscapes and wildlife. 
+
+6.1  ADAPTATION TO THE CHANGING LAND 
+
+Yukon First Nations have a long history of adaptation to changing landscapes and wildlife. 
+
+30,000 Years 
+
+“People have lived in what is now called the Yukon for perhaps 30,000 years. During that 
+long period both the climate and the landscape have changed. The weather was sometimes 
+much colder than it is now, sometimes warmer. For at least half of the last 30,000 years, 
+instead of being covered by forests, most of the land was mossy or grassy tundra…The lakes 
+too have changed in number, location, and shape. Rivers once flowed in places where there 
+are none today, and salmon once spawned where they do no longer. Many of the animals 
+that the early peoples hunted were unlike those they hunt today…” (McClelland. 1987. P.17) 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+29 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Several Yukon First Nations have undertaken community-based research and adaptation 
+planning to evaluate and respond to the effects of climate change on their land, water, and 
+wildlife. For example, Selkirk First Nation partnered with the Arctic Institute of Community 
+Based Research to develop a community based climate change adaptation plan (VanBibber and 
+Pratt 2016). This plan emphasized, among other aspects, the resiliency of the community and 
+ability to adapt as well as the importance of initiatives to connect youth with the land and work 
+to improve the mental wellness of young people in the community. 
+
+November 14, 2017 
+
+Southern Tutchone Resilience 
+
+“There are many examples of Southern Tutchone people being extremely resilient and 
+adaptable to change in the past, including the dynamic land, the Gold Rush, the 
+construction of the Alaska Highway, residential school, the dam construction at Aishihik 
+Lake, the pipeline coming through, etc. Change has always been happening...  The 
+conclusion of this study is that Southern Tutchone people are used to change and making it 
+work for them.” (Champagne and Aishihik First Nations and Alsek Renewable Resources 
+Council, 2009) 
+
+ 
+
+Shifting species distributions may also provide future opportunities for hunting/trapping (e.g. 
+deer) and warmer temperatures may contribute to higher survival rates for certain species. 
+However, the cumulative negative effects may outweigh these benefits. Currently, very little is 
+known about the full extent of ecological impacts on complex natural systems that will result 
+from climate change and how those impacts will interact with the landscapes and the animals 
+that are valued for food and other human uses. There is a lot of concern, but also a high level of 
+uncertainty.  
+
+Anticipating how regional ecological systems will be affected by climate change is very 
+important in determining the potential effects on traditional lifestyles and ecosystem services. 
+Ensuring that planning processes (land-use planning, development planning, park planning, 
+forestry, etc.) explicitly incorporate mechanisms for anticipating and accommodating future 
+climate change will influence the durability and effectiveness of land and resource planning 
+initiatives. 
+
+6.1.1  Adaptation Opportunity: Agriculture 
+Yukon’s agricultural sector is limited not only by soil, but by temperature and precipitation.   As 
+noted in Section 2, climate change has already resulted in 20C higher annual average 
+temperatures and a 6% increase in average annual precipitation. Further change is expected to 
+bring even higher average temperatures and generally higher levels of precipitation.  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+30 
+
+November 14, 2017 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Higher average temperatures bring longer 
+growing seasons by increasing the average 
+number of frost-free days. In the Canadian 
+prairies, Agriculture Canada is anticipating 
+significant increases in the length of the 
+growing season over wide areas based on a 
+predicted 10C to 20C increase in average 
+temperatures over the 2009 to 2032 
+period. For example, while 33.6% of the 
+area had a growing season longer than 130 
+days in the 1971-2000 period, that is 
+expected to increase to 56.6% of the area 
+by 2032.  
+
+Willingness to Buy Local Food 
+
+“The consumers in the Yukon show a strong 
+desire to buy locally. This can be seen in the 
+support for community markets, and in 
+strong farm gate sales. This has also 
+translated into high premiums for a limited 
+amount of Yukon production. This local 
+premium may be as high as two to four- fold 
+over imported production.” (Serecon, 2007 P. 
+A15) 
+
+Although a similar level of analysis has not been done for the Yukon, a similar lengthening of the 
+growing season can likely be expected. And the increased summer precipitation from climate 
+change will also increase agricultural potential and decrease irrigation needs and costs. Some 
+general trends that emerge from the 2016 Census of agriculture, which largely combines the 
+Yukon with the NWT, include: 
+
+  The number of farms was largely unchanged from 2011 to 2016; 
+
+  The area of cropland remained stable from 2011 to 2016 but there was a shift away from 
+
+hay to the production of field crops, particularly field pea production; 
+
+  The total area dedicated to fruit and berry production more than doubled between 2011 
+
+and 2016 while greenhouse production has fallen; 
+
+  Overall the agriculture sector in Yukon and NWT reported gross receipts of $10.0 million for 
+
+2015, significantly higher than the $4.1 million in 2005; and 
+
+  Poultry and egg farms accounted for 44% of reported gross receipts in 2015. 
+
+Increasing Yukon agriculture is a low-risk climate change adaptation opportunity. It is an 
+opportunity that may yield significant economic benefits and if properly managed does not have 
+significant downsides if the climate threat turns out to not be as severe as some scenarios 
+projected.  
+
+Factors other than climate change that may help to further increase Yukon agricultural 
+production include: 
+
+  General trends toward higher demand for more local food. In the Yukon, the popularity of 
+
+farmer’s markets has been rising: Dawson City, Haines Junction, Mayo and Whitehorse have 
+all established local farmers markets (Yukon News, April 21, 2017).       
+
+  The increased attention and interest in food security and the role of local food production in 
+enhancing food security in the territory, particularly among rural First Nations communities. 
+Since 2005, food security-related adaptation projects have been pursued by the Teslin 
+Tlingit Council, White River First Nation, Little Salmon Carmacks First Nation, Liard First 
+Nation, Vuntut G’witchin, and the Kluane First Nation. Little Salmon Carmacks First Nation 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+31 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+began a community greenhouse and garden program in 2000 and other communities and 
+First Nations have made similar efforts, including the Tr’ondëk Hwëch’in Teaching and 
+Working Farm, which began in 2015.   
+
+  The price premium that many are willing to pay for local food. “There are studies that show 
+that consumers are willing to pay a premium for local products (Brown 2003; Schneider and 
+Francis 2005; Novotorova and Mazzocco 2008; Darby, Batte, Ernst and Roe 2008). But this 
+willingness to pay a premium is apparently contingent on local products being readily 
+available and easy to identify” (Equiterre, 2011).  
+
+  The very small amount of local food in proportion to the total market for food in the Yukon. 
+The total gross receipts of farms (both Yukon and NWT) was $10.0 million in 2015 as noted 
+above. The Yukon Bureau of Statistics reports that food and beverage stores in the Yukon 
+had $203.4 million in sales in 2015. The farm receipts include sales (e.g., hay for horses) that 
+do not directly compare to grocery sales and there are significant grocery sales that cannot 
+be displaced by local production (e.g., soft drinks) but the numbers do indicate that local 
+food has a lot of room to grow its market share in the Yukon.  
+
+Tr’ondëk Hwëch’in Teaching and Working Farm 
+
+In 2015 the Tr’ondëk Hwëch’in First Nation stated the Tr’ondëk Hwëch’in Teaching and 
+Working Farm in the Klondike Valley near Dawson City. In the summer of 2017, the farm had 
+22 students of varying ages, most of them post-secondary. “Students spend three hours a 
+day in classes, which are taught in a large, open-air frame tent. The other four and a half 
+hours of the day are spent in practicum, doing things like tending the sprawling garden 
+beds, planting seedlings, operating and maintaining farm machinery and taking care of the 
+pigs. Most students live on-site in small frame tents.” (Yukon News, July 4, 2017) 
+
+ 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+32 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+7.  HUMAN HEALTH AND WELLBEING 
+
+November 14, 2017 
+
+Human health and wellbeing can be impacted by climate change in a variety of ways, from 
+exposure to new disease and vectors to physical and psychological health effects of anxiety and 
+stress from extreme weather events or wildfire damaging homes or livelihoods.  
+
+Ticks in the North 
+
+Over the long-term, climate 
+change is projected to make the 
+Yukon more hospitable to 
+invasive species that are likely to 
+bring with them both vector-
+borne and zoonotic diseases. 
+Vectors are organisms (usually 
+insects) that transmit pathogens 
+or parasites from one person (or 
+animal or plant) to another. 
+Zoonotic diseases are diseases 
+that normally infect animals but 
+can make the jump to human 
+populations. Both can cause 
+human illness and can negatively 
+impact plants or animals that contribute to the food security and livelihoods of Yukoners. 
+Climate change may also increase existing health-risks connected to climate-driven hazards or 
+relationships between humans and natural ecosystems. 
+
+In the summer of 2017, a black-legged tick was 
+discovered in Yellowknife, one of the most northern 
+locations in Canada that this insect has been 
+documented. The black-legged tick, also known as the 
+“deer tick” can be a carrier of Lyme disease. According 
+to Canadian Lyme Disease Foundation president Jim 
+Wilson, deer ticks are becoming increasingly resilient to 
+colder climates, and it is expected that more of these 
+insects will arrive in the north over the coming years. 
+
+(CBC North News. June 13, 2017). 
+
+According to the 2012 Yukon Health Status Report (Government of Yukon, 2012), many 
+Whitehorse households and most rural households obtain at least some food from hunting (33% 
+and 58%) or fishing (44% and 62%). These traditional food sources, and our ability to access 
+these animals over land and water, are affected by shifting weather patterns and seasonal 
+changes occurring here in Yukon. This may generate changes in diet that lead to physical health 
+impacts, but also has implications for the mental health and psychological wellbeing of Yukon’s 
+First Nations people whose ability to participate in traditional cultural activities that are 
+intimately connected with traditional foods may become more limited.  
+
+Mental Health 
+
+“Many northern communities consider 
+traditional practices as a pathway to 
+mental health and wellness for First 
+Nation youth” Adapting to Climate 
+Change and Keeping Our Traditions: 
+Selkirk First Nation Adaptation Plan. 
+(VanBibber and Pratt 2016) 
+
+ 
+
+The Vuntut Gwitchin First Nation is one of several 
+Yukon First Nations who have taken steps to 
+better understand the impact of climate change 
+on human health and wellbeing. Between 2007 
+and 2011, the First Nation undertook a multi-
+phased project to solicit community feedback on 
+local climate change impacts in the Vuntut 
+Gwitchin traditional territory, understand 
+historical adaptations to address food-related 
+concerns, and develop new actions to improve 
+community food security (Arctic Institute for 
+Community-Based Research, 2017). 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+33 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Photo 10: Drying Fish 
+
+November 14, 2017 
+
+ 
+
+(Environment Yukon) 
+
+Extreme weather events and wildfire also have direct and indirect implications for human health 
+and wellbeing. Flooding events affect the safety of individuals, the health of those whose 
+drinking water quality is impacted or whose access to medical supplies or treatment is affected 
+by flooding events, and the mental wellness of people whose property and living conditions are 
+negatively impacted. Similarly, wildfires that lead to community evacuations or property 
+damage can have significant impacts on the people in those areas. Furthermore, anticipated 
+increases in wildfire activity presents the potential for increased respiratory health impacts 
+related to wildfire smoke. In 2017, Yukon government’s Department of Health and Social 
+Services initiated a project to improve monitoring of wildfire impacts on human health and 
+improve emergency planning for extreme weather events and wildfires. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+34 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+The threats posed by climate change to human health and wellbeing are a function of many 
+factors, including exposure to climate hazards, sensitivity of exposed populations to 
+environmental changes (especially the elderly and persons with pre-existing health conditions), 
+and the capacity of the individuals or populations to proactively plan for change and/or to 
+respond to disaster (Seguin, 2008; Seguin and Berry, 2008; Costello et al., 2009).  
+
+November 14, 2017 
+
+7.1  HEALTH AND WELLBEING ADAPTATION 
+
+Understanding the implications of climate change for public health and wellbeing depends 
+largely on our understanding of the breadth and depth of the relationship between climate and 
+health, and extent to which forward-looking public health programming incorporates climate 
+change considerations.  
+
+Specific opportunities to improve Yukon’s capacity to understand and respond to direct and 
+indirect climate change impacts on the health and wellbeing of its residents include:  
+
+  Enhancing data collection and investing in research on the role of country foods in Yukoners’ 
+
+diets, and the impact of climate change on availability and access to traditional foods; 
+
+ 
+
+Identifying populations most at risk to climate change-related health risks and developing 
+strategies and actions to increase awareness of these risks among these groups; 
+
+  Enhancing mental health services in communities and supporting programs and initiatives 
+
+that enable First Nations to reconnect with traditional land-use activities; and 
+
+ 
+
+Investing in capacity to address health-related vulnerabilities that are increased by climate 
+change, such as food and housing security, poverty and marginalization. 
+
+Examples (see 9.APPENDIX B) of work on communities beginning to adapt to the health and 
+wellbeing issues of climate change include: 
+
+ 
+
+ 
+
+ 
+
+“Pilot Study on the Health Effects on the Selkirk First Nation due to Climate Change” in 2009; 
+
+“Climate Change and Health – Linking our Past and Future through our Traditions and 
+Culture: An Ethno-Botanical Resource Study to determine the Effects of Climate Change on 
+Traditional Ecosystems” in 2010; and 
+
+"Keeping our traditions for the mental wellbeing of Selkirk First Nations Youth: What do we 
+do at the fish camp when there is no fish?" in 2016. 
+
+7.1.1  Adaptation Opportunity: Community-Based Climate Monitoring 
+
+Community-based climate change monitoring initiatives may provide new opportunities to 
+gather valuable data on impacts of climate change, while simultaneously enabling community 
+members to re-connect with traditional and land-based knowledge. 
+
+Not taking the action of further community-based monitoring does pose some risks as lack of 
+local and community-specific data limits the effectiveness of adaptation efforts. It is important 
+that initiatives to establish community-based monitoring programs consider how monitoring 
+might help address local needs and vulnerabilities such as concern about the condition and 
+populations of local game species. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+35 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+While the impacts of climate change on wildlife, and especially traditional sources of food, is of 
+great concern for Yukoners, there is limited scientific research on what these impacts will mean 
+in practical terms both for wildlife and for the population who rely on them for food. A 
+community-based climate monitoring program that provides resources and training for 
+community residents to monitor and collect data on key ecological indicators of climate change 
+could help to address this information gap while also providing modest economic benefit to 
+Yukon communities. 
+
+November 14, 2017 
+
+Integrating the data collected through this program with existing research and information 
+available through other public agencies (e.g. statistics on traditional food consumption, wildlife 
+population health data, forest health information, etc.) may help to provide improved insights 
+into the long-term implications of climate change for human health. The data can also be used 
+to inform and guide natural resource planning and development to ensure that regional 
+ecosystems and their capacity to support important traditional plant and animal species are 
+sustainably managed.   
+
+Beyond the information-gathering component of these initiatives, community-based climate 
+monitoring provides a valuable opportunity to integrate traditional knowledge and scientific 
+research on climate change and create new opportunities to re-connect with the land for 
+individuals who may be feeling alienated from traditional land-use activities. Historical insight 
+into local climate indicators related to, for example, the timing of seasonally significant events 
+such as the first snowfall, sightings of migratory birds, and the budding of flowers in spring 
+provide a deeper understanding of long-term climate trends in specific geographic regions. This 
+type of traditional and local knowledge could feed into such initiatives by soliciting the 
+participation of First Nations elders and contribute to cultural revitalization by providing a 
+framework to promote and preserve land-based skills and knowledge for younger community 
+members. (Lemmen et. al. 2016). 
+
+Community-based climate monitoring programs are low-risk regardless of how severe the 
+effects of climate change turn out to be. There is an opportunity for communities to benefit in 
+different ways from the programs and their costs tend to be relatively low. 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+36 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+8.  BIBLIOGRAPHY 
+
+November 14, 2017 
+
+Arctic Institute for Community-Based Research, 2017. “Vuntut Gwitchin Climate Change and 
+Health Research in Northern Yukon (2007-2011)”. Retrieved from: https://www.aicbr.ca/vuntut-
+gwitchin-old-crow 
+
+Beckert, Bronwyn, Roy, Louis Phillipe, Kennedy Kristen., and Calmels, Fabrice. “Climate Change 
+Hazard Mapping Project Completed in Yukon.” Yukon College: Climate Change Hazard Mapping 
+Project Completed in Yukon, Yukon government, 12 Sept. 2016. Retrieved from: 
+www.yukoncollege.yk.ca/research/post/climate_change_hazard_mapping_project_completed_i
+n_yukon. 
+
+Bonnaventure P.P., and Lewkowicz A.G., 2013. Impacts of mean annual air temperature change 
+on a regional permafrost probability model for southern Yukon and northern British Columbia, 
+Canada. The Cryosphere 7: 935-946. DOI:10.5194\tc-7-935-2013 
+
+Burns, C., 2015. Climate Change Costs, Yukon Section, Dempster Highway. Presentation to 
+Yukon Government- Highways and Public Works. 
+
+Calmels, F., L.-P. Roy, C. Laurent, M. Pelleter, L. Kinnear, B. Benkert, B. Horton and J. Pumple. 
+2015. Vulnerability of the North Alaska Highway to Permafrost Thaw: A Field Guide and Data 
+Synthesis. Whitehorse, Yukon: Northern Climate ExChange, Yukon Research Centre. 
+
+Capstone Mining Corporation. 2015 and 2016. Consolidated Financial Statements. pp.44-45. 
+Retrieved from: http://capstonemining.com/home/default.aspx 
+
+CBC North News. Various dates. Retrieved from: http://www.cbc.ca/news/canada/north 
+
+Centre for Clean Air Policy, 2016. What Does Climate Resilience Look Like? Retrieved from: 
+http://ccap.org/what-does-climate-resilience-look-like/  
+
+Derksen, C., et.al. 2012. Variability and change in the Canadian cryosphere. Climate Change, 115, 
+59–88, doi:10.1007/s10584-012-0470-0. 
+
+Environment Canada. 2016. Weather Climate and Hazards. Pan-Canadian Framework on Clean 
+Growth and Climate Change. 
+
+Environment Yukon, 2017. Date of ice break-up on the Yukon River at Dawson City, 1896-2016. 
+Retrieved from: http://www.env.gov.yk.ca/publications-maps/report-water-river-break-up.php 
+
+Equiterre, 2011. Eating at Home: Canadian households and the motivations and obstacles 
+related to buying locally grown food – a pan-Canadian study. p.7 Retrieved from: 
+http://www.equiterre.org/sites/fichiers/analyse_manger_chez_soi_-final_en.pdf 
+
+Furgal, C., and T.D. Prowse, 2008. Northern Canada. From: Perspectives on Impacts and 
+Adaptation; Government of Canada, Ottawa, ON, 286p.  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+37 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Government of Yukon, Department of Health and Social Services: Yukon 2012 Health Status 
+Report: Focus on Children and Youth. Retrieved from: 
+http://www.hss.gov.yk.ca/pdf/health_status_report_2012.pdf  
+
+November 14, 2017 
+
+Hennessey, R., Love, N., Kinnear, L. and Duerden, F., 2011. Atlin Climate Change Adaptaton Plan. 
+Northern Climate ExChange, Yukon Research Centre, Yukon College, Whitehorse, YT, 55 p. 
+
+Hennessey, R., Stuart, S. and Duerden, F., 2012. Mayo Region Climate Change Adaptaton Plan. 
+Northern Climate ExChange, Yukon Research Centre, Yukon College, Whitehorse, YT, 103 p. 
+
+Hennessey, R. and Streicker, J., 2010. Future Histories of Whitehorse: Scenarios of Change. 
+Northern Climate ExChange, Yukon Research Centre, Yukon College, Whitehorse, YT, 39 p. 
+
+Hennessey, R., Stuart, S. and Duerden, F., 2012. Mayo Region Climate Change Adaptaton Plan. 
+Northern Climate ExChange, Yukon Research Centre, Yukon College, Whitehorse, YT, 103 p. 
+
+Hennessey, R. and Streicker, J., 2011. Whitehorse Climate Change Adaptaton Plan. Northern 
+Climate ExChange, Yukon Research Centre, Yukon College, Whitehorse, YT, p. 84 
+
+Henstra, D. and Thistlethwaite, J., 2017. Climate Change, Floods, and Municipal Risk Sharing in 
+Canada.” IMFG Papers on Municipal Finance and Governance No. 30. Toronto: Institute on 
+Municipal Finance and Governance. Retrieved from: http://munkschool.utoronto.ca/imfg/ 
+uploads/373/1917_imfg_no_30_online_final.pdf.  
+
+Hogan, Blair. March 2017. Teslin Biomass District Heating V.3 (presentation). Retrieved from: 
+https://www.uaf.edu/files/ces/nrcd/awec/2017/Blair-Hogan.pdf 
+
+Huntington HP, Fox S, Berkes F, Krupnik I (2005) The changing Arctic: indigenous perspectives. 
+In: ACIA (ed) Arctic climate impact assessment. Cambridge University Press, Cambridge, pp 61–
+98 
+
+IPCC, 2014: Annex II: Glossary [Mach, K.J., S. Planton and C. von Stechow (eds.)]. In: Climate 
+Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth 
+Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, R.K. 
+Pachauri and L.A. Meyer (eds.)]. IPCC, Geneva, Switzerland, pp. 117-130. 
+
+Jones, Sebastian and Hennessey, Ryan, 2011. Dawson Climate Change Adaptation Plan. Climate 
+Change Impacts and Adaptation Division, Natural Resources Canada, Whitehorse, YT 
+
+Kunuk, Zacharias and Mauro, Ian, 2015. Inuit Knowledge and Climate Change [Documentary 
+Film]. Canada. 
+
+Larsen, J.N., et. al. 2014. Polar regions. In: Climate Change 2014: Impacts, Adaptation, and 
+Vulnerability, Part B: Regional Aspects. Contribution of Working Group II to the Fifth Assessment 
+Report of the Intergovernmental Panel on Climate Change [Barros, V.R., et. al. (eds.)]. 
+Cambridge University Press. pp. 1567-1612. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+38 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Larsen, C., E. Burgess, A. Arendt, S. O’Neel, A. Johnson, and C. Kienholz, 2015. Surface melt 
+dominates Alaska glacier mass balance. Geophysical Research Letters, vol. 42, pp. 5902–5908 
+
+November 14, 2017 
+
+Lemmen, D. S., Warren, F. J., Lacroix, J. and Bush, E. (Eds.), 2008. From Impacts to Adaptation: 
+Canada in a Changing Climate 2007. Ottawa, Ont.: Government of Canada. Retrieved from  
+http://adaptation.nrcan.gc.ca/assess/2007/index_e.php. 
+
+Lemmen, D.S., Warren, F.J., James, T.S.  and Mercer Clarke, C.S.L. editors (2016): Canada’s 
+Marine Coasts in a Changing Climate; Government of Canada, Ottawa, ON, 274p. 
+
+Lipovsky, P.S. and Yoshikawa, K., 2009. Initial results from the first year of the Permafrost 
+Outreach Program, Yukon, Canada. In: Yukon Exploration and Geology 2008, L.H. Weston, L.R. 
+Blackburn and L.L. Lewis (eds.), Yukon Geological Survey, pp. 161-172. 
+
+McClelland, Catherine, 1987. Part of the Land, Part of the Water: A History of the Yukon Indians. 
+Douglas & McIntyre. 
+
+Myers-Smith, Isla H., Meagan M. Grabowski, Haydn J.D. Thomas, Sandra Angers-Blondin, 
+Gergana N. Daskalova, Anne D. Bjorkman, Andrew M. Cunliffe, Jakob J. Assmann, Joe Boyle, 
+Edward McLeod, Sam McLeod, Ricky Joe, Paden Lennie, Deon Arey, Richard Gordon, Cameron 
+Eckert, 2017. Seventeen years of ecological monitoring reveals multiple lines of evidence for 
+tundra vegetation change. Draft manuscript. 
+
+Natural Resources Canada, 2016. Working Group on Adaptation and Climate Resilience. Ottawa, 
+ON: Canadian Government Publishing. 
+
+Natural Resources Canada, 2017. Retrieved from: http://www.nrcan.gc.ca/forests/boreal/13071 
+
+Palko, K. and Lemmen, D.S. (Eds.)., 2017. Climate risks and adaptation practices for the Canadian 
+transportation sector 2016.  Ottawa, ON: Government of Canada. 
+
+Price, D.T. et al, 2013. Anticipating the consequences of climate change for Canada’s boreal 
+forest ecosystems. Environ. Rev., 21 (2013), pp. 322-365 
+
+Public Safety Canada, 2014. National Action Plan for Critical Infrastructure, Ottawa, ON: 
+Canadian Government Publishing. 
+
+Public Safety Canada, 2009. National Strategy for Critical Infrastructure, Ottawa, ON: Canadian 
+Government Publishing. 
+
+Richardson, G.R.A. and Otero, J. (2012). Land use planning tools for local adaptation to climate 
+change. Ottawa, Ont.: Government of Canada, 38 p. 
+
+Scenarios Network for Alaska and Arctic Planning, 2017. Community Charts for Whitehorse and 
+Old Crow. Retrieved from: 
+https://www.snap.uaf.edu/sites/all/modules/snap_community_charts/charts.php 
+
+Seguin, J., 2008. Conclusion. In: Seguin J. et al. (Eds.) Human Health in a Changing Climate: A 
+Canadian Assessment of Vulnerabilities and Adaptive Capacity. Health Canada. Health Canada. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+39 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+Serecon Management Consultants. 2007. Yukon Agriculture Multi-Year Development Plan. 
+Retrieved from: 
+http://www.emr.gov.yk.ca/agriculture/pdf/yukon_multi_year_development_plan.pdf 
+
+November 14, 2017 
+
+Siegel, P., 2011. “No Regrets” Approach to Decision Making in a Changing Climate: Toward 
+Adaptive Social Protection and Spatially Enabled Governance. World Resources Institute. 
+Retrieved from: http://www.wri.org/our-work/project/world-resources-report/no-regrets-
+approach-decision-making-changing-climate-toward 
+
+Streicker, J., 2016. Yukon Climate Change Indicators and Key Findings 2015. Northern Climate 
+ExChange, Yukon Research Centre, Yukon College, p. 84 
+
+VanBibber, M., Kassi, N., Pratt, M., March 2016. Adapting to Climate Change and Keeping Our 
+Traditions. Selkirk First Nation. 
+
+Warren, F.J. and Lemmen, D.S., editors (2014): Canada in a Changing Climate: Sector  
+
+Werner, A.T., H.K. Jaswal and T.Q. Murdock, 2009: Climate Change in Dawson City, YT: Summary 
+of Past Trends and Future Projections. Pacific Climate Impacts Consortium, University of 
+Victoria, Victoria BC, 40 pp. 
+
+Wang, Guojian; Cai, Wenju; Gan, Bolan; Wu, Lixin; Santoso, Agus; Lin, Xiaopei; Chen, Zhaohui & 
+McPhaden, Michael J., 2017. Continued increase of extreme El Niño frequency long after 1.5 °C 
+warming stabilization. Nature Climate Change 7, 568–572  
+
+Whitehorse Star. Various dates. Retrieved from: http://www.whitehorsestar.com/ 
+
+Yukon News. Various dates. Retrieved from: http://www.yukon-news.com/ 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+40 
+
+Yukon ‘State of Play’:  
+Analysis of Climate Change Impacts and Adaptation 
+ 
+9.  KEY CONTACTS 
+
+November 14, 2017 
+
+Brian Horton, Research Project Coordinator, Northern Climate ExChange, Northern Climate 
+ExChange 
+
+Alison Perrin, Climate Change Education and Project Coordinator, Northern Climate ExChange 
+
+Panya Lipovsky, Surficial Geologist, Yukon Geological Survey  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+41 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation
+ 
+ 
+APPENDIX A 
+
+Yukon’s Climate 
+
+November 14, 2017 
+
+Currently, projections about future change in Yukon’s climate are made by combining historical 
+data for each indicator with different emissions scenarios developed by the Intergovernmental 
+Panel on Climate Change (IPCC). These scenarios suggest possible future conditions based on 
+different “Representative Concentration Pathways” or predicted amount of GHGs in our 
+atmosphere based on more successful or less successful “paths” to stabilize or reduce 
+emissions.  
+
+Figure 4 shows the relative change in average Yukon temperature from one year to the next 
+from 1950 through 2016. 
+
+ 
+
+Figure 4: Yukon annual temperature variation, 1950-2016 
+
+ 
+
+ 
+
+(Streicker, 2016) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+42 
+
+ 
+
+ 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation
+ 
+ 
+Figure 5 shows the percent difference from the 30-year average (1961-1990) precipitation. 
+
+November 14, 2017 
+
+ 
+
+Figure 5: Yukon annual precipitation variability, 1950-2016 
+
+ 
+
+ 
+
+(Streicker, 2016) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+43 
+
+ 
+
+ 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation
+ 
+ 
+
+November 14, 2017 
+
+Figure 6 shows the relative change in average annual Yukon temperature projected over the 
+next century. 
+
+ 
+
+Figure 6: Yukon projected annual temperature anomalies (A2, A1B, B1) 
+
+ 
+
+ 
+
+Year 
+
+ 
+
+(Streicker, 2016) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+44 
+
+ 
+
+ 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation
+ 
+ 
+Figure 7 shows the relative change in total annual precipitation in Yukon projected over the next 
+century. 
+
+November 14, 2017 
+
+ 
+
+Figure 7: Yukon projected annual precipitation anomalies (A2, A1B, B1). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+45 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation
+ 
+ 
+SNAP Community Temperature Projections for Old Crow and Whitehorse are shown below. 
+
+November 14, 2017 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+
+ 
+46 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation
+ 
+ 
+SNAP Community Precipitation Projections for Old Crow and Whitehorse are shown below 
+
+November 14, 2017 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+47 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+APPENDIX B 
+ 
+
+List of Yukon Climate Change Adaptation Projects: 2008 through 2017 
+
+This appendix presents a summary of available information regarding climate change adaptation projects that have been undertaken in Yukon 
+between 2008 and 2017. Given the wide range of organizations involved in adaptation activities, this summary should be viewed as a snapshot 
+of adaptation actions rather than a comprehensive picture. Readers who have questions or who may be able to provide additional information 
+regarding the projects listed below or other projects not listed in this appendix are encouraged to contact Yukon government’s Climate Change 
+Secretariat at ClimateChange@gov.yk.ca. 
+
+List of Yukon government acronyms 
+
+  CS-EMO – Department of Community Services, Emergency Management Office 
+  CS-WFM – Department of Community Services, Wildfire Management  
+  ENV-AHU – Department of Environment, Animal Health Unit 
+  ENV-CCS – Department of Environment, Climate Change Secretariat 
+  ENV-FW – Department of Environment, Fish and Wildlife 
+  ENV-WR – Department of Environment, Water Resources 
+  EMR-AG – Department of Energy, Mines and Resources, Agriculture 
+  EMR-ESC – Department of Energy, Mines and Resources, Energy Solutions Centre 
+  EMR-FMB – Department of Energy, Mines and Resources, Forest Management branch 
+  EMR-YGS – Department of Energy, Mines and Resources, Yukon Geological Survey 
+  HPW-PMD – Department of Highways and Public Works, Property Management Division 
+  HPW-TEB – Department of Highways and Public Works, Transportation Engineering Branch 
+  HSS-CPRM – Department of Health and Social Services, Corporate Planning and Risk Management 
+  TC-CS – Department of Tourism and Culture, Cultural Services 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+48 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Start 
+Date 
+
+2012 
+
+End 
+Date 
+
+2013 
+
+Description 
+
+Project work included a pan-territorial permafrost 
+workshop held in Yellowknife in 2013 that facilitated 
+permafrost information and knowledge-sharing across the 
+three territories to enable an improved response to the 
+impacts of permafrost thaw. Work also included the 
+development of communications products to increase 
+awareness of Yukon government adaptation actions. 
+
+2012 
+
+2015 
+
+Project identified priority areas of concern and examined 
+climate change impacts on the hydrology of the Yukon River 
+headwaters and implications for downstream energy 
+generation. 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Research Org-
+Natural Science 
+and Engineering 
+Research 
+Council of 
+Canada (NSERC) 
+
+Yukon government 
+(ENV-CCS),  
+Government of the 
+Northwest Territories, 
+Government of 
+Nunavut 
+
+Yukon Energy 
+Corporation, 
+Yukon College (Yukon 
+Research Centre - 
+Northern Climate 
+ExChange),  
+Yukon government 
+(EMR-YGS; ENV-WR),  
+University of Alberta,  
+University of 
+Saskatchewan 
+
+Pan-Territorial 
+Adaptation Outreach 
+
+Characterizing 
+hydrological processes 
+in the headwater 
+region of the Yukon 
+River: impacts on 
+discharge and 
+implications for 
+hydroelectric security 
+
+Sensitivity of Dempster 
+Highway Hydrological 
+Response 
+
+Yukon government 
+(HPW-TEB; ENV-WR)  
+
+Transport 
+Canada 
+
+2013 
+
+2016 
+
+Project explored climate change impacts on water regimes 
+along the Dempster Highway. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+49 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Start 
+Date 
+
+2013 
+
+Description 
+
+End 
+Date 
+
+2016  Developed a web-based information portal to improve 
+access to information about climate change adaptation 
+research and action across the circumpolar north. 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Arctic Adaptation 
+Exchange 
+
+Natural 
+Resources 
+Canada 
+
+Yukon government 
+(ENV-CCS), 
+Government of 
+Canada (NRCAN),  
+US State Department, 
+University of Alaska-
+Fairbanks,  
+Aleut International 
+Association,  
+Gwich'in Council 
+International 
+
+Yukon Flood Plain Risk 
+Mapping 
+
+Yukon government 
+(CS-EMO) 
+
+Effects of Thawing 
+Permafrost on 
+Agricultural Capacity 
+
+Yukon government 
+(EMR-AG) 
+
+Development of 
+Bioclimate Envelopes 
+
+Yukon government 
+(ENV-FW) 
+
+Communicating Climate 
+Change Adaptation 
+
+Yukon government 
+(TC-CS) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2012 
+
+2015 
+
+This flood hazard mapping project collected elevation data 
+for 13 Yukon communities to better understand where 
+flood hazards might be affected by climate change.  
+
+2012 
+
+2016 
+
+Identified challenges and barriers to agriculture, adaptive 
+measures and best management practices. Modelled areas 
+prone to change in Dawson, Central Yukon, Haines Junction, 
+and Whitehorse/Southern Lakes agricultural regions 
+
+2012 
+
+2016  Development of ecosystem classification and modeling to 
+
+inform research and resource and land use planning. 
+
+2012 
+
+2015 
+
+This project presents a climate change adaptation film and 
+speaker series to share knowledge related to INAC-funded 
+Yukon government climate change adaptation initiatives. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+50 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Yukon government 
+(EMR-FMB),  
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Examining forest 
+vulnerabilities to 
+climate change and 
+developing resilience 
+enhancement 
+strategies through long-
+term community 
+partnerships in Yukon 
+
+The Mountain Pine 
+Beetle in Novel 
+Habitats: Predicting 
+Impacts to Northern 
+Forests in a Yukon’s 
+Warming Environment  
+
+Vulnerability of the 
+North Alaska Highway 
+to Permafrost Thaw 
+
+Sensitivity of Yukon 
+Hydrological Response 
+to Climate Warming 
+
+Start 
+Date 
+
+2012 
+
+End 
+Date 
+
+2016 
+
+Description 
+
+This project with the Teslin Tlingit Council and broader 
+community integrated science, policy and community 
+participation to assist decision-makers and community 
+members in using long-term climate change considerations 
+for forest management. 
+
+Yukon government 
+(EMR-FMB),  
+University of British 
+Columbia 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2012 
+
+2016 
+
+This project aims to understand the potential for mountain 
+pine beetle outbreaks in Yukon and to establish 
+management steps to decrease the impacts and spread of 
+the beetle.  
+
+Yukon government 
+(HPW-TEB),  
+Yukon College (Yukon 
+Research Centre-
+Northern Climate 
+ExChange) 
+
+Yukon government 
+(ENV-WR) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2012 
+
+2016 
+
+Project focused on determining the vulnerability of the 
+North Alaska Highway to climate change through an 
+examination of permafrost occurrence and type to evaluate 
+potential future effects that could impact Destruction Bay, 
+Burwash Landing, and Beaver Creek. 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2012 
+
+2014 
+
+Project examined impact of climate change on water cycle 
+processes to inform the development of adaptation 
+strategies for Yukon communities.  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+51 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Start 
+Date 
+
+2013 
+
+End 
+Date 
+
+2014 
+
+Description 
+
+This project aimed to improve understanding of general 
+health implications of climate change for Yukon. 
+
+Public Health 
+Agency of 
+Canada 
+
+Yukon Climate 
+Change Consortium:  
+Council of Yukon First 
+Nations,  
+Yukon College (Yukon 
+Research Centre -
+Northern Climate 
+ExChange),  
+Yukon government 
+(ENV-CCS),  
+Arctic Athabaskan 
+Council 
+
+Climate Change and 
+Public Health 
+
+Examining Geophysical 
+Data along 
+Transportation 
+Infrastructure in 
+Permafrost Regions 
+
+Landscape Hazards in 
+Yukon Communities: 
+Geoscience Mapping 
+for Climate Change 
+Adaptation Planning 
+
+Yukon government 
+(HPW-TEB) 
+
+Transport 
+Canada 
+
+2012 
+
+2013 
+
+Processing and interpretation of geophysical data along 
+transportation infrastructure in permafrost regions.  
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2010 
+
+2016 
+
+This project investigated contemporary landscape hazards 
+related to permafrost degradation in Yukon communities. It 
+also considers potential future landscape evolution in 
+response to changes in climate.  
+ 
+
+Yukon College (Yukon 
+Research Centre -  
+Northern Climate 
+ExChange), 
+Yukon government 
+(EMR-YGS), 
+University of 
+Montreal,  
+University of Ottawa, 
+Yukon First Nations 
+(scoping and 
+community liaison) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+52 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Community 
+Information & Needs 
+Assessment (2008-
+2010) 
+
+Water Adaptation 
+Project: Adaptive 
+Management for Water 
+Users Responding to 
+Climate Change 
+
+Infrastructure 
+Vulnerability to 
+Permafrost 
+Degradation 
+
+Yukon government 
+(ENV-CCS); Council of 
+Yukon First Nations 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Yukon government 
+(ENV-WR) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2009 
+
+2011 
+
+Start 
+Date 
+
+2008 
+
+End 
+Date 
+
+2011 
+
+Description 
+
+Project identified priority areas of community concern 
+related to climate change in 13 Yukon communities and 
+increased awareness of important areas for future climate 
+change programming.  
+
+Identified priority climate change areas of concern and 
+monitor the impacts of climate change (on water 
+resources), adapt to changes, provide access to information 
+(water data). 
+
+Yukon government 
+(EMR-YGS; HPW-TEB) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2009 
+
+2011 
+
+Identify priority areas of concern and monitor the impacts 
+of climate change on infrastructure and vulnerability of 
+Yukon government buildings to permafrost thaw. 
+
+Compilation of Energy 
+Sector Case Studies 
+
+Yukon government 
+(EMR-ESC);  
+ 
+
+Natural 
+Resources 
+Canada 
+
+2014 
+
+2015 
+
+Temperature Trends 
+and Impact on Energy 
+Demand  
+
+Yukon government 
+(EMR-ESC);  
+
+Natural 
+Resources 
+Canada 
+
+2014 
+
+2015 
+
+This project looks at case studies where actions to mitigate 
+and adapt to climate change in the energy sector have 
+merged to determine how such actions can be repeated 
+elsewhere. The co-benefits of such an approach include a 
+reduction in the overall cost of responding to climate 
+change that ensures the energy sector is both climate-
+friendly and climate-ready.  
+
+This project will evaluate the impacts of climate change on 
+how Yukon manages energy by evaluating future electrical 
+demand and supply and subsequent implications for energy 
+resource planning. This work will identify potential risks and 
+opportunities for the Yukon energy sector and inform 
+energy resource planning going forward. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+53 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Transport 
+Canada 
+
+Yukon College 
+(Yukon 
+Research 
+Centre-
+Northern 
+Climate 
+ExChange) 
+
+Canadian 
+Northern 
+Economic 
+Development 
+Agency 
+
+Start 
+Date 
+
+2013 
+
+End 
+Date 
+
+2015 
+
+Description 
+
+This project will develop guidelines and best practices for 
+building management in Ross River in response to 
+permafrost thaw that are transferrable to other northern 
+jurisdictions. 
+
+2014 
+
+2015  Using permafrost data from the Yukon government’s 
+
+Department of Energy, Mines and Resources, Highways and 
+Public Works, and The Northern Climate Exchange to assess 
+permafrost degradation in Dawson City to inform 
+development, monitoring, maintenance and management 
+decisions.  
+
+2013 
+
+2014 
+
+Research project to investigate the production of silage 
+from arctic char waste products.  
+
+2012 
+
+2018 
+
+This project provided support to the Northern Greenhouse 
+Initiative, advance Yukon agriculture and provide advice to 
+Yukon farmers, processors and agri-businesses in all aspects 
+of farm management, production, processing, marketing, 
+conservation techniques, new farm technology and farm 
+financing.  
+
+ 
+54 
+
+Permafrost and Risk 
+Assessment of Key 
+Buildings and 
+Infrastructure in Ross 
+River 
+
+Assessment of recent 
+past and current 
+permafrost conditions 
+under Front Street, 
+Dawson City, Yukon 
+
+Arctic Char Fish Silage 
+Project 
+
+Yukon College (Yukon 
+Research Centre - 
+Northern Climate 
+ExChange);  
+
+Natural 
+Resources 
+Canada 
+
+Yukon government 
+(EMR-YGS; HPW-TEB) 
+ 
+Yukon College (Yukon 
+Research Centre-
+Northern Climate 
+ExChange) 
+
+Yukon College (Yukon 
+Research Centre - 
+Cold Climate 
+Innovation), 
+
+Canada-Yukon Growing 
+Forward Agreement for 
+various Agriculture 
+projects 
+
+Yukon government 
+(EMR-AG) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Climate Change 
+Information and 
+Mainstreaming 
+Program (CCIMP) 
+
+Yukon 
+government-
+Environment 
+
+Yukon government 
+(ENV-CCS), 
+Yukon College (Yukon 
+Research Centre-
+Northern Climate 
+ExChange) 
+
+Start 
+Date 
+
+2010 
+
+End 
+Date 
+
+2016 
+
+Description 
+
+Provide support and expertise required for the integration 
+of climate change considerations into projects, planning and 
+decision-making processes for Yukon government 
+departments. 
+ 
+
+Establishment of 
+baseline data collection 
+sites and assessment of 
+permafrost response to 
+climate warming for 
+transportation 
+infrastructure in the 
+Yukon and NWT 
+
+Yukon Mines Wastes 
+and Climate Change 
+
+Yukon Climate Trends 
+and Projections 
+
+Yukon government 
+(HPW-TEB) 
+
+Transport 
+Canada 
+
+2013 
+
+2016 
+
+Established baseline data collection sites and assessed 
+permafrost response to climate warming for transportation 
+infrastructure in the Yukon and NWT. 
+
+Government of 
+Canada (NRCAN),  
+Yukon College (Yukon 
+Research Centre -
+Northern Climate 
+ExChange) 
+
+Yukon College (Yukon 
+Research Centre -
+Northern Climate 
+Exchange) 
+
+Natural 
+Resources 
+Canada 
+
+Yukon 
+Environmental 
+and Socio-
+Economic 
+Assessment 
+Board (YESAB) 
+
+2011 
+
+2013 
+
+Identified priority areas of concern and impacts related to 
+climate change for Yukon mine waste sites.  
+
+2011 
+
+2012 
+
+Analyze historical climate information and identify impact 
+on YESAB’s six assessment districts. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+55 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Alaska-Canada Climate 
+Biome Shift  
+
+University of Alaska-
+Fairbanks 
+
+Ducks 
+Unlimited 
+Canada 
+
+Start 
+Date 
+
+2010 
+
+End 
+Date 
+
+2012 
+
+Description 
+
+Identify priority areas of concern that are undergoing 
+climate-driven ecological pressures. 
+
+Vuntut Gwitchin First 
+Nation; Arctic 
+Institute for 
+Community-Based 
+Research 
+
+Health Canada 
+
+2008 
+
+2009  Multi-phased project to solicit community feedback on local 
+
+climate change impacts in the Vuntut Gwitchin traditional 
+territory, research historical adaptations to food insecurity, 
+and develop new actions to improve community food 
+security. 
+
+Vuntut Gwitchin 
+Climate Change and 
+Health Research in 
+Northern Yukon: 
+---PHASE I: "Gwich'in 
+Youth and Scientists 
+Climate Change and 
+Health Research 
+Symposium in Northern 
+Yukon: What do our 
+changing homelands 
+mean for our health?"  
+---PHASE II: "What do 
+our Changing 
+Homelands mean for 
+our Health? Phase II: 
+Knowledge into Action”  
+---PHASE III: 
+"Community Action on 
+Climate Change and 
+Food Security 
+Adaptation in Old 
+Crow”  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+56 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Documentation, 
+Mapping and 
+Identifying Traditional 
+Medicines 
+
+Champagne Aishihik 
+First Nation 
+
+Health Canada 
+
+Start 
+Date 
+
+2014 
+
+Description 
+
+End 
+Date 
+
+2015 
+
+Project details unavailable. 
+
+Good Medicine: 
+Understanding and 
+adapting to the effects 
+of climate change on 
+the use of traditional 
+medicine 
+
+Integrating Indigenous 
+Knowledge and Public 
+Health into a 
+Community 
+Contaminant and 
+Climate Change 
+Monitoring Program 
+
+Climate Adaptation 
+Strategies: An 
+Intergenerational Effort 
+to Combine Indigenous 
+Knowledge and 
+Western Science 
+
+Little Salmon 
+Carmacks First Nation 
+
+Health Canada 
+
+2014 
+
+2015 
+
+Project details unavailable. 
+
+Yukon River Inter-
+Tribal Watershed 
+Council 
+
+Yukon River Inter-
+Tribal Watershed 
+Council 
+
+Health Canada 
+
+2012 
+
+2013  Held focus groups with FN citizens and government officials 
+
+from Tr'ondek Hwech'in, Selkirk, White River, Kluane, 
+Carcross-Tagish to discuss areas of concern re: water 
+contamination, and to identify sites for water sampling.  
+
+Health Canada 
+
+2013 
+
+2014 
+
+Collected same water samples from five locations in five 
+Yukon communities; held an intergenerational (youth and 
+elder) workshop in each community to talk about climate 
+change concerns and adaptation interests. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+57 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Yukon River Inter-
+Tribal Watershed 
+Council 
+
+Health Canada 
+
+First Nation Climate 
+Change Policy: A 
+Regional Indigenous 
+Approach to CC 
+Adaptation, Health, and 
+water governance 
+
+Nourishing our Future: 
+Building on Kluane First 
+Nations Community 
+Food Security Strategy 
+& Youth Engagement in 
+Traditions Related to 
+Fisheries and Fish 
+Health in Kluane Lake 
+
+Nourishing our Future: 
+An adaptive food 
+security strategy to 
+ensure the cultural and 
+physical wellbeing of 
+the Kluane First Nation 
+against the impacts of 
+climate change in the 
+Yukon 
+
+Moose traditional 
+Knowledge 
+
+Start 
+Date 
+
+2014 
+
+Description 
+
+End 
+Date 
+
+2015  Water Action Planning: based on previous research, develop 
+
+a water action plan to outline how First Nations and their 
+traditional knowledge can take action to address concerns 
+regarding the impacts of climate change and contaminants 
+on water and community health. 
+
+Kluane First Nation 
+
+Health Canada 
+
+2015 
+
+2016 
+
+Promoting the importance of consuming traditional foods 
+and improving understanding of contaminant levels in 
+Kluane Lake fish. Part of this research project included 
+conducting interviews with Kluane First Nation (KFN) 
+citizens and traditional knowledge experts in the 
+community about observations regarding changes in the 
+quality, quantity and health of fish from Kluane Lake as well 
+as concerns about contaminants in traditional foods. 
+
+Kluane First Nation;  
+Arctic Institute for 
+Community-Based 
+Research 
+
+Kluane 
+Renewable 
+Resource 
+Council 
+
+2013 
+
+2014 
+
+Project details unavailable. 
+
+Liard First Nation 
+
+Health Canada 
+
+2013 
+
+2014 
+
+Traditional Food Security and Climate Change: Liard First 
+Nation Traditional Knowledge for Monitoring and Managing 
+the Moose Harvest 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+58 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Tr’ondëk Hwëch’in, 
+Wilp Wilxo'oskwhl 
+Nisga'a Institute 
+
+Health Canada 
+
+Start 
+Date 
+
+2013 
+
+Description 
+
+End 
+Date 
+
+2014  Development of a documentary film of adaptation planning, 
+shelter-building, and food harvesting: a Tr'ondek Hwech'in, 
+Gwich'in, and Nisga'a collaboration 
+
+Little Salmon 
+Carmacks First Nation  
+
+Health Canada 
+
+2012 
+
+2013 
+
+Project details unavailable. 
+
+A video adaptation plan 
+for healthy foods, 
+shelters, and education 
+in Tr'ondek Hwech'in, 
+Gwich'in, and Nisga'a 
+communities 
+
+Food Security of our 
+Future Leaders: Young 
+Adults Build Health 
+Capacity through 
+Northern Community 
+Gardens 
+
+Mayo Talks Climate 
+Change and Health 
+
+To Feed Our 
+Community Project 
+
+Nacho Nyak Dun First 
+Nation 
+
+White River First 
+Nation 
+
+Health Canada 
+
+2012 
+
+2013 
+
+Project details unavailable. 
+
+Health Canada 
+
+2010 
+
+2011 
+
+The project focused on potential climate change impacts on 
+people with respect to food availability and storage. 
+
+Little Salmon Carmacks 
+First Nation Traditional 
+Land Use Health Study  
+
+Little Salmon 
+Carmacks First Nation  
+
+Health Canada 
+
+2010 
+
+2011 
+
+Project details unavailable. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+59 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Start 
+Date 
+
+2010 
+
+End 
+Date 
+
+2011 
+
+Description 
+
+The primary focus of this project was to increase the 
+understanding of climate change and its impacts along the 
+Yukon River within Tr'ondek Hwech'in Traditional Territory, 
+and the associated health implications for the community. 
+
+Yukon River Inter-
+Tribal Watershed 
+Council 
+
+Health Canada 
+
+2012 
+
+2013 
+
+Tr’ondëk Hwëch’in 
+
+Health Canada 
+
+2012 
+
+2013 
+
+The project integrated Indigenous Knowledge on climate 
+change, human health risks, and suspected contaminated 
+sites with site-specific community-based monitoring plans. 
+The Yukon River Inter-Tribal Watershed Council (YRITWC) 
+collaborated with five Yukon First Nations including Selkirk, 
+Tr’ondëk Hwëch’in, Kluane, White River and Carcross / 
+Tagish. 
+
+This project examined the plant foods that have 
+traditionally contributed to a healthy and diverse diet 
+throughout the year for northern indigenous people. 
+
+Teslin Tlingit Council  
+
+Health Canada 
+
+2010 
+
+2011 
+
+Project details unavailable 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Tr’ondëk Hwëch’in 
+First Nation  
+
+Health Canada 
+
+A Multi-Disciplinary 
+Investigation of Climate 
+Change Impacts on 
+Yukon River Traditional 
+Foods and the 
+Implications for Health 
+and Tr’ondëk Hwëch’in 
+River Culture and 
+Lifestyle 
+
+Integrating Indigenous 
+Knowledge and Public 
+Health into a 
+Community 
+Contaminant and 
+Climate Change 
+Monitoring Program 
+
+The vital harvest: year-
+round plant foods of 
+Tr'ondek Hwech'in and 
+Nisga'a Tradition 
+
+Food Security and 
+Climate Change: Teslin 
+Tlingit Research Food 
+Security and Climate 
+Change Health Impacts 
+in Our Community 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+60 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Culturally Important 
+Plants of the Ross River 
+Dena, and Associated 
+Impacts Related to 
+Climate 
+
+Ross River Dena 
+Council 
+
+Health Canada 
+
+Start 
+Date 
+
+2010 
+
+Description 
+
+End 
+Date 
+
+2011 
+
+Project details unavailable 
+
+Caribou, Culture and 
+Climate Change 
+
+Ross River Dena 
+Council 
+
+Health Canada 
+
+2009 
+
+2010 
+
+Project details unavailable 
+
+Keeping our traditions 
+for the mental 
+wellbeing of Selkirk 
+First Nations Youth: 
+What do we do at the 
+fish camp when there is 
+no fish? 
+
+Climate Change and 
+Health – Linking our 
+Past and Future 
+through our Traditions 
+and Culture: An Ethno-
+Botanical Resource 
+Study to determine the 
+Effects of Climate 
+Change on Traditional 
+Ecosystems  
+
+Pilot Study on the 
+Health Effects on the 
+Selkirk First Nation due 
+to Climate Change 
+
+Selkirk First Nation 
+
+Health Canada 
+
+2015 
+
+2016 
+
+Project details unavailable 
+
+Selkirk First Nation 
+
+Health Canada 
+
+2009 
+
+2010 
+
+Project details unavailable 
+
+Selkirk First Nation 
+
+Health Canada 
+
+2008 
+
+2009 
+
+Project details unavailable 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+61 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Enhancing Knowledge 
+Transfer to Decision 
+Makers with Respect to 
+Climate Change Impacts 
+on the Cryosphere 
+
+Scenario Planning for 
+New Wildlife Species 
+
+Natural 
+Resources 
+Canada 
+
+Social Science 
+and Humanities 
+Research 
+Council (SSHRC) 
+
+Yukon College (Yukon 
+Research Centre-
+Northern Climate 
+ExChange), 
+Risk Science 
+International 
+
+University of 
+Saskatchwan, Alsek 
+Renewable Resource 
+Council, Yukon Wood 
+Bison Technical Team, 
+Yukon Elk Technical 
+Team 
+
+Start 
+Date 
+
+2012 
+
+End 
+Date 
+
+2013 
+
+Description 
+
+This project aims to enhance the resiliency of the mining 
+and transportation sectors to climate change through the 
+creation of knowledge products that communicate snow 
+and permafrost information to industry decision-makers. 
+
+2010 
+
+2013 
+
+Applied a scenario planning approach to develop wildlife 
+management goals and evaluate participants’ perceptions 
+of scenario planning as a development tool. 
+
+CCFM Guidebook for 
+Practitioners: 
+Adaptation in Canada's 
+Forest Sector 
+
+Edwards, Pierce, and 
+Ogden for Canadian 
+Council of Forest 
+Ministers 
+
+Canadian 
+Council of 
+Forest 
+Ministers 
+
+2012 
+
+2015 
+
+The current guidebook, one in a series by Canadian Council 
+of Forest Minister’s (CCFM) Climate Change Task Force, 
+provides a “how to” tool for applying the CCFM adaptation 
+framework. It brings together many of the other tools 
+explored in the series to provide a comprehensive 
+approach, with phases for organizational readiness, pre-
+vulnerability analysis, vulnerability assessment, and 
+adaptation of sustainable forest management.  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+62 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Climate Change in our 
+Backyard 2: Building 
+towards an Action Plan 
+
+Climate Change Risk 
+and Vulnerability 
+Assessment and 
+adaptation strategies 
+
+Cost of Adaptation for 
+Community Housing 
+and Infrastructure 
+
+Champagne and 
+Aishinik First Nation, 
+Alsek Renewable 
+Resource Council, 
+Yukon government 
+(EMR-FMB), Council 
+of Yukon First 
+Nations, Yukon 
+College (Yukon 
+Research Centre -
+Northern Climate 
+ExChange) 
+
+Champagne and 
+Aishihik First Nation 
+
+Yukon College (Yukon 
+Research Centre -
+Northern Climate 
+Exchange) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Canadian 
+Northern 
+Economic 
+Development 
+Agency 
+
+Start 
+Date 
+
+2008 
+
+End 
+Date 
+
+2009 
+
+Description 
+
+Further discuss the results of climate change in the 
+Champagne and Aishihik First Nations Traditional Territory 
+with community members, and to identify ways of adapting 
+to change in this region.  
+
+2015 
+
+2016 
+
+Project details unavailable. 
+
+2015 
+
+2016 
+
+Identifying adaptation costs for at-risk building stock in Old 
+Crow, Yukon, and Arviat, NWT: This project explores the 
+potential costs of climate change impacts on buildings and 
+housing, as well as the costs associated with adaptive 
+modifications for buildings exposed to different levels of 
+risk.  
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+63 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Human Dimensions of a 
+Thawing Landscape 
+
+Yukon College (Yukon 
+Research Centre -
+Northern Climate 
+Exchange) 
+
+Social Science 
+and Humanities 
+Research 
+Council (SSHRC) 
+
+Start 
+Date 
+
+2015 
+
+End 
+Date 
+
+2018 
+
+Description 
+
+Improving understanding of how permafrost thaw may 
+affect traditional and cultural activities can help 
+communities develop appropriate responses: the Northern 
+Climate ExChange and the University of Saskatchewan 
+worked with community partners in Old Crow, Yukon, and 
+Jean Marie, NWT, to identify how traditional land use 
+activities may be affected by permafrost thaw.  
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2008 
+
+2009 
+
+Awareness of the results of the National Climate Change 
+Assessment was raised through public presentations and 
+surveying in Yukon communities. in order to build adaptive 
+capacity and identify communities for future climate change 
+risk analyses. 
+
+Impacts and Adaptation 
+in Yukon Communities 
+
+Yukon College (Yukon 
+Research Centre -
+Northern Climate 
+Exchange), 
+Council of Yukon First 
+Nations,  
+Vuntut Gwitch'in First 
+Nation,  
+Arctic Athabaskan 
+Council,  
+Environment Canada 
+(Northern Ecosystem 
+Initiative) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+64 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Water Temperature 
+Data  Collection 
+Program 
+
+Ta’an Kwäch’än 
+Council 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Start 
+Date 
+
+2009 
+
+End 
+Date 
+
+2011 
+
+Description 
+
+Collected water temperature date and developed a 
+technical report on monitoring freshwater thermal regimes 
+and a guidebook for use of data loggers to measure water 
+temperatures in SW Yukon. 
+
+ 
+
+Supporting the 
+development of 
+Regional Climate 
+Change Scenarios 
+
+Assessing the 
+Vulnerability to Climate 
+Change and Adaptive 
+Capacity of Yukon 
+Forest Tree Species and 
+Ecosystems" 
+
+Northern Climate 
+ExChange Community 
+Adaptation Project 
+
+Yukon government 
+(ENV-CCS); 
+Council of Yukon First 
+Nations; 
+Yukon College - 
+Northern Research 
+Institute; 
+
+Yukon government 
+(ENV; EMR-FMB) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2008 
+
+2011 
+
+Project details unavailable. 
+
+2008 
+
+2011 
+
+Project details unavailable. 
+
+Northern 
+Strategy Trust 
+
+ 
+
+2010 
+
+Climate change adaptation planning and implementation of 
+adaptation actions in three Yukon communities. 
+
+Yukon College (Yukon 
+Research Centre-
+Northern Climate 
+Exchange) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+65 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Old Crow Climate 
+Change Risk 
+Assessment and Final 
+Agreement Analysis 
+
+Arctic Athabaskan 
+Council; Vuntut 
+Gwitchin First Nations 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Start 
+Date 
+
+2008 
+
+End 
+Date 
+
+2009 
+
+Description 
+
+Local and scientific methods were used to observe and 
+evaluate climate change impacts in Old Crow, and a final 
+report was produced to give recommendations for further 
+action (i.e. the development of a risk management and 
+adaptation plan). Information concerning the assessments 
+and other aspects of the project was collected and 
+disseminated via General Assemblies and gatherings and 
+presentations were conducted on climate change impacts 
+and programs and initiatives to various forums (local, 
+regional and national meetings and workshops). 
+
+Ecological Initiatives of 
+the Yukon Invasive 
+Species Council 
+
+Climate Change 
+Community Liaison 
+
+Yukon Invasive 
+Species Council 
+
+Council of Yukon First 
+Nations; Yukon 
+government (ENV-
+CCS) 
+
+Environment 
+and Climate 
+Change Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2012 
+
+2013 
+
+Project details unavailable. 
+
+2016 
+
+2017 
+
+Establishment of a Climate Change Community Liaison 
+position at CYFN to inform and enable Yukon First Nations 
+to build adaptation capacity and develop community-led 
+responses to local climate change challenges. 
+ 
+
+Wildfire Risk 
+Assessment 
+Methodology 
+
+Yukon government 
+(CS-WFM) 
+
+Yukon 
+government -
+Environment 
+
+2016 
+
+2017  Development of a potential approach to assessing climate 
+
+change impacts on wildfire risk in Yukon. 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+ 
+66 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Arctic Institute for 
+Community Based 
+Research 
+
+POLAR Canada 
+
+Start 
+Date 
+
+2017 
+
+End 
+Date 
+
+2019 
+
+Description 
+
+ Identifying and training local community champions in 
+Yukon communities to build adaptive capacity, improving 
+local responses to current and future climate change 
+impacts. 
+
+Mobilizing Knowledge 
+for developing 
+Indigenous Community 
+Champions for Climate 
+Change Adaptation in 
+Yukon 
+
+Greater Whitehorse 
+permafrost 
+characterization, 
+monitoring, and climate 
+change analysis 
+
+Monitoring and 
+planning for health 
+impacts of Extreme 
+Weather Events and 
+Wildfires 
+
+Permafrost study on 
+Yukon government 
+buildings 
+
+Yukon government 
+(EMR-YGS) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2017 
+
+2021 
+
+Characterizing and mapping permafrost in the Greater 
+Whitehorse Area (GWA).  
+
+Yukon government 
+(HSS-CPRM) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2017 
+
+2018 
+
+Exploring opportunities to improve emergency 
+preparedness to reduce the health, social and economic 
+impacts of extreme weather events and wildfires in the 
+territory.  
+
+Yukon government 
+(HPW-PMD) 
+
+Yukon Climate Change 
+Needs Assessment 
+
+Yukon government 
+(ENV-CCS) 
+
+Climate Risk 
+Assessment for Yukon 
+government 
+
+Yukon government 
+(ENV-CCS) 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+ 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+2017 
+
+2021 
+
+This project examines potential risks facing Yukon 
+government buildings constructed on permafrost, and 
+develops building-specific action plans to mitigate these 
+risks and adapt to future permafrost thaw. 
+
+2018 
+
+2021  Developing a process to gather data on climate change 
+
+2017 
+
+2020 
+
+needs and priorities in Yukon communities, and using this 
+data to make recommendations for future adaptation work 
+in Yukon.  
+
+Creating a climate risk framework to identify and reduce 
+climate change related risk for Yukon government 
+operations, programs and assets.  
+
+ 
+67 
+
+Yukon ‘State of Play’: Analysis of Climate Change Impacts and Adaptation 
+ 
+
+November 14, 2017 
+
+Title 
+
+Implementing Org(s) 
+
+Funding Org(s) 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Indigenous and 
+Northern 
+Affairs Canada 
+
+Mapping and assessing 
+climate-related 
+landcover change 
+
+Yukon government 
+(ENV-FW) 
+
+Yukon Adaptation 
+Forum 
+
+Yukon government 
+(ENV-CCS) 
+
+Predicting the effects of 
+climate change on 
+winter ticks and their 
+hosts in Yukon 
+
+Kluane watershed 
+salmon climate change 
+adaptation project 
+
+Yukon government 
+(ENV-AHU) 
+
+Yukon government 
+(ENV-WR) 
+
+Linking a changing 
+climate with a changing 
+traditional diet 
+
+Yukon government 
+(EMR-AG) 
+
+Permafrost 
+vulnerability mapping - 
+Dempster Highway Km 
+65-200 
+
+Yukon government 
+(HPW-TEB) 
+
+CCPN program 
+administration 
+
+Yukon government 
+(ENV-CCS) 
+
+ 
+
+ 
+
+ 
+RESEARCH NORTHWEST & MORRISON HERSHFIELD 
+
+Start 
+Date 
+
+2017 
+
+Description 
+
+End 
+Date 
+
+2020  Mapping climate change-related landcover change to 
+
+2020 
+
+2021 
+
+2017 
+
+2021 
+
+identify where and how land is changing, predict future 
+changes, and assess vulnerability and resiliency of wildlife 
+habitat.  
+
+An event for people across sectors and communities to 
+share information about climate change adaptation-related 
+initiatives in Yukon.  
+
+This project will provide an understanding of the impacts of 
+climate change on wildlife parasites and support proactive 
+management decisions.  
+
+2017 
+
+2021  Mapping and monitoring groundwater quality in Kluane 
+
+2017 
+
+2021 
+
+2018 
+
+2021 
+
+2017 
+
+2021 
+
+Lake and River to generate baseline information about the 
+preferences of the keystone chum salmon species for 
+spawning areas.  
+
+This project aims to improve understanding of the 
+importance of self/family, community, and territory food 
+sufficiency and sovereignty in the face of changing climate 
+and to inform Yukon strategies and policies with respect to 
+climate change adaptation for local food systems.  
+
+Providing a tool for Yukon Highways and Public Works 
+(HPW) to proactively consider threats to the Dempster 
+Highway from the melt of massive ice-bodies.  
+
+Supporting Yukon government’s capacity to advance 
+Climate Change Preparedness in the North funded climate 
+change adaptation initiatives within and outside 
+government. 
+
+ 
+68 
+
+

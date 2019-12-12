@@ -1,0 +1,30 @@
+This category includes historical climate information that comes from observed climate data along with 
+projected mean future changes that are simulated from climate models. 
+The climate information included in this category is generally produced for large areas and long time periods. 
+Coarse spatial and temporal scales and resolutions make this type of information relevant to a large number 
+of users. It represents the type of information more readily available in summary reports and on websites. 
+Five examples are presented to highlight how past and future climate information can be tailored using 
+varying formats. From the simplest format to the slightly more complex, they are:
+
+ ›
+
+ ›
+
+ ›
+
+ ›
+
+Synthesis table – used to present both past and future changes
+
+Climate normals – used to present climatic averages (e.g. 30-year)
+
+Historical trends – used to present long-term evolution of the past climate
+
+Delta changes 
+
+• Global maps –  used to present projected changes on a global scale
+• Regional maps – used to present projected changes on a smaller spatial scale
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  42
+
+

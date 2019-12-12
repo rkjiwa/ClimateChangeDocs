@@ -1,0 +1,54 @@
+fired generating stations emit large amounts of carbon dioxide and other pollutants, while hydroelectric and 
+nuclear facilities produce almost no GHGs, therefore the carbon footprint of a municipality varies significantly 
+based on the source of electricity generation.
+
+Carbon inventories are a critical first step to understanding a city’s emissions and to developing appropriate plans 
+to address municipal contributions to climate change. Under the Partners for Climate Protection (PCP) program, 
+more than 200 Canadian municipalities have agreed to compile accurate inventories of their GHG emissions. A 
+joint initiative of the Federation of Canadian Municipalities and ICLEI (founded as the International Council for 
+Local Environmental Initiatives), the PCP program ensures that emission sources are quantified in a systematic 
+and  comparable  manner. These  comprehensive  inventories  will  provide  a  solid  baseline  for  developing  an 
+effective GHG control strategy, tracking subsequent reductions, and participating in carbon trading schemes.
+
+using The MunTag Model 
+
+Getting to Carbon Neutral presents an innovative and user-friendly mathematical model for estimating the per 
+capita passengers kilometres travelled in a community and translating them into GHG emissions for the entire 
+transportation network. The MUNicipal Transportation And Greenhouse gases – or MUNTAG – model integrates 
+the series of individual Estimation Guidelines devised to estimate the impacts of land use, public transportation, 
+walking and biking, the various financial policies designed to promote greener transport, and alternative vehicle 
+technologies. MUNTAG is a powerful planning tool for assessing the potential GHG reductions that can be achieved 
+by addressing urban transportation issues.
+
+Sources of municipal 
+
+GHGs
+
+municipalities leading the Way
+Municipalities have the capacity to be powerful agents of change in reducing 
+global GHG emissions, and a carbon inventory is a critical first step to assuming 
+this leadership role.
+
+But just as the emission profiles of no two communities are identical, there is 
+no generic, one-size-fits-all solution for addressing climate change that works 
+for every municipality.
+
+Natural gas heating
+Gasoline & diesel
+Electrical generation
+Other
+
+Once we know the origins of our GHGs, we can start targeting the primary 
+sources. Organized into four strategic categories – buildings, transportation, 
+energy  supply  and  municipal  services  –  the  guide  covers  22  different 
+technological and policy options for reducing municipal GHGs. The summary 
+table  (on  pages  7-9)  illustrates  the  diversity  and  breadth  of  the  options 
+discussed.
+
+The 52 homes in the Drake Landing Solar Community, Okotoks (AB), are connected to a district heating system 
+that includes solar collectors and a borehole energy storage system. With 90% of space heating needs met by solar 
+energy, the network saves more than 110 GJ of energy and 5 tonnes of GHG per home each year.
+
+4
+
+

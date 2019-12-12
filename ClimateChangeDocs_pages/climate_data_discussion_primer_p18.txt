@@ -1,0 +1,178 @@
+Towards	
+  Effective	
+  Dialogue	
+  between	
+  Engineering	
+  Practitioners	
+  and	
+  Climate	
+  Scientists	
+  -­‐	
+  A	
+  Primer	
+  to	
+  Define	
+  Common	
+  Language	
+  
+
+	
+  
+ 
+ 
+The key to solving this dilemma rests in professional dialogue and the application of robust 
+professional judgment.  The engineer will provide the intimate knowledge of engineering design 
+to the dialogue and the scientist will provide the robust background in climate modelling. 
+ 
+The engineer must step away from applying simple statistical approaches and apply a 
+considerable level of professional skill and experience to synthesizing the information into a 
+format that is relevant within the context of the current project or assessment.  The scientist must 
+provide the insight into the nuances, strengths and weaknesses of each model projection to guide 
+the engineer’s professional judgment.   
+ 
+For example, in some cases the team may decide that the most appropriate parameter would be 
+from the high end of an ensemble of projections while in other cases the team may choose 
+parameters more in the mid-range of the ensemble.  As well, as certain models project more 
+robust results for particular climate parameters, the team may assign more weight to the 
+projections from those models with respect to those parameters. 
+ 
+The professional judgment of the team must guide these deliberations.  In the end, it is critical 
+that the teams document the basis for their judgment and, in some cases, the ranges of parameters 
+that were considered.  It may be necessary to conduct sensitivity analysis to finally resolve a 
+parameter, or in some cases, identify additional work outside of the current project or assessment 
+that will be necessary to finally resolve the issue. 
+	
+  
+3.8  Conservative	
+  
+
+Potential	
+  Source	
+  of	
+  Confusion	
+  
+	
+  
+Typically, when an engineer is talking about conservative estimates, they are looking at the 
+situation from the frame of reference of the infrastructure.  That is, has the design provided 
+sufficient safety margins to ensure that the infrastructure does not fail, even if operating 
+conditions approach the design threshold?  On the other hand, the scientist will typically discuss 
+conservative from the frame of reference of the data.  That is, can they be reasonably 
+comfortable that the data that they provide is within the range of reasonable outcomes? 
+ 
+
+Rev	
+  6	
+  –	
+  Jun	
+  4,	
+  2014	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+
+	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+
+	
+  	
+  	
+  	
+  	
+  Page	
+  18	
+  of	
+  33 
+
+	
+  
+
+More	
+  Applied	
+  	
+  
+
+	
+  
+
+A design or estimate that contains an explicit 
+or implied factor that ensures that a system will 
+perform according to specification under all 
+reasonable conditions.	
+  
+
+More	
+  Theoretical	
+  
+
+	
+  
+
+Selecting a value that is somewhat less than the 
+highest point in a data range.  A conservative 
+estimate will ensure that the value is covered 
+by entire range of data quoted. Where a 
+scientific basis does not exist for an estimate, 
+the scientist will tend to exclude that 
+information.  
+	
+  
+
+

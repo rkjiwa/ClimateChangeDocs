@@ -1,0 +1,50 @@
+ 
+
+ 
+
+Accordingly, climate scientists are recommending the use of an ensemble of models to capture the range of potential climate change. 
+Numerous studies show that the best approach when using models is to use an ensemble because, although each GCM represents 
+the  best  effort  of  each  modelling  team,  there  are  biases;  the  use  of  an  ensemble  (mean/median)  of  models  tends  to  converge 
+towards a best estimate by reduction of strong biases in single models. In addition, ensemble results can provide some indication of 
+where the different models agree and disagree (Comer, 2009). 
+
+The  IPCC  has  recommended  that  analyses  should  use  at  least  30-year  averaging  periods  for  GCM  output  data.  Typically,  model 
+output is calculated according to a number of fixed time horizons (e.g., 2011-2040, 2041-2070, and 2071-2100). 
+
+The IPCC’s fifth assessment report — due to be published in 2014 — will introduce a new approach. The current practice of starting 
+with qualitative storylines of human behaviour will be replaced with a new generation of scenarios that will start out with greenhouse 
+gas emissions trajectories known in IPCC terminology as representative concentration pathways (RCPs). The report is expected to 
+focus on four emissions trajectories that produce different levels of  heating at the end of the century — 8.5, 6, 4.5, and 2.6 watts per 
+square metre (W m−2). IPCC chose four trajectories to avoid the common misconception that the middle scenario is the most likely 
+(Inman, 2011). Given the trends in human behaviour, the range covered by the representative concentration pathways is wider than 
+that  presented  by  earlier  scenarios,  reflecting  a  general  shift  in  outlook  to  more  extreme  future  emissions  trajectories  than  were 
+expected a decade ago.  
+
+Worksheet 3.1: Determining Climate Model Needs 
+
+Projections may already have been developed and applied to Ontario and for the selected study area. The assessment team should 
+select projections and associated climatic variables that have the most relevance to the environmental themes and indicators  being 
+studied. To aggregate the results of multiple vulnerability assessments and determine adaptation options, project teams may seek to 
+ensure that, wherever possible, experts use the same models (e.g., the Canadian Global Climate Model and an ensemble of other 
+models),  scenarios,  and  time  periods  (e.g.,  2011-2040,  2041-2070,  and  2071-2100)  for  modelling  and  reporting  on  vulnerabilities. 
+However, it is also important to recognize that some thematic analyses may require use of projections not used in other themes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A PRACTITIONER’S GUIDE TO CLIMATE CHANGE ADAPTATION IN ONTARIO’S ECOSYSTEMS (VERSION 1.0) 
+
+   35 
+
+ 
+
+

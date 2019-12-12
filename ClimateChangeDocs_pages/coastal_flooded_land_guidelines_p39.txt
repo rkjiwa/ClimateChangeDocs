@@ -1,0 +1,66 @@
+ 
+
+ 
+ 
+In Figure B1, Mean Sea Level is essentially the same as the terrestrial vertical datum plane of 
+Canadian Geodetic Datum = 0 m. The tides, which are nominally centred about mean sea 
+level, are established by the definable gravitational interactions between the earth, the sun 
+and the moon and are reasonably predicable. Although the difference between mean tide and 
+high tide varies from place to place and from time to time, these levels are defined by the 
+Canadian Hydrographic Service and available for many locations in coastal British Columbia. 
+The Natural Boundary shown on Figure B1 is an established concept in BC law – and reflects 
+the change in vegetation and the soil based on effects of the sea. In the Flood Hazard Area 
+Land Use Guidelines 2004, building setbacks were established from Natural Boundary, on 
+the assumption that the location of Natural Boundary was relatively static (other than erosions 
+and accretions).  
+The Natural boundary  is, in  practice,  often  difficult  to  determine  in  the  field or  from remote 
+survey.  
+Flood Construction Level (FCL) is established in the 2004 Guidelines as a general minimum 
+of 1.5m above the elevation of the Natural Boundary at the Sea. There are several exceptions 
+to these guidelines, including: 
+  Coastal Bluffs, where the toe is closer to the Natural Boundary than 15m, or when the toe 
+
+is subject to coastal erosion. 
+
+  Bedrock or designed shore protection might allow a reduced setback. 
+  Lands behind Standard Dikes have setbacks and minimum elevations established in the 
+
+Sea Dike Guidelines. 
+
+  Lands  outside  the  Strait  of  Georgia  are  subject  to  tsunami  hazard,  and  that  generally 
+
+prevails over the sea flooding guideline; 
+
+  Lands exposed to other sources of flooding e.g. from river estuaries, may have flooding 
+
+hazards that are higher than the requirements for a hazard from the sea. 
+
+Figure B2 provides a more detailed interpretation of the flooding concepts for the sea in the 
+the existing Flood Hazard Area Land Use Guidelines 2004.  In particular: 
+  The  location  of  the  Natural  Boundary  is  generally  higher  and  further  inland  than  the 
+location of the line marking predicable High Tide. Two natural processes essentially then 
+define the location of Natural Boundary: 
+o  The water  level  during  an  “ordinary  year”, which results  in  water  and wave actions 
+strong enough to mark the shoreline sediments in a distinct manner.  Implicitly this 
+suggests  that  it  is  likely  associated  with  a  commonly  occurring  storm  or  “Ordinary 
+Storm”. 
+
+ 
+
+o  Wave related actions during the ‘Ordinary Storm’. 
+the  1.5m  additional  vertical  requirement  that  defines  the  Flood  Construction  Level 
+therefore needs to account for two additional considerations:  
+o  an additional allowance for storm surge and wave effects for conditions greater than 
+
+the “Ordinary Storm”. 
+
+o  A Freeboard allowance. 
+
+These  considerations  are  shown  in  Figure  B2.    If  a  freeboard  allowance  of  0.6  m  is 
+considered,  based  on  the  freeboard  allowance  in  the  existing  companion  document  Dike 
+
+Appendix B 
+
+2 
+
+

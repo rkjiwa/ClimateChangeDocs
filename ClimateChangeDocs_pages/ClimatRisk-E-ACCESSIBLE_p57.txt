@@ -1,0 +1,218 @@
+4.3.3 CONSTRUCTION TECHNIQUES AND TECHNOLOGIES FOR ALL-WEATHER ROADS
+
+Several methods have been developed to preserve permafrost during construction (see Figure 10 
+and Case study 2) (Beaulac and Doré, 2006). These methods have different cost implications (Table 
+3) and functional objectives (limiting heat intake, extracting heat, and preserving the integrity of 
+embankments).  
+
+Table 3: Comparing the applicability and relative cost of adaptation techniques for northern roads. 
+(Source: Beaulac and Doré, 2006)
+
+Continuous
+
+(Cold) 
+
+Permafrost
+
+Discontinuous
+
+(Warm) 
+Permafrost
+
+Sporadic 
+Permafrost
+
+Maintenance 
+
+Required
+
+Comments
+
+$$$
+
+N/R
+
+N/R
+
+N/R
+
+N/R
+
+N/R
+
+N/R
+
+N/R
+
+$$$$
+
+N/R
+
+$$$
+
+$$$$
+
+$$$
+
+N/A
+
+Low
+
+High
+
+High
+
+Moderate
+
+Moderate
+
+Low
+
+Low
+
+Low
+
+Low
+
+N/A
+
+N/A
+
+N/A
+
+Application and cost depends 
+on available material.
+Bulky material needs to be 
+imported. More effective if 
+used in combination with heat 
+extraction methods.
+
+High level of maintenance.
+
+High level of maintenance.*
+
+Possible solution if well 
+designed to avoid water 
+accumulation in the ducts.
+More suitable for severe 
+localized problems.
+Promising technique. Requires 
+competent rock and capacity 
+to produce specified material 
+near construction site.
+Bulky materials need to 
+be imported. Promising 
+technique.
+Likely to reduce settlement 
+and cracking problems.
+More effective if used in 
+combination with heat 
+extraction methods. Granular 
+material needs to be available.
+Possible solution if time permits.
+Availability of granular 
+material.
+Labour intensive solution. 
+Requires a service centre near 
+the site to be protected.
+
+Technique
+
+Embankment 
+thickening
+Insulation 
+materials 
+(polyurethane 
+and peat)
+Snow sheds/ 
+sun sheds
+Reflective 
+surface
+
+$
+
+$$$
+
+$$$
+
+$$$
+
+$$
+
+$$$
+
+$$$
+
+$$$
+
+Air ducts
+
+$$$$
+
+$$$$
+
+Thermosyphons
+
+$$$$$
+
+$$$$$
+
+Air convection 
+embankment
+
+$$$$
+
+$$$$
+
+Heat drain
+
+Geotextile  
+and geogrid
+
+Berms
+
+Pre-thawing
+Excavation/ 
+replacement
+
+Snow removal
+
+$$$$
+
+$$$$
+
+$$$
+
+$$$
+
+$$
+
+$$$
+
+$$$$
+
+$$$$
+
+$$$
+
+$$$
+
+$$$
+
+$$$
+
+Suggested application.
+
+Application possible but not optimal
+
+N/A: not applicable; N/R: not recommended
+NOTE - $, $$, $$$, $$$$, $$$$$ is a relative scale, where $ presents the lowest relative cost and $$$$$ the highest.
+* Reflective or high-albedo surfaces do not necessarily have high levels of maintenance. Levels vary depending on application. 
+
+ 
+CHAPTER 3: NORTHERN TERRITORIES 
+
+46
+46
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

@@ -1,0 +1,106 @@
+guidebook livia-rev-final:Layout 1  12/23/08  9:25 AM  Page 66
+
+APPENDIX 1
+
+that expert judgment can be applied formally are by pooling
+expert  judgments  to  achieve  one  combined  result  or  by
+presenting a range of distinct judgments made by individual
+experts. In the latter case a further process, such as consensus
+building,  will  be  needed  in  order  to  incorporate  these
+judgments  into  societally  acceptable  decisions.  A  related
+approach is the Delphi technique, where expert judgments
+are contributed in a structured process to come up with joint
+forecasts (Willows and Connell, 2003).
+
+Expert  judgment  is  used  often  in  climate  change  studies
+where there is a lack of available data or where uncertainty is
+so great that other quantitative evaluations will not produce
+a  meaningful  result.  For  example,  where  predictions  of
+technological,  social  or  political  change  are  required  for
+climate  change  scenario  development,  formalized  expert
+judgment may be the most reasonable way of estimating the
+necessary  parameters.  Another  common  use  of  expert
+judgment in climate change studies is to estimate uncertainty
+(Otwayl et al., 1992; Webster et al., 2003).
+
+Facilitated workshops
+
+Facilitated  workshops  are  a  participatory  method  that
+incorporates  the  ideas,  concerns  and  preferences  of  all
+participants in a structured decision-making process. The
+technique draws on Decision analysis methods and requires
+participants  to  apply  information  to  develop  ideas  and
+provide judgments on options. This often results in a ranking
+of  policy  options.  It  contributes  to  a  learning  process
+individually and collectively that simultaneously incorporates
+diverse beliefs and values to develop joint recommendations
+on preferred actions.
+
+A series of facilitated workshops were used recently in the
+Okanagan as part of a participatory integrated assessment of
+water  management.  This  method  was  used  in  order  to
+enhance  learning  and  understanding  of  the  issue  among
+participants, and to jointly develop a decision support model
+that  is  used  to  increase  knowledge  about  the  system  and
+explore plausible future scenarios and adaptation options
+(Cohen and Neale, 2006).
+
+Focus groups
+
+Focus groups are a method that brings together around six
+to ten selected participants representing groups or individuals
+
+whose ideas and opinions are of particular interest for the
+discussion topic. This group is guided by a facilitator through
+an interactive discussion around specific questions in order to
+learn  from  participants’  experience.  The  method 
+is
+distinguished from other group methods by its intentional
+interaction  between  participants  that  can  provide  shared
+insight  and  a  diversity  of  understandings,  and  can  be  an
+efficient way of gathering responses with limited resources or
+time.  However,  the  very  strength  of  this  method—
+interaction—means that special consideration needs to be
+taken where sensitive topics are being discussed, or power
+dynamics between participants could constrain individual
+responses (Morgan, 1996).
+
+Focus groups are used in a variety of settings for a range of
+purposes. For example, this technique is currently being used
+by  Natural  Resources  Canada  and  professional  planning
+associations in development of a national planning policy on
+climate change adaptation. Elsewhere, focus groups have been
+used in the prairies to understand agricultural producers’
+perceptions of risks, opportunities and capabilities due to
+climate change, as well as their ideas of what support will be
+required to manage risk (Stroh Consulting, 2005). 
+
+Multi-criteria analyses 
+
+Multi-Criteria  Analysis  (MCA)  refers  to  any  structured
+Decision  analysis  that  evaluates  preferred  options  for
+addressing a number of objectives simultaneously. This is
+done by identifying desired objectives and corresponding
+indicators that can include social, economic, biophysical or
+other  types  of  components.  These  indicators  are  often
+evaluated  quantitatively,  for  example  through  ranking  or
+economic valuation; however, they will often not be in the
+same units and may also include qualitative measures. MCA
+includes techniques for comparing and evaluating outcomes
+while incorporating this range of types of indicators, and is
+particularly  useful  where  a  method  such  as  cost-benefit
+analysis cannot be used due to the difficulties in assigning
+monetary values to social or environmental objectives.
+
+This approach has wide application. In Canada, it has been
+used to evaluate conflictual policy areas such as sustainable
+forestry  options  in  B.C.  that  address  a  range  of  public
+objectives  (Sheppard  and  Meitner, 2005),  and  evaluating
+alternative  energy  supply  futures  for  the  country  (Noble,
+2004).
+
+66
+
+CANADIAN COMMUNITIES’ GUIDEBOOK FOR ADAPTATION TO CLIMATE CHANGE
+
+

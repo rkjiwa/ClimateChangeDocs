@@ -1,0 +1,58 @@
+ 
+
+4 
+
+Sea Dike Design 
+
+4.1.1  Crest Elevation 
+
+General 
+The crest elevation of a sea dike shall be established to provide the protection required during the 
+Designated Storm.  
+The Sea Dike Crest Elevation can be defined based on the following: 
+
+Designated Flood Level + Wave Run-up + Freeboard 
+
+  or: 
+
+Designated Flood Level + Acceptable Crest Height 
+
+ where: 
+Wave Run-up = vertical distance above the mean water level exceeded, by no more than 2% of 
+the waves at the toe of the sea dike 
+Acceptable  Crest  Height  =  vertical  distance  above  the  mean  water  level  required  to  keep  any 
+wave  overtopping  below  the  chosen  criteria  for  acceptable  rates  of  overtopping,  as  summarized 
+below in Table 4-1 or Table 4-2. 
+Alternatively an Acceptable Crest Height can be defined based on the results of a Quantitative Risk 
+Analysis (QRA) process that identifies an acceptable amount of inundation during the Designated 
+Storm. 
+In general, a Sea Dike Crest Elevation is established so that any overtopping that occurs during the 
+Designated Storm is within limits set to ensure that inundation behind the dike during the storm is 
+acceptable, that it is within the limits considered during the design of the dike armour components, 
+on the seaward and landward faces, and on the sea dike crest, and that it is consistent with any 
+requirement for personnel to be present on the dike during the Designated Storm Event. 
+The total quantity of overtopping during the Designated Storm should be defined to ensure that it is 
+consistent with the FCL defined for inundation behind a Sea Dike. 
+Overtopping of a sea dike can take two main forms.  If wave runup is high enough, relative to the 
+crest elevation of the dike, water can pass over the dike as a nearly continuous sheet or plume of 
+water.  In the second case, as waves break against the seaward face, a mixture of air and water 
+droplets – spray – can be carried over the dike, either by the momentum of the breaking wave or by 
+the added effect of entrainment into the onshore winds. Over time, if left undrained, the volume of 
+water contained in the spray can accumulate and result in flooding (inundation) behind the dike. 
+In  general,  it  is  usually  uneconomic  to  design  a  sea  dike  with  a  crest  elevation  high  enough  to 
+prevent all overtopping.  In many cases, other factors, including available land, existing land uses, 
+soil  conditions,  access,  visibility  over  the  dike  or  habitat  issues  may  limit  the  sea  dike  crest 
+elevation. 
+Guidance on acceptable limits for overtopping is available in the Reference Publications.  As initial 
+guidance, the average or mean overtopping discharges summarized below in Table 4-1 and Table 
+4-2 can be used. The criteria in Table 4-1 apply to a conventional sea dike with gentle seaward 
+slopes.  The criteria in Table 4-2 can be used to estimate the crest elevation required for a vertical 
+seawall that starts at or near the high tide elevation. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment /Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+12 
+
+

@@ -1,0 +1,116 @@
+ 
+
+1.2.2  Assessment of Dike Design Guidelines – Boundary Bay Sea Dike 
+
+1.2.2.1  Design Basis 
+
+  AEP for Designated Storm: 1/200 for 2010 (Existing Guidelines), 1/500 for 2100 and 2200 
+
+(Updated Guidelines) 
+
+  Tides: Based on CHS Tide Tables, Vol 5, Secondary Port: 7579 Crescent Beach 
+  Designated Storm assumed to have storm force winds (≥ 48 knots); depth limited waves at 
+
+toe of dike and peak winds, storm surge and seastate maxima occur simultaneously. 
+
+  Storm Surge during Designated Storm as per Table 3-3, this document. 
+  Wave set-up is included in the determination of Wave Runup. 
+  Cross section slope and armour details are taken to be the same general type as on the 
+existing  dike  except  that  a  1:3  grass  protected  interior  slope  is  implicitly  assumed  to  be 
+present to conform with available acceptance criteria for mean overtopping rates, Table 4-
+1, this document. 
+
+ 
+
+CASE 
+
+Table 1-1: Summary of Sea Dike Crest Elevations 
+
+Boundary Bay 
+2010 
+
+“existing” 
+Guideline 
+
+2100 
+
+“ updated” 
+Guideline 
+
+2200 
+
+“updated” 
+Guideline 
+
+CGD = MWL = +2.8 m CD 
+
++1.6 m CGD 
+
+Reference vertical plane 
+Elevation of Toe of Sea Dike 
+Regional SLR (m, wrt MWL) 
+Reference Tide level  (HHWLT) (m) 
+Storm Surge AEP 
+Storm surge height (m) 
+Local wind set up (m) 
+Designated Flood Level (m, CGD) 
+Wave Runup (R 2%) m 
+Runup elevation for “green” water alone (m, CGD) 
+Crest Elevation for 10 L/s/m (m, CGD) 
+Crest Elevation for 1 L/s/m (m, CGD) 
+Freeboard (m) 
+Comment: 
+The values in the Table above Designated Flood Level are site specific and those shown are guideline values for 
+these examples.  The values in the Table below Designated Flood Level result from the site specific values based 
+on the procedures defined in the Standards and Guidelines referenced in this document 
+
+1.2  
++1.8  
+1/500 
+1.3 
+0.5 
+4.8 
+2.6 
+7.4  
+6.9  
+7.8  
++0.6 
+
+2.4  
++1.8  
+1/500 
+1.3 
+0.5 
+6.0 
+3.6 
+9.6  
+9.3  
+10.5  
++0.6 
+
+0  
+
++1.8  
+1/200 
+1.25  
+0.4 
+3.45 
+1.4 
+4.9 
+4.4  
+5.0  
++0.6 
+
+The resulting crest elevations in Table 1-1 show clearly how careful evaluation of the acceptance 
+criteria for overtopping volumes of water is critical to the design of a sea dike that can be expected 
+to provide the required degree of safety to the community located behind the dike. 
+
+1.2.3  Conceptual Dike Arrangement 
+
+An example dike cross-section for the year 2100, as per Table 1-1 above, is shown below in  
+
+Appendix C 
+
+5 
+
+

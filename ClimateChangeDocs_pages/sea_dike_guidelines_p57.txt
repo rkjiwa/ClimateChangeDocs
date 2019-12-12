@@ -1,0 +1,41 @@
+ 
+
+2.4 
+
+Joint Occurrence of Storm Surge and Tide 
+An  important  element  in  the  design  of  a  sea  dike  is  establishing  the  appropriate  stage  of 
+astronomical tide, for combination with a storm surge, to be used for setting the total water 
+level, and associated wind and wave related effects, for the Designated Flood Level. 
+This  topic  is  an  area  of  ongoing  research  and  development  and  warrants  additional 
+investigations  of  its  own.    For  the  purpose  of  this  document,  which  maintains  the  existing 
+guidance in the Dike Design and Construction Guide 2003, that combines the maximum 
+high tide with the appropriate storm surge, the problem becomes one of assigning an AEP to 
+the selection of the storm surge (and the Designated Storm) that is consistent with the total 
+water level or Designated Flood Level. 
+The problem can be addressed by considering storms and the associated effects, including 
+storm surge, winds and waves, as processes that are totally independent of the astronomical 
+tides.  The combined probability, or alternatively, the AEP of the combined effects, becomes 
+simply the product of the probability of the storm and the probability of there being a high tide 
+present on the coast at the same time. 
+The  simultaneous  values  of  residual  water  levels  and  the  associated  astronomical  tides 
+recorded at Tofino are shown in Figure 2-5.  This data, which covers approximately 66 winter 
+storm periods during the total record shows that the combination of both a high tide (4.1 m) 
+and a high storm surge (residual water level) is quite rare. 
+ 
+
+Figure 2-5:  Simultaneous Residual Water Levels and Predicted Tide – Tofino 
+
+Note: MWL = 2.1 m (predicted tide) 
+
+ 
+In simple terms, the probability of having a high tide during the winter storm season, which 
+typically spans 3 to 4 months (mid-October to mid-January), is related to the number of days 
+in this period when a high tide is expected – spring tides typically exist for approximately 3 
+
+ 
+
+Appendix D 
+
+5 
+
+

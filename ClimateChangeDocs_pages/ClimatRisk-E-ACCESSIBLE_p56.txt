@@ -1,0 +1,61 @@
+4.3.1.2 Winter roads
+
+Practices to maintain the integrity of winter roads include the pre-emptive removal of snow, as 
+well as the construction and maintenance of snow caches (stockpiles of snow used as supporting 
+material for degraded segments of winter roads). Snow removal allows freezing fronts to penetrate 
+the ground faster, removing heat from the ground and promoting ice formation, while snow caches 
+constructed near difficult land crossings allow overland sections to be rebuilt quickly (Deton’Cho-
+Stantec, 2013). To improve drainage, flattening side slopes on winter roads allows for the gentle 
+removal of water away from the infrastructure (Deton’Cho-Stantec, 2013). Operational practices 
+include spraying winter roads and bridges with water to thicken ice and delay closure. Towards the 
+end of the operating season, some operators also restrict hauling to nighttime, when the ice sheet is 
+stronger (Rawlings et al., 2009).
+
+Several organizations have produced guiding documents to assist practitioners in the construction 
+and maintenance of winter roads, including the Transportation Association of Canada (2011), the 
+Government of the Northwest Territories (2015b and 2015c), the Canadian Standards Association 
+Group (CSA, 2010), and the Standards Council of Canada’s Northern Infrastructure Standardization 
+Initiative (2015). These guidelines discuss general ice safety, ice behaviour under loading, ice-cover 
+management, and end-of-season management (among others). Methods to deal with ice cracking 
+are also covered in detail to ensure the safety of crossing frozen bodies of water; these risks to roads 
+can be mitigated over the long term by establishing permanent crossings, including bridges over 
+“choke points” (points of congestion created by the layout of a network) (Rawlings et al., 2009). 
+For example, the Deh Cho Bridge, which crosses a 1 km-wide section of the Mackenzie River, is 
+designed to eliminate seasonal disruptions to road transportation when ice bridges and ferry services 
+become unavailable (Office of the Auditor General of Canada, 2011). For winter roads traversing 
+ice, temporary culvert crossings may also be converted to permanent culverts, including systems to 
+handle higher flows (e.g., stacked culvert systems) (Deton Cho-Stantec, 2013). Additionally, alternate 
+routes can be considered when segments of roadway become unreliable (Deton Cho-Stantec, 2013) 
+(e.g., increasing the use of barge transportation, or constructing more expensive all-weather roads) 
+(Furgal and Prowse, 2008).
+
+4.3.2 INFRASTRUCTURE PLANNING/SITING 
+
+The location of infrastructure is an important consideration for decision-makers, engineers, and 
+planners in northern Canada. Critical baseline information includes data regarding local climate, 
+permafrost conditions/sensitivity, and terrain constraints. Permafrost mapping and geotechnical 
+monitoring, including assessments of soil type and ground ice content, are also conducted to avoid 
+construction on overly sensitive ground (IMG-Golder Corporation Environmental Consulting, 2012). 
+Improvements to permafrost databases and analysis of permafrost conditions could further support 
+territorial governments in planning and decision-making, to permit greater understanding of methods 
+to maintain transportation infrastructure on permafrost (Environment Yukon, 2009). Databases of this 
+nature are maintained by the Geological Survey of Canada. 
+
+Many of the guidance documents discussed previously are also useful when identifying optimal 
+locations for both all-season and winter roads. Additionally, land-use guidelines applicable to road 
+construction have been developed. These encourage proponents to consider northern Canada’s 
+unique topography (i.e. pingos4 and permafrost), drainage, and vegetation, along with the social 
+and economic impacts of proposed roadways, during project planning and design (Aboriginal Affairs 
+and Northern Development Canada, 2010). 
+
+4 
+
+ Referring to hills of rock and soil with ice cores that occur in permafrost-rich areas of the Arctic.
+
+ 
+CHAPTER 3: NORTHERN TERRITORIES 
+
+45
+45
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

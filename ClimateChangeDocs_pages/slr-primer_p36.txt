@@ -1,0 +1,43 @@
+Application
+Coastal hazard mapping may be used to identify areas at risk due to the adverse effects of sea level rise, 
+direct new development away from these high risk areas and manage development in areas where the risk 
+is minimal or can be mitigated. Coastal hazard mapping complements and strengthens other adaptation 
+options and increases stakeholder awareness of areas at risk. As such, this tool may be applied to all coastal 
+areas at risk of coastal hazards, irrespective of the other adaptation tools implemented. 
+
+In 1975 the federal government of Canada initiated the Flood Damage Reduction Program. Under this 
+program, mapping of floodplain regions was supported through a 50/50 cost shared basis with provinces. 
+Through this program over 700 communities in six provinces undertook flood hazard mapping – of which a 
+majority were in Quebec. At a minimum, maps were required to identify areas subject to 1 in 100 year flood 
+events. B.C. adopted a design flood standard of 1 in 200 years, except on the Fraser River, where the 1948 
+flood of record was used. Atlantic Canada and Quebec adopted a flood standard of 1 in 100 years. Mapping 
+under this program was completed by 2000.
+
+Since 2000, coastal hazard mapping has progressed sporadically across the country. As part of the Atlantic 
+Regional Adaptation Collaborative, digital elevation mapping was completed for some coastal areas of 
+Nova Scotia, including the Chignecto Isthmus, where an evaluation of flood risk to infrastructure was 
+undertaken. 
+
+The Halifax Regional Municipality in collaboration with Natural Resources Canada has conducted flood 
+hazard mapping, including extreme event data. The results are reported in Halifax Harbour Extreme Water 
+Levels in the Context of Climate Change, Scenarios for a 100-year Planning Horizon Geological Survey of 
+Canada. This report includes an understanding of present and future sea level rise, vertical land motion, 
+extreme water levels (combined tide and surge), harbour seiche and wave run-up.
+
+The Province of New Brunswick maintains a coastal erosion database, which presents long-term coastline 
+and shoreline migration rates. This data is generated through photogrammetric studies (air photos 
+analyses) conducted by N.B. Department of Natural Resources and collaborators (universities, colleges, 
+NGOs, consultants, etc.). This data is used to determine appropriate setbacks when new developments are 
+being assessed in coastal areas. 
+
+In B.C. current federal-provincial flood management programs do not cover updates to hazard mapping or 
+hydraulic analysis, although both have been included as secondary components in some projects. 
+
+In Prince Edward Island a 30 cm rise has been observed at the Charlottetown tide gauge since 1900. 
+Climate change scenarios suggest that a sea level rise of 100 cm can be anticipated by 2100 with storm 
+surges likely to become more frequent and more intense. To identify vulnerable infrastructure and guide 
+land use planning, hazard mapping has been undertaken across the province.
+
+34
+
+Planning Tools

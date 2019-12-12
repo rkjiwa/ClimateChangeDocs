@@ -1,0 +1,124 @@
+As temperatures climb, cooling degree days increase. From a historical baseline  
+of only 55 cooling degree-days annually in Metro Vancouver, projected 
+increases range from at least double by the 2050s to as much as a factor of 
+10 increase by the 2080s. Alternatives to vast application of air conditioning 
+will need promotion in order to avoid adaptation that increases greenhouse 
+gas emissions.
+Summer day-time high temps: projected increases in summer day-time 
+high temperatures indicate a summer climate by the 2050s between that  
+of present-day Seattle and San diego.
+frost free Period: Freeze-thaw can be hard on vegetation and infrastructure  
+alike. the frost free period in the urban parts of the study area are already 
+quite high with the majority of the year (roughly 200 days/year) frost free 
+on average during the 1961-1990 period. projections indicate a new normal 
+by the 2080s of virtually frost free conditions. 
+fraser river hydrology: the portion of the Fraser contiguous with Vancouver  
+is tidally dominated. nevertheless, changes in runoff timing and the seasonal  
+distribution of runoff could have implications for water availability and habitat.  
+By the 2050s winter and spring flows are projected to increase by 56% to 85%  
+and 37% to 56% respectively and summer flow to decrease by 13% to 23% 
+for the Fraser- Hope hydrometric station. the mean annual peak flow is 
+projected to occur about 10 days earlier.13 
+
+3.2.2 extremeS: 
+
+the head of climate monitoring and attribution at the U.K’s Hadley centre for  
+Climate Change, explains that for every 1 degree Celsius rise in temperature,  
+the amount of moisture that the atmosphere can contain rises by 7% or more. 
+“the upshot is that overall rainfall increases only 2% to 3% per degree of warming,  
+where extreme rainfall increases 6% to 7%”.14 in basic terms, this is due to the  
+large-scale energy balance of the planet. With extra moisture in the atmosphere, 
+when precipitation does occur, it’s more likely to be in bigger events. 
+Current observations support an increase in storm intensity. toronto recently  
+initiated a program to improve storm drains after experiencing eight extreme  
+storms (more than 1 in 25 year intensity) between 1986 and 2006. the 
+insurance Bureau of Canada states that severe storm-related water damage 
+has doubled since 1992 to 44% of claims.15 
+
+13 (pCiC Update Vol V number 3. Spring 2012).
+
+12
+
+pCiC used eight regional Climate Models (rCMs) to project changes in extremes. 
+the projected change from the 1971-2000 baseline period is projected for 
+the 2050s (2041-2070) in all cases. in the case of warm days (table 3,  
+first row), the ratio can be interpreted as warm days occurring 2.2 times  
+as frequently by the 2050s.
+extreme precipitation is projected to increase for all the precipitation indices.  
+the percent of annual total precipitation that falls during events that are larger  
+than the 95th percentile of events in the past is projected to increase by 
+about 21% on average (table 3, row 2). percent of annual total precipitation 
+falling during events larger than the 99th percentile of past events is projected  
+to increase by 28% on average (table 3, row3). 
+
+table 3: Summary of projected annual changes in 2050 from the 1971-2000 
+baseline for all eight rCm runs and all months except for warm days which are 
+given for summer and heaviest precipitation days indicated for September. 
+
+units
+
+ratio
+
+min
+
+1.8
+
+% change
+
+2
+
+% change
+
+-23
+
+average
+
+2.2
+
+21
+
+28
+
+max
+
+3.0
+
+43
+
+92
+
+% change
+
+-10
+
+25%
+
+47%
+
+index
+
+Warm days: 90th percentile  
+temperatures for each day of the 
+year relative to the baseline. 
+Very wet day precipitation:  
+95th percentile of all rain days. 
+
+extremely wet day precipitation: 
+99th percentile of all rain days. 
+Heaviest precipitation day in  
+September: average of max. precip.  
+on a September day averaged over 
+the baseline period.
+
+3.2.3 return PerioDS:
+
+rCM projections were also used to provide an estimate of how return 
+periods are expected to change by 2050. A return period (or recurrence 
+interval) is an estimate of the interval of time between events (earthquakes, 
+floods) of a certain intensity of size. the table below shows the ratio of 
+future to past return periods. For example, the median value of 5.8 for the 
+
+14 Carey, John. June 28, 2011. Storm Warnings: extreme Weather is a product of Climate Change. Scienftific American.
+15 (piCS newsletter nov. 29)
+
+

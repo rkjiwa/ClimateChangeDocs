@@ -1,0 +1,1728 @@
+City of Windsor 
+
+ 
+
+Climate Change Adaptation Plan 
+
+September 2012 
+
+ 
+
+ 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Executive Summary 
+
+Regardless of the cause, the average temperature in Windsor has increased by almost 1°C since 1940. 
+Scientists predict that by 2050, the average annual temperature in Ontario will increase by 2.5°C to 
+3.7°C from the1961-1990 baseline average. This change, along with predictions that the number of 
+“hot” days (over 30 °C/86 °F) in Windsor could almost quadruple by 2071-2100, is cause for concern. 
+Heat related illnesses place a strain on our health care services and energy used to cool our buildings is 
+expensive.  In addition, this shift in the average weather for the region allows for the survival of invasive 
+species and the expansion or introduction of insect vectors that carry disease. 
+
+As air temperature increases, so does the capacity of the air to hold more water. This can lead to more 
+intense rainfall events, which Windsor has already experienced directly including events in 2007 and 
+2010 which caused severe flooding. In 2011, Windsor experienced the wettest year on record, 
+measuring 1,568mm of rain compared to the average annual rainfall of 844mm. Increased temperature 
+and intense rainfall events are two climate change impacts that have resulted in direct costs to Windsor 
+residents through basement flooding and heat related illness expenses. 
+
+Municipalities have a significant role to play in climate change adaptation as many climate change 
+impacts will directly affect the services provided by the City of Windsor and our agencies. This plan was 
+developed through consultation with all City departments and select City agencies.  Each department 
+was asked to look at all of their potential impacts and determine which impacts would present the most 
+significant challenges to operations.  Once these impacts were agreed upon, a vulnerability and risk 
+assessment was completed to further narrow down the potential impacts that pose the greatest risk to 
+the municipality as a whole.   
+
+The focus of this adaptation plan is on the following five potential climate change impacts which were 
+rated as posing substantial risk and therefore may result in the greatest impact on our municipal 
+operations: 
+
+1. 
+2. 
+3. 
+
+4. 
+5. 
+
+Increase in operating/maintenance demands to deal with climate extremes. 
+Increased chance of flooding to basements, roads and other infrastructure 
+Increase in demand to all areas of Operations when responding to an increase in severe storms 
+(during and after). 
+Increase in public health risks due to extreme heat. 
+Implementation of development policies which were created in the absence of Climate Change 
+considerations, which may increase our vulnerability. 
+
+The list below summarizes the proposed short-term adaptation actions suggested to increase Windsor’s 
+resiliency to weather extremes. Many of these short-term actions build on existing programs in 
+recognized areas of vulnerability.  Other adaptation options may be fairly new to the City of Windsor, 
+however there is a growing level of expertise available amongst other municipalities. 
+
+  
+
+ 
+
+2 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Proposed short-term adaptation actions: 
+
+Reducing Risks Associated with Increased 
+Precipitation 
+ Mandatory Downspout Disconnection 
+ Mandatory Backwater valve installation 
+ Enhance sewer maintenance and camera 
+inspections 
+ Consideration of additional Off-Line Storage  
+ Increase the Use of Flow Restrictors on Catch 
+basins 
+ Update the Rainfall Intensity Duration Frequency 
+(IDF) Curves  
+ Seal Manhole Covers 
+ Undertake Public Education on Sewer Use, Waste 
+Water Treatment 
+ Targeted Education towards homeowners with 
+suspected cross-connections 
+ Use Social Media and other communication tools 
+to warn public of the risk of basement flooding 
+ Enhanced Maintenance & Inspection of road and 
+sidewalks during snow or extreme weather events 
+
+ 
+
+Reducing Risks Associated with Increased 
+Precipitation and Temperatures 
+  Development of a Green Roof Policy 
+ Installation of Rain Gardens as a pilot project 
+ Develop pilot projects for the use of Porous 
+Pavement  
+ Improvement and Enhancement of Green Space 
+ Increase Tree Planting 
+
+Reducing Risks Associated with Increased 
+Temperature 
+ Increase Capital for Shade Structures 
+ Increased Heat Education at Community 
+Centres/Pools  
+ Complete an Urban Heat Island Study 
+
+ General 
+ Develop Clear Policies for Weather Response 
+ Creation of an Extreme Weather Fund Reserve 
+
+While these short-term actions may help reduce Windsor’s current vulnerability, the City also needs to 
+develop on-going strategies that will continue to address the changing climate over the long-term. The 
+following strategies should be undertaken to ensure that the City of Windsor continues to be a leader on 
+adaptation well into the future: 
+
+Incorporate climate change adaptation into city policies and high level plans; 
+
+1. 
+2.  Create internal mechanisms to ‘ask the climate question’ for all new major infrastructure 
+
+projects; 
+
+3.  Monitor climate change, evaluate the effectiveness of adaptation strategies and adjust as 
+
+needed (adaptive management); 
+
+4.  Use best available science to analyze how the climate is changing locally and how this may 
+
+impact the community; 
+
+5.  Routinely review the City of Windsor’s vulnerability to climate change; 
+6.  Continuously conduct risk assessments to identify priority impacts requiring adaptation actions,  
+7.  Engage the public, business and other stakeholder groups. 
+
+The actions taken today by the City of Windsor to proactively adapt to the changing climate will enhance 
+community resilience to climate change while reducing the human and economic costs of climate-
+related impacts. Adaptation actions can often lead to great cost savings as intense storm events and 
+extreme heat can result in devastating expenses to repair infrastructure, basement flooding and 
+minimize health care costs.  
+
+ 
+
+3 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Table of Contents 
+
+ 
+
+Executive Summary ....................................................................................................................................... 2 
+
+Table of Contents .......................................................................................................................................... 4 
+
+Context .......................................................................................................................................................... 5 
+
+ICLEI Initiative ............................................................................................................................................ 5 
+
+Vision ......................................................................................................................................................... 5 
+
+What is Adaptation? ..................................................................................................................................... 6 
+
+Why is Adaptation Required? ................................................................................................................... 6 
+
+Climate Change and the Economy ............................................................................................................ 7 
+
+Windsor’s Changing Climate ......................................................................................................................... 8 
+
+Annual Average Temperature ................................................................................................................... 8 
+
+Annual Precipitation ............................................................................................................................... 11 
+
+Surface Water Temperatures and Great Lakes Water Levels ................................................................. 12 
+
+Examples of Climate Change Impacts ......................................................................................................... 14 
+
+What Windsor is Already Doing .............................................................................................................. 15 
+
+Towards the Development of a Climate Change Plan ................................................................................ 16 
+
+City Council Direction .............................................................................................................................. 16 
+
+Internal Consultation .............................................................................................................................. 16 
+
+City of Windsor Potential Climate Change Impacts ................................................................................ 16 
+
+Medium High – Extreme Risk Impacts ................................................................................................ 16 
+
+Medium– Low Risk Impacts ................................................................................................................ 17 
+
+Proposed Adaptation Options .................................................................................................................... 18 
+
+Continual Improvement of the Climate Change Plan ................................................................................. 20 
+
+Conclusion ................................................................................................................................................... 20 
+
+References .................................................................................................................................................. 21 
+
+Appendix A 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Context 
+
+Municipalities have an important role to play in both mitigating and adapting to changes in their local 
+environment. The City of Windsor is already experiencing the effects of climate change.  We’ve seen 
+more intense summer storms than in previous years which have contributed to increased basement 
+flooding.  The summer of 2010 was reported as the second hottest on record, only 0.3⁰C degrees cooler 
+than the summer of 2005, the hottest on record. Warming of the Great Lakes has contributed to major 
+ecosystem impacts such as extensive algae growth, the invasion of non-native species, pathogen and 
+water borne diseases and falling lake levelsi. The West Nile virus and the increase in Lyme disease in 
+Ontario are other consequences of climate changeii.   
+
+The climate will continue to change.  Although reducing greenhouse gas emissions is vital to limiting the 
+rate and amount of change, it cannot prevent climate change from occurring over at least the next 
+several decadesiii.   As a result, governments and communities must now consider how to adapt to the 
+unavoidable effects of climate change.  Therefore, in addition to the City of Windsor’s initiatives to 
+mitigate climate change, it is becoming more evident that the City of Windsor needs to increase the 
+adaptive capacity of the community.   
+
+ICLEI Initiative 
+
+ICLEI – Local Governments for Sustainability (Management) Inc., referred to as ICLEI Canada is an 
+international association of local governments as well as national and regional local government 
+organizations that have made a commitment to sustainable development.  On November 8th, 2010, 
+Windsor City Council approved participation in ICLEI’s Climate Change Adaptation Initiative (CR 
+408/2010). This program provided a straightforward methodology to adaptation planning which 
+resulted in the creation of this Plan. The initiative will continue to build capacity internally for ongoing 
+implementation and monitoring of our Plan.  
+
+Vision 
+
+The overall aim of Windsor’s adaptation strategy is to create a more resilient city to the effects of a 
+changing climate. A well-adapted city is able to absorb the effects of climate change, such as extreme 
+summer heat or intense rain events, through the advancement of sustainable policies, infrastructure 
+investment, and public education. This requires forward thinking and initiative. Being prepared to 
+handle the climate challenges facing us will be beneficial to our health, our environment and our 
+economy.    
+
+ 
+
+ 
+
+ 
+
+5 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+What is Adaptation? 
+
+Adaptation to climate change includes any activity that reduces the negative impact of climate change 
+while taking advantage of new opportunities that may be presented. This type of action differs from 
+mitigation as adaptation aims to minimize the actual or expected effects of climate change while 
+mitigation is action to reduce the sources of anthropogenic greenhouse gases.  
+
+Why is Adaptation Required? 
+
+The average temperature of the planet has increased by 0.74 °C since 1900.  A similar trend is seen right 
+here in the City of Windsor. 
+
+“And  now  our  world  is  different.  The  climate  has  been  permanently  altered  and  is  on  an 
+escalating vector of change, not because of what we are going to put into the atmosphere in 
+the  future  but  as  a  consequence  of  what  we  have  already  done”.  -  Environmental 
+Commissioner of Ontario, 2009/2010 Annual Report. 
+ 
+
+ 
+The  Intergovernmental  Panel  on  Climate  Change  (IPCC)  has  concluded  that  the  evidence  for  climate 
+change  is  “incontrovertible”  and  that  a  large  part  of  the  ongoing  change  is  due  to  human  activities, 
+notably the release of greenhouse gases (GHGs) to the atmosphere.  The Earth’s atmosphere has 38% 
+more carbon dioxide (CO2) than it had before the beginning of the industrial erai.   
+
+Regardless of the cause, changes in weather patterns already impose risks to life, property, 
+and the natural world in Ontario that cannot be ignored. Reducing those immediate risks is 
+the  only  prudent  course  of  action  for  all  levels  of  government,  as  well  as  communities, 
+corporations, businesses, and individual citizens.  - Climate Ready Ontario 
+
+ 
+GHGs released decades ago are a main contributor to the change in our climate today.  That means that 
+even if globally, greenhouse gases were eliminated, changes will continue due to what was released in 
+the past. 
+
+Public  Safety  Canada  has  been  documenting  “significant  natural  disasters”  for  over  a  century  in  the 
+Canadian  Disasters  Database.  A  “significant  disaster”  is  a  disaster  that  meets  one  or  more  of  the 
+following criteria: 
+
+  10 or more people killed 
+  100 or more people affected/injured/infected/evacuated or homeless 
+  An appeal for national/international assistance 
+  Historical significance 
+ 
+
+Significant  damage/interruption  of  normal  processes  such  that  the  community  affected 
+cannot recover on its owniv 
+
+Figure 1 below clearly shows the increase in “significant natural disasters” occurring across Canada from 
+1900 to 2011. 
+
+ 
+
+ 
+
+6 
+
+ 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+s
+r
+e
+t
+s
+a
+s
+i
+D
+
+ 
+l
+
+a
+r
+u
+t
+a
+N
+
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+N
+
+Winter Storms 
+
+Tsunamis/Storm Surges 
+
+Tornados 
+
+Severe Storms 
+
+Hurricane/Tropical Storm 
+
+Floods 
+
+Droughts 
+
+Cold/Heat Event 
+
+Avalanche 
+
+Wildfire 
+
+180 
+
+160 
+
+140 
+
+120 
+
+100 
+
+80 
+
+60 
+
+40 
+
+20 
+
+0 
+
+ 
+
+Source: Public Safety Canada (2012) 
+
+ 
+
+* 
+
+Note: The final bar in the 
+graph only covers the first 
+two years of the decade. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* 
+
+Figure 1: Frequency of Natural Disasters in Canada (1900-2011).  
+
+10 Year Period 
+
+ 
+
+Climate Change and the Economy 
+
+A recent report “Climate Ready Ontario’s Adaptation Strategy and Action Plan 2011-2014” highlighted 
+the economic reality of failing to adapt to climate change.  Based on the Economics of Climate Change 
+(2006),  Ontario  could  see  annual  costs  of  about  $5.66  billion  dollars  annually  to  respond  to  extreme 
+weather brought  by climate  change.v  For example,  the  Ontario Disaster Relief Assistance Program has 
+provided over $60 million since 1998 for flood relief alone in part due to an increase in the number of 
+significant  urban  flooding  events,  including  floods  in  Peterborough,  Ottawa,  Sudbury,  Hamilton  and 
+Toronto.   
+
+In  2011,  the  National  Round  Table  on  the 
+Environment  and  the  Economy  (NRTEE)  published 
+their  report  “Paying  the  Price:  The  Economic 
+Impacts  of  Climate  Change  for  Canada”.    In  this 
+report,  the  NRTEE  expects  the  costs  of  climate 
+change to escalate over time from an average of $5 
+billion/year  in  2020  to  $21  to  $43  billion/year  by 
+2050 depending on global emissions.vi   These costs 
+will  not  be  equally  distributed  across  the  country 
+with greater costs predicted for some coastal areas.   
+
+At  first  glance,  the  costs  of  adaptation  are  often 
+readily identified and dismissed as too expensive by 
+many  governments  and  businesses. 
+  However, 
+when  looking  at  the  costs  of  adaptation  with 
+
+ 
+
+ 
+
+2 high pressure gas mains 
+
+ 
+
+Broken water main 
+
+ 
+
+ 
+
+ 
+
+Broken 
+maintenance 
+hole 
+
+Figure 2: Finch Avenue, Toronto, August 
+19 2005. The damages to public and 
+private property have been estimated at 
+$400-500 million.   
+
+ 
+
+ 
+
+ 
+
+  
+
+7 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+consideration for the benefits of adaptation both from reducing the impacts of climate change as well as 
+the improvement to the baseline risk from the current climate, the adaptation option can often lead to 
+great cost savingsvi.   
+
+Municipalities  have  a  significant  role  to  play  in  climate  change  adaptation.    Many  of  the  impacts  of 
+climate  change  will  directly  affect  the  services  provided  by  the  City  of  Windsor  and  our  agencies, 
+including:    wastewater  and  stormwater  management;  transportation;  parks  and  urban  forests;  social 
+services; emergency services; public health; and electricity distribution. 
+
+The  actions  taken  today  by  the  City  of  Windsor  will  enhance  community  resilience  to  climate  change 
+with the objective to reduce the human and economic costs of climate-related impacts.   
+
+Windsor’s Changing Climate 
+
+Between 1948 and 2008, the average annual temperature in Ontario has increased by up to 1.4 °C, with 
+scientists predicting that by 2050, the average annual temperature in Ontario will increase by 2.5 °C to 
+3.7 °C from the 1961-1990 baseline average. 
+
+Annual Average Temperature 
+
+The Environment Canada weather station located at Windsor Airport has been monitoring and recording 
+weather data since 1941.  Since this time, the average annual temperature has increased by almost 1 °C. 
+
+ 
+
+C
+°
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+T
+
+18 
+16 
+14 
+12 
+10 
+8 
+6 
+4 
+2 
+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+4
+9
+1
+
+ 
+
+6
+4
+9
+1
+
+ 
+
+1
+5
+9
+1
+
+ 
+
+6
+5
+9
+1
+
+ 
+
+1
+6
+9
+1
+
+ 
+
+6
+6
+9
+1
+
+ 
+
+1
+7
+9
+1
+
+ 
+
+1
+8
+9
+1
+
+ 
+
+6
+8
+9
+1
+
+ 
+
+1
+9
+9
+1
+
+ 
+
+6
+9
+9
+1
+
+ 
+
+1
+0
+0
+2
+
+ 
+
+6
+0
+0
+2
+
+ 
+
+1
+1
+0
+2
+
+ 
+
+6
+7
+9
+1
+Year 
+
+Mean Max Temp 
+
+Mean Temp 
+
+Mean Min Temp 
+
+Figure 3: Average Annual Temperature in Windsor (1941 - 2008) 
+
+The Canadian Climate Change Scenarios Network (CCCSN), supported by Environment Canada’s 
+Adaptation and Impacts Research Section (AIRS), with support from universities and other partners 
+
+ 
+
+8 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+provides the ability for municipalities to undertake regional modelling on climate change.  The Localizer 
+Reports developed by the CCCSN uses an “ensemble” approach, which means that numerous models 
+are used to determine projections rather than basing projections on just one model. Comparisons with 
+past climate models show that ensemble projections are usually more realistic than any single modelvii. 
+
+Throughout the City of Windsor’s adaptation planning process, two climate change scenarios were 
+examined: the high (A2) and the low (B1) emissions scenarios. Each scenario projection is completed as 
+an ensemble of over 20 different global climate models. However, it has been noted that the highest 
+emissions scenario (A2) is closest to the observed trends with recent data showing climate change is 
+advancing more quickly than previously estimated.   
+
+ The following table shows the average annual temperature projections above the baseline period 
+(1971-2000) based on the two scenarios. Projections to 2050 are often the most reliable as model 
+results begin to diverge after 2050. 
+
+Table 1: Average Annual Temperature Projections for Windsor. 
+
+Year 
+
+2020 
+2050 
+2080 
+
+B1 Scenario 
+(Low Emissions) 
+ 1.3 ± 0.3 °C 
+2.0 ± 0.5 °C 
+2.6 ± 0.6 °C 
+
+A2 Scenario 
+(High Emissions) 
+1.2 ± 0.3 °C 
+2.6 ± 0.5 °C 
+4.4 ± 1.0 °C 
+
+Though the average projection increase may be perceived as a minor change, it actually can have a 
+significant impact on the region.  As figure 4 below indicates a slight increase in the mean average 
+temperatures will lead to more ‘hot’ and record ‘hot’ weather with less cold weather.  This shift in the 
+average weather for the region allows for the survival of invasive species, the expansion or introduction 
+of insect vectors that carry disease, increase in ‘heat alert’ days and increase evaporation of surface 
+waters that contribute to an increase of extreme precipitation events.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: IPCC, 2007bvi 
+
+Figure 4: An increase in mean temperature leads to a shift towards a new, hotter climate. 
+
+9 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+The City of Windsor was one of a few communities that were selected for analysis of extreme 
+temperature.  The temperature projections were completed by the Canadian Regional Climate Model 
+(CRCM) developed by the Ouranos Consortium on Regional Climatology and Adaptation to Climate 
+Change (Figures 5 and 6). The conclusions of the analysis predict that the number of days over 30oC/86°F 
+in Windsor could almost quadruple by 2071–2100 over that experienced prior to 2000.  The number of 
+warm nights (over 22oC/72°F) is expected to increase even more dramatically—a tenfold increase by 
+2071–2100.viii    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 5: Projection of the number of hot days (above 30 oC) per year.  
+
+Source: Casati, B., and Yagouti, A. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 6: Projection of the number of warm nights (above 22 oC) per year.  
+
+Source: Casati, B., and Yagouti, A. 
+
+10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Figure 7 highlights the association between all 
+non-traumatic daily deaths that occurred from 
+June 1 to August 31 from 1986 to 2005 and the 
+historical maximum daily temperatures in 
+Windsor. There is a strong association between 
+temperature and excess mortality in the City of 
+Windsor. As the figure shows, at approximately 
+29°C/84°F excess mortality begins to increase as 
+ambient temperatures increase.ix   
+
+ 
+
+Annual Precipitation 
+
+95 % confidence interval 
+
+Daily maximum temperature (in degrees Celsius) 
+
+Figure 7: Relative mortality (%) in Windsor from 1986-2005. 
+
+Using the information obtained from the Windsor Airport station, an increasing trend in annual 
+precipitation has been documented.   
+
+ 
+
+ 
+)
+
+m
+m
+
+(
+ 
+n
+o
+i
+t
+a
+t
+i
+p
+i
+c
+e
+r
+P
+
+ 
+l
+
+a
+u
+n
+n
+A
+
+1700 
+
+1500 
+
+1300 
+
+1100 
+
+900 
+
+700 
+
+500 
+
+2011 Record Rainfall 
+
+ 
+
+1
+4
+9
+1
+
+ 
+
+6
+4
+9
+1
+
+ 
+
+1
+5
+9
+1
+
+ 
+
+6
+5
+9
+1
+
+ 
+
+1
+6
+9
+1
+
+ 
+
+6
+6
+9
+1
+
+ 
+
+1
+7
+9
+1
+
+ 
+
+6
+7
+9
+1
+
+ 
+
+1
+8
+9
+1
+
+ 
+
+6
+8
+9
+1
+
+ 
+
+1
+9
+9
+1
+
+ 
+
+6
+9
+9
+1
+
+ 
+
+1
+0
+0
+2
+
+ 
+
+6
+0
+0
+2
+
+ 
+
+1
+1
+0
+2
+
+Year 
+
+Figure 8: Average Annual Precipitation in Windsor (1941-2011) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Based on the Canadian Climate Change Scenarios Network model described above, the future 
+precipitation projections have been established in the following table.   
+
+Table 2: Precipitation projection increases above the baseline period (1971-2000). 
+
+Year 
+
+2020 
+2050 
+2080 
+
+B1 Scenario 
+(Low Emissions) 
+ 2.2 % 
+4.0 % 
+5.7 % 
+
+A2 Scenario 
+(High Emissions) 
+2.2 % 
+5.6 % 
+8.3 % 
+
+ 
+
+ 
+
+11 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+As air temperatures increases, so does the capacity of the air to hold more water leading to more 
+intense rainfall events.  Since 1970, there has been increasing evidence of heavier short duration (24 
+hours or less) rain events in southern Ontario.  The following table summarizes the average trends in the 
+amount of annual maximum rain events.   
+
+Table 3: Summary of the observed and projected increases in rainfall over time in Windsor. 
+
+ 
+30 minute extremes 
+
+Observed trends 1970 – 2000 
+  5% increase per decade (Adamowski) 
+  4.5% increase per decade to 1996 
+
+(Soil and Water Conservation Society) 
+
+Projected trends to 2050 
+  5% increase per decade 
+
+Daily extremes 
+
+  7% per decade (May, June, July) 
+
+  3% per decade over the year (20 
+
+year return period) 
+
+  2.5 to 6% increase per decade 
+(rainfall with probability <5 %) 
+
+  1% increase per decade 
+
+(Stone) 
+
+  5% increase per decade (over the 
+
+year) to 1996 (Soil and Water 
+Conservation Society) 
+
+Annual rainfall 
+Source: Bruce, J.P., Egener, M. And Noble, D. (2006)x 
+
+  1% to 3% increase per decade 
+
+ 
+Recent extreme rain intensities in North Toronto 2005, 
+Peterborough 2004 (photo insert) and the northern Grand River 
+basin 2004 suggest there may be even more rapid trends 
+towards increasing magnitude of heavy rain events in isolated 
+storms.   
+
+The City of Windsor has also been experiencing more intense 
+rain events including: 
+
+Figure 9: A flooded street in Peterborough. 
+
+ 
+
+Intense rainfalls estimated at or above the 1:50 year climate normal return frequency 
+
+o  Westside flooding in 2007.  Anecdotal evidence and numerous reports estimated that 
+
+100mm of rain fell in less than an hour.  
+June 5 & 6 2010 flooding.  Approximately 90mm of rain fell in 4 hours  
+
+o 
+
+  2011: Windsor’s wettest year.  In 2011, the City of Windsor experienced the wettest year ever 
+
+on record with 1568.2mm of rain compared to the average annual rainfall of 844mm.  
+November 29th, 2011 alone received 75mm of rain.   
+
+Surface Water Temperatures and Great Lakes Water Levels 
+
+The temperatures of surface waters will continue to rise with the increase in annual temperatures.  This 
+increase may allow for the establishment of new invasive species, as well as an increase in algae growth.  
+Based on historical temperature monitoring of western Lake Erie, the length of winter (days with water 
+temperatures below 4°C) is getting shorterxi.  A loss of ice cover may result in increased erosion of 
+shoreline that was typically protected by winter ice.  Open surface water also allows for more 
+evaporation. 
+
+ 
+
+12 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Although most scenarios of future climate projects increases in regional precipitation, the increase in 
+evaporation caused by higher temperatures is expected to lead to an overall decrease in the Great Lakes 
+System water levels.  Increased evaporation is expected in all seasons, and particularly in winter as a 
+result of decreased ice cover on the lakes.  The impacts of lower water levels will be most pronounced in 
+parts of the system that are already shallow, specifically western Lake Erie, Lake St. Clair, and the St. 
+Clair and Detroit Riversxii. Canadian modelling predicts a significant lowering of lake levels by 2050 as a 
+long-term average, with a predicted decline of 0.8 m for Lake Eriex.  
+
+The lowering of water levels in the Great Lakes –St. Lawerence System may impact several sectors as 
+identified in the figure below. 
+
+Source: Lemmen and Warren, 2004xi 
+
+ 
+
+Figure 10: Potential impacts of lower water levels in the Great Lakes-St. Lawrence. 
+
+ 
+
+Some economic losses associated with a decrease in lake levels are easily calculated.  For a 2.5 cm 
+lowering of Lakes Michigan-Huron, cargo ships must reduce loads by 90 to 115 tonnes worth 
+approximately $25,000 US per tripx.  Based on historical water level changes, it is known that 
+hydroelectricity output may be reduced by up to 26% at some stations with lower water levelsxii. 
+
+ 
+
+ 
+
+13 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Examples of Climate Change Impacts 
+
+The City of Windsor has already been impacted by the effects of climate change. The figure below 
+outlines some of the issues we have already faced and the consequences we have had to deal with. As 
+shown, the effects vary across city departments and range from environmental, to economic, to human 
+health risks.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 11: Examples of climate change impacts already affecting the City of Windsor. 
+
+14 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+What Windsor is Already Doing 
+
+The City of Windsor has already instituted a number of programs that increase the resiliency to potential 
+climate change impacts (Figure 12).  Several of these programs were instituted or expanded following 
+significant events identified in the previous section.  For example, the downspout disconnection 
+program was expanded following the intense rainfall events of 2006, 2007, while the basement flooding 
+program was initiated after the 2010 intense rainfall event.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 12: Examples of how the City of Windsor is already adapting to climate change. 
+
+15 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Towards the Development of a Climate Change Plan 
+
+City Council Direction 
+
+On January 23rd 2012, City Council passed a motion approving the development of a corporate wide 
+Climate Change Adaptation Plan with a focus on impacts with a medium high – extreme risk rating as 
+recommended by the Environment and Transportation Standing Committee (M29-2012). 
+
+Risk is defined as the combination of an event’s likelihood and the severity of its consequences – risk 
+therefore equals the probability of projected impact multiplied by the consequence severity of that 
+event.  This initiative interpreted the risks levels, broadly speaking, as follows: 
+
+  Extreme risks demand urgent attention at the most senior level and cannot be simply accepted 
+
+as a part of routine operations without executive sanction. 
+
+  High risks are the most severe that can be accepted as part of routine operations without 
+
+executive sanction but they will be the responsibility of the most senior operational 
+management and reported upon at the executive level. 
+
+  Medium risks can be expected to form part of routine operations but they will be explicitly 
+assigned to relevant managers for actions, maintained under review and reported upon at 
+senior management levels. 
+Low risks will be maintained under review but it is expected that existing controls will be 
+sufficient and no further actions will be required to treat them unless they become more 
+severe. 
+
+ 
+
+Internal Consultation 
+
+Through consultation with all City departments and some City agencies, a list of over 250 potential 
+impacts was realized.  Using the ICLEI climate change adaptation initiative framework, vulnerability and 
+risk assessments were completed to give each impact a designated risk level.  
+
+City of Windsor Potential Climate Change Impacts 
+
+Medium High – Extreme Risk Impacts 
+The following five potential climate change impacts were rated as posing at least a high risk to our 
+municipality. Therefore, the focus of this adaptation plan is on the following impacts: 
+
+1.  Development policies created in the absence of Climate Change considerations may create 
+
+additional vulnerabilities to the impacts of climate change. 
+Increase in operating/maintenance demands to deal with climate extremes. 
+Increased chance of flooding to basements, roads and other infrastructure. 
+Increase in demand to all areas of Operations when responding to an increase in severe storms 
+(during and after). 
+Increase in public health risks due to extreme heat. 
+
+2. 
+3. 
+4. 
+
+5. 
+
+ 
+
+16 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Medium– Low Risk Impacts 
+Though the focus of this plan is to minimize medium high - extreme risk impacts, it is important to be 
+aware of the other potential impacts discussed during internal consultations. Various adaptation 
+measures may provide resiliency for more than one potential impact. Though the majority of the 
+potential impacts discussed are negative (table 4), it is important to consider the possible advantages 
+that may occur under a changing climate (table 5). 
+
+ Table 4: Potential Low – Medium Risk Negative Impacts of Climate Change in Windsor: At a Glance 
+Projected Climate 
+Increase in Average 
+Temperature 
+
+Potential Impacts 
+
+  Increased opportunity for invasive species 
+  More opportunity for vector borne diseases (West Nile, Lyme disease) 
+  Increased demand for active transportation options 
+  Increase in freeze/thaw cycles damaging roads, increasing winter control 
+  Reduced ability to maintain outdoor ice rinks 
+  A shift in physical activities to indoor venues 
+  Decrease in air quality/increase in the number of smog days 
+  Increased demand for electricity 
+  Increase risk of brown/blackouts due to the demand for electricity 
+  More rapid deterioration of infrastructure  
+  More premature equipment failure 
+  Increase chance of food-borne illnesses 
+  Increase in plant growth 
+  Increase risk of flooding to basements, roads and other infrastructure 
+  Increased risk of erosion of stream banks, drains 
+  Increase costs for storm water management 
+  Increase risk of ice damage to urban forest 
+  Increase in winter control costs 
+  Increased risk of winter flooding/ice jam related flooding 
+  More stress/failures among tree plantings 
+  Increased need for irrigation 
+  Decrease in aquatic habitat 
+  Increase risk of flooding (basement, road, stream) 
+  Increase flooding of sport fields requiring closure 
+  Damage to existing tree cover 
+  Increase demand for emergency services to respond to extreme events 
+  Increase in combined sewer overflows or waste water  bypasses 
+  Increased opportunities for invasive aquatic species 
+  Decrease in surface water quality (more algae, e-coli) 
+  Increase in shoreline erosion 
+  Possible loss of access to marinas 
+  Increased erosion 
+  Undermining of shoreline protection structures, exposure of outlets  
+
+ 
+
+17 
+
+Increase in Winter 
+Temperatures 
+Increase in Summer 
+Temperatures 
+
+Increase in Annual 
+Precipitation 
+
+Increase in Winter 
+Precipitation 
+
+Decrease in Summer 
+Precipitation 
+
+Increase in Frequency 
+of Extreme Weather 
+
+Increase in Surface 
+Water Temperatures 
+
+Decrease in Great 
+Lakes Levels 
+
+ 
+ 
+
+ 
+
+Climate Change Adaptation Plan  2012 
+
+Potential Impacts 
+  More opportunities to participate in active transportation or outside 
+
+ 
+Table 5: Potential Low – Medium Positive Impacts of Climate Change in Windsor: At a Glance 
+Projected Climate 
+Increase in Average 
+Temperature 
+Increase in Winter 
+Temperatures 
+Decrease in Summer 
+Precipitation 
+Increase in Surface 
+water temperatures 
+
+recreational activities 
+  Reduced heating costs 
+  More moderate winters,  more attractive for retirement 
+ 
+
+Increased opportunities for use of solar power technologies (streetlights, 
+parking meters) 
+Increase in water recreational opportunities 
+
+ 
+
+Proposed Adaptation Options 
+
+The table below summarizes our proposed short-term adaptation actions in response to the medium 
+high – extreme risks identified above.  The anticipated changes in climate that garnered the most 
+concern to the City of Windsor were: increase in precipitation and increase in extreme summer heat 
+events. The adaptation actions in Table 6 are divided into sub-categories, based on the type of risk they 
+reduce. Many of these short-term actions build on existing programs in recognized areas of 
+vulnerability.  Other adaptation options may be fairly new to the City of Windsor, however there is a 
+growing level of experience for such actions amongst other municipalities. 
+
+Table 6: Proposed short-term adaptation actions for the City of Windsor 
+
+Adaptation Action 
+Reducing Risks Associated with Increased Precipitation 
+Mandatory Downspout 
+Disconnection 
+
+Anticipated Benefit 
+
+Reduce flooding, and pressure 
+on storm, sanitary and combined 
+sewer systems , reduces number 
+of treatment plant overflows 
+Reduce the risk of basement 
+flooding to individual homes 
+Reduce the risk of basement 
+flooding  
+
+Reduce the risk of basement 
+flooding 
+Reduce the risk of basement 
+flooding  
+Reduce the risk of basement 
+flooding 
+Improves ability to design storm 
+drainage infrastructure for 
+extreme runoff events, reduces 
+future City maintenance costs  
+
+Co-Benefits 
+
+Improved storm water quality 
+
+ 
+
+Allows prioritization of sewer 
+repairs/replacement, identifies 
+problems before the required 
+repairs become very costly and 
+disruptive to residents 
+Reduce the amount of combined 
+sewer overflows 
+Reduce the amount of combined 
+sewer overflows 
+Reduce the amount of combined 
+sewer overflows 
+ 
+
+18 
+
+Mandatory Backwater valves 
+
+Enhance Sewer Maintenance & 
+CCTV Program (camera 
+inspections of sewers) 
+
+Consideration of additional Off-
+Line Storage for Stormwater 
+Increase the Use of Flow 
+Restrictors on Catch basins 
+Seal Manhole Covers 
+
+Update of the rainfall intensity 
+duration frequency (IDF) Curves 
+
+ 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+Initiate flow monitoring of 
+priority sewers 
+
+Undertake Public Education  on 
+Sewer Use, Waste Water 
+Treatment 
+
+Enhance the resiliency of the 
+sewer system and improve 
+assessment of risk to flooding 
+Enhance the resiliency of the 
+sewer system as the public 
+understands their impact on the 
+system 
+Direct engagement with the 
+public to increase individual 
+resiliency to basement flooding 
+
+Direct engagement with the 
+public to increase individual 
+resiliency to basement flooding 
+
+Targeted Education towards 
+homeowners with suspected 
+cross-connections to sanitary 
+sewer 
+Use Social Media and other 
+Communication tools to warn 
+public of Risk of Basement 
+Flooding 
+Enhanced Maintenance & 
+Inspection of roads and 
+sidewalks during snow or 
+extreme weather events 
+Reducing Risks associated with increasing precipitation and temperatures 
+Development of a Green Roof 
+Policy 
+
+Reduce opportunity for bodily 
+injury and reduced potential for 
+liability  
+
+Reduction in storm water runoff, 
+improved storm water quality 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mitigation of the Urban Heat 
+Island Effect and reduces 
+summer air conditioning demand  
+Improved storm water quality 
+
+Reduction in storm water runoff 
+and flows to the waste water 
+treatment plant 
+
+Reduction of storm water runoff 
+and temporary storage for larger 
+events 
+Reduction of storm water runoff   Mitigation of the Urban Heat 
+
+Improved storm water quality 
+
+Develop pilot projects for the 
+use of Porous Pavement on City 
+properties and develop 
+guidelines for development  
+Installation of Rain Gardens as a 
+pilot project to determine 
+effectiveness 
+Improvement and Enhancement 
+of Green Space to improve rain 
+water retention 
+
+Increase Tree Planting 
+
+Reduced Urban Heat Island 
+Effect 
+
+Reducing Risks associated with increasing temperatures 
+Increase Capital for Shade 
+Structures 
+Increase in Heat Education at 
+Community Centres and Pools 
+
+Decreased risk of heat illness for 
+Windsor residents and visitors 
+Increased awareness of heat-
+health risks which increases the 
+resiliency of individuals 
+Identification of Windsor’s ‘Hot 
+Spots’ and their causes as well as 
+the prioritization of actions to 
+reduce them 
+
+Complete an Urban Heat Island 
+Study 
+
+ 
+
+Island Effect, improvements to 
+air quality, improved quality of 
+life for the residents of the City 
+Reduce storm water runoff, 
+improved quality of life for the 
+residents of the City 
+
+ 
+
+ 
+
+Reduced heat-health 
+vulnerability 
+
+19 
+
+Climate Change Adaptation Plan  2012 
+
+ 
+General 
+Develop Clear Policies for 
+Weather Response 
+
+Creation of an Extreme Weather 
+Fund Reserve 
+Note: Each of these adaptation options are outlined in more detail in Appendix A  
+
+ 
+
+ 
+
+Increase resiliency of 
+departments to respond to 
+major events 
+Minimize the impact to annual 
+operating budgets 
+
+Continual Improvement of the Climate Change Plan 
+
+While these short-term actions may help reduce Windsor’s vulnerability to current events and future 
+climate change scenarios, the City also needs to develop on-going strategies that will continue to 
+address the changing climate over the long-term.  As the science of climate change continues to advance 
+and the knowledge outlining the most effective ways to reduce climate change impacts develops, the 
+City must continuously look at enhancing the resiliency of the community using the best available 
+knowledge.  The following strategies should be undertaken to ensure that the City of Windsor continues 
+to be a leader on adaptation well into the future: 
+
+Incorporate climate change adaptation into city policies and high level plans; 
+
+1. 
+2.  Create internal mechanisms to ‘ask the climate question’ for new major infrastructure projects; 
+3.  Monitor climate change, evaluate the effectiveness of adaptation strategies and adjust as 
+
+needed (adaptive management); 
+
+4.  Use best available science to analyze how the climate is changing locally and how this may 
+
+impact the community; 
+
+5.  Routinely review the City of Windsor’s vulnerability to climate change; 
+6.  Continuously conduct risk assessments to identify priority impacts requiring adaptation actions,  
+7.  Engage the public, business and other stakeholder groups. 
+
+Conclusion 
+
+As stated in the City of Windsor’s Environmental Master Plan, “The City of Windsor is committed to 
+being a leader through its daily actions and services to enhance the environment for present and future 
+generations”.  This is shown through the commitment of City Council and City administration on the 
+development of this Climate Change Adaptation Plan.  As one of the first municipalities in Ontario and 
+Canada to undergo adaptation planning, Windsor has committed to building a more resilient and livable 
+community. 
+
+This adaptation plan is not the end of the climate change discussion.  As highlighted in this report, the 
+City of Windsor must continue to review the science and risks associated with the potential impacts of 
+climate change and modify the plan as required.  In addition, the creation of this adaptation plan does 
+not negate the necessity of developing and implementing a climate change mitigation plan.  The 
+mitigation of greenhouse gases is still required to minimize the extent of future climate change impacts.  
+
+ 
+
+20 
+
+References 
+
+                                                           
+i The Expert Panel of Climate Change Adaptation (2009), Adapting to Climate Change in Ontario:  
+Towards the Design and Implementation of a Strategy and Action Plan 
+ii Health Canada (2008), Human Health in a Changing Climate:  A Canadian Assessment of Vulnerabilities 
+and Adaptive Capacity. 
+iii Warren, F.J., Kulkarni, T. And Lemmen, D.S., (2010): Canada in a Changing Climate; Government of 
+Canada, Ottawa, ON. 
+iv Public Safety Canada (2012), Canadian Disasters Database, Retrieved online at 
+http://www.publicsafety.gc.ca/prg/em/cdd/index-eng.aspx. 
+v Climate Ready Ontario’s Adaptation Strategy and Action Plan, 2011 - 2014 
+vi Canada. National Round Table on the Environment and the Economy. 
+(2011). Paying the Price: The Economic Impacts of Climate Change for Canada 
+vii Canadian Climate Change Scenarios Network (2011). Localizer Report.  Retrieved online at 
+http://www.cccsn.ec.gc.ca/?page=main&lang=en 
+viii Casati, B. and Yagouti, A. (In Press). Analysis of Extreme Temperature in 9 Canadian 
+Communities Using the Canadian Regional Climate Model Projections for Public Health 
+Planning. Int. J. Biometeorol 
+ix Berry, P, et al. (2011) “Assessment of Vulnerability to the Health Impacts of Extreme Heat in the City of 
+Windsor”.  
+x Bruce, J.P., Egener, M., and Noble D. (2006): Adapting to Climate Change: a risk based guide for Ontario 
+municipalities; report submitted to Natural Resources Canada, Climate Change Impacts and Adaptation 
+Program. 
+xi Shuter, Brian, Changing Climate and Its Impact on the Great Lakes, Ontario Ministry of Natural 
+Resources, Dept. Of Zoology, University of Toronto, printed in the International Joint Commission report 
+“Expert Consultation on Emerging Issues of the Great Lakes in the 21st Century”, November 2006. 
+xii Chiotti, Q. And Lavendar B. (2008): Ontario; in From Impacts to Adaptation: Canada in a Changing 
+Climate 2007, edited by D.S. Lemmen, F.J. Warren, J. Lacroix and E. Bush; Government of Canada, 
+Ottawa,ON. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,114 @@
+ 
+
+Table 3-1:  Example Calculation of Coastal Flood Construction Level 
+
+Location: Exposed Waterfront - Victoria 
+
+Existing 
+(2010) 
+0 m 
+
+Updated 
+(2010) 
+0 m 
+
+2100 
+
+2200 
+
+Guideline 
+0.88 m 
+
+Possible 6 
+1.88 m 
+
+Guideline 
+
+1.76 m 
+
+Possible 6 
+3.16 m 
+
+of the 
+Natural 
+Boundary  
++ 1.5 m 
+Survey 
+data from 
+Victoria 
+
+Waterfront 
+
+Existing 
+Definition 
+implicitly 
+merges 
+these all 
+together 
+to equal: 
+Elevation 
+
+shows 
+elevation 
+
+of the 
+Natural 
+Boundary 
+≈ 2.5 m 
+CGD 
+4.0 m 
+CGD 
+
+1.5 m CGD 
+
+1.3 m 
+0.65 m 
+
+0.6 m 
+
+4.05 m 
+CGD 
+
+4.9 m CGD 
+
+5.9 m CGD 
+
+5.8 m CGD 
+
+7.2 m CGD 
+
+ 
+
+Regional SLR 
+Allowance 1 
+ (above 2000 level) 
+High Tide 
+(HHWLT) 2 
+Surge Allowance 3 
+Wave Effect 
+Allowance 4 
+Freeboard 5 
+
+Flood 
+Construction 
+Level (FCL) 
+
+1 Estimate based on Recommended Sea Level Rise in Figure 3-1 and an uplift rate of 1.2 mm/yr for Victoria 
+2 Varies by site and location in BC, as defined in Tide Tables, Volume 5, CHS for Victoria 
+3 Recommended value for a 1/500 yr AEP based on “Policy Discussion Paper 20101” and assuming the Total 
+Storm Surge equals the Storm Surge in deepwater.  
+4 Based on wave runup on natural gravel – pebble beach shoreline. 
+5Assumes no Flood Proofing. 
+6 Potential SLR levels at the High range of projections from scientific authorities. 
+
+ 
+
+ 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment/ Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+8 
+
+

@@ -1,0 +1,107 @@
+guidebook livia-rev-final:Layout 1  12/23/08  9:25 AM  Page 67
+
+APPENDIX 1
+
+Policy exercise 
+
+This method brings together policy makers with academics to
+combine  knowledge  from  multiple  disciplines  for  use  in
+developing policy to deal with complex management issues.
+Key  components  of  the  approach  include  proposing
+unconventional but plausible scenarios of the future, and
+then  developing  and  testing  different  policy  options  that
+respond to the key challenges represented by the scenarios.
+This method requires a significant investment of time and
+capacity and incorporates a combination of mathematical or
+computer-based modeling and scenario analysis together with
+techniques such as facilitated workshops and brainstorming.
+The exercise is conducted in an organizational context that
+reflects  real-world  institutional  issues  of  relevance  to  the
+problem being discussed. 
+
+This  method  can  be  used  both  to  generate  and  evaluate
+adaptation options. The process does not necessarily result in
+new knowledge or an explicit set of policy recommendations.
+Rather,  it  can  be  used  to  identify  priorities  and  gaps  in
+knowledge,  as  well  as  institutional  barriers  or  needed
+technological changes. In a case applying the policy exercise
+(PE) approach in southeast Asia, a combination of methods
+including data collection, modeling, impact assessments and
+background scenarios were used in preparation for the policy
+exercise  workshops.  This  experience  demonstrated  the
+usefulness of PE for effectively structuring the issues involved
+in order to develop appropriate adaptation policy options
+(McCarthy et al., 2001).
+
+Scenario development and analyses 
+
+Synthetic  and  analogue  scenarios,  in  addition  to  Global
+Climate Model (GCM) scenarios, are methods for exploring
+possible changes in future climates (See Barrow et al., 2004,
+Section 6.4). Synthetic scenarios, also known as “arbitrary”
+or “incremental” scenarios, are the simplest climate change
+scenarios  to  construct  and  apply.  This  is  done  by  using
+historical climate records and altering a climate variable by
+an  arbitrary  amount  to  see  how  it  affects  the  system.
+Accordingly, its main use is in sensitivity analysis, to gain a
+better understanding of how changes to a certain variable may
+impact a system. It can also be used to identify thresholds
+and the tolerance of the system to changes in climate.
+
+Analogue scenarios use existing climate information, either
+from the site being studied (“temporal” analogue) or from
+
+another  location  whose  current  climate  is  similar  to  that
+expected for the study site in the future (“spatial” analogue).
+A strength of temporal analogues is that, because the climate
+was experienced in the past, it is physically plausible that it
+could occur in the future. While the same is partly true for
+spatial analogues, the transferability of climate data from one
+location to another is limited due to geographical differences
+between locations (e.g: day length, proximity to water, etc).
+For both types of scenarios, a key limitation is that using
+analogues as a basis for future scenarios assumes that the
+climate will continue to respond the same way in the future
+as it has in the past. Global climate models (GCMs) are a
+more reliable approach for developing future scenarios for use
+in impact assessments.
+
+The  other  side  of  scenario  development  concerns  the
+socioeconomic  context  and  drivers  for  climate  impact
+assessment.  This  may  be  done  by  developing  plausible
+“storylines” that describe social, economic, technological and
+political changes that will have a bearing on emissions, future
+conditions and adaptation possibilities. As it is impossible to
+predict trajectories for socioeconomic scenarios, these are
+often expressed as possible alternative futures. For the United
+Kingdom Climate Impacts Programme, four socioeconomic
+scenarios were developed alongside climate scenarios in order
+to  produce  an  integrated  climate  impact  assessment.
+Socioeconomic  scenario  development  is  also  useful  for
+promoting social learning about climate change impacts in
+the community (Berkhout et al., 2002).
+
+Scenario  analysis  is  a  systematic  evaluation  using  expert
+judgment  and  scientific  methods  to  identify  a  range  of
+possible outcomes that could occur, taking into account key
+drivers and the uncertainty surrounding them. This is the
+method used in the IPCC reports to develop future climate
+scenarios. In California, scenario analysis was used to explore
+possible  energy  futures,  identify  potential  challenges  and
+strategies, and make policy recommendations for the state
+(Ghanadan and Koomey, 2005).
+
+Sensitivity analyses
+
+Sensitivity analysis is a technique that looks at how sensitive a
+system is to climate variability or change. For example, how
+does the system respond to an increase of 2°C in average surface
+temperature? Synthetic scenarios are one example of a sensitivity
+analysis. Sensitivity analysis can also be used in estimating the
+uncertainty of outcomes (see Uncertainty analyses). 
+
+CANADIAN COMMUNITIES’ GUIDEBOOK FOR ADAPTATION TO CLIMATE CHANGE
+
+67
+
+

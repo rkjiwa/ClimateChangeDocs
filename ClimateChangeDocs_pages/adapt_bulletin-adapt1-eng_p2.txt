@@ -1,0 +1,99 @@
+UHI health impacts
+Extreme heat events (EHE), which can be deﬁ ned as periods of 
+abnormally hot and often humid weather, are dangerous to some and 
+can result in increased rates of heat-related mortality and morbidity. 
+The Centers for Disease Control and Prevention estimates that in the 
+United States from 1979 to 2003, excessive heat exposure contributed 
+to more than 8,000 premature deaths. This ﬁ gure exceeds the number 
+of mortalities resulting from hurricanes, lightning, tornadoes, ﬂ oods, 
+and earthquakes combined (Luber, et al., 2006).
+
+By increasing day-time temperatures and reducing night-time cooling, 
+heat islands can exacerbate the impact of EHEs. Populations who 
+are vulnerable to heat, such as children, seniors, and people with 
+chronic illness, are at particular risk of general discomfort, respiratory 
+difﬁ culties, heat cramps, exhaustion, heat stroke, and heat-related 
+mortality. UHI also affects indoor thermal characteristics (such as air 
+temperature, humidity and air movement), especially in buildings where 
+air conditioners and mechanical ventilation systems are not available.
+
+Measuring and localizing UHIs
+UHI effects can be measured by two methods: (1) direct measurement 
+of surface and/or air temperatures using sensors at ﬁ xed or mobile 
+observation sites; and (2) indirect remote measurement using satellite 
+and aerial sensors that detect radiation emitted by surfaces.
+
+Greater Toronto Area—
+
+Surface temperature map (2008-09-03)
+
+Source: Natural Resources Canada, Earth Sciences Sector
+
+Contact:  Matthew Maloley, Natural Resources Canada
+
+The surface urban heat island effect is observed as a temperature 
+difference between surfaces such as roofs and tree canopies or 
+open ﬁ elds and parking lots. Satellite thermal images can be used to 
+determine the location of “hot spots” in the urban environment (as 
+
+illustrated in the map above). This information could be used as a basis 
+for strategic implementation of UHI mitigation measures. However, the 
+localization of these “hot spots” should be combined with information 
+related to building characteristics and socio-economic factors to better 
+protect at-risk populations by increasing their resiliency to heat.
+
+UHI mitigation strategies
+There are two main UHI reduction strategies: ﬁ rst, to increase surface 
+reﬂ ectivity, in order to reduce radiation absorption of urban surfaces 
+(i.e., achieve high albedo); and second, to increase vegetation cover, 
+mainly in the form of urban forests and parks, in order to maximize 
+the various vegetation beneﬁ ts in controlling temperature rises.
+
+Increasing the reﬂ ectivity of surfaces can be accomplished either 
+by using lightly coloured construction materials or by covering the 
+construction material surface with a white membrane. Both techniques 
+have been applied mainly on roofs and paved surfaces. Currently, few 
+Canadian communities have implemented policies or programs that will 
+increase the use of high albedo materials in order to mitigate the UHI 
+(Forkes et al., 2009).  
+
+Increasing vegetation cover is mainly focused on planting trees around 
+residential and commercial buildings. Strategically placing trees in front 
+of windows and on the sunniest sides of houses can maximize energy 
+savings. Trees placed on the east and west sides of buildings are most 
+effective because they block the sun both in the morning and the 
+afternoon. Several Canadian communities have established Tree Planting 
+Programs, for example, in Hamilton, Ontario, 2,100 trees have been 
+planted on city streets since 2006; in Kelowna, British Columbia, from 
+600 to 1,400 trees are planted annually; and London, Ontario plans to 
+have a tree in front of every home (Forkes et al., 2009). 
+
+Also, emphasis is being placed on roof top gardens (i.e., green roofs), 
+in order to achieve the same result as lighter-coloured roofs. Recently, 
+the City of Toronto, Ontario adopted a bylaw to require and govern the 
+construction of green roofs on all new developments above 2,000 m2 
+of Gross Floor Area.
+
+The success and the efﬁ ciency of these mitigation measures depend 
+strongly on the engagement and collaboration of a variety of 
+partnerships such as municipal governments, public health authorities 
+and provincial and federal governments. Awareness and outreach to a 
+wide range of stakeholders, including the public, is a key element in the 
+reduction of UHI effects.
+
+References:
+Forkes, J., Penney, J., Dickinson, T., and Duggan, C. 2009. Urban Heat 
+Island Mitigation in Canadian Communities. Draft report, Clean Air 
+Partnership. 132 p.
+
+Luber, G., Sanchez, C., and Conklin, L. 2006. Heat-Related Deaths 
+– United States, 1999–2003. Morbidity and Mortality Weekly Report. 
+Vol. 55(29): 610–613.
+
+Oke, T.R. 1987. Boundary Layer Climates. New York, Routledge.
+
+Urban Heat Islands, www.urbanheatislands.com
+
+For further information please contact: climatinfo@hc-sc.gc.ca
+
+

@@ -1,0 +1,48 @@
+ 
+
+ 
+ 
+ 
+
+3.3 
+
+Sea Level Rise and Building Flood Construction Level 
+In  coastal  areas,  calculation  of  the  Flood  Construction  Reference  Plane  (FCRP)  and  a  Flood 
+Construction Level (FCL) that reflects expected SLR is complex, and will vary depending on the 
+local tide conditions, shoreline orientation and exposure and other factors that change allowances 
+for local storm surge and wave effects. 
+An  example  of  the  calculation  of  the  FCL  for  an  exposed  location  at  Victoria,  where  a  recent 
+surveyed elevation of a present Natural Boundary is available, is provided in Table 3-1, based on 
+the  existing  guidelines;  Land  Use  Guidelines  20043,  and  for  these  updated  guidelines,  for 
+application up to the years 2100 and 2200.  
+ ‘Guideline’ provides recommended values for current planning for the BC Coast for the indicated 
+years as indicated in Figure 3-1. ‘Possible’ represents the highest potential values as defined in 
+the  companion  “Policy Discussion Paper 2010”1  and  indicated by  the  upper  envelope curve  in 
+Figure 3-1.  The “Possible” scenario is only included to illustrate the potential implication of the 
+present upper bound of all global scenarios. 
+The updated estimate for 2010 in Table 3-1 shows that the change from relying on the elevation of 
+the present Natural Boundary to one which is based on expected water levels makes no significant 
+difference to the estimation of a FCL for 2010.  The results in Table 3-1 also show that planning 
+today  for  a  FCL  of  5.9  m  CGD  essentially  means  that  anticipation  of  an  extreme  SLR  by  2100 
+simply provides an allowance that may provide protection until the year 2200, depending on actual 
+SLR. 
+Table  3-2 provides preliminary  FCRPs  and  FCLs  for  various areas  of  the  BC  coast  for  the  year 
+2100, based on the Recommended Sea Level Rise Curve in Figure 3-1 and annual exceedence 
+probabilities (AEP) defined in the companion document Policy Discussion Paper 20101.  It should 
+be noted that these preliminary values should vary due to a number of factors that are site specific, 
+including:  the  local  rate  of  crustal  uplift  or  subsidence,  the  nature  of  the  tides,  anticipated  local 
+storm surge effects that depend on local bathymetry and the particulars of the anticipated storms 
+associated  with  the storm surge.   The preliminary  values  provided  in Table  3-2  are  provided  for 
+guidance.  Further analysis is required to provide FCRPs and FCLs for specific sites. 
+SLR  Planning  Areas  should  be  established  along  the  BC  Coast  to  provide  a  basis  for  local 
+calculations  and  guidance  on  required  Flood  Construction  Levels,  and  to  provide  a  basis  for 
+management  of  the  expected  ongoing  increases  in  SLR  as  it  affects  land  use  and  buildings. 
+Proposed terms of reference for SLR Planning Areas are introduced in Section 4 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment/ Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+7 
+
+

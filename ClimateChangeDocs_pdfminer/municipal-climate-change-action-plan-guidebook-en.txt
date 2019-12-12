@@ -1,0 +1,3717 @@
+ Municipal Climate Change Action Plan Guidebook
+
+Canada-Nova Scotia Agreement on the Transfer of Federal Gas Tax Funds
+
+www.nsinfrastructure.ca
+
+© Crown copyright, Province of Nova Scotia, 2011
+
+Published by:
+Service Nova Scotia and Municipal relations
+Canada-Nova Scotia infrastructure Secretariat
+
+Published November 2011 
+
+For further information contact:
+
+Service Nova Scotia and Municipal relations
+Canada-Nova Scotia infrastructure Secretariat
+Maritime Centre, 14 North
+1505 Barrington Street
+Po Box 216
+Halifax, NS  B3J 2M4
+
+rene Frigault, Planning and development officer
+Federal Gas Tax Fund
+
+e:   frigaurj@gov.ns.ca 
+P:  (902) 424-2088
+F:   (902) 424-0821
+ 
+Guidebook prepared by:
+
+Graham Fisher, Planner
+Service Nova Scotia and Municipal relations
+
+e:   fishergr@gov.ns.ca
+P:  (902) 424-2990
+
+ 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+Purpose
+
+The purpose of this guide and the accompanying template is to 
+help municipalities prepare Municipal Climate Change Action 
+Plans (MCCAP) that meet the municipal obligation described in 
+the 2010 - 2014 Municipal Funding Agreement.  The guide aims 
+to help municipalities reduce greenhouse gas emissions and 
+identify priorities for climate change adaptation.
+
+On December 17, 2008, the extension of the Canada-Nova 
+Scotia Agreement on the Transfer of Federal Gas Tax Revenues 
+was announced by the Governments of Canada and Nova 
+Scotia. The Gas Tax Fund Agreement was originally signed in 
+September 2005. It provided $145.2 million in federal funding 
+to invest in eligible municipal infrastructure projects from 2005 
+to 2010. 
+
+Additional gas tax funding of more than $223 million over four 
+years, starting in 2010, will enable municipalities to continue 
+to invest in environmentally sustainable infrastructure projects 
+that contribute to reduced greenhouse gas emissions, cleaner 
+water or cleaner air. The Gas Tax Fund promotes the economic, 
+social, environmental and cultural sustainability of Nova Scotia 
+municipalities.
+
+As a requirement for the 2010 - 2014 Gas Tax Agreement and 
+the Municipal Funding Agreements (MFAs), municipalities will 
+be required to prepare and submit to Service Nova Scotia and 
+Municipal Relations (SNSMR) a Municipal Climate Change 
+Action Plan (MCCAP) by December 31, 2013.
+
+The MCCAP will be an amendment to the Integrated 
+Community Sustainability Plans (ICSP), which were prepared 
+by municipalities and submitted to the province in March 2010. 
+The MCCAP will focus on both climate change adaptation and 
+mitigation and will describe how municipalities plan to respond 
+to climate change. 
+
+This handbook has been prepared to serve as a guide and to 
+assist municipalities in the preparation of their Municipal 
+Climate Change Action Plan.  In addition, the MCCAP will 
+move Nova Scotia towards honouring commitments made in 
+Toward a Green Future: Nova Scotia’s Climate Change Action 
+Plan, specifically:  Action 48 - Amend funding agreements with 
+municipalities by 2010 to require climate change strategies in 
+municipal Integrated Community Sustainability Plans. 
+
+The guide is divided into three parts, with two accompanying 
+appendices: 
+
+Part One 
+
+Part Two 
+
+General Background
+
+Adaptation
+
+Part Three 
+
+Mitigation
+
+Appendix A 
+ 
+
+ 
+
+MCCAP Mandatory Plan Content 
+& Plan Templates
+
+Appendix B 
+
+Tools, Guidelines and Resources
+
+The costs associated with the development of the MCCAP may 
+be funded through the Federal Gas Tax Transfer Program, in 
+whole or in part. The costs of engaging in-house resources are 
+limited as per Schedule 2, section 1 of the MFAs. 
+
+For more information, refer to the Municipal Funding 
+Agreement located on the infrastructure website:
+
+www.nsinfrastructure.ca
+
+Final MCCAP report Submission date: 
+december 31, 2013
+
+Submissions can be sent to: 
+Service Nova Scotia & Municipal relations
+Maritime Building
+1505 Barrington Street
+Po Box 216
+Halifax NS   B3J 2M4
+
+Submission Format:
+•	 One	copy	printed	and	bound
+•	 One	copy	on	digital	compact	disc
+
+Contacts:
+Graham Fisher, Planner, SNSMr
+(902) 424-2990 or fishergr@gov.ns.ca
+
+rene Frigault, Planning & development officer, CNSiS
+(902) 424-2088 or frigaurj@gov.ns.ca
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN
+
+i
+
+ii
+
+ 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+PArT oNe General Background
+
+introduction
+Climate change refers to both the warming of the earth’s 
+atmosphere and oceans, in addition to an increase in the natural 
+variability of  the climate. In Nova Scotia climate change poses 
+risks to communities. An increase in the frequency of extreme 
+weather events, changes in water availability and quality, sea 
+level rise and changes to the performance of infrastructure 
+systems, are creating a need for municipalities to change the way 
+they manage their capital assets and operations. 
+
+In the past few years there has been a remarkable increase in 
+the level of awareness associated with climate change. From 
+the municipal perspective, this awareness is focused toward 
+understanding how these changes impact communities. It is 
+the combination of historical evidence, anecdotal observations 
+and mounting scientific support that is increasing awareness 
+among municipal administrators and councillors about potential 
+climate change impacts. Concerns about causes and effect 
+have now found their way into municipal council chambers; as 
+evidence and first-hand experience demonstrates that changing 
+climate will cause varied and mostly harmful effects. Damage 
+resulting from climate change creates a financial burden on 
+municipalities, and for those officials in municipal governments 
+who must now plan for an uncertain future, strategies for 
+adapting to climate change and mitigating against climate 
+change are becoming extremely important. 
+
+For many municipalities, adaptation to climate change is 
+a challenge that can appear to be complex. This is mainly 
+because managing risk involves uncertain outcomes and 
+debatable probabilities. Moreover, every community within 
+Nova Scotia is unique in its setting and people, and therefore 
+faces environmental and social implications that will differ 
+from those of neighbouring communities. Even when climate 
+change threats are understood, the localized nature of impacts 
+and the seemingly distant timeframes involved can make it hard 
+to design and implement policies designed to address climate 
+change. Identifying a suitable approach to managing climate 
+change is often difficult, however communities across the world 
+now recognize that a planned approach to dealing with the issues 
+helps build resilience and minimize risks. 
+
+understanding Mitigation & Adaptation
+There are two main responses to tackling the issues related to 
+climate change: mitigation, and adaptation. This guide presents 
+processes designed to assist municipalities address both of these.
+
+Mitigation
+Mitigation is defined as a human intervention to reduce the 
+sources or enhance the sinks of greenhouse gases. Examples 
+include using fossil fuels more efficiently for industrial 
+processes or electricity generation, switching to renewable 
+energy (solar energy or wind power), improving the insulation 
+of buildings, and expanding forests and other “sinks” to remove 
+greater amounts of carbon dioxide from the atmosphere. The 
+objective of mitigation efforts is to reduce greenhouse gas 
+emissions (GHG), with the result of lowering the volume of 
+carbon that enters the atmosphere on an annual basis. 
+
+Mitigation actions over the long-term will reduce GHG levels 
+in the atmosphere and help to reduce the heating trends that 
+are behind many of the climate changes we are currently 
+experiencing. Mitigation is an extremely important aspect 
+of dealing with climate change, and many of the province’s 
+municipalities have already undertaken actions, through their 
+ICSP that fall into the category of climate change mitigation. 
+The starting point for most of these actions involves an energy-
+use and greenhouse gas emissions inventory. The inventory 
+allows municipalities to determine where they consume energy 
+and the amount of GHG they emit. This baseline information 
+is critical for implementing policies to reduce greenhouse gas 
+emissions and develop energy conservation programs. 
+
+Energy conservation programs help local governments and 
+citizens manage energy costs and reduce the production of 
+harmful carbon dioxide emissions, which contribute to climate 
+change and affect public health. Conserving energy and reducing 
+overall energy demand is becoming an important part of both 
+daily and long-term municipal management decision-making. 
+The recognition that energy prices will continue to rise into 
+the near future, in addition to the inevitable development of a 
+carbon market, makes energy management an important issue 
+for municipalities, both now and into the future.
+
+Adaptation
+Adaptation to climate change is an essential compliment to 
+mitigation. Adaptation is viewed as: an adjustment in natural 
+or human systems in response to actual or expected climatic 
+effects, which moderate harm, or takes advantage of beneficial 
+opportunities.  
+
+The main goals of adaptation usually include: alleviating current 
+and projected future impacts; reducing sensitivity and exposure 
+to climate-related hazards; and increasing resiliency to climatic 
+and non-climatic stressors. 
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN 1
+
+Successful adaptation does not mean that negative impacts 
+will not occur, only that they will be less severe than would be 
+experienced had no adaptation occurred. Simply put, adaptation 
+is all about understanding climate impacts and effects, in order 
+to undertake substantive actions that make communities and 
+municipal investments more resilient to the harmful effects of 
+weather and climate. In addition, actions undertaken may also 
+capitalize on any positive long-term opportunities that will result 
+from these changes. 
+
+Municipalities with adaptive climate change initiatives and 
+actions already described in detail in their ICSP documents 
+will have a head-start in the development of the adaptation 
+requirements of the MCCAP. Work already completed can be 
+transferred directly into the appropriate section of the final plan, 
+and will form the foundation for any additional actions that 
+may be result from working through the adaptation planning 
+framework described in Part Four of this guide. 
+
+Be Prepared: The Benefits of 
+Planning for Climate Change
+Planning at the municipal and community level presents 
+an important avenue for local adaptation as well as for 
+greenhouse gas mitigation; and there are a number of reasons 
+why municipalities should be actively involved in planning 
+for climate change. The foremost, is that many impacts and 
+hazards associated with climate change translate into issues 
+that are local in nature, and directly affect communities, people 
+and businesses. Other reasons to plan include the protection of 
+municipal investments (such as infrastructure and municipally-
+owned and operated facilities) because climate change can 
+seriously damage expensive infrastructure and affect the delivery 
+of municipal services. One of the most widely accepted, and 
+effective ways to mange climate change within the context of 
+municipal operations, is to develop a plan or strategy that strives 
+to understand the problems and present realistic approaches to 
+dealing with them. 
+
+Municipalities cannot simply rely on the assumption that the 
+prevailing climate will be more or less the same as it was over 
+the past 50 to 100 years. We can expect to live in a climate with 
+different rainfall patterns, warmer temperatures, more frequent 
+storms, and severe weather events. These changes in climate will 
+directly affect municipalities across Nova Scotia. In particular, 
+infrastructure location and design, where and how land is zoned 
+and subdivided for development, how water and wastewater 
+treatment plants, or how local roads and other municipal assets 
+are maintained, renewed and managed.
+
+estimated Storm damage Costs
+Hurricane Juan, 2003 – 100 million
+
+Meat Cove, oct. 2010 – 7.2 million
+Central Nova, dec. 2010 – 13 million
+Southwest Nova, Nov. 2010 – 5.6 million
+
+Early adoption of policies on climate change will help to 
+develop a strategic approach to determining where to best focus 
+municipal efforts, resources and new infrastructure expenditures. 
+Planning for climate change helps to make decisions more 
+cost-effective and also helps to guard against unforeseen 
+and burdensome costs. This approach is in direct opposition 
+to reactive policies and actions that attempt to minimize 
+consequences after an event that has already occurred. A reactive 
+approach has been shown over and over to be far more costly to 
+municipalities. Hurricane Juan, for example, is estimated to have 
+cost over 100 million dollars in damages.
+
+How Municipalities will be affected:
+rising costs of damaged infrastructure
+
+Protection and repair
+Public safety
+drinking water quality
+Wastewater and Storm water management
+liability
+Public expectation
+
+Like any program, the sooner municipalities begin to plan 
+for climate change, the more likely the behavior will become 
+institutionalized, and integrated into daily practice so that 
+eventually, all decisions will be framed within a context that 
+ensures that climate change criteria are applied.
+
+Public Participation
+For the purposes of the MCCAP the public participation 
+component of the plan will be adequately covered through the 
+inclusion of stakeholders in the process (see Part Two, Step 
+One). Municipalities may also expand this part of the process to 
+involve a broader scope of public participation.
+
+Regional Action Plans
+Municipalities can work together on a regional level to tackle 
+common impacts, issues and problems associated with climate 
+change, at both the mitigation and adaptation levels. Regional 
+collaboration allows municipalities to pool resources which can 
+be directed towards regional-scale objectives; and wherever 
+possible, municipalities are encouraged to work together in this 
+capacity. 
+
+2 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+Municipalities that do wish to work with one another should 
+contact SNSMR to understand what the final plan content 
+would entail, and what individual MCCAP, MFA and Gas 
+Tax responsibilities remain, regardless of the inter-municipal 
+adaptation partnership. 
+
+Anthropogenic:  Caused or influenced by humans. 
+Anthropogenic carbon dioxide is that portion of carbon dioxide 
+in the atmosphere that is produced directly by human activities, 
+such as the burning of fossil fuels, rather than by such processes 
+as respiration and decay.
+
+department of environment 
+Climate Change Portal
+During the preparation of the MCCAP, municipalities should 
+contact or visit the website of the Climate Change Directorate 
+with Nova Scotia Environment (NSE). The Climate Change 
+Directorate actively gathers and conducts research relating to 
+climate change as it applies to Nova Scotia. 
+
+The Climate Change Directorate also collects and disseminates 
+provincial and local climate data, in addition to providing other 
+types of information and resources which apply to both climate 
+change adaptation and mitigation.
+
+The Directorate also host and administers a Climate Change 
+Adaptation Clearinghouse that houses information that will help 
+your municipality find information about adapting to climate 
+change. 
+
+http://www.gov.ns.ca/nse/climate.change/
+
+Climate Change Directorate Adaptation Clearinghouse:
+http://climatechange.gov.ns.ca/content/adaptation
+
+Acronyms and definitions
+
+Annual Expenditure Report
+Capital Investment Plan
+Canada/Nova Scotia Infrastructure Secretariat
+Greenhouse Gases
+Integrated Community Sustainability Plan
+Land Use Bylaw
+
+Acronyms
+AER 
+CIP  
+CNSIS  
+GHG 
+ICSP 
+LUB 
+MCCAP   Municipal Climate Change Action Plan
+MFA 
+MPS 
+SNSMR   Service Nova Scotia and Municipal Relations
+UNSM  
+
+Municipal Funding Agreement
+Municipal Planning Strategy
+
+Union of Nova Scotia Municipalities
+
+Definitions  (Source IPCC 2007) 
+Adaptation:  Initiatives and measures to reduce the 
+vulnerability of natural and human systems against actual or 
+expected climate change effects. Various types of adaptation 
+exist, e.g. anticipatory and reactive, private and public, and 
+autonomous and planned. Examples are raising river or coastal 
+dikes, the substitution of more temperature-shock resistant 
+plants for sensitive ones, etc.
+
+Adaptive Capacity: The whole of capabilities, resources 
+and institutions of a country or region to implement effective 
+adaptation measures.
+
+Climate Change: Climate change refers to a change in the state 
+of the climate that can be identified (e.g., by using statistical 
+tests) by changes in the mean and/or the variability of its 
+properties, and that persists for an extended period, typically 
+decades or longer. Climate change may be due to natural internal 
+processes or external forcings, or to persistent anthropogenic 
+changes in the composition of the atmosphere or in land use. 
+
+Note that the United Nations Framework Convention on Climate 
+Change (UNFCCC), defines climate change as: ‘a change 
+of climate which is attributed directly or indirectly to human 
+activity that alters the composition of the global atmosphere 
+and which is in addition to natural climate variability observed 
+over comparable time periods’. The UNFCCC thus makes 
+a distinction between climate change attributable to human 
+activities altering the atmospheric composition, and climate 
+variability attributable to natural causes. 
+
+Climate Change Mitigation:  Technological change and 
+substitution that reduce resource inputs and emissions per unit 
+of output. Although several social, economic and technological 
+policies would produce an emission reduction, with respect to 
+Climate Change, mitigation means implementing policies to 
+reduce greenhouse gas emissions and enhance sinks.
+
+Climate Scenario: A plausible and often simplified 
+representation of the future climate, based on a consistent set 
+of climatological relationships and assumptions, typically 
+constructed for explicit use as input to climate change impact 
+models. A “climate change scenario” is the difference between a 
+climate scenario and the current climate.
+
+Eligible Project:  Capital infrastructure projects and capacity-
+building projects which meet the terms of the Municipal 
+Funding Agreement, and are listed in Schedule 1 of the 
+Agreement.
+
+Extreme Weather Event: An event that is rare at a particular 
+place and time of year. Definitions of “rare” vary, but an extreme 
+weather event would normally be as rare as or rarer than the 
+10th or 90th percentile of the observed probability density 
+function. By definition, the characteristics of what is called 
+extreme weather may vary from place to place in an absolute 
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN 3
+
+sense. Single extreme events cannot be simply and directly 
+attributed to anthropogenic climate change, as there is always 
+a finite chance the event in question might have occurred 
+naturally. When a pattern of extreme weather persists for some 
+time, such as a season, it may be classed as an extreme climate 
+event, especially if it yields an average or total that is itself 
+extreme (e.g., drought or heavy rainfall over a season).
+
+Retrofitting: Retrofitting means to install new or modified parts 
+or equipment, or undertake structural modifications, to existing 
+infrastructure that were either not available or not considered 
+necessary at the time of construction. The purpose of retrofitting 
+in the context of climate change is generally to ensure that 
+existing infrastructure meets new design specifications that may 
+be required under altered climate conditions.
+
+Risk: A combination of the likelihood (probability of 
+occurrence) and the consequences of an adverse event (e.g. 
+climate-related hazard).
+
+Risk management: A systematic approach to setting the best 
+course of action under uncertainty, by applying management 
+policies, procedures and practices to the tasks of analysing, 
+evaluating, controlling and communicating about risk issues.
+
+Salt-water intrusion: Displacement of fresh surface water 
+or groundwater by the advance of salt water due to its greater 
+density. This usually occurs in coastal and estuarine areas due to 
+reducing land-based influence (e.g. either from reduced runoff 
+and associated groundwater recharge, or from excessive water 
+withdrawals from aquifers) or increasing marine influence (e.g. 
+relative sea-level rise).
+
+Storm surge: Generally used to refer to a temporary increase, 
+at a particular locality, in the height of the sea due to extreme 
+meteorological conditions (low atmospheric pressure and/or 
+strong winds). The storm surge is defined as being the excess 
+above the level expected from the tidal variation alone at that 
+time and place. Negative storm surges also occur and can 
+present significant problems for navigation.
+
+Vulnerability: The degree to which a system is susceptible 
+to, and unable to cope with adverse effects of climate change, 
+including climate variability and extremes. Vulnerability is a 
+function of the character, magnitude, and rate of climate change 
+and variation to which a system is exposed, its sensitivity, and 
+its adaptive capacity.
+
+Greenhouse Effect: Greenhouse gases effectively absorb 
+thermal infrared radiation, emitted by the Earth’s surface, by 
+the atmosphere itself due to the same gases, and by clouds. 
+Atmospheric radiation is emitted to all sides, including 
+downward to the Earth’s surface. Thus, greenhouse gases trap 
+heat within the surface-troposphere system. This is called the 
+greenhouse effect. 
+
+Greenhouse Gases (GHGs): Greenhouse gases are those 
+gaseous constituents of the atmosphere, both natural and 
+anthropogenic, that absorb and emit radiation at specific 
+wavelengths within the spectrum of thermal infrared radiation 
+emitted by the Earth’s surface, the atmosphere itself, and by 
+clouds. This property causes the greenhouse effect. Water vapour 
+(H2O), carbon dioxide (CO2), nitrous oxide (N2O), methane 
+(CH4) and ozone (O3) are the primary greenhouse gases in the 
+Earth’s atmosphere. Moreover, there are a number of entirely 
+human-made greenhouse gases in the atmosphere, such as 
+the halocarbons and other chlorine and bromine containing 
+substances, dealt with under the Montreal Protocol. Beside CO2, 
+N2O and CH4, the Kyoto Protocoldeals with the greenhouse 
+gases sulphur hexafluoride (SF6), hydrofluorocarbons (HFCs) 
+and perfluorocarbons (PFCs).
+
+Mitigation: Technological change and substitution that reduce 
+resource inputs and emissions per unit of output. Although 
+several social, economic and technological policies would 
+produce an emission reduction, with respect to Climate Change, 
+mitigation means implementing policies to reduce greenhouse 
+gas emissions and enhance sinks.
+
+Planned Adaptation: Adaptation that is the result of a 
+deliberate policy decision, based on an awareness that 
+conditions have changed or are about to change and that action 
+is required to return to, maintain, or achieve a desired state.
+
+Resilience: The ability of a social or ecological system to 
+absorb disturbances while retaining the same basic structure and 
+ways of functioning, the capacity for self-organization, and the 
+capacity to adapt to stress and change.
+
+4 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+PArT TWo   Climate Change Adaptation
+
+What is Adaptation to Climate Change?
+Adapting to climate change involves undertaking actions and 
+activities that are specifically designed to reduce and minimize 
+the harmful consequences of changing climate. Conversely, 
+adaptive actions can also be designed to take advantage of 
+any potential long-term opportunities that come with changes 
+in local and regional climate. For example, a longer growing 
+season in agricultural areas of the province. 
+
+Adaptation is built on the premise that appropriate actions are 
+undertaken before major impacts occur or shortly after they 
+take place, so that similar damage in the future is anticipated 
+and minimized. Both of these types of adaptation responses can 
+be planned in advance. In most cases, planned adaptation will 
+incur lower long-term costs and is seen to be far more effective 
+than simply reacting to climate change in an unplanned, ad-hoc 
+manner.
+
+Adaptation at the municipal level also involves new ways of 
+thinking about infrastructure design, renewal and maintenance. 
+It involves adaptive land-use planning and neighbourhood 
+design and also adaptive water and energy management, in 
+addition to other adaptive measures that will help to ensure that 
+our communities are prepared and will be resilient.
+
+determining vulnerability & Managing risk
+The measure of how sensitive certain elements of a municipality 
+or community are to climate change impacts is often known 
+as vulnerability. The overall vulnerability of a community to 
+climate change will vary between one community and another. 
+In other words, a variety of factors and variables dictate 
+vulnerability. For example, communities located within close 
+proximity to the coast or watercourses are more susceptible to 
+storm surges than inland communities which are more sheltered. 
+Coastal communities are therefore, more vulnerable (at greater 
+risk) because their location makes them susceptible to shoreline 
+erosion, flooding, and wind damage. 
+
+How Can Municipalities Adapt?
+Vulnerability can be reduced through the careful implementation 
+of adaptive management practices, actions, policies and 
+initiatives that are specifically designed to limit and minimize 
+negative impacts. For example, identifying vulnerable 
+infrastructure, incorporating adaptive planning into land-use 
+policies, revising emergency response measures, and accounting 
+for sea-level rise when planning and building new infrastructure 
+will serve to protect new developments, private property, 
+municipal capital investments, as well as the environment. 
+
+Municipalities can also adapt by considering the vulnerability 
+of their services and the supporting infrastructure. For example, 
+water treatment facilities and water distribution systems provide 
+safe drinking water. Sewage treatment facilities and distribution 
+systems collect and treat waste. Adaptive planning takes these 
+considerations into account by developing measures which 
+ensure that important services continue to operate during, or 
+following extreme weather events. 
+
+Other effective adaptation measures include: managing 
+development in coastal areas and flood-prone watercourses; 
+protecting coastlines around significant sites; and restricting or 
+preventing construction in areas of known vulnerability.
+
+There is little doubt that climate change will affect a broad range 
+of municipal assets and local government services, in addition 
+to municipal operations and policy decisions. Climate change 
+adaptation is a matter of risk management and good governance; 
+and at the local government level, there are several key areas of 
+municipal influence where adaptation can begin: 
+
+A.  Licensing and Regulation – Municipalities can use 
+their powers to set the local regulatory environment in 
+conjunction with their ability to enforce regulations, to 
+implement and enforce adaptive policies.
+
+B.  Facilitation, Advocacy, Leadership and 
+ 
+
+Public Education – Municipalities can use their close 
+contact and relationship with community organizations, 
+businesses, residents and other stakeholders at the local 
+level, to develop a shared understanding of the issues 
+and to develop collaborative responses to climate 
+change.
+
+ 
+ 
+
+C.  Service Delivery, Community Development and 
+Civic Engagement – Many of the services provided 
+by municipalities for businesses and residents can be 
+reviewed in light of adaptive climate change initiatives. 
+
+What Are Municipalities Adapting To?
+There is now widespread scientific consensus that accelerated 
+climate change is happening and human activities are the 
+principal cause. The ability for communities to adapt and 
+effectively respond to these challenges now ranks alongside 
+other pressing environmental, social and economic imperatives 
+affecting municipalities.  
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN 5
+
+It is now widely accepted that a warming world will be 
+accompanied by changes in the intensity, frequency, duration and 
+geographic extent of weather and climatic extremes. Changes in 
+climate and weather extremes are already observed to be having 
+an impact on communities throughout Nova Scotia. There is 
+little doubt that future changes will present additional challenges 
+to municipalities. In addition to extreme weather, climate change 
+is also linked to sea-level rise, which will have long-term 
+planning implications for coastal areas of the province. 
+
+Nova Scotia Coastal Facts
+13,300 Km of Coastline
+
+70% of Nova Scotia’s population lives on the coast
+14% of jobs are coastal and ocean-related sectors
+Coastal lot development accounts for a significant portion of all 
+new development
+Source:  NS State of the Coast Report, 2009.
+
+It is evident that uncertainties exist with respect to the various 
+kinds of hazards and impacts the province will experience from 
+climate change. Often the focus of these uncertainties lies with 
+uncertain future climate conditions. However, past and current 
+climate trends and impacts do give us some indication of what 
+we might anticipate in the future and who and what places might 
+be most vulnerable.
+
+There is a temptation for those faced with issues of climate 
+change at the local level, to focus attention on more pressing 
+matters, however, it is at the municipal and community level 
+where practical knowledge and experience can be drawn from, 
+and where adaptation will begin. 
+
+More Frequent Storm events 
+& increasing Storm intensity
+Each year, several large storms pass through the Atlantic region 
+and cause damage along the coast. Powerful storm waves 
+increase the risk of erosion on soft sediment shores and storm 
+surges put low-lying coastal areas at risk of flooding. 
+
+Major impacts expected from storm surges include an increase 
+in the rate and extent of coastal erosion and coastal inundation. 
+There will also be an increase in flooding in low-lying coastal 
+areas, resulting from high tide events and/or storm surges. This 
+could mean that areas normally flooded once every 100 years 
+could potentially experience floods every 10 years, and areas 
+previously safe from flooding could now be at risk. 
+
+In Nova Scotia, rain-on-snow events have led to more than 50 
+periods of severe floods since the beginning of records in 1759, 
+including recent events in Colchester, Cumberland, Hants and 
+Kings Counties. Regardless of the cause of a flood, human 
+health can be negatively affected and serious injury or death 
+may result. Drowning, hypothermia and electrocution are all 
+risks directly associated with floods (Environment Canada, 
+2004; Health Canada, 2005). Contamination of floodwater by 
+sewage and wastes, both domestic and industrial, in addition 
+to agricultural chemicals is common; resulting in lengthy and 
+expensive cleaning procedures and delay in reoccupation of 
+communities. Sewage systems and water treatment facilities 
+may be overwhelmed with a sudden influx of contaminated 
+floodwater. Submergence of buildings in floodwaters produces 
+more favourable conditions for the growth of moulds and fungi 
+that, if not removed, can lead to health difficulties when the 
+buildings are reoccupied (Health Canada, 2005). 
+
+Nova Scotia: Projected Climate Change 
+Trends & Hazards
+
+Research indicates the Atlantic region will experience an 
+increase in extreme weather events and all climate models 
+suggest that storm activity will worsen.
+
+Increasing storm intensity
+
+Flooding and flash-floods
+
+Sea level rise
+Storm surges and floods
+
+•  More frequent storm events
+• 
+•  Changes in precipitation and extreme precipitation events
+• 
+• 
+•  Accelerated coastal erosion
+• 
+•  Wetter, warmer winters
+•  Hotter summers
+•  Loss of sea ice
+•  Drier summers with droughts
+•  Water (availability) constraints
+•  Greater ultraviolet radiation exposure
+
+Legend: 
+
+Climate Event
+
+Impact
+
+Hazard/Issue
+
+runoff 
+
+& drainage 
+
+issues
+
+extreme Storms
+
+localized 
+Flooding
+
+Washouts 
+& erosion
+
+Heavy 
+
+Precipitation 
+
+& Strong 
+Winds
+
+drinking Water Contamination
+
+Public Safety Concerns
+
+damage to Structures, Property & infrastructure
+
+interruptions in Power Supply
+
+economic implications
+
+6 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+rising Sea level
+Climate change models (reviewed by the Intergovernmental 
+Panel on Climate Change), suggest that the projected increase 
+in the global average surface temperature will likely result in 
+a global sea level rise on of a meter or more by the end of this 
+century. This change in sea level will occur due to the thermal 
+expansion of seawater and the melting of glaciers and ice 
+caps. On a regional level sea level increases will depend on a 
+variety of factors such as the local coastline variations, changes 
+to currents, vertical land movements, and differences in tidal 
+patterns.
+
+According to a report completed by the Geological Survey of 
+Canada in 1998, approximately 80% of the Atlantic Region’s 
+coastline is considered to be highly sensitive to global sea level 
+rise. Areas already vulnerable to erosion and flooding will be at 
+even greater risk as a result of sea-level rise. For example, along 
+the Bay of Fundy, an extensive system of dykes was started in 
+the 1630s and now protects 85% of the former marsh area from 
+flooding and inundation. Since the 1630s, regional sea level 
+has risen by 1.3 metres due to coastal subsidence and although 
+the dykes have been maintained and upgraded to keep them at 
+levels adequate enough to prevent flooding from regular high 
+water events, many are currently 2 metres below the level of an 
+extreme storm surge superimposed on a high tide, and by 2100 
+they could be as much as 3 metres below. In Halifax sea level 
+has risen about 30 cm over the last century. This means that with 
+climate change, Halifax could potentially experience an increase 
+in sea level of 80 cm by the year 2100.
+
+Sea level rise
+
+Coastal 
+
+Storm 
+Surge
+
+inundation
+& erosion
+erosion of headlands & 
+
+Coastal 
+Flooding
+
+Salt Water
+intrusion
+
+drinking Water Contamination
+
+Shoreline Areas
+
+damage to infrastructure
+
+damage to Structures & Property
+
+Storm Surges, Coastal erosion & Flooding
+Increased erosion and flooding will likely mean significant 
+impacts on coastal communities with damage to houses, 
+buildings, roads, bridges, and other types of infrastructure, as 
+well as the risk of contamination to fresh water supplies, damage 
+to drainage systems and sewage treatment facilities. Important 
+coastal resources and sensitive coastal habitats could also be at 
+risk from the impacts of increased erosion and flooding. There 
+are also a host of other areas that may experience impacts 
+from increased erosion and flooding such as human activities, 
+human health and safety, emergency preparedness, insurance, 
+construction, maintenance and repair costs, property ownership, 
+jurisdiction, liability and legal issues. 
+
+While some coastal ecosystems may be able to naturally adapt 
+or migrate landwards in response to rising sea levels, those 
+areas backed or fringed by human development, where natural 
+processes of coastal evolution have been disrupted, may be 
+permanently inundated or squeezed out.  Coastal wetlands are 
+extremely diverse and productive ecosystems and are critical 
+in the life-cycles of many marine and terrestrial species, so the 
+loss of these ecosystems could have significant implications for 
+biodiversity and coastal resources.
+
+Coastal communities and their infrastructure and industries, 
+including fisheries and tourism, are vulnerable to these changes. 
+Impacts on coastal infrastructure, such as bridges, roads and 
+energy facilities have already affected trade and tourism 
+in the region, and some coastal communities have started 
+experiencing saltwater intrusion in their groundwater supply. 
+Future disruptions to transportation, electricity transmission and 
+communications will have widespread implications, including 
+increasing the susceptibility of some communities to isolation.
+
+Storm Surges
+
+runoff 
+
+& drainage 
+
+issues
+
+localized 
+Flooding
+
+Coastal 
+erosion 
+
+& Washouts 
+
+Heavy 
+
+Precipitation 
+& Strong Winds
+
+drinking Water Contamination
+
+Public Safety Concerns
+
+damage to Structures, Property & infrastructure
+
+interruptions in Power Supply
+
+economic implications
+
+Wetter Winters and drier Summers 
+Climate projections indicate that Atlantic Canada will 
+experience drier summers, with an accompanying increase in 
+summer-time droughts. Nova Scotia is projected to experience 
+increases in mean annual temperature and precipitation. By 
+2050, there trends indicate a 2 to 4 C° increase in summer 
+temperature, depending on geographic location, and drier 
+summer months will characterize inland regions of the province. 
+Future warming of 1.5 to 6 C° during winter can also be 
+anticipated (From Impacts to Adaptation: Canada in a Changing 
+Climate, 2007). 
+
+Wetter Winters
+
+decrease in 
+Snow Cover
+
+localized 
+Flooding
+
+erosion 
+
+& Washouts
+
+landslides
+
+damage to Property
+
+damage to infrastructure
+
+economic implications
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN 7
+
+drier Summers
+Heat & drought
+
+Forest Fires
+
+reduced Water 
+
+recharge
+
+decreased Water Quality
+
+damage to Property
+
+Public Health implications
+
+damage to 
+infrastructure
+
+economic implications
+
+Water resources 
+Changes in water resources can have far reaching effects. 
+Reductions in summer stream flow, which is predicted for 
+all of Atlantic Canada’s provinces, could impact tourism and 
+recreation, freshwater fisheries, hydroelectric power generation, 
+municipal water supplies and agriculture. Lowered water levels 
+or decreased river flows could also lead to poor drinking water 
+quality in some parts of the province. Many municipalities 
+across nova Scotia rely on surface water supplies, leaving them 
+exposed to declines in water levels, and the increased risk from 
+contamination; resulting in the need for a greater level of water 
+treatment. Changes in snow cover are also expected to further 
+impact the water supply, by reducing recharge to aquifers (From 
+Impacts to Adaptation: Canada in a Changing Climate, 2007).
+
+Water resources: issues
+drinking water degradation and contamination
+
+reduced groundwater flows and stream recharge
+
+Saltwater intrusion, salinization and contamination of wells
+
+Groundwater reserves will also be affected by climate change. 
+If water is withdrawn at rates in excess of recharge by 
+precipitation, the result is a drop in the water table. One of the 
+areas of Atlantic Canada that is most dependent on groundwater 
+is southern Nova Scotia. Reductions in water tables would result 
+from decreased infiltration of seasonal precipitation, caused by a 
+combination of reduced summer rainfall, and increased surface 
+runoff of winter rain (From Impacts to Adaptation: Canada in a 
+Changing Climate, 2007). Sea level rise may also increase the 
+risk of salinization to groundwater in low-lying coastal regions 
+or threaten the viability of freshwater coastal aquifers (The Road 
+Ahead – Adapting to Climate Change in Atlantic Canada, 2003).
+
+Adaptation: Six-Step Planning Framework  
+The next part of the guide will assist in the preparation of a 
+Climate Change Adaptation Plan. It presents a six-step planning 
+process. Each step begins by outlining key objectives. The 
+objectives summarize what will be achieved upon completion 
+of the step. Each step will take you through a series of ‘self-
+assessment’ questions, designed to probe more deeply into 
+climate change impacts, affects and accompanying municipal 
+issues. More specifically, the steps will help you to understand 
+where impacts are already being felt, where you might expect 
+them to occur in the future, what parts of your municipality are 
+vulnerable, who might be affected, what kinds of actions are 
+required, and where they will be applied.  
+
+Preparing careful and thoughtful responses to the questions 
+listed in each step will contribute to a flow of gained knowledge 
+and new information. The overall intention is to help your 
+municipality determine where to focus adaptation efforts. 
+Many questions are designed to lead to additional questions 
+and new avenues of analysis that are directly applicable to 
+the circumstances characterizing your municipality. The 
+accompanying research and analysis required to answer these 
+questions, will over time, help to build internal capacity. 
+Questions which require your team to develop deeper analysis, 
+or follow-up with subsequent research, will form the basis for a 
+broader understanding of the issues. 
+
+Step One: 
+
+Build a Team
+
+Step Two:  
+
+impacts & Hazards
+
+Step Three: 
+
+Affected locations
+
+Step Four: 
+
+Affected Facilities & infrastructure
+
+Step Five (a): 
+Step Five (b): 
+Step Five (c):  
+
+Social Considerations
+economic Considerations
+
+environmental Considerations
+
+Step Six: 
+
+Priorities for Adaptive Actions
+
+8 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+Step One:  Adaptation Team/Committee
+
+Step One: Objectives
+
+a)  Assemble a climate change adaptation team consisting of 
+
+local government officials, staff and stakeholders.
+
+b)  Establish a mandate and terms of reference for preparing 
+
+the plan.
+Identify limits of the committee’s authority and level of 
+resourcing.
+
+c) 
+
+local Government officials 
+
+(council, Mayor, Warden, 
+
+Chief Administrative officer
+
+Administrative Staff 
+
+(various local government 
+
+departments)
+
+Stakeholders
+
+MCCAP Team/
+
+Committee
+
+Terms of reference, 
+mandate, resources, 
+
+vested powers & 
+
+authority, timelines and 
+
+deliverables
+
+Committee Composition
+The first step in this process is compulsory, and involves the 
+formation of a climate change adaptation team consisting of 
+local government staff, officials, council members, and where 
+applicable, stakeholders. The final composition of the team 
+will be important because members will be fully responsible 
+for preparing the plan, and will remain in this capacity as it 
+moves into implementation. Moreover, the members of this 
+team will be accountable to SNSMR in regard to any elements 
+of the plan, which require explanation, elaboration for Gas Tax 
+purposes, revisions, or requirements regarding its development 
+or implementation.
+
+Consequently, when forming your adaptation team, it is 
+important to ensure a diversity of expertise which draws on all 
+relevant municipal departments or programs.
+
+Potential Membership - Climate Change Adaptation 
+Team Committee Members
+economic development
+
+Parks & recreation
+
+Tourism & Culture
+energy
+engineering
+environment
+emergency Management
+Finance & Administration
+Fire & Police Services
+legal Services
+
+Planning & Zoning
+Public Health
+Transportation
+Water & Wastewater
+Solid Waste
+Port & Harbour Authorities
+emergency Measures (eMo)
+
+Stakeholder Involvement
+Public consultation is not a mandatory part of preparing the 
+climate change adaptation plan. Instead, municipalities should 
+consider contacting and consulting with stakeholders affected by 
+climate change issues, where appropriate. The committee may 
+want to consult with developers responsible for building new 
+subdivisions and neighbourhoods in coastal areas, or contact 
+academics in your community who can contribute knowledge 
+and experience to the process of planning for adaptation. How 
+and where in the process municipalities engage stakeholders will 
+be determined at the discretion of each municipality.  
+Stakeholders can be an inclusive part of the team, or brought in 
+only when necessary to provide specific advice and input. It is 
+important to remember that involving a variety of stakeholders 
+will help to secure widespread support for any initiatives that are 
+undertaken during the process of MCCAP implementation. 
+
+Facilitation of stakeholder sessions is an eligible project, 
+under the capacity-building category of projects listed in the 
+2010/2014 Municipal Funding Agreement.
+
+Preparing a Mandate
+Working with your team, each municipality will develop a 
+mandate. Its purpose is to clearly establish and record the roles, 
+responsibilities, authority, etc. of the team. The following 
+questions are intended to help guide the development of the 
+mandate:
+
+1. 
+
+Is your adaptation team being established as a permanent 
+working group?
+
+2.  What is the ultimate deliverable the team is responsible for?
+3.  How much time does the group have to accomplish their 
+
+tasks?
+
+4.  What resources are available for the team to accomplish 
+
+their work?
+
+5.  What authority does the team have?
+6.  To whom is the team accountable?
+7.  Who does the team report to, and how often?
+8.  What level of support can be expected from council?
+9.  What is your schedule for completing the work?
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN 9
+
+Step Two:  impacts & Hazards
+
+Step Two: Objectives 
+
+a)  Develop a deeper understanding of the types of weather-
+related and climate related changes the municipality has 
+experienced in the past.
+
+b)  Look at what climate changes are expected and how these 
+
+changes may exacerbate or cause new hazards in your 
+municipality: (a) today and (b) in the future.
+ Identify any opportunities which may result from future 
+changes in the climate.
+
+c) 
+
+location of development and infrastructure. Municipalities that 
+are directly affected by coastal erosion will be concerned with 
+finding ways to adapt, especially those places where erosion has 
+the potential to harm public safety, infrastructure or economic 
+elements that are important to the long-term viability of the 
+community. 
+
+Extreme storm events provide another good example 
+that demonstrates how climate impacts can vary between 
+municipalities. Increased runoff resulting from heavy rainfall 
+can impact municipalities with extensive wastewater treatment 
+infrastructure. Unforeseen consequences can occur when an 
+increase in water volume exceeds the design capacity of the 
+facility. Operating at full capacity can cause a number of issues 
+such as: increased wear-and-tear on moving parts, the discharge 
+of inadequately treated wastewater in receiving waters, the 
+potential contamination of nearby drinking water supplies, 
+or the closure of downstream shellfish beds, to list a few. 
+Adaptation for municipalities with this type of infrastructure 
+will involve reviewing the design capacity of the existing system 
+and integrating changes which accommodate the new weather 
+regime, during maintenance and infrastructure renewal.
+
+issue 
+
+identification
+
+rising Sea level
+
+erosion
+
+Flooding
+
+landslides
+
+Storm Surge
+
+Hurricanes & High Winds
+
+Forest Fires
+
+drought
+
+others
+
+understand the issues 
+that are happening now, 
+
+and also understand 
+
+issues that might 
+
+happen in the future in 
+
+your municipality.
+
+Municipalities without wastewater and drinking water 
+infrastructure do not have to worry about these kinds of issues; 
+however, other issues of concern might result from heavy 
+rainfall. For example, heavy rain can cause flooding which can 
+impact communities by limiting or restricting access to local 
+roads. This in turn can affect residents and businesses and 
+hamper emergency response procedures.
+
+The following questions will help your team identify 
+impacts and hazards:
+
+1.  What hazards or impacts resulting from the changing 
+climate and the weather have become issues for your 
+municipality in the past?
+
+2.  What kinds of events caused these issues (ex: extreme 
+
+weather, flooding, hurricane)
+
+3.  What kind of actions or measures (if any) were undertaken 
+
+in order to address or respond to these issues?
+
+4.  How well prepared is your municipality if such events 
+occur again; especially if such an event becomes more 
+frequent or severe as a result of climate change? 
+
+5.  Does your municipality have the capacity/resources to 
+
+manage the next event?
+
+6.  How often do these events occur; are they occasional 
+or frequent; do they affect a large or small part of your 
+municipality; was the impact level severe or minimal?
+
+Climate changes range in scope, from a slow but continual 
+rise in sea level, to an increase in the frequency and severity of 
+extreme storms. In general, the range of potential impacts and 
+hazards associated with climate and weather varies on a local 
+and regional scale, and in turn, will vary from municipality to 
+municipality. 
+
+Climate change becomes an issue for the municipality when 
+it directly impacts the community. For example, a storm surge 
+along undeveloped portions of a coastline is for the most part, 
+not a pressing issue for the municipality. However, when a 
+storm surge damages buildings or impacts infrastructure or other 
+vital elements of the community, it becomes an issue for the 
+municipality that requires attention, and management through 
+adaptation. Particularly if it becomes evident that another similar 
+event will take place in the future. 
+
+Coastal erosion, for example, will affect some municipalities 
+more than others, due to variability in factors like the underlying 
+bedrock and surficial geology, wave energy and direction and the 
+
+10 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+ 
+
+7.  Describe and record the range of issues which occurred as 
+a result of past climate events. Document as much specific 
+detail as possible regarding the effects on your municipality.
+Preparing a matrix, such as the one illustrated below will 
+help the committee to assign a relative degree of impact to 
+the change events affecting your municipality. Filling in the 
+matrix is a subjective ‘best-estimate’ exercise, and will be 
+based on collective experience of the committee members 
+and stakeholders. It enables the team to summarize 
+information derived from answering the questions. Hazards 
+with a severe impact will obviously require closer attention 
+and more adaptive planning. 
+
+8.  Do you think these types of events and associated hazards 
+will continue into the future and become more problematic 
+unless actions are taken to minimize their effects? 
+
+9.  Describe how and why you think climate impacts will 
+
+become more of a problem for your municipality over time 
+(ex: expansion of development into affected areas, more 
+paved surfaces, aging infrastructure, etc.)
+
+10.  Do you think your municipality will experience other kinds 
+
+of climate related issues in the future, which have not 
+affected you in the past – what are they? 
+
+11.  What new information do you need to know to be able to 
+plan effectively for the future of your municipality, with 
+respect to the impacts and issues you have identified?
+
+12.  Do you have this information, and/or do you know where it 
+
+can be obtained?
+
+13.  Do you see any new opportunities for your community in 
+
+the future as the climate changes?
+
+Example: Climate Change Hazard Impact Matrix
+
+Hazard
+
+Sea level rise
+
+erosion
+
+Flooding
+
+landslides
+
+Storm Surge
+
+Hurricanes & Wind
+
+Forest Fires
+
+drought
+
+Severity
+Severe Moderate
+
+Frequency
+
+Minor
+
+often
+
+Sometimes
+
+rarely
+
+large
+
+Area
+Medium
+
+Small
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+NA
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN11
+
+Step Three:  Affected locations
+
+Step Three: Objectives
+
+a) 
+
+Identify locations within your municipality where these 
+issues have occurred; and where are they likely to occur in 
+the future. 
+
+b)  To determine where within your municipality, these impacts 
+
+will become an issue that should be addressed through 
+adaptation.
+
+Topography
+
+Town Planning/Zoning
+
+Geology
+
+Flood risk Areas
+
+erosion Prone Areas
+
+Hazard Prone Areas
+
+Cultural & Historic Sites
+
+other
+
+location 
+Assessment
+
+determine where 
+
+impacts and issues may 
+occur, and which parts of 
+the municipality may be 
+
+at high risk.
+
+There are several factors that can significantly influence which 
+locations within your municipality will most likely by affected 
+by climate change. For example, the local geography and 
+geology, topography, and proximity to the ocean, play a role in 
+determining what parts of the municipality are affected and to 
+what degree. 
+
+The objective of Step Three is to develop a deeper understanding 
+of the locations within the municipality where climate change 
+impacts could, or will become a considerable issue that requires 
+management. As discussed in Step Two, an impact becomes an 
+issue when it intersects with the management and operation of 
+the municipality, or where it affects people and property. 
+
+The following questions will help your team to understand 
+where climate change could present issues for your 
+municipality:
+
+1.  Do the climate changes related hazards you identified in 
+Step Two, impact your entire municipality or only certain 
+portions or geographic areas? 
+If there is variation, can you identify and map areas where 
+impacts and issues are most likely?
+
+2. 
+
+12 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+An effective ways to get your adaptation team thinking about 
+this question is to create a map (see above) illustrating those 
+places and locations within the municipality, community or 
+town which have been subject to climate change impacts that 
+have caused issues in the past. This undertaking will be largely 
+based on anecdotal recounts and historical events that have been 
+recorded and archived, in addition to events that have taken 
+place within living memory. 
+
+Preparing a simple map like above will help the committee 
+compile information on vulnerable parts of the municipality, 
+in addition to the type and geographical extent of the impact. 
+Gathering information and transferring it to community maps is 
+an effective way to build-up layers of data that will inform the 
+preparation of the adaptation plan and help the committee make 
+decisions regarding an appropriate approach to managing the 
+issues.
+
+The same technique can be used to answer some of the following 
+questions. By combining topographic, geological, soils and 
+drainage maps (among others) with municipal maps showing for 
+example: (a) the location of major infrastructure; (b) areas with 
+existing development; (c) areas zoned for new development; (d) 
+roads, bridges and utility corridors; (e) the location of seniors 
+
+homes; (f) emergency response routes; and (g) areas that are 
+critical to the local and regional economies (such as important 
+agricultural areas or business parks) the committee will get a 
+far better indication of where within the  municipality climate 
+impacts and hazards may become significant issues which 
+warrant action. 
+
+3.  Will the issue cause more of a problem (or benefit) in 
+
+certain areas of the municipality?
+If issues are specific to certain areas, which parts of the 
+municipality are most greatly affected?
+
+4. 
+
+5.  Do you think this pattern will change in the future: will 
+
+these issues become more problematic with predicted 
+changes in weather and climate?
+
+6.  What resources and tools can your municipality use in order 
+to map-out and determine which parts of your municipality 
+are at higher risk?
+
+It is recommended that municipalities look first to internal 
+resources before deciding upon what additional tools are 
+required to develop greater understanding of impacts and 
+issues. The latest digital mapping and modeling may provide 
+exceptional levels of detail, but in many cases, this level of 
+detail may only be necessary under specific circumstances. 
+For example, in the case of built areas that are located in 
+close proximity to the coast, detailed modeling that helps 
+the committee to understand risk and vulnerability may be 
+warranted. This level of modeling may be both appropriate 
+and necessary to make informed decisions, especially where 
+people and property are concerned. However, it may not be 
+necessary for parts of the municipality with a low potential 
+for development, or places with minimal infrastructure and 
+urbanization. 
+
+7.  What additional information, skills, expertise or resources 
+
+do you need to make proper decisions?
+
+There are going to be instances where municipalities will require 
+resources and/or expertise that cannot be provided internally. 
+Capacity building projects related to understanding climate 
+change, are generally eligible under the terms of the MFA, 
+and can be paid for using Gas Tax funds. Questions regarding 
+capacity building projects should be directed to Canada/Nova 
+Scotia Infrastructure Secretariat branch of SNSMR to confirm 
+project eligibility.
+
+Step Four:   Facilities, infrastructure 
+ 
+
+& Service delivery
+
+Step Four: Objectives
+
+a) 
+
+b) 
+
+Identify key facilities and infrastructure in your 
+municipality.
+Identify where they are located and determine if some 
+facilities and infrastructure will be more affected by climate 
+change than others.
+
+c)  Evaluate the impact of climate change on the delivery of 
+
+municipal services.
+
+Water Supply & Treatment
+
+Wastewater Collection & 
+
+Treatment
+
+roads, Bridges, Culverts & 
+
+Trails
+
+Power utilities/Supplies
+
+Police & Fire
+
+Hospitals & Nursing Homes
+
+Schools
+
+Community & Municipal 
+
+Buildings
+
+other
+
+Affected: Facilities, 
+
+infrastructure & Service 
+
+delivery
+
+determine where 
+
+impacts and issues may 
+occur, and which parts of 
+the municipality may be 
+
+at high risk.
+
+Municipal infrastructure has enormous value, both directly as a 
+capital asset and indirectly as an essential element contributing 
+to a productive local and regional economy. The objective of 
+Step Four is to look at the key facilities and infrastructure to 
+ensure the services they support and the people they affect are 
+taken into consideration when setting priorities for adaptive 
+actions. 
+
+Climate change hazards include (among others): damage or 
+destruction resulting from extreme events (rain, wind and snow), 
+flooding of facilities and equipment, inundation from sea level 
+rise; changes in patterns of water availability; and the overall 
+effects of climate change on operating costs. 
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN13
+
+It is evident that an increase in the frequency of extreme storms, 
+flooding, storm surges and other events associated with climate 
+change will place additional challenges on the management 
+of municipal infrastructure, beyond the need for regular 
+maintenance, refits and renewal. 
+
+4.  Are any of your facilities in need of repair, replacement or 
+
+upgrades?
+
+This discussion should be lead by the engineering department 
+and the people responsible for the day-to-day operations of 
+municipal infrastructure.
+
+Essentially, all infrastructure systems are located in natural and 
+engineered environments affected by climate change. Climate 
+change, for example, can and will affect water, wastewater, and 
+storm water utility infrastructure today and well into the future. 
+Moreover, infrastructure located in coastal zones is particularly 
+vulnerable, because it is subject to sea level rise and heightened 
+storm surges and in consequence municipal infrastructure must 
+be designed and managed in order to operate even in case of sea 
+level rise. 
+
+Simple infrastructure failures, for example municipal 
+infrastructure such as culverts failing due to heavy rain, can 
+lead to a domino effect that in-turn leads to road washouts, the 
+geographic isolation of communities, public safety issues, in 
+addition to potential health and economic ramifications. The 
+challenge, therefore, is to identify those parts of the municipal 
+infrastructure network that are at greatest risk from changing 
+climate and ensure that adequate measures are taken, in order to 
+prevent more dire consequences. 
+
+5.  Do you have the types of information to answer these 
+
+questions?
+
+Where existing information is insufficient, Gas Tax funds can 
+be used to build capacity in this area, or to hire experts where 
+necessary.
+
+6. 
+
+In light of goals and actions in your ICSP that specifically 
+address infrastructure, are there any places where climate 
+change needs to be taken into consideration?
+
+All projects described within the ICSP that are related in any 
+way to infrastructure, should be examined in this context.
+
+requirements for existing 
+infrastructure risk evaluation 
+The following section is a mandatory part of the MCCAP. To 
+complete this part of the MCCAP use the spreadsheets available 
+on-line at:  http://www.nsinfrastructure.ca/
+
+The following questions will help you to examine your 
+infrastructure and facilities:
+
+A.  Preliminary Risk Assessment
+
+Reducing the vulnerability of existing infrastructure to climate 
+change risks will require a comprehensive evaluation of each 
+infrastructure and facility asset. First priority must be given to 
+essential services and potential for interruption or destruction of 
+each utility. Evaluation would include the individual elements 
+that comprise the utility and risks to the overall operation of the 
+system.
+
+Each asset should be assessed for risks associated with sea 
+level rise, precipitation (snow, rain), extreme wind, flooding, 
+temperature change (high, low), erosion and earthquake. 
+
+The spreadsheets provide a list of the various infrastructure and 
+facility asset categories (others can be added) with potential 
+risks from climate change. Each assessment should include 
+adaptive measures to eliminate or minimize risk. The list 
+includes water systems, sanitary sewer systems, storm sewer 
+systems, municipal buildings, landfill/solid waste facilities, dams 
+and roads.
+
+1.  What are the key facilities in your community?
+2.  How will the impacts and issues identified in Step Two 
+
+affect these facilities?
+
+The first concern is proximity of public infrastructure to the 
+coast. Municipalities with infrastructure located in the coastal 
+zone should immediately be alerted to potential issues. The 
+second major concern is the ability of the infrastructure to 
+handle additional capacity over and above design specifications. 
+This analysis will involve recommendations and input from 
+engineers and other specialists. Other factors, such as the age of 
+the facility, will help to inform and guide this discussion. Your 
+team should also consider what types of impacts would have a 
+high, medium or low effect on the municipality; with regard to 
+the delivery of services.
+
+3.  Are there any facilities or infrastructure that you are 
+
+concerned about in an emergency?
+
+This question is aimed at helping you to determine if 
+potentially impacted infrastructure is also crucial to the short-
+term wellbeing of your municipality. For example: roads 
+interconnecting communities or leading to hospitals.
+
+14 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+B.  Prioritizing the Asset Risks
+
+Step Five (a):  Social Considerations
+
+The spreadsheets provide a method for ranking adaptation 
+measures required for each asset and associated costs. 
+Adaptation measures may be classified as high, medium or low 
+risk and municipalities can establish priorities by ranking their 
+assets according to the assigned risks.
+
+C.  Estimating Costs of Adaptation Measures
+
+High Risk priorities should be evaluated in detail and cost-
+estimates determined.
+
+D.  Cost Benefit
+
+Each suggested adaptation measure should be evaluated for the 
+degree of magnitude as well as the significance of the desired 
+adaptation. This may be expressed as a cost benefit comparison. 
+Measures may be again re-prioritized.
+
+E.  Financing Adaptation
+
+Municipalities must integrate the adaptation project(s) into their 
+regular Capital Investment Planning process.
+
+F.  New Infrastructure
+
+For new infrastructure projects climate change risk assessment 
+should be included in the ‘Request for Proposal’ (RFP) for the 
+design engineer to consider. Appendix C can be used as a check-
+list to insure that climate change risks are considered in the 
+design of any new facilities. Decisions must be made as to the 
+degree of adaptation measures required.
+
+Step Five (a): Objectives
+
+a)  Determine which residents will be most affected.
+b) 
+
+Identify which residents, local groups and agencies can 
+help.
+
+volunteer & emergency 
+
+Services
+
+income
+
+Age
+
+literacy levels
+
+Special Needs
+
+Single Parent Households
+
+recreation & Cultural 
+
+Services
+
+isolated locations
+
+Community Support
+
+other
+
+Social 
+
+Assessment
+
+Who is most likely to be 
+
+impacted by issues & 
+
+where are they located? 
+
+Who can help?
+
+Changes in the climate can affect the people. Power outages, 
+flooded homes and businesses, road washouts, compromised 
+bridges, contaminated drinking water, and wildfires (among 
+others) are hazards resulting from with climate change, which 
+have the potential to directly impact people.
+
+In the event of climate-related emergencies there is a strong 
+likelihood some residents living in the municipality may be more 
+vulnerable than others. Seniors and people with special needs are 
+particularly vulnerable. Getting a better understanding of those 
+people that could be most affected, will help the municipality to 
+update emergency response procedures and identify volunteer 
+support mechanisms that can be employed in the event of these 
+kinds of emergencies. 
+
+Many of the elements covered in this step may have already 
+been addressed in your municipality’s Emergency Measures 
+Plan; however, it is prudent to review any municipal emergency 
+response or contingency plans, in light of the climate change 
+issues your team has identified so far. 
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN15
+
+Agriculture
+
+Fishery
+
+Forestry
+
+Tourism
+
+Food
+
+Construction
+
+Manufacturing & industry
+
+Transportation
+
+Services
+
+other
+
+economic Assessment
+
+examine your 
+
+municipality’s important 
+
+economic sectors and 
+understand how they 
+
+may be affected.
+
+Step Five (b) involves determining how climate change 
+issues will affect the local and regional economy. Although 
+climate change is seen to have mostly damaging effects on the 
+management and operations of municipalities, there may also 
+be a number of benefits which can help your municipality to 
+prosper in the future. 
+
+Because climate change is directly linked to the ‘business as 
+usual’ fossil-fuel economy that has predominated for the past 
+century, many municipal administrators view climate change 
+adaptation as good opportunity to move towards creating 
+a greener future for their municipality. Local government 
+investments in renewable energy, and green technologies, 
+particularly if coupled with adaptation and sustainability goals 
+and actions, will help local governments to become more 
+competitive in the twenty-first century. The integration of green 
+practices with adaptation, presents a chance for municipalities 
+to be both adaptive and competitive. Climate change adaptation 
+may also benefit municipalities in other ways. For example, a 
+warmer climate may help the agricultural sector and allow new 
+types of crops, fruits and vegetables to be grown. 
+
+Conversely, many climate change issues, for example the 
+flooding of homes and businesses, or damage to critical 
+municipal infrastructure, can have severe and far-reaching 
+consequences for local and regional economies. It is important 
+for your team to develop a good understanding regarding these 
+issues, so that adequate measures can be undertaken to minimize 
+negative impacts and advance positive ones.
+
+The following questions will help your team to understand 
+the social implications of climate change issues affecting 
+your municipality:
+
+1.  Have you reviewed your ICSP’s social pillar’s goals and 
+
+actions in order to identify key priorities?
+
+2.  Are there any goals or actions under the social pillar which 
+warrant special attention when examined within the context 
+of climate change?
+
+Reviewing your ICSP will enable you to re-visit your 
+municipality’s priorities around its social agenda. If for example, 
+you have major initiatives involving the long-term wellbeing of 
+seniors, you should consider taking another look at your goals 
+and actions in light of climate change issues.
+
+3.  Can you identify who in your municipality will be most 
+
+affected by climate related emergency events?
+
+In Step Three you determined what parts of your municipality 
+are likely to be at greater risk from climate issues. Based on 
+information collected in Step Three, you will be able to get a 
+good sense of any groups of people who may be put at risk, 
+because they reside in vulnerable parts of the municipality.
+
+4.  What are the main barriers for at-risk people to receive 
+
+adequate help during an emergency in your municipality?
+
+5.  Does your municipality have an emergency plan?
+6.  Does the plan address barriers for at-risk people?     
+7.  Does the plan take into consideration the location and 
+
+characteristics of the at-risk people and work their needs 
+into the plan?
+ Are there heritage or cultural elements of your municipality 
+that could be affected?
+
+8. 
+
+9.  How will these issues affect the quality of life, health and 
+
+safety in your community?
+
+10.  Are their groups or organizations in your community that 
+
+can help?  
+
+Step Five (b):  economic Considerations
+
+Step Five (b): Objectives
+
+a) 
+
+Identify the most important economic sectors in your 
+municipality and determine how these issues impact 
+these sectors and, in addition, identify the most important 
+economic goals the municipality has identified in the ICSP.
+
+b)  Understand how climate change will affect the financial 
+
+resources of your municipality.
+
+16 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+The following questions will help you to understand 
+how the local and regional economy in your area may be 
+affected by climate change:
+
+1.  What are the most important industries in your community 
+
+ 
+
+today and where are they located?
+Preparing a map illustrating the most important economic 
+elements of your municipality will, when combined with 
+the information and knowledge gathered so far; help you 
+to determine threats and benefits to the local and regional 
+economy. 
+
+2.  How important is the municipal/community economy 
+
+to the economy of the province? For example, is it 
+strategically important to other economies (i.e., suppliers, 
+manufacturers)
+
+3.  What parts of the economy are expected to be the most 
+
+important in the future?
+
+4.  How could changes in the weather and climate affect these 
+
+industries?
+
+5.  Could any of the climate issues identified so far result in 
+
+the loss of an industry in your municipality? If so, describe 
+how.
+
+6.  What are the top weaknesses in your municipality’s 
+
+economic sectors related to the current and future issues 
+discussed in previous steps?
+
+7.  What are your options for reducing potential harm to the 
+
+economy: (a) in the short-term, (b) in the long-term?
+Is dealing with the economic ramifications of climate 
+change a priority for your municipality?
+
+8. 
+
+9.  Are there any potential economic opportunities that you 
+
+see that may result for your municipality as consequence in 
+changing climate?
+
+10.  In light of goals and actions in your ICSP that address the 
+economy, are there any places where climate change needs 
+to be taken into consideration?
+
+Step Five (c):  environmental Considerations
+
+Step Five (c):  Objectives
+
+a)  Evaluate how the natural environment will be affected and 
+identify potential environmental problems resulting from 
+climate change issues. 
+
+b)  Understand how climate change may help or harm 
+
+important species or natural areas found within your 
+municipality.
+
+Hazardous Sites
+
+oil Facilities
+
+Ports and Harbours
+
+landfills
+
+retention and Tailing Ponds
+
+Contamination
+
+Pests and diseases
+
+Fish and Wildlife
+
+Parks and Protected Areas
+
+Sensitive Habitats
+
+Coastal erosion
+
+others
+
+environmental 
+
+Assessment
+
+understand how 
+changes in climate 
+can lead to changes 
+in other parts of the 
+natural environment 
+in your municipality. 
+
+Areas that could lead to 
+more problems may be 
+priority areas for action.
+
+The main purpose of Step Five (c) is to help the committee 
+identify and locate key sites in your municipality where climate 
+issues or weather events may cause dangerous environmental 
+impacts. For example: a severe storm can lead to the back-up 
+of a sewage treatment facility, causing sewage to breach its 
+containment and cause pollution and health hazards. Other 
+potential dangers, such as the storage of hazardous materials, 
+should also be evaluated in light of climate change because 
+of their potential to cause serious problems if they spill and 
+contaminate the local environment.
+
+The following questions will help in your analysis of 
+environmental issues:
+
+1.  What have been the main environmental problems you have 
+experienced as a result of weather or climate related issues 
+in the past?
+
+2.  How might this change in the future?
+3.  Are there any concentrations of hazardous materials of 
+
+waste in your municipality?
+
+4.  Are they stored safely?
+5.  Have you undertaken any actions in the past that have 
+
+helped to reduce the impacts of any of these problems or 
+issues?
+
+6.  Are you prepared in the event of an environmental 
+
+emergency?
+
+7.  Do you think these same strategies will work in the future?
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN17
+
+Generally, more immediate concerns will have a higher priority, 
+while long-term changes and concerns often take a lower 
+priority. Issues or hazards impacting public safety or the delivery 
+of services should be high on the list of priorities, while those 
+which are less-immediate (and can be dealt with over time) 
+will tend to have a lower priority. The ways and means by 
+which your committee determines priorities will be based on a 
+number of variables which will be unique to each municipality. 
+Prioritization should be supported by sound reasoning that is 
+documented in the plan. The committee is encouraged to include 
+stakeholders in the decision-making process, regarding setting 
+priorities for adaptive action.
+
+Step Six is important because it will serve as a roadmap for both 
+staff and council, with regard to adaptive planning. In particular 
+the role adaptation will play with respect to the development 
+of land. Consequently, the information recorded in this step is 
+instrumental in planning for the future of the municipality. 
+
+Once priorities are established, the committee is also required 
+(in this step) to investigate and report on the range of potential 
+actions which might be considered by the committee, in order to 
+address each priority. The requirement is not for a detailed action 
+plan for each item. Rather, the goal is for the municipality to 
+explore viable options for each issue and record the options.  
+
+Adaptation Priorities: Municipal Planning 
+Strategies, Land Use Bylaws 
+This section of the MCCAP will outline how climate 
+change concerns and adaptation will be integrated into the 
+municipality’s approach to the planning and regulation of 
+development. 
+
+Municipal Planning Strategies (MPS) are the primary vehicle for 
+articulating a community’s vision on sustainability and overall 
+planning policy direction. Municipalities with a Municipal 
+Planning Strategy and Land Use Bylaw (LUB) are required to 
+provide information in Step Six of the MCCAP guide outlining 
+council’s adaptation priorities with respect to land-use planning 
+and, in particular for new development. 
+
+At the time of the adoption of the MCCAP time municipalities 
+are not required to have detailed policies and provisions in place 
+in their MPS and LUB. Rather, municipalities will outline in the 
+MCCAP the general policy direction to be taken with respect to 
+adaptation. Policies and regulations specific to the circumstances 
+that characterize adaptation issues for individual municipalities 
+will take time to prepare properly, and will be part of a phased 
+approach to implementation.
+
+8.  Do you have an environmental protection or emergency 
+
+9. 
+
+preparedness plans? 
+In light of goals and actions in your ICSP that address the 
+environment, are there any additional areas where climate 
+change needs to be taken into consideration?
+
+Step Six:  Priorities for Action  
+
+Step Six: Objectives
+
+a)  Prioritize the climate change adaptation issues considered 
+
+by the committee to pose the greatest risks to the 
+municipality, both now and in the future. 
+Identification of potential courses of action for the priority 
+adaptation issues. 
+
+b) 
+
+c)  Develop an approach to integrate adaptation priorities into 
+
+municipal planning documents.
+
+Public Health & Safety
+
+infrastructure
+
+existing development
+
+New development
+
+Policy and Planning
+
+Social Considerations
+
+economic Considerations
+
+environmental 
+Considerations
+
+Priorities (for adaptation) 
+
+identify your top 
+priorities for action 
+on adaptation and 
+begin the process of 
+identifying solutions 
+
+and appropriate courses 
+
+of action designed to 
+reduce and minimize 
+climate change impacts.
+
+Setting Priorities for Adaptive Action
+The main objective of Step Six is for the municipality to 
+establish key priorities for taking action on climate related 
+hazards and impacts considered by the committee to be issues 
+which require management through adaptation. These are 
+issues, which if left unmanaged, could cause problems (over the 
+short to long-term) for public safety, municipal infrastructure, 
+or harm other aspects of the community. Step Six is a starting 
+point for taking action. During Step Six, the committee will 
+establish priorities for municipal action, and start the process of 
+determining what methods (actions) might be undertaken by the 
+municipality to reduce risk. 
+
+18 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+Municipalities with formal planning documents can begin the 
+process, by developing an understanding of how adaptation can 
+be integrated into:
+
+Statements of Provincial Interest
+
+• 
+•  Zoning Bylaws (i.e., setbacks)
+• 
+• 
+• 
+• 
+• 
+
+Site Plan Control
+Setbacks
+Storm Water Management
+Parkland Dedication
+Plans of Subdivision
+
+Municipalities without Formal Planning Documents
+Municipalities without formal land-use planning documents, 
+i.e., Municipal Planning Strategy and Land Use Bylaw, are 
+required to explain and document how they plan to address new 
+development within the context of climate change adaptation.
+
+Concern 2
+
+The following questions will help you prioritize issues:
+
+Concern 3
+
+1.  Of all of the issues discussed by your team so far, what are 
+
+the most significant, and why?
+
+Determining the significance, in terms of priority, of the various 
+climate change hazards facing your municipality can be a 
+difficult task, influenced by numerous factors. When discussing 
+the ranking of priorities and potential courses of action with 
+your team, you should keep in mind the following fundamental 
+principles: 
+
+•  The protection of  public safety 
+•  The protection of structures, buildings, and infrastructure 
+•  The protection of public drinking water supplies.
+
+Concern 4
+
+The committee may want to consider developing a series of 
+tables to help you to summarize and organize information 
+gathered during Steps One to Five. Tables can be particularly 
+useful when capturing information that influences decisions 
+on priorities and potential courses of adaptive action. A few 
+examples of the types of tables that can be generated the 
+committee are outlined below. The information and approaches 
+provided in the examples are presented as illustrations. 
+
+Example 1: Storm Surge - Impacts, Issues & Hazards
+
+Storm Surge
+Concern 1
+
+residential cottages and properties located in 
+Shellfish Bay are vulnerable to erosion, flooding, 
+wind and water damage during severe storms 
+and storm surges.
+The unpaved road leading to the campground 
+is prone to flooding and washouts and 
+undermining in several places along its route, and 
+may become impassable due to damage from 
+storm surges.
+Several economically important wharfs, and 
+harbours are at risk during extreme wind, 
+flooding and wave damage, and boats and fishing 
+equipment are also at risk from severe storm 
+damage
+Along route 1 there is an increased risk of 
+damage to power lines and poles due to their 
+close proximity to the shore. This risk for damage 
+is increased if snow and ice are a factor.
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN19
+
+Example 2: Storm Surge – Special Considerations & 
+Priorities for Action
+
+Moving Towards Adaptation                               
+
+3.  Based on your research and discussions, what options are 
+
+there for dealing with these issues?
+
+There are a variety of factors that will affect the type of actions 
+your municipality may take into consideration. These include 
+local circumstances, overall practicality, the resources available 
+for implementation, the timing of consequences (immediate 
+or long-term) and the level of risk you are willing to incur 
+with respect to limiting damage, to list a few. As you consider 
+adaptive actions, keep in mind that these should not only address 
+climate change issues; but should do so in a sustainable way that 
+does not hinder any wider sustainability efforts.
+
+Example 3: Storm Surge: Options for Taking Action
+
+Adaptation options under Consideration
+Action 1
+
+Action 2
+
+Action 3
+
+Medium
+
+Action 4
+
+low
+
+educate residential property owners regarding 
+potential dangers and damages; ensure eMo 
+is aware of vulnerable residents; pass land use 
+regulations that ensure future development is 
+set-back from vulnerable locations.
+Take efforts to protect dunes and other 
+ecosystems that buffer the shoreline; consider 
+re-locating the road; ensure road has adequately 
+sized culverts and drainage structures, reinforce 
+elements of the road that are particularly 
+vulnerable.
+Meet with local fishermen and other vested 
+stakeholders to discuss the issue; develop 
+emergency procedures for boats and property; 
+look for solutions based on local knowledge of 
+the fishermen.
+Contact NSPC to develop response plan and 
+repair scenarios; consider burying power lines; 
+develop emergency procedures for affected 
+residents.
+
+4.  Which of your department’s responsibilities/roles would 
+
+these issues and impacts likely influence?
+
+Action 
+Priority 
+ranking*
+
+High
+
+High
+
+High
+
+effects on the 
+Municipality
+
+Special 
+
+Considerations
+
+Social
+
+economic 
+
+environmental
+
+infrastructure
+
+other
+
+A large number of the 
+residents in vulnerable 
+parts of the community 
+are elderly. Flooding 
+and road washouts 
+would prohibit the use 
+of emergency and other 
+vehicles in these places if 
+assistance is required.
+local fishing industry 
+could be severely 
+affected by storm surge 
+damage to wharves, 
+harbours and associated 
+infrastructure.
+Contamination from fuel 
+and other petroleum 
+products used by 
+fishermen and stored 
+in accessory buildings 
+located near to the shore 
+could occur during 
+floods and extreme 
+storms.
+Culvert outlets may 
+become blocked with 
+debris and exasperate 
+localized flooding, and 
+cause road washouts.
+Sea wall will require 
+modifications and 
+maintenance to 
+accommodate rising sea 
+level.
+
+*rank determined by committee members based on municipal 
+circumstances
+
+2.  Have you done anything in the past that has helped reduce 
+
+the impacts of these issues?       
+
+20 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+PArT THree   Climate Change Mitigation
+
+Background
+Greenhouse gases (GHGs) generated by human activity, 
+primarily carbon dioxide, as well as methane, ozone and several 
+others, have risen sharply as the world’s population expands, 
+industrialization spreads and the consumption of resources 
+accelerates. The inevitable consequence of all this growth is 
+an increase in greenhouse gas emissions, leading to a rise in 
+average global temperature, the disruption of climate patterns 
+and the irreversible alteration of the ecological balance of our 
+planet. The effects of climate change are pervasive, and left 
+unchecked, could have both severe and indiscriminate impacts 
+on our social and economic systems. 
+
+Many Canadian cities have already taken the first step toward 
+reducing carbon emissions by conducting an inventory of GHG 
+emissions. This work has shown that electrical generation, 
+transportation and the combustion of heating fuels, account 
+for up to 95 per cent of a community’s direct GHG emissions. 
+The remainder comes from the management and disposal of 
+municipal waste and the emissions from certain industrial 
+processes, such as cement production, steel making and 
+chemical processing. This statistical breakdown varies from 
+one municipality to the next, depending on a number of factors 
+including the mix of heating fuels, the availability of public 
+transit, and the source of their electrical power. 
+
+A well-designed mitigation plan will help to reduce GHG 
+emissions and also has the potential to spur technological 
+advances, create new sources of employment and stimulate the 
+economic growth needed to propel communities forward into a 
+more sustainable future. 
+
+Building on Existing Mitigation Efforts
+SNSMR recognizes that many of the province’s municipalities 
+will have already completed some of the required elements 
+for the mitigation component of the MCCAP. Although this 
+work has been completed your municipality will be asked to 
+supply this information to SNSMR in the format outlined in the 
+Mitigation Plan Template, found in Appendix A.
+
+Municipal requirements for Mitigation
+The purpose of developing a municipal mitigation plan is to start 
+the process of identifying where and how municipal facilities, 
+infrastructure and operations produce emissions, and to develop 
+an approach to reducing emissions over time. Ultimately this 
+will result in cleaner air for all Nova Scotians. To achieve this 
+purpose the mitigation component will focus only on corporate 
+(municipal) greenhouse gas emissions. 
+
+In order to assist municipalities prepare their mitigation action 
+plan SNSMR has partnered with the UNSM and Stantec, and 
+have developed a Municipal Climate Change Mitigation Plan 
+Workbook that will also be of assistance when undertaking this 
+part of the MCCAP. The workbook provides all the information 
+necessary to prepare a comprehensive mitigation plan, complete 
+with reduction targets and detailed actions, and can be used as 
+such by municipalities. Those municipalities wishing to develop 
+a comprehensive mitigation plan are strongly encouraged to 
+work through the workbook which is available on-line and can 
+be downloaded from the UNSM webpage. 
+
+It should be noted that the mandatory requirement for the 
+mitigation component of the MCCAP is described in Steps One 
+to Three (see below) and also in the submission template in 
+Appendix A.
+
+Preparing a Corporate Mitigation Plan 
+There are three mandatory steps required for the mitigation 
+component of the MCCAP. 
+
+Step One: 
+
+Collect energy & emissions 
+information
+
+Step Two:  
+
+Complete energy & emissions 
+inventory Table
+
+Step Three: 
+
+Set Goals & identifying Actions for 
+Mitigation
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN21
+
+Step One:   energy & emissions information
+
+Step One: Objective
+
+•  Completion of Corporate Energy and Emissions 
+
+Spreadsheet
+
+Corporate Energy & Emissions Spreadsheet
+Municipalities that have not already conducted an energy and 
+emissions inventory must use the Corporate and Emissions 
+Spreadsheet and User Guide, developed by the UNSM and 
+downloadable at: 
+http://www.sustainability-unsm.ca/our-work.html  
+
+It is recommended that you also download the instruction 
+manual and additional information provided in order to assist 
+you in completing the spreadsheet. For Step One, municipalities 
+are required to collect the relevant information and complete the 
+Corporate Energy and Emissions Spreadsheet. 
+
+Step Two:   energy & emissions 
+ 
+ 
+Step Two: Objective
+
+inventory Table
+
+•  Completion of Energy and Emissions Inventory Table
+
+Step Two involves transferring information from the spreadsheet 
+to the Inventory Summary Table (see below). The UNSM/
+Stantec Workbook provides additional information on this 
+procedure.
+
+Municipalities that have already conducted an Energy Audit 
+and Emissions Inventory can use existing data to populate the 
+Summary Inventory Table. The original energy and emissions 
+spreadsheet (with the detailed data) must also be submitted 
+along with the summary table.
+
+Step Three:    Setting Goals and Actions 
+  
+
+for Mitigation
+
+Step Three: Objectives
+
+• 
+
+Identify the municipality’s goals for reducing greenhouse 
+gas emissions.
+
+•  Determine appropriate actions to be undertaken in order to 
+
+achieve mitigation goals. 
+
+Step Three involves setting goals for reducing emissions and 
+establishing actions that will carry-out the intent of each goal. 
+Actions must be linked with a specific time frame, responsibility, 
+and where possible costs. Step Three will serve as the roadmap 
+for the implementation the municipality’s mitigation efforts. 
+Typically, goals and actions are viewed as a living element of 
+the mitigation plan, and at times will be updated, adjusted and 
+adapted as circumstances change with the municipality.
+
+Goals 
+Goals are a precise and realistic articulation of the desired end-
+state. Goals are required for each emission category listed in the 
+Inventory table.
+
+Example: improved energy efficiency and annual cost savings 
+for the municipality’s building stock.
+
+Energy & Emissions Inventory Summary Table
+
+emission 
+Category
+
+Buildings
+
+Water & 
+Wastewater
+Streetlights
+vehicles
+
+Solid Waste
+others
+
+energy Type energy 
+
+Cost ($)
+
+units
+
+Consumption
+
+emission Factor 
+(tCo2/units)
+
+emissions
+(tCo2e)
+
+Notes
+
+electricity
+Nat. Gas
+Fuel oil
+electricity
+
+electricity
+reg. Gasoline
+diesel
+n/a
+
+kWh
+M3
+l
+kWh
+
+kWh
+l
+l
+
+tonnes
+
+22 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+10.  ICLEI (2011) Changing Climate, Changing Communities: 
+
+Guide and Workbook for Municipal Climate Adaptation.
+11.  ICLEI (2008) Five Milestone Framework for Reducing 
+Greenhouse Gas Emissions. FCM Centre for Sustainable 
+Community Development.
+
+12.  Natural Resources Canada (2005). An Overview of the Risk 
+Management Approach to Adaptation to Climate Change in 
+Canada. Global Strategies International. Ottawa, Ontario.
+13.  MacKenzie, Kyle. and Parlee, Kathryn. (2003) The Road 
+Ahead: Adapting to Climate Change in Atlantic Canada. 
+Canadian Climate Impacts and Adaptation Research 
+Network.
+
+14.  Public Safety Canada (2005) Canadian Disaster Database. 
+
+Public Safety Canada
+
+Actions 
+Actions are specific priority items which must be achieved to 
+fully realize the stated goals. Actions must accompany the goals 
+established for each emission category.
+
+Example: complete a detailed, professional energy audit 
+on the town hall and other municipal buildings, and act on 
+any recommendations resulting from the findings which will 
+improve energy efficiency and reduce energy costs.
+
+Time Frame  
+The time frame is an articulation of the timing of the specific 
+action. Wherever reasonably possible, time frames should 
+accompany each goal and action.
+
+Example: Short-Term (Year 1 and Year 2); Medium-Term (Year 
+3 and Year 4); Long-Term (Year 5 and beyond)
+
+Accountability 
+Accountability describes the department or person responsible 
+for carrying-out the actions. Wherever reasonably possible, there 
+should be accountability for each action item.
+
+document references
+
+1.  Environment Canada (1998) The Canada Country Study 
+
+(CCS) – Climate change impacts and adaptation measures; 
+in Canada: highlights for Canadians. Environment Canada, 
+8 Volumes.
+
+2.  Environment Canada (2004) Greenhouse Gas inventories 
+
+and Climate Change: Executive Summary.
+
+3.  Environment Canada (2005) Canada’s Top Ten Weather 
+
+Stories for 2005. Environment Canada
+
+4.  Environment Canada (2006) Vulnerability assessment, 
+
+climate change impacts and adaptation measures; in 
+Canada’s Fourth National Report on Climate Change, 
+Environment Canada, p. 153-168.
+
+5.  Environment Canada (2007) From Impacts to Adaptation: 
+Canada in a Changing Climate. Chapter 4, Atlantic Canada.
+
+6.  Geological Survey of Canada (1998) Climate Change in 
+
+Canada – Impacts and Adaptation
+
+7.  Government of Canada (2010) Adapting to Climate 
+
+Change: An Introduction for Canadian Municipalities.
+
+8.  Health Canada (2004) Your Health and Changing Climate: 
+
+Newsletter – Volume 1
+
+9.  Heath Canada (2005) Your Health and Changing Climate: 
+
+Newsletter – Volume 2
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN23
+
+APPeNdiX A
+
+Submission Template - 
+Mandatory Plan Content
+
+The following information is mandatory and is a 
+requirement of the final Municipal Climate Change Action 
+Plan Submission to Service Nova Scotia & Municipal 
+Relations. 
+
+MCCAP (AdAPTATioN) – TeMPlATe
+
+Step One:  Adaptation Committee 
+
+This section of the MCCAP will:
+
+o  List the members of the adaptation committee and their role 
+
+within the organization, or stakeholder group.
+
+o  Present the mandate and terms of reference under which the 
+
+committee will operate.
+
+Checklist & Deliverables:
+
+o  An accounting of the members of your adaptation 
+
+committee, and description of their present role in your 
+organization or as a member of a stakeholder group.
+o  List of potential stakeholders to be consulted during 
+
+preparation of the plan.
+
+o  Mandate or Terms of Reference which clarifies team 
+
+member’s roles, responsibilities, and deliverables.
+
+o  Description of your committee’s process for accountability.
+
+Step Two:  Climate Change issues & Hazards
+
+This section of the MCCAP will:
+
+o  Provide information on significant climate change issues 
+
+and hazards affecting your municipality and why they have 
+been flagged as being important.
+
+Checklist & Deliverables:
+
+o  Description of the types of issues and hazards climate 
+
+changes have caused or exacerbated within your 
+municipality.
+
+24 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+o  A summary of the level of preparedness which 
+
+characterized your municipality with respect to the above.
+o  Description of climate related issues or hazards that could 
+
+cause problems in the future, and which of these your 
+committee acknowledges will require future action on the 
+part of the municipality.
+
+o  Analysis of how they might affect the future of your 
+
+municipality. 
+
+o  Any maps which geographically illustrate where climate 
+change hazards are likely to occur and where they have 
+occurred in the past.
+
+o  Any information summarizing potential climate benefits for 
+
+your municipality, if you believe there are any.
+
+o  A description of any additional information your team may 
+require in order to fill-in information gaps related to hazards 
+caused by climate change.
+
+o  A description of any stakeholder involvement during this 
+
+step.
+
+Step Three:  Affected locations
+
+This section of the MCCAP will:
+
+o  Provide information that describes those parts of the 
+
+municipality that your committee has identified as being 
+subject to climate change issues. Affected locations may 
+range in scale from an entire region, to specific sites and 
+structures.
+
+Checklist & Deliverables:
+
+o  Description of specific places where problems have 
+
+occurred in the past and are highly likely to occur again.
+o  Information describing where within your municipality 
+future climate hazards are likely to occur and how your 
+committee came to identify these areas/sites.
+
+o  Where possible, an analysis of the level of degree of impact 
+
+associated with vulnerable sites (for example, moderate 
+to severe effects anticipated in low-lying areas near the 
+coastline). 
+
+o  An account or map showing municipal and community 
+
+assets located on vulnerable or at-risk areas of your 
+municipality, including specific sites and locations expected 
+to be affected, as well as structures, buildings, existing and 
+new development expected to be affected
+
+o  Description of the kinds of additional information that is 
+
+necessary to complete this analysis.
+
+o  A description of any stakeholder involvement during this 
+
+step.
+
+Step Four:  Facilities and infrastructure
+
+This section of the MCCAP will:
+
+o  Identify and describe how existing (and proposed new) 
+
+municipally-owned and operated facilities and infrastructure 
+are vulnerable to climate change.
+
+Checklist & Deliverables:
+
+o  A description of key facilities and infrastructure. 
+o  A map overlay that indicates whether or not these facilities 
+fall into areas identified in Step Three as being at risk dues 
+to their location with the municipality.
+
+o  A section describing specific issues that your committee 
+
+acknowledges will affect your infrastructure and key 
+facilities.
+
+o  Identification of those facilities and infrastructure 
+considered to be important during an emergency.
+
+o  Completion of the requirements for infrastructure and 
+
+facilities.
+
+o  A description of any stakeholder involvement during this 
+
+step.
+
+Step Five (a):  Who will be Affected
+
+This section of the MCCAP will:
+o  Provide information about whom within the municipality 
+might be most adversely affected by climate change issues.
+
+Checklist & Deliverables:
+
+o  An account of  whom (communities, individuals, groups) 
+within your municipality may be particularly vulnerable to 
+climate change hazards, either because of their location, or 
+due to other factors, and why they are at greater risk. 
+
+o  Any maps which help to convey this information.
+o  Any information regarding how EMO plans will be 
+
+incorporated into this analysis.
+
+o  General information regarding any climate hazards with the 
+
+potential to affect the health and safety of residents.
+
+o  A compilation of individuals, organizations, agencies or 
+groups that may be able to help in the event of a weather-
+related emergency.
+
+o  A description of any stakeholder involvement during this 
+
+step.
+
+Step Five (b):  economic implications
+
+This section of the MCCAP will:
+o  Provide information on the potential economic implications 
+of climate change on the municipality, at both the local and 
+regional levels.
+
+Checklist & Deliverables:
+
+o  Information regarding how your committee anticipates 
+
+climate change could potentially impact local and regional 
+economies, with information relating to areas within the 
+local economy that may be particularly vulnerable to, or 
+exasperated by climate change.
+
+o  A list of ideas and/or options for dealing with potential 
+
+threats to the local economy.
+
+o  A description of any areas within the local economy where 
+
+climate change may prove to be beneficial.
+
+o  A description of any stakeholder involvement during this 
+
+step.
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN25
+
+Step Five (c):  environmental issues
+
+This section of the MCCAP will:
+
+o  Report on any potential environmental issues of which the 
+
+municipality is aware, which could result from climate 
+change impacts. 
+
+Checklist & Deliverables:
+
+o  A summary of any environmental problems experienced 
+
+in your municipality in the past; caused by weather and/or 
+climate change.
+
+o  A section outlining how your committee anticipates these 
+
+problems may increase, become exacerbated or change with 
+future changes in the weather (based on information gained 
+during the completion of Steps One to Five).
+
+o  Any information and/or maps describing sensitive habitats, 
+
+ecosystems, wildlife and endangered species in your 
+municipality which may be impacted by changes in the 
+weather or by climate change.
+
+o  Any maps showing the location of sites with dangerous 
+
+and/or hazardous materials stored within your municipality.
+
+o  Any information which describes storage conditions and 
+overall safety standards in place for hazardous materials.
+
+o  A summary of how your municipality’s Emergency 
+
+Preparedness Plan fits into Step Five.
+
+Step Six:  Priorities for Adaptation
+
+This section of the MCCAP will:
+
+o  Outline the priorities for adaptive action acknowledged by 
+your committee to be important to the overall wellbeing of 
+your municipality.
+
+Checklist & Deliverables:
+
+o  An accounting of the adaptation issues and hazards (with 
+
+implications for the future well-being of your municipality) 
+considered by the committee to warrant future action, 
+with a description of why they were identified as being 
+significant.
+
+o  A level of priority assigned to each issue (high, medium, 
+
+low).
+
+o  A description of any adaptive actions that are already being 
+
+undertaken by the municipality to address issues.
+
+o  Information on the range of potential actions which may 
+
+be under consideration for addressing priority issues. 
+Please note that: municipalities will be asked to provide 
+progress reports on adaptive actions undertaken in the years 
+subsequent to the submission of the final MCCAP in 2013.
+
+o  A list of tasks or additional information necessary to 
+
+develop deeper analysis and understanding of the priority 
+issues (for example detailed mapping or professional risk 
+analysis for infrastructure).
+
+o  For municipalities with a MPS and LUB (refer to Step Six): 
+o  A section explaining how climate change adaptation will 
+
+influence, and be integrated into, land-use policy and 
+(future) land-use regulation. 
+
+o  A discussion on potential planning approaches or tools 
+
+which might be used to facilitate adaptation.
+
+o  For municipalities without formal land use documents: a 
+
+section outlining how you plan to address new development 
+within the context of climate change adaptation.
+
+MCCAP (MiTiGATioN) - TeMPlATe
+
+The following information is a requirement of the MCCAP and 
+must be included as part of the final plan submission to SNSMR.
+
+Introduction
+
+o  A short section describing key areas in which the 
+
+municipality intends to reduce energy demand and energy 
+use with the overall objective of reducing greenhouse gas 
+emissions (buildings, operations, vehicles, etc.). 
+
+Energy & Emissions Information
+
+o  Completion and submission of the UNSM corporate energy 
+
+and emissions spreadsheet.
+
+o  Completion and submission of an energy and emissions 
+
+inventory table.
+
+Goals & Actions
+
+o  A description of emission reduction efforts to-date and/or 
+
+targets for GHG reduction set by the municipality.
+
+o  A description of any progress made towards meeting 
+
+the guiding principles outlined in the Memorandum of 
+Understanding on Climate Change, made between the 
+UNSM and the Province of Nova Scotia.
+
+26 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+o  A description of any significant projects related to reducing 
+emissions already undertaken by the municipality, and any 
+guiding principles or strategic approach already in use with 
+respect to municipal mitigation efforts.
+
+o  A section that describes the goals established by the 
+
+municipality for reducing energy demand and greenhouse 
+gas emissions over the short, medium and long-term.
+
+o  Any contextual notes required for understanding the goals.
+o  A description of the actions established for the plan, and an 
+
+indication of the goals that each action is associated with.
+o  Any contextual notes required to understand the actions.
+
+Implementation
+
+This section of the mitigation plan will include:
+o  The time frame, responsibility and estimated cost 
+
+information associated with each action which links to a 
+goal.
+
+o  Any contextual notes required for understanding this 
+
+content.
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN27
+
+APPeNdiX B
+
+Adaptation Tools, Guidelines 
+& Helpful resources
+
+Step Two:  identify the issues
+
+•  Climate change models
+•  Historical data
+•  Local knowledge
+•  Newspaper and municipal records
+•  Risk rating indices
+• 
+• 
+
+Integrated Community Sustainability Plan
+Peer-reviewed, published and non-published articles on 
+biophysical and socio-economic impacts of climate change
+Findings from technical assessments
+
+• 
+•  Results of climate change risk assessments
+•  Technical expertise – local, provincial, national
+•  UNDP’s Adaptation Learning Mechanism http://www.
+
+adaptationlearning.net
+
+•  UNFCCC http://unfccc.int/national_reports/items/1408.php 
+•  National Capacity Self-Assessment http://ncsa.undp.org
+• 
+
+IPCC Climate Data & Models  http://www.ipcc.ch
+
+Step Three:  Affected locations
+
+•  Maps (e.g. flood, topographic, hazard, zoning, geology, 
+
+soils, watershed)
+•  Local knowledge
+•  Google Earth
+•  Arial photographs
+• 
+•  HRM Climate Change: Developer’s Risk Management 
+
+Integrated Community Sustainability Plan
+
+Guide
+http://www.halifax.ca/climate/documents/
+DevelopersGuidetoRiskManagment.pdf
+
+ 
+
+• 
+
+Intergovernmental Panel on Climate Change http://www.
+ipcc.ch/publications_and/data/publications_and_data_
+reports.htm#1
+
+•  Natural Resources Canada http://www.nrc.ca
+•  Environment Canada http://www.ec.gc.ca
+•  Ouranos http://www.ouranos.ca
+•  Canadian Climate Change Scenario Network http://www.
+
+cccsn.ca
+
+•  Environmental Systems Research Institute Canada http://
+
+www.esricanada.com/english/995.asp
+
+Step Four:  Facilities and infrastructure
+
+Public Sector Accounting Board (PSAB) reporting
+
+•  Community Accounts infrastructure maps
+•  Municipal planning strategy and land use bylaw
+• 
+•  Municipal infrastructure maps
+•  Capital works plans
+•  Engineering studies and drawings
+•  Arial photographs
+• 
+• 
+
+Integrated Community Sustainability Plan
+Infrastructure Climate Risk Protocols (Engineers Canada) 
+www.pievc.ca
+
+•  Guide to Considering Climate Change in Project 
+
+Development in Nova Scotia
+http://www.gov.ns.ca/nse/ea/docs/Development.Climate.
+Change.Guide.pdf
+
+ 
+
+•  Adapting Infrastructure to Climate Change in Canada’s 
+
+Cities and Communities – A Literature Review http://www.
+csa.ca/climatechange/downloads/pdf/Impacts_of_Climate_
+Change_2006.pdf
+
+•  HRM Climate Change: Developer’s Risk Management 
+
+•  Atlantic Canada Adaptation Solutions http://adaptation.
+
+nrcan.gc.ca/collab/index_e.php
+
+ 
+
+28 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+Guide
+http://www.halifax.ca/climate/documents/
+DevelopersGuidetoRiskManagment.pdf
+
+•  The Role of Standards in Adapting Canada’s Infrastructure 
+
+to the Impacts of Climate Change
+http://www.csa.ca/climatechange/downloads/pdf/Impacts_
+of_Climate_Change_2006.pdf
+
+•  Canadian Institute of Planners http://www.cip-icu.ca
+•  Engineers Canada http://engineerscanada.ca
+•  Environmental Systems Research Institute Canada http://
+
+www.esricanada.com/english/955.asp
+Federation of Canadian Municipalities http://www.fcm.ca
+Public Infrastructure Engineering Vulnerability Committee 
+(PIEVC): Adapting Infrastructure to a Changing Climate  
+http://www.pievc.ca/e/index_.cfm
+
+ 
+
+• 
+• 
+
+•  Natural Disaster Mitigation in Drinking Water and 
+
+Sewerage Systems: Guidelines for Vulnerability Analysis 
+http://www.paho.org/English/DD/PED/natureng.htm
+
+ 
+
+Integrated Community Sustainability Plan
+Social Services Agencies
+
+Step Five:  Socioeconomic & environmental
+•  Community Accounts Statistics
+•  Municipal planning strategy and land use bylaw
+• 
+• 
+•  Emergency Plans
+•  Archeological, Heritage & Cultural Studies
+• 
+Population and Demographic Assessments
+•  Community Development Grants
+•  Municipal planning strategy and land use bylaw
+• 
+Integrated Community Sustainability Plan
+•  Community Maps, Reports and Statistics
+•  Environmental Plans
+•  Local Knowledge
+•  Local Environmental Groups
+•  Maps (ex. Habitat, soils, geology, zoning)
+•  Guide to Considering Climate Change in Environmental 
+
+Assessments in Nova Scotia 
+http://www.gov.ns.ca/nse/ea/docs/EA.Climate.Change.
+Guide.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+Step Six:  Setting Priorities & Taking Action
+•  Municipal planning strategy and land use bylaw
+Integrated Community Sustainability Plan
+• 
+•  Community Maps, Reports and Statistics
+•  Local Knowledge
+•  Case Studies
+ 
+
+Adapting to Climate Change: A Risk-based Guide for Local 
+Governments (Black et al.,2010)
+http://adaptation.nrcan.gc.ca/tools/abosuj_e.php
+
+ 
+•  Municipal Resources for Adapting to Climate Change 
+
+(Federation of Canadian Municipalities) 
+www.sustainablecommunities.ca/files/Capacity_
+Building_-_PCP/PCP_Resources/Mun-Re-_Adapting-
+Climate-Change-e.pdf
+
+•  Adapting to Climate Change: An Introduction for Canadian 
+
+Municipalities
+ 
+http://adaptation.nrcan.gc.ca/mun/pdf/mun_e.pdf
+•  Guide to Considering Climate Change in Project 
+
+Development in Nova Scotia
+http://www.gov.ns.ca/nse/ea/docs/Development.Climate.
+Change.Guide.pdf
+
+•  HRM Climate Change: Developer’s Risk Management 
+
+Guide
+http://www.halifax.ca/climate/documents/
+DevelopersGuidetoRiskManagment.pdf
+
+•  Community Climate Change Adaptation Handbook 
+ 
+• 
+
+http://www.clean.ns.ca/files/01/59/CCAdaptBooklet.pdf
+FCM’s Model Climate Change Action Plan, from their 
+Partners for Climate Protection program: 
+http://fmv.fcm.ca/files/Capacity_Building_-_PCP/model-
+climate-change-action-plan-En.pdf 
+
+ 
+
+•  Vancouver’s Corporate Climate Change Action Plan: 
+ 
+
+http://vancouver.ca/sustainability/documents/corp_
+climatechangeAP-1.pdf 
+
+•  Vancouver’s Community Climate Change Action Plan 
+
+(Climate-friendly City):
+http://vancouver.ca/sustainability/documents/
+CommunityClimateChangeActionPlan2005coverandreport.
+pdf 
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN29
+
+Climate Change. 
+cbtadaptation.squarespace.com/guidebooks-papers-
+methologie/
+Institute for Local Government – Best Management 
+Practices 
+http://www.ca-ilg.org/ClimatePractices
+IPCC Technical Guidelines for Assessing Climate Change 
+Impacts and Adaptations 
+http://www.ipcc.ch/publications_and_data/publications_
+and_ data_reports.htm
+
+•  UNDP Adaptation Policy Framework 
+ 
+•  Assessments of Impacts and Adaptations to Climate Change 
+
+http://www.undp.org/climatechange adapt/apf.html
+
+in Multiple Regions and Sectors 
+http://unfccc.int/files/cooperation_and_support/Idc/
+application/pdf/annguide.pdf
+
+•  Tool for Environmental Assessment and Management 
+
+(TEAM) 
+http://www.epa.gov/eims/global/team1.pdf
+
+ 
+•  Adaptation Actions 
+ 
+
+http://www.ukcip.org.uk/index.php?option=com_
+content&task=view
+
+•  Climate Change Adaptation Framework Manual (Ministry 
+
+•  Canadian Communities’ Guidebook for Adaptation to 
+
+ 
+
+• 
+
+ 
+• 
+
+ 
+
+ 
+
+of Sustainable Resource Development, Alberta)
+www.srd.alberta.ca/MapsFormsPublications/Publications/
+ClimateChangeAdaptationFramework.aspx
+
+ 
+
+•  Alberta Association of Municipal Districts and Counties 
+
+(AAMDC) and Alberta Urban Municipalities Association’s 
+Model Climate Change Action Plan
+
+  mccac.ca
+•  EPA’s guide to developing a climate change action plan: 
+ 
+
+http://www.epa.gov/statelocalclimate/local/activities/action-
+plan.html
+International examples of Climate Change Action Plans 
+from C40 cities: 
+http://www.c40cities.org/ccap/ 
+
+ 
+•  United Nations Conference on Climate Change: Local 
+
+• 
+
+• 
+
+Coping Strategies Database 
+http://maindb.unfccc.int/public/adaptation/
+
+ 
+•  Climate Change Scenarios: New Brunswick Municipalities 
+ 
+http://www.unb.ca/enviro/documents/Finalreport-March30.
+pdf
+Partners for Climate Protection: Municipal Resources for 
+Adapting to Climate Change 
+http://fmv.fcm.ca/files/Capacity_Building_-_PCP/PCP_
+Resources/Mun-Re-_Adapting-Climate-Change-e.pdf
+•  Climate Change: Changing Communities A Guide and 
+Workbook for Municipal Climate Change Adaptation 
+http://www.iclei.org/fileadmin/user_upload/documents/
+Canada/Changing_Climate/ICLE076_-_NRCan_Guide.pdf
+
+ 
+
+ 
+
+30 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+Mitigation Tools, Guidelines & Helpful resources
+
+report Title
+Climate Change 101
+
+Climate Change 101
+
+organization
+PeW Center for Global Climate 
+Change
+Government of Canada
+
+Access
+Available online: http://www.pewclimate.org/global-
+warming-basics/climate_change_101 
+Available online: http://www.climatechange.gc.ca/default.
+asp?lang=en&n=65Cd73F4-1 
+Available online: http://www.epa.gov/climatechange/
+basicinfo.html
+
+united States environmental 
+Protection Agency
+Nova Scotia department of energy Available online: http://oee.nrcan.gc.ca/Publications/
+
+Climate Change Basic information
+
+Climate Change in Nova Scotia: A 
+Background Paper to Guide Nova 
+Scotia’s Climate Change Action Plan
+From impacts to Adaptation: 
+Canada in a Changing Climate 2007
+our Coast live. Work. Play. Protect. 
+The 2009 State of Nova Scotia’s 
+Coast Technical report
+Submission for Nova Scotia 
+department of energy’s energy 
+Strategy and Climate Change 
+Action Plan
+Toward a Greener Future: Nova 
+Scotia’s Climate Change Action Plan
+energy efficiency Trends in Canada 
+1990-2004
+Greenhouse Gas emissions 
+Forecasting: learning from 
+international Best Practices
+Halifax regional Municipality 
+Community local Action Plan to 
+reduce Greenhouse Gas emissions
+improving energy Performance 
+in Canada. report to Parliament 
+under the energy efficiency Act for 
+the Fiscal Year 2007-2008
+National inventory report 1990-
+2008: Greenhouse Gas Sources and 
+Sinks in Canada
+Act locally. The Municipal role in 
+Fighting Climate Change
+
+statistics/trends06/pdf/trends06.pdf 
+
+Government of Canada
+
+Province of Nova Scotia
+
+Available online: http://adaptation.nrcan.gc.ca/
+assess/2007/pdf/full-complet_e.pdf 
+Available online: http://www.gov.ns.ca/coast/documents/
+report/Coastal-Tech-report-Nov-09.pdf . Chapters 5 and 7.
+
+Clean Nova Scotia
+
+Available online: http://www.clean.ns.ca/files/30/
+CNS27s20submission20for20doe.pdf 
+
+Nova Scotia department of 
+environment 
+Natural resources Canada
+
+National round Table on the 
+environment and the economy
+
+Naturally Green
+Halifax regional Municipality
+dillon Consulting limited
+Natural resources Canada
+ecoeNerGY
+
+Available online: http://climatechange.gov.ns.ca/doc/
+ccap.pdf 
+Available online: http://oee.nrcan.gc.ca/Publications/
+statistics/trends06/pdf/trends06.pdf 
+Available online: http://www.ec.gc.ca/Content/6/3/
+A/63A6d41e-8017-4826-A40C-6C940BF71BC5/nrtee-ghg-
+emissions-forecasting-eng.pdf 
+
+Available online: http://oee.nrcan.gc.ca/publications/
+statistics/parliament07-08/pdf/parliament07-08.pdf
+
+The Canadian Government’s 
+Submission to the uN Framework 
+Convention on Climate Change
+Federation of Canadian 
+Municipalities 
+
+Available online: http://www.ec.gc.ca/Publications/
+default.asp?lang=en&xml=492d914C-2eAB-47AB-A045-
+C62B2CdACC29 
+Available online: http://www.fcm.ca//CMFiles/FCM_
+Climate_en_Final1rSG-1272009-2598.pdf 
+
+MuNiCiPAl CliMATe CHANGe ACTioN PlAN31
+
+Canada - Nova Scotia
+Infrastructure 
+Secretariat
+
+Secrétariat du Programme
+d’Infrastructures
+Canada - Nouvelle Écosse
+
+Maritime Centre 14 North
+1505 Barrington Street
+P.O.  Box 216
+Halifax, Nova Scotia  B3J 2M4
+
+Maritime Centre 14 Nord
+1505  rue Barrington
+C.P.  Box 216
+Halifax, Nouvelle-Ecosse  B3J 2M4
+
+Tel: 902.424.4141   |   Fax/Téléc: 902.424.0821   |     Web site: www.nsinfrastructure.ca
+
+32
+ 
+
+ 
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+CANAdA-NovA SCoTiA iNFrASTruCTure SeCreTAriAT
+
+www.nsinfrastructure.ca
+
+

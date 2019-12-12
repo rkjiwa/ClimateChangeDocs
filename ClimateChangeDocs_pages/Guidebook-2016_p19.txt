@@ -1,0 +1,58 @@
+What is climate information?
+
+The term climate information is used in this document to refer to climate data that are obtained from 
+observations from meteorological stations or from climate models. The former provides information on 
+historical events while the latter can simulate both past and future periods. The focus of the guide is 
+largely on future climate information. 
+
+TARGET AUDIENCE 
+
+This guide is intended to be broad-reaching and written in a general fashion in order to help decision-
+makers from all sectors of activity faced with the task of evaluating the impacts of climate change and/or 
+of implementing adaptation measures. In other words, the guide targets an audience already invested in 
+climate change adaptation that is for example going through an adaptation process described in Figure 1. The 
+information presented will be particularly useful for users who have limited experience with climate information 
+and climate services. A better understanding of the available climate information will increase their ability to 
+evaluate their particular needs and to either prepare the information themselves or to communicate their 
+requirements to climate service providers.
+
+Climate service providers will also benefit from the guide since it will help them better categorize demands 
+in terms of the use or purpose of the climate information and acquire a better sense of the different types 
+of climate formats that can be tailored according to user expertise. The latter is also true for those who 
+regularly use climate data and therefore understand climate science concepts well but must often find a way 
+to present their results to stakeholders who may not generally be as familiar with climate information. 
+
+OBJECTIVES 
+
+The overall objectives of this guidebook are to increase the capacity of decision-makers to understand climate 
+information and to incorporate this information in a decision-making framework.  The guide should, on one 
+hand, serve as a reminder to users to become more critical of the information that is given to them, and on 
+the other, it should also serve as a reminder to climate service providers to become more transparent about 
+the way in which climate information is produced. 
+
+HOW TO USE THIS GUIDE
+
+This guidebook is meant to appeal to a wide range of users and therefore contains information with varying 
+levels of complexity. Consequently, many will not need to read the entire document. Rather, users may want 
+to focus their efforts on sections that are most relevant to them.
+A few important points should guide the reader through this document:
+
+ › Part of the challenge for decision-makers in using climate information is often to understand the terminology  
+used by climate scientists. Many such concepts are addressed in Chapter 1 and are highlighted using bold  
+coloured font throughout the guide. 
+
+ › The level of complexity of the climate information increases fairly rapidly with the progression through the  
+different figures and graphics presented in Chapter 3. It may therefore be helpful to evaluate one’s needs in  
+Chapter 2 and then use that information to focus on the associated climate information category in  
+Chapter 3. 
+
+ 
+ 
+
+ 
+ 
+ 
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  4
+
+

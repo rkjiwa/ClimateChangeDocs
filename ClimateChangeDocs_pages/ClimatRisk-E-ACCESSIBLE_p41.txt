@@ -1,0 +1,95 @@
+Trends of warming temperatures and increasingly-severe storm events are projected to continue in 
+the future. Although northern governments and practitioners have begun planning and adapting 
+to climate change, additional practices and resilience-building strategies are needed to ensure the 
+reliability and longevity of transportation infrastructure and systems in northern Canada. 
+
+This chapter assesses the many challenges and opportunities for transportation, associated with 
+climate change in Canada’s three northern territories – the Yukon, the Northwest Territories, and 
+Nunavut. The chapter provides a regional overview of the territories’ distinct geography and 
+transportation networks; discusses observed and projected changes in the northern climate; provides 
+examples of associated impacts on transportation; describes adaptation practices to mitigate these 
+impacts; and identifies gaps in knowledge and research that remain to be addressed regarding 
+future climate risks and opportunities. This synthesis of information aims to enhance understanding of 
+climate risks and adaptation practices within the transportation sector, and inform decision-making.
+
+1.1 REGIONAL OVERVIEW
+
+Canada’s North is characterized by its vast size; diverse and rugged landscape; harsh climate; frozen 
+ground (i.e. permafrost); and seasonally frozen waterways and marine waters. The landscape of the 
+North includes long coastlines, Canada’s highest mountain range (the Saint Elias in the Yukon), densely 
+forested areas (across much of the Yukon and large parts of the Northwest Territories) and tundra 
+(across all of Nunavut, large parts of the Northwest Territories, and the extreme north of the Yukon).   
+
+While the capital cities of the three territories all have populations in excess of 7,000 people, the 
+region’s many other communities generally feature small populations situated vast distances 
+from one another, with many only reachable by air or water (see Table 1). These characteristics 
+present challenges for transportation infrastructure and operations – and for economic and social 
+development more broadly – in the North.  
+
+Table 1: Territorial North Demographic Overview (2014 population estimates). (Source: Statistics 
+Canada, 2012a, b, c and Statistics Canada 2014).
+
+Indicator
+
+Population
+Area (km2)
+Population Density/km2
+Number of Communities
+
+Yukon
+
+36,510
+474,713
+
+0.1
+19
+
+Northwest 
+Territories
+
+43,623
+
+1,143,793
+
+0.04
+33
+
+Nunavut
+
+36,585
+
+1,877,788
+
+0.02
+25
+
+Total 
+
+116,718
+3,496,294
+
+0.03
+77
+
+The economies of the territories are predominantly resource-based – mining and oil and gas production 
+are the region’s primary economic drivers. Mining activity and oil production in the Yukon and 
+Northwest Territories are highly dependent upon road transport and systems for supplies and exports. This 
+includes a number of key winter roads that support resource-development projects, particularly in the 
+Northwest Territories (for example, the Tibbitt to Contwoyto Winter Road – see Case study 1). In contrast, 
+economic activities in Nunavut are especially reliant upon sea-based transportation, as there are no 
+roads connecting communities and moving goods by air is costly. In the future, marine transportation is 
+expected to play an increased role in the economies of the territories. 
+
+The North also has a vibrant social economy, with a diverse mix of people and cultures. In 2011, 52 
+per cent of the population of the Northwest Territories, 86 per cent of Nunavut, and 17 per cent of 
+the Yukon identified as Aboriginal (Statistics Canada, 2011). Many traditional ways of life for First 
+Nations (e.g., hunting, fishing, trapping) require ease of movement across land, including accessible 
+routes across snow and ice. Inuit, who have traditionally used sea ice as a “highway” to resources, 
+
+ 
+CHAPTER 3: NORTHERN TERRITORIES 
+
+30
+30
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

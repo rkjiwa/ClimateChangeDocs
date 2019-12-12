@@ -1,0 +1,403 @@
+TABLE 3-2:  Impact Rating Matrix 
+
+ 
+
+Impact 
+
+ 
+ 
+
+Degree 
+
+Very low 
+Low 
+Moderate 
+Major 
+Very Severe 
+
+ 
+t
+
+n
+e
+m
+
+l
+
+i
+
+ 
+-
+e
+c
+a
+p
+s
+D
+ 
+ 
+ 
+ 
+ 
+
+Social factors 
+
+ 
+
+ 
+y
+t
+e
+a
+S
+
+f
+
+ 
+
+&
+h
+
+ 
+
+t
+l
+
+a
+e
+H
+ 
+ 
+ 
+ 
+ 
+
+ 
+f
+
+o
+ 
+s
+s
+o
+L
+
+d
+o
+o
+h
+
+i
+l
+
+e
+v
+L
+
+i
+
+ 
+l
+
+a
+r
+u
+
+t
+l
+
+u
+C
+
+ 
+s
+t
+c
+e
+p
+s
+A
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+e
+g
+a
+m
+a
+D
+
+ 
+ 
+y
+t
+r
+e
+p
+o
+r
+P
+ 
+ 
+ 
+ 
+ 
+
+Economic factors 
+
+ 
+
+ 
+l
+
+i
+
+a
+p
+c
+n
+u
+M
+
+s
+e
+c
+n
+a
+n
+F
+
+i
+
+i
+
+ 
+l
+
+i
+
+a
+c
+n
+a
+n
+F
+
+i
+
+ 
+t
+c
+a
+p
+m
+
+I
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+n
+o
+
+I
+
+ 
+t
+c
+a
+p
+m
+ 
+ 
+ 
+ 
+ 
+
+Environmental factors 
+
+ 
+r
+i
+
+A
+
+t
+
+ 
+r
+e
+a
+W
+
+ 
+
+d
+n
+a
+L
+
+ 
+-
+o
+c
+E
+
+ 
+s
+m
+e
+t
+s
+y
+s
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Note: In both tables 3.1 and 3.2 the measurements are expressed in comparative terms (“very 
+unlikely” to “virtually certain” and “very low” to “very severe”).  It is also possible to express these in 
+numerical values so that adding or multiplying them gives a quantified relative frequency or impact 
+consequence.  The problem with using numerical values is that the reader may perceive them to imply 
+more accuracy than actually exists.  The risk management team should consider the method to be 
+used to compare relative frequency and impact or consequence values and agree on the most 
+appropriate way of assigning relative values.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6)  Consult with stakeholders and refine the 
+
+ 
+
+ 
+
+stakeholder analysis 
+(cid:131)  Engage stakeholders in a meaningful 
+dialogue in order to communicate the 
+risk estimates and to clarify their issues 
+and concerns.  Consider using focus 
+groups, workshops or public meetings. 
+(cid:131)  Communicate information openly and in 
+
+language and detail that stakeholders 
+can understand. Provide information on 
+the risk baseline (i.e. the risk frequency 
+and consequences that exist now), 
+methods for developing the risk 
+scenarios and for estimating frequencies 
+and consequences, assumptions, third 
+party analyses and any other relevant 
+information. 
+
+(cid:131)  Some stakeholders may not agree with 
+
+the frequency or consequence 
+estimates.  Record stakeholders’ 
+different views.  Later in the process, 
+return to this step, if necessary, to test 
+and discuss the sensitivities of the 
+proposed adaptation measures to these 
+different views of frequency or 
+consequences.  
+
+(cid:131)  Stakeholders’ issues and concerns will 
+probably change as they become more 
+familiar with the risk scenarios and the 
+risk management process.  Document 
+these changes on an ongoing basis. 
+
+Expected results and outputs 
+•  Estimates of frequency and consequences 
+of risk scenarios, and estimate of expected 
+consequences of each scenario 
+
+•  Frequency and consequence estimates 
+
+presented in a format that is easy-to-
+understand by non-experts 
+
+•  Estimates of the acceptance by 
+
+stakeholders of risk, or a record of reasons 
+for non-acceptance, based on a dialogue 
+with the stakeholders and a careful 
+documentation of their perception of the 
+risks. 
+Decision 
+•  End the process if the estimated risks are 
+much lower than initially estimated in the 
+preliminary analysis, and stakeholders agree 
+that there is no longer a significant concern. 
+
+•  Go back if: 
+
+(cid:131)  There is new information that needs to 
+
+(cid:131)  Additional risk scenarios need to be 
+
+be considered; 
+
+considered; 
+
+(cid:131)  There are doubts about data quality or 
+
+analytical methods; or  
+
+(cid:131)  Not all stakeholders are comfortable 
+
+with the level of uncertainty associated 
+with the analysis. 
+
+•  Proceed to the next step if the risk 
+
+management team and stakeholders are 
+
+15
+
+

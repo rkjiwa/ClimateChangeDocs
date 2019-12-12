@@ -1,0 +1,59 @@
+Adaptation: Initiatives and measures to reduce the vulnerability of natural and human systems against ac-
+tual or expected climate change impacts.
+
+Adaptive capacity: A system’s ability to implement adaptation measures to climate change (including climate 
+variability and extremes).
+
+Aerosols: A collection of airborne solid and liquid particles that reside in the atmosphere for at least several 
+hours. They can be either natural or anthropogenic in origin and may influence the climate in several ways: 
+directly through scattering and absorbing radiation, and indirectly through acting as cloud and ice condensa-
+tion nuclei which impact the optical properties and lifetime of clouds.
+
+Analogues: Climate analogues are a type of climate scenario constructed by identifying a recorded climate 
+regime that resembles the future climate of a region of interest. The climate regimes can be obtained from 
+the past (temporal analogues) or from another region in the present (spatial analogues).
+
+Anomalies: Anomalies represent the difference between the value of a climate variable for a given year or 
+season and the average value of the reference period.
+
+Baseline: See reference period. A measurable quantity from which alternative outcomes can be estimated.
+
+Boundary organization: Organizations that facilitate the exchange of knowledge between science and policy.
+
+Change fields: See Deltas
+
+Climate adaptation: The process that leads to a reduction in harm or risk of harm, or the realization of bene-
+fits, associated with climate variability and climate change.
+
+Climate change: Long-term continuous increase or decrease to climatic variables (such as 30 year averages 
+of temperature and precipitation).
+
+Climate information: This term is used in the guidebook to refer to climatic data that describe either past 
+conditions, obtained from meteorological stations, or the future, obtained from the outputs of climate mo-
+dels.
+
+Climate model: A numerical representation of the climate system based on the physical, chemical, and biolo-
+gical properties of its components, their interactions and feedback processes, and accounting for all or some 
+of its known properties.
+
+Climate normals: The average of weather conditions as obtained from observations for a historical 30-year 
+time interval defines «typical» conditions for a given area. Note that climate normals are typically given for 
+the time span that corresponds to the reference period.
+
+Climate projection: Projections represent the future portion of climate model simulations. They are based 
+on assumptions such as those concerning future socioeconomic and technological developments that may 
+or may not be realized and thus are subject to uncertainty. 
+
+Climate scenario: A coherent and internally-consistent description of the evolution in the climate for a given 
+time period in the future, using a specific modelling technique and under specific assumptions about the 
+evolution of greenhouse gas emissions and other factors that may influence the climate in the future. Cli-
+mate projections serve as the raw material for constructing climate scenarios, but climate scenarios usually 
+require additional information such as observed current climate.
+
+Climate service providers: An organization that supplies climate information to users. The roles of these 
+organizations may include providing historical climate data, running climate simulations, and tailoring their 
+outputs to suit the needs of individual users.
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  84
+
+

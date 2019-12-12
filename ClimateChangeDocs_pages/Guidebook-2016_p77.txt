@@ -1,0 +1,59 @@
+What are the limitations/caveats/possible ways 
+to misinterpret the information?
+Users  have  to  keep  in  mind  that  the  proportion 
+values presented in this figure do not represent 
+a  probability  of  occurrence.  The  uncertainty 
+in  the  simulations,  represented  here  by  the 
+coloured  lines,  remains  important.  More  weight 
+or  importance  cannot  be  assigned  to  one  curve 
+over another. In other words, one scenario (line) 
+is not more likely than another.
+
+In  addition,  it  may  be  fairly  difficult  to  visualize 
+what  the  information  presented  in  this  type 
+of  figure  actually  represents  for  a  given  area. 
+This type of graphic is in fact rarely given on its 
+own  but  tends  to  be  complementary  to  a  map 
+(where differences over the study area are better 
+represented)  or  to  an  evolution  figure  (where 
+average changes over the study area more easily 
+discerned).
+
+What climate information is presented and how 
+should it be interpreted?
+The  figure  presents  cumulative  distribution 
+functions  (CDF)  of  the  projected  number  of 
+growing degree-days for the reference period and 
+the 2050 (top) and 2090 (bottom) future horizons 
+for the Yellowknife region.
+
+This  format  of  presentation  allows  for  an  easy 
+comparison  between  the  different  percentile 
+distribution  of  observed  and  projected  changes, 
+as  well  as  an  evaluation  of  exceeding  given 
+thresholds.  For  example,  a  year  with  a  growing 
+degree-day  mean  of  around  800,  which  is  a 
+fairly  common  occurrence  in  the  observations 
+(black line), is projected to occur less than 5% of 
+the  time  by  the  median  scenario  over  the  2050 
+horizon.  Over  the  2090  horizon,  the  proportion 
+of projected values that will be inferior or equal 
+to 800 is only about 0.18 for the 10th percentile 
+scenario  (green  line).  On  the  other  hand,  the 
+90th  percentile  scenario  (red  line)  points  to 
+an  increasing  proportion  of  years  with  higher 
+numbers of growing degree-days.
+
+How is the figure constructed?
+The  figure  presents  the  same 
+information 
+shown on the distribution curves of the previous 
+evolution  figure  (right  panel)  but  displayed  in  a 
+different  manner.  The  cumulative  curves  show 
+the  proportion  of  years  (vertical  axis)  that  have 
+values inferior or equal to a given value of growing 
+degree-days (horizontal axis).
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  62
+
+

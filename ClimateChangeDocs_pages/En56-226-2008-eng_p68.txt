@@ -1,0 +1,109 @@
+guidebook livia-rev-final:Layout 1  12/23/08  9:25 AM  Page 68
+
+APPENDIX 1
+
+Sensitivity  analysis  was  applied  in  a  Canadian  study  to
+evaluate the impacts of climate change on drainage design
+methods and on different types of drainage systems. Using
+this method, they were able to investigate possible changes
+to variables, such as peak flow and runoff volume and how
+these  changes  would  affect  components  of  the  drainage
+system, including required pipe size or the cost of different
+design methods (Kije Sipi Ltd., 2001).
+
+Trade-off analyses
+
+Trade-off  analysis  is  a  form  of  integrated  assessment  that
+incorporates stakeholders, experts and policy makers in a
+process  designed  to  provide  policy-relevant  information.
+Through incorporation of relevant components of the social,
+economic,  decision-making  and  biophysical  systems,  this
+approach  highlights  the  interactions  between  different
+components  of  the  system  in  order  to  describe  tradeoffs
+associated  with  different  adaptation  options.  Various
+qualitative and/or quantitative methods may be employed in
+the research process, including public consultations, focus
+groups,  expert  judgment,  and  mathematical  models.
+Tradeoffs are identified between the components of interest.
+For  example,  these  could  be  tradeoffs  between  different
+sectors  of  society,  between  environmental,  social  and
+economic objectives, or between adaptation and mitigation
+policies. These tradeoffs are then presented publicly in various
+forms, for example as tradeoff curves, maps or risk diagrams,
+to be used in decision-making (Stoorvogel et al., 2004).
+
+This approach was applied in a case in the Philippines to
+evaluate tradeoffs in climate change adaptation options for a
+specific watershed. This study examined tradeoffs between
+key sectors of society in order to identify potential synergies
+and  conflicts  between  different  adaptation  options.  This
+provided insights into which policy options may have positive
+impacts on multiple sectors and which may have negative
+consequences. Thus allowing policy to be directed towards
+optimizing  synergies  and  proactively  mitigating  negative
+effects of adaptation strategies. This approach also helped to
+identify early on some of the potential conflicts that could
+arise (Lasco et al., 2006). 
+
+Uncertainty analyses
+
+Two main sources of uncertainty for climate change policy
+derive from limitations on our knowledge of how the global
+
+climate system works and our ability to model it, and the
+uncertainties  present  in  predicting  the  course  of  human
+actions in the future (e.g. policy decisions, demographics,
+economics,  technology,  etc).  While  efforts  are  constantly
+being made to reduce uncertainties around climate change
+science  and  modeling,  uncertainty  will  always  be  an
+important  component  informing  climate  change  policy.
+Rather than becoming a source of indecision, this must be
+recognized  and  analyzed  so  as  to  best  understand  and
+communicate the areas of uncertainty that have a bearing on
+policy decisions. 
+
+Uncertainty  analysis  is  therefore  an  integral  part  of  any
+climate change assessment. This analysis can also be used to
+describe different types and degrees of uncertainty relating to
+policy options, or to assign relative likelihoods to various
+scenarios and present a selection of most likely scenarios. The
+purpose is to provide an informed basis for decision-makers
+and the public to begin consideration of appropriate policy
+options for adaptation and mitigation (Webster, 2003). For
+example, in the IPCC Fourth Assessment report uncertainty
+analysis is used to provide judgments of relative likelihoods
+that projected outcomes will occur, expressed in terms of the
+following confidence levels:
+
+(cid:129)  Very High confidence (at least 9 out of 10 chance of being
+
+correct)
+
+(cid:129)  High confidence (about 8 out of 10 chance)
+
+(cid:129)  Medium confidence (about 5 out of 10 chance)
+
+(cid:129)  Low confidence (about 2 out of 10 chance)
+
+(cid:129)  Very low confidence (less than 1 out of 10 chance)
+
+Vulnerability assessment 
+
+A starting point for planning for climate change adaptation
+is  to  conduct  an  assessment  of  the  vulnerability  of  a
+community’s human, natural and physical infrastructure to
+climate variability and severe weather. Such an understanding
+provides a basis for setting adaptation policy priorities by
+identifying areas that require new policies or partnerships,
+and areas of emerging opportunities. Vulnerability assessment
+at a local level proceeds in five steps. First, parties that would
+be affected by, and make decisions about, climate change for
+a  certain  sector  are  brought  together.  Second,  current
+vulnerabilities  to  severe  weather  events  are  identified  by
+participants for all affected sectors. Third, future conditions
+
+68
+
+CANADIAN COMMUNITIES’ GUIDEBOOK FOR ADAPTATION TO CLIMATE CHANGE
+
+

@@ -1,0 +1,60 @@
+Bridge infrastructure is also vulnerable to extreme heat. Bridges are designed to withstand some 
+expansion and contraction through the use of flexible materials embedded between fixed points.  
+However, as temperatures increase, the limits of these expansion joints can be exceeded, displacing 
+material or cracking deck materials, especially at the interface with fixed points. This cracking can 
+lead to substantial bridge deterioration, resulting in closures and lengthy detours (Cohen et al., 2005). 
+In addition, both extreme heat and cold may result in malfunctioning traffic control signals (McLeod 
+and Stevanovic-Briatico, 2014). 
+
+As seasonal temperature patterns shift, the frequency of freeze-thaw cycling is likely to increase 
+throughout Canada, and the timing and onset of freeze-thaw events are likely to change, with 
+implications for road infrastructure (Transportation Research Board, 2008). During periods of thaw, 
+moisture seeps into small cracks, freezes and expands when cold returns, and melts (causing 
+pavement weakness) during the next thaw (United States Federal Highway Administration, 2015). As 
+a result, pavement is more likely to experience shearing (cracking) and rutting, reducing the strength 
+and stability of roadways (Transportation Research Board, 2008; United States Federal Highway 
+Administration, 2015). In northern climates, freeze-thaw cycling and temperature increases also 
+contribute to further permafrost degradation, which poses risks to the stability of urban roads and their 
+embankments (Woudsma et al., 2007; Transportation Association of Canada, 2010).
+
+CHANGING WATER LEVELS
+
+Bridge scour, which refers to the removal of supportive sand and rock sediment around bridges 
+constructed over waterways (Transportation Research Board, 2008), has affected many Canadian 
+jurisdictions during high-water events (Environment Canada, 2014). Similarly, flooding and storm surges 
+pose erosion risks to coastal highways – this is particularly problematic in Atlantic Canada and British 
+Columbia (AMEC Inc., 2011). Vancouver was recently named the 15th most-vulnerable city in the world 
+to sea level rise, with likely impacts to road infrastructure by 2100 (at which point 1.1m of sea level rise 
+is anticipated).  These impacts include inundation, erosion, and washing-out of low-lying downtown 
+streets (Mills, 2016).
+
+WIND
+
+Data suggest the intensity of wind gusts (on average and during extreme events) is likely to increase 
+over the 21st century in Canada (Cheng et al., 2008), although with considerable regional variability 
+(Cheng et al., 2014). Fallen debris (i.e. power lines, trees, and branches) from high winds can obstruct 
+roadways, sidewalks, and cycling pathways (City of Montreal, 2015), while blowing snow disrupts 
+visibility in winter months (Andrey et al., 2013). Strong winds may also temporarily close bridges – for 
+instance, the Burlington Skyway near Hamilton, Ontario is closed when winds reach or exceed 85km/h 
+(Craggs, 2014). 
+
+WILDFIRE
+
+Changing patterns of temperature and precipitation affect the frequency and severity of wildfires, 
+particularly in Canada’s drier, western regions (i.e., the Prairies and British Columbia). Recent research 
+suggests that the frequency of wildfires will rise over the 21st century, and that fire management 
+agencies in both coastal and temperate areas may need to adapt their planning and response 
+capacities to deal with potential changes in fire regimes (Wang et al., 2015). This has implications for 
+transportation, particularly for emergency response planning. For example, during the catastrophic 
+2011 wildfires in Slave Lake, Alberta, emergency personnel successfully coordinated the evacuation 
+of residents by road, despite the availability of only a handful of exit routes out of the town (which 
+quickly became congested) and thick smoke. This success was attributed to planning and coordination 
+amongst municipal departments and emergency personnel prior to the crisis (KPMG, 2012).
+
+ 
+CHAPTER 9: URBAN 
+
+282
+282
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

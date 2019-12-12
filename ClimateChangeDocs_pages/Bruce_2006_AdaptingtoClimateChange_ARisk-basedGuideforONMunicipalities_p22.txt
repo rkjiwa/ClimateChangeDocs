@@ -1,0 +1,298 @@
+ 
+
+measures such as numerical values 
+may be used so long as they do not 
+imply an accuracy that is not implicit in 
+the comparative values.    
+
+(cid:131)  Because experts and non-experts 
+generally view risks differently, it is 
+important to maintain an open and 
+interactive dialogue with stakeholders in 
+order to accurately gauge their level of 
+acceptance of risks.  
+
+Risk Evaluation Matrix 
+
+   
+
+e
+m
+e
+r
+t
+x
+E
+
+   
+
+j
+
+r
+o
+a
+M
+
+   
+
+t
+
+e
+a
+r
+e
+d
+o
+M
+
+   
+
+w
+o
+L
+
+   
+
+w
+o
+L
+
+ 
+y
+r
+e
+V
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Very 
+
+Occasional 
+Occurrence 
+
+Unlikely to 
+Happen 
+FREQUENCY/PROBABILITY 
+
+Moderately 
+Frequent 
+
+Occurs 
+Often 
+
+Virtually 
+Certain to 
+
+Occur 
+
+Extreme risk:  Immediate controls 
+required 
+ 
+High risk: High priority control 
+measures required 
+ 
+Moderate risk:  Some controls 
+required to reduce risks to lower levels 
+ 
+
+  Low risk: Controls not likely required.  
+
+ 
+
+ 
+
+Some actions, such as public 
+education, may be desirable 
+ 
+Negligible risk:  Scenarios do not 
+require further consideration 
+
+ 
+
+ 
+
+I
+
+Y
+T
+R
+E
+V
+E
+S
+T
+C
+A
+P
+M
+
+ 
+
+I
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+(5)  During the dialogue with stakeholders about 
+their perceptions and the acceptability of the 
+risks, begin to identify plausible risk control 
+options to help reduce unacceptable risks to 
+
+ 
+
+19
+
+acceptable levels.  These will be considered 
+in the next step. 
+
+(6)  Update the risk information library  
+Expected results and outputs 
+•  Risks evaluated in terms of probability, 
+
+consequence, costs and benefits. 
+
+•  Risks prioritized. 
+•  Unacceptable risks identified. 
+•  Meaningful dialogue with stakeholders about 
+
+acceptability of risks. 
+
+•  Risk information library updated. 
+Decision 
+•  End the process if: 
+
+(cid:131)  Stakeholders agree that the risks are 
+
+acceptable; or  
+
+(cid:131)  The risk is completely unacceptable 
+
+cannot be reasonably dealt with, and all 
+stakeholders agree that the process 
+should be ended.  This would only 
+happen if the risk or activity generating it 
+was not mandatory or inevitable. 
+
+•  Go back if: 
+
+(cid:131)  There is insufficient data or information 
+
+to make a decision; 
+
+(cid:131)  Stakeholders were not adequately 
+
+consulted; 
+
+(cid:131)  Not all key stakeholders agree with the 
+
+conclusions; or  
+
+(cid:131)  There is new information that might 
+materially change the frequency or 
+consequence estimates. 
+
+•  Proceed to the Next Step if stakeholders 
+agree that the risks are unacceptable and 
+that risk control measures will have to be 
+implemented 
+
+Checklist 
+Risk evaluation 
+ 
+ 
+
+1.  Are the risk evaluation and ranking 
+
+2.  Are all of the major considerations 
+
+completed?   
+
+accounted for? 
+
+3.  Have you consulted with all key 
+
+stakeholders on the acceptability of risks? 
+4.  Have you given preliminary consideration 
+
+to controls for unacceptable risks? 
+Is the risk information library updated? 
+
+5. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+

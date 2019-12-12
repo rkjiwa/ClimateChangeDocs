@@ -1,0 +1,24 @@
+ 
+
+The FCL and Setback for a given site may vary at the point that a building has ended its planned 
+lifespan.  
+For  example,  a  building constructed  in  2010 with  a  90  year  lifespan would  meet  the  guideline  if 
+sited  to  allow  for  SLR  of  1.0  m  minimum  over  Year  2000  levels  plus  or  minus  any  regional 
+adjustments. When rebuilt in or about 2100 this building would need to accommodate FCL at the 
+time, which might be 2.0m higher than Year 2000 levels, requiring that the building FCL be 1.0 m 
+higher than approved in 2010. The actual required FCL in the year 2200 will not be known with 
+accuracy until much closer to that date. 
+In  the  building  example  above,  there  is  ongoing  economic  use,  with  the  costs  of  adaptation 
+distributed through the centuries. 
+This approach will minimize the initial costs of considering SLR, and the future costs of adaptation. 
+Beyond examples of individual buildings, the SLR Planning Area approach described in Section 4 
+provides a method to gradually adapt larger scale land use patterns to SLR including impacts on 
+drainage, access and other factors affecting the land use. 
+
+Rev: 0 
+Date: 27 January 2011 
+Project No:  143111:  BC Ministry of Environment/ Climate Change Adaption Guidelines for Sea Dikes and Coastal Flood Hazard Land Use 
+
+10 
+
+

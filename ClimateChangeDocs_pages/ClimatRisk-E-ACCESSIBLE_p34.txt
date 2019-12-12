@@ -1,0 +1,104 @@
+Examples of each of these adaptation approaches are identified below (Table 6) based on chapter 
+findings. This list provides concrete examples of adaptation actions being implemented across 
+Canada.   
+
+Table 6: Examples of adaptation approaches identified in this report.
+
+Adaptation Activities
+
+Organizational planning, policies and designs
+
+The BC Ministry of Transportation and Infrastructure requires infrastructure design 
+work to consider climate change adaptation, and has developed a set of 
+notional best-practices. 
+TransLink, Vancouver’s regional transportation authority, has integrated 
+responsibility for climate change risks into its financial management processes.
+Port Saint John’s long-term port modernization plans are accounting for sea 
+level rise.
+Jurisdictions, such as the City of Sept-Îles are using zoning requirements to control 
+coastal land use and are undertaking cost-benefit analysis for threatened 
+structures. 
+Several jurisdictions are updating design flows and return periods for stormwater 
+management networks, including culverts, to account for an increased frequency 
+and/or magnitude of heavy precipitation events in the future.
+
+Structural and physical (engineering) adaptations
+
+The New Brunswick Department of Transportation rebuilt and raised a bridge 
+on the main road into Pointe-du-Chêne to accommodate future sea level rise 
+scenarios.
+The Quebec Ministry of Transportation has oversized the diameter of culverts by 
+10% to help manage heavy precipitation events.
+Norman Wells Airport and Ottawa International Airport have grooved their 
+runways to improve traction and drainage during heavy precipitation.
+Transportation practitioners are implementing and testing engineering techniques, 
+such as thermosyphons, to reduce permafrost thaw under infrastructure, and are 
+using fiber optic technologies to monitor permafrost degradation.
+Roads in Ontario are using the “SuperPave” system to determine optimal 
+pavement mixtures for local temperature conditions.
+GO Train engineers are increasing the preferred rail-laying and rail-distressing 
+temperatures for track, in order to reduce buckling risks to rail lines from high 
+temperatures.
+
+Risk and vulnerability assessments
+
+Chapter 
+
+Reference(s)
+
+British Columbia 
+
+Urban 
+
+Atlantic 
+
+Quebec
+
+Prairies 
+
+Ontario
+
+Atlantic 
+
+Atlantic 
+
+Quebec
+
+Northern 
+Ontario 
+Northern 
+
+Quebec
+
+Ontario 
+
+Ontario 
+
+The Greater Toronto Airport Authority (GTAA), the BC Ministry of Transportation 
+and Infrastructure, municipalities, and others have used the Public Infrastructure 
+Engineering Vulnerability Committee’s (PIEVC) Engineering Protocol to assess 
+transportation infrastructure (see Box).
+Marine transportation companies have conducted winter-operation risk 
+assessments and ship-specific winterization procedures to reduce risks posed by 
+changing ice conditions in Arctic waters.
+Railway companies are undertaking vulnerability assessments and GIS mapping of 
+areas at risk from landslides, washouts, and other natural hazards. 
+
+British Columbia  
+
+Prairies 
+Ontario 
+Atlantic 
+Northern
+
+British Columbia  
+
+Prairies
+
+ 
+CHAPTER 2: SYNTHESIS 
+
+23
+23
+
+Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016Climate Risks & Adaptation Practices - For the Canadian Transportation Sector 2016

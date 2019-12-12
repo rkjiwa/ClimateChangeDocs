@@ -1,0 +1,114 @@
+ 
+
+1.4.1  Assessment of Dike Design Guidelines – Granville Island 
+
+1.4.1.1  Design Basis 
+
+  AEP for Designated Storm: 1/200 for 2010 (Existing Guidelines), 1/500 for 2100 and 2200 
+
+(Updated Guidelines) 
+
+  Tides: Based on CHS Tide Tables, Vol 5, Secondary Port: 7710 False Creek 
+  Designated Storm assumed to have storm force winds (≥ 48 knots); the maximum seastate 
+present  at  the  wall  is  taken  to  be  0.6  m  and  storm  surge  and  seastate  maxima  occur 
+simultaneously. 
+
+  Storm Surge during Designated Storm as per Table 3-3, this document. 
+  Wave set-up is included in the determination of Wave Runup. 
+  A  near  vertical  seawall  was  adopted  for  the  sea  dike  in  this  example  due  to  the  close 
+proximity of highly used public buildings near  the edge of the existing island slope.  For 
+simplicity, the presence of the overhanging timber deck platforms was not considered. 
+
+  The mean overtopping rate criteria in Table 4-2 are assumed to apply for a seaward slope 
+
+consisting of a vertical seawall located at the top of the existing rock armoured slope. 
+
+ 
+
+CASE 
+
+Table 1-3: Summary of Sea Dike Crest Elevations 
+
+Granville Island 
+
+2010 
+
+“existing” 
+Guidelines 
+
+2100 
+
+“ updated” 
+Guidelines 
+
+2200 
+
+“updated” 
+Guidelines 
+
+CGD = MWL = +3.0 m CD 
+
++4.0 m CGD 
+
+Reference vertical plane 
+Elevation of Granville Island grade slab 
+Regional SLR (m, wrt MWL) 
+Reference Tide level  (HHWLT) (m) 
+Storm Surge AEP 
+Storm surge height (m) 
+Local wind set up (m) 
+Designated Flood Level (m, CGD) 
+Wave Runup (R 2%) m 
+Runup elevation for “green” water alone (m, CGD) 
+Crest Elevation for “no damage 10m away” (m., CGD) 
+Freeboard ( m) 
+Comment: 
+ a: The assumed conditions for 2010 have not been experienced during the lifetime of the present Granville Island 
+
+1.0  
++2.1  
+1/500 
+1.3 
+0.2 
+4.6 
+0.6 
+5.2 
+6.2  
++0.6 
+
+2.0  
++2.1  
+1/500 
+1.3 
+0.2 
+5.6 
+0.6 
+6.2 
+7.6  
++0.6 
+
+0  
+
++2.1  
+1/200 
+1.25 
+0.1 
+3.45 
+1.7a 
+- 
+-  
+- 
+
+development. 
+
+The values in the Table above Designated Flood Level are site specific and those shown are guideline values for 
+these examples.  The values in the Table below Designated Flood Level result from the site specific values based on 
+the procedures defined in the Standards and Guidelines referenced in this document 
+
+ 
+
+Appendix C 
+
+14 
+
+

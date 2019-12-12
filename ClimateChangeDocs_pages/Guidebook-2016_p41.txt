@@ -1,0 +1,87 @@
+1.10 POST-PROCESSING TECHNIQUES
+As discussed previously, climate models (both GCMs 
+and RCMs) are mathematical representations of the 
+real world and often present a bias in their estimate 
+of climate variables. This is one of the main reasons 
+why climate simulations should never be compared 
+directly with observations. 
+
+These differences with real-world values often mean 
+that model outputs are rarely used «as-is» without 
+some sort of post-processing. This post-processing 
+step is often required in order to transform raw, 
+or even downscaled, climate model outputs into 
+climate information that is better suited for users. 
+
+Model bias is not an issue (and therefore does not 
+need to be corrected) when simply calculating the 
+relative changes between a future horizon and 
+the reference horizon from the same simulation 
+(i.e. coming from the same model with the same 
+emissions scenario). Indeed, the bias in the models 
+is generally assumed to be the same in the reference 
+and future simulated data and it therefore cancelled 
+out when calculating the relative change, or the 
+delta, between the two periods. 
+
+However,  post-processing  becomes  necessary 
+when  calculating  future  simulated  values,  in 
+other words when applying the change projected 
+by  the  model  to  the  observations,  the  biases 
+become  relevant  and  must  be  corrected.  This 
+is  particularly  important  for  threshold  values, 
+which are highly susceptible to small changes. For 
+example, if a model has a warm bias compared to 
+the observations, the likelihood of reaching a warm 
+temperature threshold (for example days with an 
+average temperature above 30°C) will be amplified 
+in the simulated data compared to the real world. 
+Consequently, if the bias is not removed, a decision-
+maker might conclude that, in the future, there will 
+be more days with an average temperature above 
+30°C, when this is in fact simply an artifact of the 
+model bias.
+
+There  is  a  large  number  of  post-processing 
+techniques available and it is far beyond the scope 
+of  this  guidebook  to  review  them  in  detail40,41. 
+However, two simple methods are presented as 
+examples  to  highlight  the  main  objectives  and 
+general methodologies of post-processing methods. 
+
+Note that the main assumption made with post-
+processing  is  that  biases  are  (almost)  identical 
+for the reference period and the future period, 
+which  may  not  be  the  case.  In  addition,  as 
+mentioned  previously  post-processing  can  be 
+used independently from, or in combination with 
+downscaling techniques, which often results in 
+some confusion between the two concepts.  
+
+An important warning regarding post-processing 
+technique  must  be  raised.  These  techniques 
+strongly rely on the observation network, and thus 
+the only variables that can be post-processed are 
+those for which observations are available. In places 
+such as the USA, or much of Europe, the high-
+density network generally provides a sufficiently 
+high number of climate stations in different types 
+of location, with the possible exclusion of high 
+mountains, to build an adequate observational 
+dataset for some variables, namely temperature 
+and  /  or  precipitation.  In  Canada,  particularly 
+in the north, the station density is very low and 
+strongly biased as most of the stations are located 
+along the coastline and in valleys. Meteorological 
+stations are also very far from one another. Such a 
+coarse representation of reality is also present in 
+gridded observational datasets, which are created 
+from the interpolation of station data to fill regions 
+where there are none. The bottom line is that post-
+processing is only as good as the observations that 
+are used to conduct it, and given the limitations just 
+outlined here, caution is often advised.
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  26
+
+

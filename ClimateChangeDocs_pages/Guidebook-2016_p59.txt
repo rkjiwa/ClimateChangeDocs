@@ -1,0 +1,100 @@
+What climate information is presented and how 
+should it be interpreted?
+Table 6 shows projected changes (deltas) in mean 
+temperature,  precipitation,  growing  degree-days 
+and  frost-free  days  for  the  horizon  2050  (2041-
+2070)  compared  to  the  reference  period  1961-
+1990 for the province of British Columbia.
+
+The projected changes presented in the table are 
+straightforward increases for annual temperature, 
+annual  growing  degree-days,  annual  frost-free 
+days, as well as for annual and winter precipitation 
+over  the  province  of  British  Columbia.  On  the 
+other  hand,  the  median  projection  for  summer 
+precipitation shows a slight decrease. The range 
+in  the  values  highlights  that  there  can  be  large 
+differences  among  all  the  simulations  used.  For 
+example,  one  simulation  projects  increases  as 
+low as +179 degree-days per year while another 
+projects values of +429 degree-days per year. 
+
+How is the table constructed?
+Synthesis tables can summarize historical trends 
+or projected changes (such as the example given 
+here) for a given future time horizon and region 
+of  interest,  and  can  be  expressed  for  different 
+time periods (monthly, seasonal, or annual). The 
+summary  can  be  done  for  any  area  of  interest, 
+such as global, provincial, or regional scales. 
+
+Projected  changes  are  calculated  as  the  change 
+between  the  2050  horizon  (2041-2070)  and 
+the  1961-1990  reference  period  using  15  global 
+climate models with two SRES emission scenarios. 
+An important point here is that, as shown in section 
+1.11.2,  the  changes  represent  the  difference 
+between  simulated  future  values  and  simulated 
+reference values. In other words, the changes do 
+not  represent  the  difference  between  a  model 
+simulation  and  observed  climate  normals  (or 
+reference) values but rather the difference within 
+a simulation.
+
+In  the  table  presented  here,  the  changes  in  the 
+four  climatic  variables  are  expressed  as  the 
+median change and the spread in the simulation 
+ensemble.  The  ensemble  median 
+is  a  mid-
+point  value  of  all  simulations  used  to  calculate 
+the  changes  (30  in  this  case),  while  the  range 
+represents  the  10th  and  90th  percentiles  of  all 
+values.  The  range  in  values  from  the  different 
+models is generally referred to as the uncertainty 
+in  the  models,  although  it  is  made  up  of  more 
+than just differences between models. 
+
+important 
+
+What are the limitations/caveats/possible ways 
+to misinterpret the information?
+The  main  limitation  of  this  information  resides 
+in the fact that the changes are often estimated 
+over large areas, and may therefore not represent 
+potentially 
+local  differences.  For 
+example,  in  this  particular  case,  the  values  are 
+given for all of British Columbia, a province with 
+large  topographic  relief  in  some  regions.  Given 
+the  importance  of  topographic  features  of  this 
+province, it is easy to imagine that the ‘average’ 
+changes  given  in  the  table  may  not  adequately 
+represent  all  environments  found 
+in  British 
+Columbia.
+
+In addition, it is important to remember that while 
+the changes are projected over the 2050 horizon, 
+the actual change may be gradual and therefore 
+not felt exactly during the year 2050. In addition, 
+the absence of changes at the annual scale could 
+mean  that  there  are  no  changes  at  all,  or  that 
+changes  during  one  season  offset  changes  in 
+another. More importantly, because of the natural 
+variability in the climate, there may be individual 
+years (or a series of consecutive years) where the 
+annual  change  is  in  opposition  to  the  average 
+change calculated over the 30-year period (2041-
+2070).  In  other  words,  while  the  table  presents 
+an 
+in  average  annual  temperatures 
+compared to the reference period, it quite likely 
+that  some  years  will  show  annual  temperatures 
+that  are  lower  than  what  has  been  experienced 
+on average over the reference period.
+
+increase 
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  44
+
+

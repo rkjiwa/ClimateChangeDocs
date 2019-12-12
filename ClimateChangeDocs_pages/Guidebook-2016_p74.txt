@@ -1,0 +1,17 @@
+4.  EVOLUTION OF FUTURE VALUES
+
+Figure 24 |  Left: Evolution of the mean annual number of growing degree-days for the years 1971-2100 for the Greater  
+Slave Lake region. The values are calculated using an ensemble of 79 simulations (75 from CMIP3 and 4  
+ 
+from CRCM4), while the observations come from an NRCan dataset44,45. Right: The distributions values of  
+ 
+the regional mean for observed values (black curve) and projected values are shown as the 10th, 50th, and  
+ 
+90th percentiles of the ensemble of climate scenarios (green, blue, and red curves respectively).
+ 
+Source: T. Logan, Ouranos
+ 
+
+59  |  GUIDEBOOK ON CLIMATE SCENARIOS
+
+

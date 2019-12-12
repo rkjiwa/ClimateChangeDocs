@@ -1,0 +1,31 @@
+Collaboration between the user and climate service provider will be of utmost importance for these va-
+riables  and  caution  must  be  exercised.  Indeed,  the  limitations  in  either  the  observations  (which  would 
+influence the understanding of historical trends) or in the skill of the models (which would influence the 
+reliability of future projections) have to be carefully examined and understood before the data is used by 
+a decision-maker. The confidence will vary greatly depending on the variable of interest and on the study 
+region. 
+
+Two methods can be used to evaluate the impacts of future changes in these variables:
+ 
+
+ › The  first  is  to  rely  on  climate  model  simulations,  such  as  what  is  presented  by  the  formats  given  in 
+the guidebook, but with a clear understanding that the uncertainties for these variables are important. 
+Nonetheless, the availability of observations for the climate variables identified in Table 7 is increasing 
+along with the understanding of the processes generating them. Consequently, it is expected that our 
+confidence in climate model projections for these lesser known variables will likely increase in the near 
+future. 
+
+ › The second is to rely on synthetic scenarios (also often called ‘what-if’ scenarios), where hypothetical 
+futures are derived based on the best available information. Very simply, synthetic scenarios are created 
+by adjusting climate elements incrementally by arbitrary amounts into the future, based on expert judg-
+ment. The way in which they are adjusted should be consistent with either GCM outputs or historical 
+climate data3. They can be constructed for climate variables for which we have a high degree of confi-
+dence (such as temperature for example) but where resources to run climate models are limited. In such 
+cases, the scenarios will allow a rapid first evaluation of the potential sensitivity of a system. They are 
+particularly useful, however, for cases where the climate index of interest is not well understood at this 
+time or is not well represented by climate models. In such cases, climate scientists develop hypothetical 
+futures based on the best available information. 
+
+GUIDEBOOK ON CLIMATE SCENARIOS  |  70
+
+
