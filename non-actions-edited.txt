@@ -1,0 +1,388 @@
+﻿A sustainable community is one that meets the needs of the present without compromising the needs of future generations (source: Environment and Climate 
+Asset management (AM) is an integrated approach, involving all municipal departments, to choosing and managing existing and new assets.
+Of course, these considerations are not only important at the maintenance stage; climate risks need to be considered at all stages of the life cycle of assets as well as when decisions are made about building something new. 
+Each discipline operates under its own unique set of professional expectations.  
+They are required to complete written examinations on these matters as part of their registration into the profession.  
+It is sufficient to prove that the findings are generally correct.  
+Often, the use of language, concepts and approaches will overlap between members of the team, but this does not mean that every member of the team is fully conversant with these approaches.  
+Typically engineers will use the words accuracy and precision interchangeably in their day-to-day work. 
+It is not uncommon for an engineer to request that the outputs from climate models be calibrated.  
+If both the scientist and engineer use expressions such as “ground truth” or “validate” they will find that they are both keenly interested in testing climatic models against the historic record.  
+They may actually ask the scientist to offer an opinion regarding the overall veracity of the data and may express frustration if the scientist points to the variance of the data set and the differences between the models used to arrive at the data. 
+Scientists will typically use confidence intervals when reporting historical trends, and in that case use confidence intervals in a manner consistent with engineers.  
+This may turn into a circular argument as the engineer requires “a number” to work with while the scientist insists on providing ranges of equally likely future climate conditions. 
+The scientist may view the engineers’ approach to the information to be quite different than their own.  
+For example, the Vulnerability Ratio outlined in Step 4 of the PIEVC Protocol is a unitless index that is used to determine the relative vulnerability of an infrastructure component. 
+Once again this confusion can be minimized if both parties clearly define the scope of the project and the content of the information packages being requested or offered.  
+The use of the term as an activity to reduce an identified and very specific risk is not as common in the scientific community.  
+The scientist may use the term normalize in the sense of statistical data management techniques aimed at reducing the error associated with a data set.  
+Almost every projection of future events may be referred to as a prediction or forecast.  
+Once again, having a discussion about language can alleviate many problems during the actual execution of an assessment. 
+They may establish acceptable bands of data based on the variance of the data set.  
+For example – How comfortable is the scientist with the assumptions used by the model?  
+Note: During this procedure, the water may have the colour of tea, but the colour will improve after a short period of time.
+Concerns about causes and effect have now found their way into municipal council chambers; 
+Damage resulting from climate change creates a financial burden on municipalities, and for those officials in municipal governments who must now plan for an uncertain future, strategies for adapting to climate change and mitigating against climate change are becoming extremely important. 
+Even when climate change threats are understood, the localized nature of impacts and the seemingly distant timeframes involved can make it hard to design and implement policies designed to address climate change.
+Simply put, adaptation is all about understanding climate impacts and effects, in order to undertake substantive actions that make communities and municipal investments more resilient to the harmful effects of weather and climate.
+We can expect to live in a climate with different rainfall patterns, warmer temperatures, more frequent storms, and severe weather events.
+http://www.gov.ns.ca/nse/climate.change/
+Examples are raising river or coastal dikes, the substitution of more temperature-shock resistant plants for sensitive ones, etc.
+Technological change and substitution that reduce resource inputs and emissions per unit of output.
+Each year, several large storms pass through the Atlantic region and cause damage along the coast.
+Many municipalities across nova Scotia rely on surface water supplies, leaving them exposed to declines in water levels, and the increased risk from contamination; resulting in the need for a greater level of water treatment.
+The objectives summarize what will be achieved upon completion of the step.
+Increased runoff resulting from heavy rainfall can impact municipalities with extensive wastewater treatment infrastructure.
+Hazards with a severe impact will obviously require closer attention and more adaptive planning. 
+For example, in the case of built areas that are located in close proximity to the coast, detailed modeling that helps the committee to understand risk and vulnerability may be warranted.
+Municipalities with infrastructure located in the coastal zone should immediately be alerted to potential issues.
+Because climate change is directly linked to the ‘business as usual’ fossil-fuel economy that has predominated for the past century, many municipal administrators view climate change adaptation as good opportunity to move towards creating a greener future for their municipality.
+In Step Three you determined what parts of your municipality are likely to be at greater risk from climate issues.
+How important is the municipal/community economy to the economy of the province?
+Shellfish Bay are vulnerable to erosion, flooding, wind and water damage during severe storms and storm surges.
+Many Canadian cities have already taken the first step toward reducing carbon emissions by conducting an inventory of GHG emissions.
+Five Milestone Framework for Reducing Greenhouse Gas Emissions.
+o  Description of your committee’s process for accountability.
+A discussion on potential planning approaches or tools which might be used to facilitate adaptation.
+Institute for Local Government – A Guide and Workbook for Municipal Climate Change Adaptation 
+In Canada, engineering is regulated under provincial and territorial law by the engineering regulators.
+Scientific literature indicates significant departures from historical climate averages occurring globally and engineering designs must account for an expanded range of climate in their operating environments
+This guideline uses terms that may not be used in an engineer’s day-to-day practice.
+It is important to recognize that engineers have a higher standard of practice than a layperson.
+In this way, the engineer will normally be held to a standard of practice that exceeds that of a layperson but is somewhat less than that of an expert.
+Resourcefulness: the capacity to mobilize needed resources and services in emergencies.
+These professionals establish the environment within which other professionals must function.
+Sources can be reduced in diverse ways, including using fossil fuels more efficiently, switching to renewable energy sources, and reducing the carbon footprint of buildings.  
+The following actions would help engineers integrate mitigation into their scope of practice and contribute to the goals of sustainability.
+Inherent in engineering practice and professional judgment is the concept of the “factor of safety”.
+In so doing, it is important to consider all potential loading conditions – even abusive loads.
+Airplane designs employ both concepts, making air travel one of the safest modes of transportation.
+There are always conditions that are prohibitive to guard against.
+Weather is the day to day conditions with seasonal precessions through the year.
+While these factors introduce some uncertainty into climate projections, the uncertainty can be managed through appropriate data treatment and climate scenario development.
+The following are some suggested actions to aid engineers in interpreting and assessing climate information.
+Practitioners may possess more than one of the requisite skill sets.
+As part of this communication, the engineer should clearly communicate the costs and benefits of recommended actions and how those actions reduce the identified risks.
+The decision maker may opt to reject or ignore the professional’s recommendations.
+For climate change adaptation the question is a bit less certain as the case law on these matters is evolving.
+Implementing such measures requires reporting on emissions and reductions, which are roles where engineers can and should be involved.
+Many large infrastructure systems are designed for an extended service life.
+If climate conditions change over that service life, it can be difficult to adapt the engineered system to the new environment without wholesale changes to the system.
+Projects that do not include consideration of climate in their scope may seem to be less costly for initial procurement.
+These will be incorporated into the next edition of this model guideline.
+Identify the economic impact of changes made to the refurbishment design/plan based on climate considerations
+It can be used by any organization regardless of its size, activity or sector.
+Risk management - Vocabulary complements ISO 31000 by providing a collection of terms and definitions relating to the management of risk.
+With increasing understanding of the scope and impact of climate change, engineers may be held accountable for anticipating the impacts of climate change on their professional work.
+Ouranos, “A Guidebook on Climate Scenarios - Using Climate Information to Guide Adaptation Research and Decisions”, 2016 Edition
+The term weather is used to describe discrete events in place and time.
+Everyone is at risk for spring flooding, yet many remain unprotected.  
+Just six inches of moving water can knock you off your feet. 
+Insured losses related to extreme weather averaged $1.8 billion annually between 2009 and 2018.
+According to Public Safety Canada, the cost of  the federal Disaster Financial Assistance Arrangements (DFAA) program, which provides funding support to provinces and territories for major natural disasters, will approach one billion dollars annually.
+In August 2018, when a flash flood occurred in Toronto, Ontario, two individuals almost lost their lives as they got trapped in an elevator of a commercial building and nearly drowned as the elevator was stuck at the basement level, full of  water.   
+A process is in place to regularly test all battery-operated lighting and systems.
+These retrofits may be cost-prohibitive to implement post-construction, but they may be warranted for critical sites.
+It found that 90% of  Canadian issuers disclosed regulatory, policy or legal risks associated with climate change (e.g., impacts of  carbon tax on profitability), 43% disclosed physical risks and 33%, 31% and 18% disclosed market, reputation and technology risks, respectively.
+Tenant contact details are regularly updated.
+A satellite phone is available in the event of internet and cell tower outage.
+Ahead of the Storm: Developing Flood-Resilience Guidance for Canada’s Commercial Real Estate with sustainable design
+As it relates to ageing infrastructure, large water main breaks can cause localized floods, leading to property damage and building closures.
+By developing a comprehensive flood management plan, Evergreen Brick Works managed to reduce the recovery time and cost significantly from millions of dollars to below one hundred thousand dollars. 
+Three of these buildings are particularly vulnerable to flooding, as they have parking and service rooms (including main electrical services and telecommunications data rooms) located on the ground floor, where storm drains are below the elevation of the city storm drains.
+In collaboration with Quinn & Partners and AON, the Healthcare of  Ontario Pension Plan (HOOPP) undertook a climate change risk and resilience assessment on its global $14 billion commercial real estate portfolio.
+As well, Triovest purchased the Watergate flood barrier system, which can be set up in less than an hour and covers the perimeter of the city block where the tower is located.
+It is stored in movable carts located in the flood room. 
+The focus of  these measures is on proactive planning and preparedness activities that can be executed across office towers in Canada.  
+Known SAFE Foundation System structural load capacity allows for the predesign of buildings independent of site geotechnical conditions allowing building predesign or structural duplication.
+The Water-Gate Barrier can be used for short or long durations of time without impacting its efficiency and durability, as it is resistant to corrosion and toxic materials.
+The Water-Gate Barrier eliminates the need to use and dispose of hazardous sandbags, which are expensive to get rid of and can have a negative effect on the environment.
+The Water-Gate Barrier is made from materials that are FM certified, flexible, durable and environmentally friendly.
+However, for homes with more complex shapes or structural elements, which may affect building performance under seismic loading, the builder is directed from Part 9 to Part 4 of the Code. 
+The Designed ... for safer living® program utilizes the Building Code and the Canadian Standards Association’s (CSA) S832-06 Standard for Seismic Risk Reduction of Operational and Functional Components (OFC) of Buildings to generate the details necessary to secure the equipment that is built into the home at the time of delivery to the owner.  
+If secured, the gate must have a key box of a type approved by the local fire department.  
+Exterior glass doors and skylights are double-paned glass.  
+Most localities in Canada are subject to Severe Winter  Weather  Conditions.  
+These regulations vary with each location and generally depend on the flood risk.  
+Class 4 indicates that the product was still functional after being struck twice in the same spot by a 2” (25mm) ice ball.  
+These changes have implications for the transportation sector, and the Canadian economy and society more broadly.  
+Canada has generally become wetter.  
+Duration of ice cover is projected to continue to decrease.
+Transportation plays a critical role in the movement of goods and people in Canada, supporting all sectors of the economy and Canadians’ quality of life.
+The impacts illustrated in Figure 5 can disrupt marine transportation and compromise the efficiency of port and shipping activities.
+For example, extreme temperatures, precipitation, and strong winds all reduce the percentage of trips taken by walking or cycling.
+Trucking firms are using technologies to reduce fuel consumption that also enhance climate resilience.
+Provincial Professional Engineering Associations are responding by adding new professional requirements to ensure that potential climate change impacts are taken into account in the design process for the service life expected of the infrastructure.  
+This is a cultural change for agencies responsible for infrastructure, consultants carrying out engineering design work and clients commissioning the work.  
+It is expected that future engineering work related to new infrastructure design and rehabilitation will reflect such action and progress. 
+The Canadian North has experienced some of the most significant warming on the planet.
+The following sections discuss the regional significance of each of the major modes of transportation – road transport, aviation, marine transport, and rail – in greater depth.
+Each community has a series of access trails that lead to fishing, hunting and camping areas
+This is especially true in Nunavut and the Northwest Territories, where aviation ensures community resupply and transportation year-round.
+However, the port is not suitable for larger vessels and currently features a shallow 32-km channel approach with sections less than 4m deep (Prolog Canada Inc, 2011).
+The line is one of the most costly routes in CN’s network due to the challenging area of service; for instance, the rail bed is constructed on permafrost, which limits train 
+The greatest observed warming, 2.6˚C for the period 1948-2014, has occurred in the Northwest Territories’ Mackenzie District (Environment Canada, 2015).
+Projections suggest that warming of the North will continue to be greater than in Canada as a whole, with the greatest warming occurring in winter and fall (Bush et al., 2014).
+While operating windows have always varied by location and year, recent increases in surface air temperature and decreases in snow cover have reduced operating season length and maximum load capacity in many locations (Furgal and Prowse, 2008).
+High-volume snowmelt may also result in flooding and increase pore water pressure and erosion, damaging permafrost (IMG-Golder Corporation Environmental Consulting, 2012).
+This will have implications for roads, bridges at stream crossings, and slope stability.
+The trend towards shorter operational seasons is already evident.
+Construction of the road takes approximately 5 to 6 weeks prior to opening each year.
+Snow removal allows freezing fronts to penetrate the ground faster, removing heat from the ground and promoting ice formation, while snow caches constructed near difficult land crossings allow overland sections to be rebuilt quickly (points of congestion created by the layout of a network)(Furgal and Prowse, 2008).
+For example, in 2014, when Canadian North grounded all of its flights to and from Iqaluit during a blizzard, passengers in Pangnirtung, Qikiqtarjuaq, Hall Beach, Igloolik, Cape Dorset, Pond Inlet, and Clyde River were affected (CBC News, 2014).
+Thus, under extreme fog conditions, these airports are forced to suspend operations.
+Iqaluit International Airport is extremely important to communities in Nunavut given the region’s lack of road access.
+Changing distributions of multi-year ice have led to ice detaching and migrating into unexpected areas, creating obstacles and hazards for cargo vessels (Deton’Cho-Stantec, 2013). 
+Adaptation approaches for marine transportation can be categorized into practices for vessels and navigation, and those for coastal infrastructure. 
+This has been done in several northern communities in the past, including Tuktoyaktuk and Hay River (on Great Slave Lake), to cope with shallow water conditions.(Environment Yukon, 2009).
+Such information could be used to develop maps identifying areas suitable for infrastructure development (Adaptive maintenance requires constant and consistent information-gathering (such as ensuring snow removal equipment is in place and monitoring weather conditions).
+Engineering challenges for coastal infrastructure/docks with regard to climate change in Nunavut.  
+Food and water security in a changing Arctic climate. 
+While previous efforts to reduce climate risks to transportation systems were often reactive, and based on historical information, there is indication that this is changing.
+This infrastructure has played a key role in international trade due to its strategic location.
+British Columbia has over 46,000 km of roads, including provincial highways (12,700 km) and side roads (33, 300 km)
+There are also over 2,800 bridges within the road system (British Columbia Ministry of Transportation and Infrastructure, 2014e).
+This extensive infrastructure is designed to facilitate the efficient flow of goods through the Asia Pacific Gateway.
+Table 5: British Columbia Ministry of Transportation and Infrastructure vulnerability assessments. 
+CALCULATING EXTREME RAINFALL VALUES FOR INFRASTRUCTURE VULNERABILITY
+The values used for vulnerability assessments depend on the infrastructure system design, which in the past has relied on historical climate information for extreme events.
+Table 6: Summary of Findings from British Columbia Ministry of Transportation and Infrastructure 
+All three incidents arose from precipitation and drainage issues.
+While the culvert had sufficient capacity to handle the water volume, diversion features downstream of the culvert were overtopped and significant volumes of water established an alternate channel that impacted the train tracks at a location where there were no culverts.  
+Three locomotives and two cars derailed and fell 125 feet into Kootenay Lake.  
+While wind is a key parameter in climate change forecast work, predicting the nature and intensity of short duration wind events is technically difficult and models are not good at simulating surface winds (Engineers Canada, 2008; Griffin et al., 2010).
+Existing practices that utilize a sophisticated network of weather monitoring and forecasting facilities may be sufficient to address future risks.
+The Government of British Columbia has been working to better prepare the province to adapt to a changing climate.
+While referred to as “the Prairies” for simplicity in this chapter, the three provinces are quite distinct. 
+One of the most significant is Crowsnest Pass, which acts as a conduit for rail and roadways between Alberta and British Columbia (Babaian, 1985).
+Key road-freight border crossings in the Prairies include Emerson (Manitoba), Coutts (Alberta), and North Portal (Saskatchewan).
+Despite high year-to-year variability, long-term records demonstrate increasing mean annual temperatures, ranging from 0.9˚C at Calgary, Alberta, to 2.7˚C in Swift Current, Saskatchewan for the period 1895-2005
+In addition to significant variability between and among years, there is also significant spatial variability across the region.
+Research suggests that May-June precipitation over the southeastern Prairies has increased significantly since the 1990s, possibly explaining observed changes in runoff patterns and recent extreme flood events (e.g. 2011 and 2014) 
+Drought has also had negative impacts on road infrastructure in the Prairies.
+This adaptive strategy includes elevating roads, increasing culvert capacities, redirecting water flows, and paving gravel roads to reduce washout risks (Transportation and the Environment Task Force, 2014).
+Adjusting these programs cost very little relative to their benefits.
+It also identifies potential adaptation measures, developed in accordance with ISO 31000 Risk Management Principles and Guidelines. 
+The PIEVC assessment identified risks to operations/maintenance (e.g. snow clearing) and serviceability/safety from future combinations and sequences of extreme events (e.g. road flooding, icing).
+Trucking firms have also devoted greater resources to weather monitoring, in some cases creating full-time positions for real-time monitoring of weather events throughout a firm’s network.
+This enhances trucking firms’ ability to quickly redirect traffic in response to traffic disruptions
+Provincial governments also provide monitoring services to aid traffic flow.
+However, recent data suggest these findings are not consistent throughout the Prairies.
+In Alberta, the Fort Chipewyan road has experienced a slightly longer season in recent years (Federal/Provincial/Territorial Sub-working Group on Northern Transportation, 2015).
+Routings were frequently changed, often to move the roads off ice-covered waterways and onto land routes (Taylor and Parry, 2014).
+These ferries serve remote communities reliant on winter roads, in the areas of South Indian Lake, Split Lake, York Landing, Bloodvein, and Norway House (Taylor and Parry, 2014).
+One long-time regional geotechnical expert indicated seeing water against-grade in Saskatchewan in places not seen in 30 years in the business (Tom Edwards, Canadian National Railway, personal communication, 2015).
+Increasing freeze-thaw cycles (a trend expected to continue) are generating more frequent rockslides, affecting rail operations in mountainous areas (Middleton, 2000).
+Although these improvements are unlikely to be explicitly linked to climate change adaptation, a shift in short-sea shipping capacity may have implications for an extended marine resupply season.  
+If the ice-free season is extended, more activity could be supported without substantial infrastructure improvements. 
+Integrated planning and strategic investment strategy for northern transportation infrastructure. 
+The flooding of roads and rail lines in July 2013 and the ice storm of December 2013 in Southern Ontario resulted in significant damage and travel disruption, but also spurred greater organisational awareness of the region’s vulnerability to more frequent extreme weather.
+Ontario’s winter roads are built and maintained by 29 First Nations communities and the Town of Moosonee, with financial and technical assistance from provincial and federal governments.
+The most significant commodities moved by rail in Ontario include fuel, metals, chemicals, and manufactured products (Statistics Canada, 2015b).
+These data reflect uncertainty associated with these projections by presenting a range of values from the 25th-75th percentiles of CMIP5 outputs.
+Temperature changes for Ontario in summer (June, July, and August) under RCP 2.5 (low-emissions scenario), RCP 4.5 (intermediate-emissions scenario), and RCP 8.5 (high-emissions scenario) for 2046-2065, as compared to baseline years 1986-2005.
+During extreme precipitation events, rail providers may reduce service frequency and increase the timeliness of travel and service advisories (Savonis et al., 2008).
+This can increase requirements for fuel and runway length (Andrey and Mills, 2003). 
+It operates in five stages. 
+The damage, which most affected Lakes Huron, Erie and Ontario, was estimated at $5 million ($119.3 million in 2015 dollars) (Brown, 2002).
+Such measures carry significant environmental implications.
+While flow-management infrastructure upgrades are considered too costly and difficult to implement (Andrey et al, 2014), the SLSMC has adopted a number of adaptive procedures in light of observed and projected impacts.
+However, practitioners have observed increased variability in weather along the Seaway in recent years, making it difficult for the SLSMC to accurately predict opening and closing conditions and associated processes.
+This affects the depth of a ship in the water.
+Ice curtains and air bubblers are used to keep locks free from ice where and when it is feasible to do so.
+Despite progress on a number of initiatives in the province, barriers to adaptation in the transportation sector persist.
+Some initiatives in Ontario, such as those highlighted in case studies, represent noteworthy exceptions. 
+The variety and complexity of available climate model data makes it difficult for decision-makers to assess vulnerability and determine appropriate adaptation options.
+Guidelines for the construction and operation of winter roads in Canada. 
+Although thawing permafrost is the most significant climate change impact affecting Quebec’s northern communities, similar to the northern territories, rising temperatures are also reducing winter mobility due to shorter freezing periods.   
+Acquiring data to monitor the condition of infrastructure and efforts to search for effective solutions for transportation systems are key means of adapting to the inevitable changes. 
+For nearly 20 years, the Quebec government, carrier associations, expert panels, and companies have been making greater efforts to adapt transportation systems to climate change and thus strengthen its resilience.
+More specifically, the Quebec population is concentrated in a few large urban areas in the southern part of the province (Montréal, Québec City, Gatineau, Sherbrooke, Trois-Rivières).
+For example, Nunavik makes up a little less than one-third of the territory and has approximately 12,700 residents in 14 northern villages and the Cree community of Whapmagoostui.
+There are also air connections for each of these regions.
+There are also more than 300,000 kilometers of multi-use roads in forest settings. 
+Marine transportation is closely tied to a number of key sectors of the Quebec economy, and plays a major role in the movement of goods along the St. Lawrence corridor.
+The main commercial ports in Quebec include the ports under the jurisdiction of Canadian port authorities in Montréal, Trois-Rivières, Québec City, Saguenay and Sept-Îles.
+Demand for rail services has increased somewhat since 2001, both for the transportation of goods and travelers (Réseau des chemins de fer du Québec, 2011).
+Regarding freight services, close to 146,000 tonnes, equivalent to $3.7 billion, were transported by the 380 air transportation companies in Quebec in 2010 (MTQ 2013a).
+Figure 5: Simulated historical and future conditions of annual freezing degree days calculated from an ensemble of climate scenarios (n=11) (Chaumont and Brown, 2010).
+For some of these stations, the trends are associated with increases in spring and fall precipitation.
+As in the case of temperatures, these increases will be more significant for extreme precipitation events than for averages.
+In addition, the built environment in Quebec is aging, and certain transportation infrastructure is reaching the end of its useful life or needs considerable refurbishment (Canadian Infrastructure Report Card, 2012).
+More than half of the St. Lawrence estuary and gulf coastlines are prone to erosion (Drejza et al., 2015).
+Alternative trails can be used, but this change in traditional land reduces possibilities to exploit quality nutritional resources (Barrett, 2013).
+In general, climate change vulnerabilities for rail transportation in Quebec are poorly documented. 
+Managing water runoff along train tracks is a major concern (AREMA, 2003).
+For example, an episode of heavy rain in 2010 eroded the soil under the tracks of a section of the Arcelor Mittal railway.
+Some infrastructure is showing signs of deterioration attributable to permafrost thaw (Guimond et al., 2010).
+Extreme weather events also contribute to the vulnerability of air transportation in Nunavik.
+Information and telecommunication networks can be affected by strong winds, thunderstorms, lightning, and ice.
+Climate change will have both positive and negative effects on construction costs and the lifespan of land-based infrastructure (Doré et al., 2014).
+Since 2003, the MTMDET has had a thermal monitoring program for airport infrastructure in Nunavik (under its jurisdiction), built on land sensitive to thaw (Allard, Fortier, et al., 2007; Doré et al., 2014; Allard et al., 2013.)
+It presents scenarios for interventions as well as transferring infrastructure and equipment, and identifies potential partners, including the MTMDET.
+As storm frequency and intensity increases, these impacts will likely continue to be severe. 
+These technologies assist with risk assessment and help practitioners communicate the magnitude of short- and long-term impacts to decision-makers.
+Literature examining the impacts of climate on transportation systems in Atlantic Canada is quite limited.
+Atlantic Canada has a diversity of landscapes, including five distinct terrestrial ecozones (Environment Canada and Agriculture and Agri-Food Canada, 1999).
+Labrador is more closely connected to global supply chains than other Atlantic provinces, with approximately one-third of freight traffic destined for the United States, and one-third destined for the rest of the world (Lambert-Racine, 2013).
+Increases have also been observed in sea-surface temperatures and ocean acidity (Loder et al., 2013).
+The greatest warming is projected to occur in winter.
+The corridor is the only land connection between Nova Scotia and New Brunswick, and is highly vulnerable to storm surge and sea level rise
+The most severe regional-scale impacts are related to tropical or post-tropical storms, and associated with heavy precipitation, strong winds, and storm surges.(Webster, 2012).  
+In 1962, approximately 180 mm of rain on heavy snow on Prince Edward Island’s southern coast caused extensive washouts and damage to paved highways (Atlantic Climate Adaptation Solutions Association, 2011).
+When temperatures ranged from -27°C to 7°C in the span of a month in Corner Brook, Newfoundland, mass snow-thaws resulted in the infiltration of large water volumes in short periods of time, overloading the capacity of stormwater management infrastructure (Rayna Luther, City of Corner Brook Infrastructure and Public Works, personal communication, 2015). 
+Flood risks are a particular focus of these efforts.
+For instance, to reduce spring flood risks in rural New Brunswick resulting from periods of rapid warming and snowmelt, the federal government invested $1.7 million in 2015 to proactively remove snow from the roadways of eight vulnerable First Nations communities.
+An under-explored area of adaptation is the application of new technologies to reduce climate risk.  
+Adaptation actions at Atlantic airports are not well documented in the public domain.
+This is not surprising, given limited public resources and the high costs incurred by flooding and other catastrophic events.
+Climate change adaptation is a growing issue on the transportation agenda, and climate risks are spurring investment and planning.
+CN Rail backlog not just weather related, says union.
+Coastal process, geohazard, erosion and infrastructure sustainability studies at Cabots Landing Provincial Park, Port Shoreham Beach Provincial Park, and the proposed replacement for Plaster Provincial Park, Nova Scotia.
+Expropriating floodplain lands and re-routing roadways away from vulnerable areas are examples of policy changes made in response to extreme weather events in some Canadian cities.
+In terms of both capital and operational funding, innovative financing tools and intergovernmental partnerships could help promote adaptation when addressing Canada’s growing municipal infrastructure deficit.
+Note that airports, regional and national rail systems, marine ports, and ferry services3 are discussed in regional chapters of this report.  
+In the century since this event, emergency management and communication protocols have changed significantly (including the use of electronic and social media to warn operators and travelers of impending threats), and urban building codes and materials are much more resilient to wind and rain 
+CNR reported a dramatic increase in train travel during the storm due to widespread road flooding.
+Major flooding and washouts occurred on Highways 400, 11, and 12, stranding motorists.  
+Greater than 100 mm of ice fell in more than 80 hours of precipitation, leaving over 4 million people without electricity, and resulting in significant transportation disruptions.
+Figure 8:  Rail cars sit on the collapsing bridge after a train derailed on Bonnybrook Rail Bridge on June 27, 2013.
+Severe weather and shifting “average” conditions can therefore shorten infrastructure life spans, reduce performance, and increase maintenance and operating costs (McLeod and Stevanovic-Briatico, 2014).
+Washouts (due to soil/slope instability when water infiltrates a roadway’s substructure) and flooding often result in delays, detours, and closures that reduce mobility and increase travel times for both automobiles and bus transit (United States Federal Highway Administration, 2015; Andrey and Mills, 2003).
+Freezing rain is likely to become more frequent in many parts of Canada (Cheng et al., 2011), causing ice build-up, road blockages, and power outages due to fallen tree branches and utility lines, and posing risks to road safety in urban areas (Andrey, 2010; Andrey et al., 2013).
+In extreme heat during summer months, softening, rutting, flushing, and bleeding of asphalt are expected to increase in frequency and severity (Mills and Andrey, 2002).
+Softening and rutting occur when vehicles depress hot pavement (Mills et al., 2009).
+In addition, both extreme heat and cold may result in malfunctioning traffic control signals (During periods of thaw, moisture seeps into small cracks, freezes and expands when cold returns, and melts (causing pavement weakness) during the next thaw (United States Federal Highway Administration, 2015).
+In Canada, federal, provincial and territorial policy frameworks and funding programs can support municipal adaptation efforts, while both public and private transportation agencies are responsible for providing safe and efficient services in the face of more variable weather and climate conditions.
+Examples include changing emergency-management procedures in light of experienced or expected climate-related impacts, and assessing organizational risk through programming and software applications; and others.
+The outputs included an overview document, an assessment process, a software tool, and a user manual.
+Prince George is now focused on implementing action items in key areas, with promising early returns.
+The organization considers managing climate change risks important to service delivery and infrastructure maintenance/development, particularly given that it builds infrastructure to last 100 years.
+Intelligent Transportation Systems (ITS) applications, used heavily for public transit and traffic management, also depend upon telecommunications infrastructure that can be affected by extreme weather (Revi et al., 2014).
+This has been experienced by the Toronto Transit Commission’s subway system in recent winters (McLeod and Stevanovic-Briatico, 2014).
+This information would inform the implementation and spatial deployment of adaptation measures, such as uninterruptable power supply technology to traffic control signals. 
+TRCA is undertaking an in-house environmental assessment and collaborating with TSD to identify risks and possible mitigation actions to enhance current control measures for flooding along the Don Valley parkway and Bayview Avenue
+This tool identifies and assesses risks due to climate change, including the effect of climate change on the delivery of services, management of infrastructure and protection of the natural environment. 
+The high up-front costs of many adaptation strategies (particularly structural solutions) may be a deterrent, and the complex fiscal and operational environments of modern cities pose obstacles to adaptation.
+The Natural Boundary is  a  position  that  can  be  identified  on  an  existing  shoreline  as  indicated  in  Figure  2-1.  
+This approach will minimize the initial costs of considering SLR, and the future costs of adaptation. 
+If dikes are used as protection, such areas must meet the requirements of the “Sea Dike Guidelines 2010”. 
+With  new  legislative support, a building lifespan requirement could be an added clause to a Development Permit Area or a Zoning Bylaw.
+Such infrastructure should be designed and constructed to remain operational during floods. 
+If the future estimated Natural Boundary is located at least 15m seaward of the toe of the bluff, then no action is required and the setback shall conform with guidelines suitable to terrestrial cliff hazards. 
+In  estuaries,  where  a  river  discharges  into  the  sea,  the  definition  of  the  Designated  Flood applies to the river. 
+In this case, the FCL must be equivalent to the crest level of a sea dike with the same characteristics as the seaward face of the fill.
+A dike, floodwall or any other thing that prevents flooding of land by the sea.
+Although the difference between mean tide and high tide varies from place to place and from time to time, these levels are defined by the Canadian Hydrographic Service and available for many locations in coastal British Columbia. 
+Climate change impacts will affect societies in complex and broad-ranging ways as technological, economic,social and ecological changes take place across regions, groups and sectors.
+The following guidelines promote the development of adaptation responses with mitigation co-benefits and are tailored to local long-term priorities aiming to help build resiliency within communities.
+In the context of climate change, mitigation  is  defined  as  “implementing  policies  to  reduce greenhouse gas (GHG) emissions and enhance sinks”, while adaptation to climate change is defined as, “[an] adjustment in
+From a practical point of view, designing local responses that simultaneously address the issues of climate change and sustainability is a challenging task.
+Activities that fall into the upper right quadrant represent the  opposite  condition:  activities  on  the  synergies  between  adaptation  and mitigation and reduce both climate vulnerability and GHG emissions.
+From there transport is a small boat with an outboard motor for 30 minutes to Wasagamack – a community to which almost everything must travel by plane and then boat.
+Cool roofs are less expensive than green roofs, however, they do not provide the same benefits with regards to storm water runoff, air quality or nature conservation.
+The previous two steps set the context for the climate change impacts.
+Climate and hydrological modeling indicates that the region can expect earlier onset of spring snowmelt, a tendency toward a more rainfall driven hydrological regime, and reductions in annual and spring flow volumes in the 2050s and 2080s.
+Outputs from Whistler 2020 monitoring allows residents and town planners to verify that economic adaptations are actually improving the resilience of the municipality to climate change.   
+The PV market in Canada is expanding steadily, with more than 50% growth between 2002 and 2004. 
+However, a well-designed DG network could be a powerful and far-reaching “no regrets” adaptation.
+This measure will contribute somewhat to other goals for the community
+This communication can also help to identify future opportunities and initiatives to tackle climate change and promote sustainability.
+In California, scenario analysis was used to explore that incorporates stakeholders, experts and policy makers in a process  designed  to  provide  policy-relevant  information.
+Vulnerability assessment at a local level proceeds in five steps.
+At the same time, sea level rise could raise the water table and result in the floating of sewers and foundations if they are not designed to deal with this.
+It is still unclear how El Nino and Pacific Decadal Oscillation systems may be impacted by climate change
+Specific implementation plans to move ahead with these actions will be outlined. 
+Land-use Framework: A framework that acts to manage the land, and all the activity on and below it, in a responsible way so that land-use resulting from resource development, agriculture, recreation, and community growth is conducted in a sustainable manner. 
+Through Places to Grow, regional growth plans are developed in order to guide government investments. 
+The plan works to ensure the safety and to improve the quality of life of the public. 
+(Environment Canada) website provides international and Canadian climate change scenarios, on-line instructions for using scenarios and downscaling tools, links to IPCC guidelines on scenario use and interpretation, bioclimate profiles for Canada, impact and adaptation research documents, and links to other tools used in impacts and adaptation research.
+The ability of a system to adjust to climate change (including climate variability and extremes) to moderate potential damages, to take advantage of opportunities, or to cope with the consequences.
+Autonomous Adaptation: Adaptation that does not constitute a conscious response to climatic stimuli but is triggered by ecological changes in natural systems and by market or welfare changes in human systems.
+Definitions of “rare” vary, but an extreme weather event would normally be as rare as or rarer than the 10th or 90th percentile.
+A definition of ‘mainstreaming’ does not yet exist, although the term is widely used.
+The effect may be direct (e.g., a change in crop yield in response to a change in the mean, range, or variability of  temperature) or indirect (e.g., damages caused by an increase in the frequency of coastal flooding due to sea level rise)
+Under the Convention, governments cooperate in preparing for adaptation to the impacts of climate change, launch national strategies for addressing greenhouse gas emissions and adapting to expected impacts, and gather and share information on greenhouse gas emissions, national policies and best practices.
+Although temperature and precipitation seem to be changing slowly, the interaction between “gradual” changes and other factors can produce complex and sudden effects.
+For example, a one degree increase in average annual temperature can mean 25 days where temperatures are 15 degrees above the seasonal normal if climate remains at normal levels the rest of the year.
+Projected future changes in temperature and precipitation suggest that short-term extremes will happen more often (Streicker, 2016).  
+The biggest departure from average occurred in the central Yukon. 
+“In the Yukon community members are reporting changes including: unpredictable weather, glaciers and permafrost are melting, wildlife migration patterns, new species, insect populations, increasing forest fires and different water levels.”
+It has become more difficult to do that now. 
+Lakes and streams are drying up or becoming choked with weeds, making the water undrinkable. 
+Many animals are changing where they go and their behavior.
+Long-term community level impact information like the breakup data discussed here is valuable for measuring change, understanding the rate of change over time, and can help inform planning for the future.
+The most striking example of this was the discovery of a Calliope Hummingbird in the summer of 2017
+Health Canada’s Climate Change Health Adaptation Program has emphasized a community-focused approach; projects address climate change-related needs identified by the community, strengthen a community’s adaptive capacity, and involve community members in the project’s results.
+Furthermore, it is often difficult for many decision-makers to see tangible connections between the issues they are mandated to address and the interaction of these issues with climate change. 
+The mechanism by which climate change can be expected to result in increased wildfire risk includes greater risk of dry winters and dry summers (through increased precipitation variability despite average precipitation increasing) and through increased heat and desiccation of existing fuel sources.
+Risks to highway infrastructure are of concern because there are limited transportation corridors through which consumer goods and critical supplies can enter the territory; 
+In 2015 the Tr’ondëk Hwëch’in First Nation stated the Tr’ondëk Hwëch’in Teaching and Working Farm in the Klondike Valley near Dawson City.
+This type of traditional and local knowledge could feed into such initiatives by soliciting the participation of First Nations elders and contribute to cultural revitalization by providing a framework to promote and preserve land-based skills and knowledge for younger community members.
+This project presents a climate change adaptation film and speaker series to share knowledge related to INAC-funded Yukon government climate change adaptation initiatives. 
+2009  Multi-phased project to solicit community feedback on local climate change impacts in the Vuntut Gwitchin traditional territory, research historical adaptations to food insecurity, and develop new actions to improve community food security. 
+Collected same water samples from five locations in five Yukon communities; held an intergenerational (youth and elder) workshop in each community to talk about climate change concerns and adaptation interests. 
+Local and scientific methods were used to observe and evaluate climate change impacts in Old Crow, and a final report was produced to give recommendations for further action (i.e. the development of a risk management and adaptation plan).
+Yukon communities to build adaptive capacity, improving local responses to current and future climate change impacts. 
+When it comes to communities and watersheds, there may be as many different approaches to planning, as there are communities. 
+Communities rely on water and watersheds for a safe, secure and adequate supply of water for many uses; a receiving environment for wastewater discharges; provision of fish, wildlife, habitat and biodiversity; moderation of flooding, erosion and sedimentation processes; and a host of other social, cultural, economic and spiritual values.
+The following section will explain what water and watershed planning is, why it is important, when it is needed and the range of options available in BC.
+If a problem is defined too narrowly, innovative solutions may be overlooked.
+While both salt water and freshwater are essential parts of the water cycle, the freshwater that we use on a daily basis for drinking water, irrigation, and other uses comprises only 1% of all water on Earth.
+When rain falls or snow melts too fast to allow for infiltration, or when the ground is too hard (impermeable) for infiltration to occur, such as in an urban environment, the water flows over the land as surface runoff (also called overland flow). 
+This water will eventually leave the plant through the leaves, transpiring back into the atmosphere.
+How we develop and manage the land within our watersheds ultimately affects the quality of the water that is available for use.
+Climate, in a narrow sense, is usually defined as the ”average weather” over a period of time.
+ ▪ During periods of low water flows, normal waste discharges will result in higher concentrations of pollutants within water bodies that receive those wastes
+ ▪  Saltwater intrusion in coastal regions due to a rise in sea level, in particular in combination with reduced groundwater tables.
+Forest fires reduce forest cover, and in turn, may contribute to faster runoff, and affect stream and river hydrology, and water quality
+It’s not enough to know what future climate will look like.
+Paper presented at the Ontario Water Conference, Challenges and Solutions, April 2000.
+Governance can be described in terms of who makes decisions and how they are made.
+While government is critical to governance, the concept is broader than government. 
+Assists with the development of regional growth strategies and relations between local government and first nations. 
+At the time this Guide was published, Government was further refining the proposal and assessing implications.
+Many First Nations have been left with limited capacity to manage water resources, and as a result, their populations are disproportionately vulnerable to water-borne diseases, drinking water advisories and health effects associated with poor water quality.
+Local and First Nations governments also have roles in developing and implementing various water-related plans and programs.
+We all use water, so as citizens, farmers, ranchers and countless other businesses and industries that use water, we all share in the responsibilities to manage our water use.
+Some communities and regions, such as the Lower Mainland, the east coast of Vancouver Island and parts of the Thompson-Okanagan region, are experiencing significant population growth.
+Water infrastructure is very expensive to replace and upgrade, and often water conservation is viewed as a preferable alternative to increasing capacity.
+Water conservation plans can help communities manage the impacts of water shortages that are less severe than drought conditions.
+Therefore, the use of a holistic approach or “watershed eye-view” to water conservation planning is beneficial.
+A proactive approach also enables farmers, ranchers, other businesses, institutions and households to assess the plans in advance of a drought and offer feedback.
+A Water Use Plan is a formal agreement that clarifies how water will be shared among water licensees while still providing adequate flows for fish and wildlife.
+As such, Water Use Plans can help resolve conflicts among competing water users.
+Therefore, Water Use Plans may be an inappropriate or impractical approach to planning for groundwater resources at this time.
+It is very important to undertake this type of planning before a watershed approaches its limits of available supply relative to future demands, and before drought or other extreme conditions threaten good relationships between stakeholders.
+Types of Planning for Protecting Drinking Water Quality
+Advisories consider the water source, water quality, and distribution and filtration processes.
+These sources of pollution may come from the land above or near to the aquifer or well, or they may infiltrate into the groundwater source from elsewhere.
+A more holistic approach may aim to address multiple aquifers within a region or community and it may also aim to address both quality and quantity issues.
+These plans are intended to identify measures that can be taken to address identified threats to drinking water. 
+Maintaining and strengthening community resiliency by preparing for climate change and its impacts on water and aquatic ecosystems.
+Some of the most significant impacts on watersheds expected from climate change include reduced annual and/or seasonal precipitation, reduced snowpack, loss of glaciers, changing surface and groundwater hydrology, increased frequency and severity of drought and flood events, low summer flows, warm freshwater temperatures, reduced dilution / assimilative capacity of receiving waters, and increased erosion, turbidity and sedimentation.
+The need for a watershed approach is made even more evident when compounded by current and expected impacts of climate change.
+These impacts on the landscape will, in turn, influence the health of watersheds.
+Water Management Plans may provide a good structure for developing valley-wide response plans for severe water shortages because they provide more authority to bring water licence holders to the table and hold them to the agreements that have been developed.
+Rainwater and stormwater can be viewed as a valuable resource that can be stored in wetlands and detention ponds and infiltrated into the ground to recharge water tables. 
+It assumes that municipalities exert control over runoff volume through their land development and infrastructure policies, practices and actions. 
+Many policies and tools are available to local governments to implement water centric planning, including: 
+ ▪  Regional conservation strategies that identify land and water to be protected;
+ ▪ Specific benefits associated with community engagement and collaboration include:
+ ▪  Stronger relationships between participants in terms of trust, respect, information sharing, and improved negotiation; 
+Its aim is to move from talk to action by developing tools, providing training and building capacity. 
+The overall framework for the Fraser Basin Council’s work is the Charter for Sustainability.
+Contracting out portions of the work to supplement or complement staff skills and expertise may be possible in some circumstances; however, this option is not always available to local governments, which often have limited funds. 
+How will it be directed? 
+This may open up new opportunities by diversifying funding sources. 
+In many cases, further analysis of available information and/or more detailed local information will be necessary to support planning processes.
+At A Watershed: Ecological Governance and Sustainable Water Management in Canada.  
+The ReTooling for Climate Change website is a first stop for elected officials and staff of local governments, First Nations, and everyone else interested in learning about climate change adaptation.
+Smaller communities often cannot allocate resources to traditional infrastructure projects or cannot budget for the development of professional water conservation/efficiency plans.
+In order to identify and manage climate-related risks in the context of water and watershed planning, communities need easy-to-understand information about past and future climate change and its impacts on water, watersheds, and aquatic ecosystems across British Columbia. 
+Indicators of Climate Change for British Columbia, 2002. 
+Pacific Climate Impacts Consortium, University of Victoria, Victoria BC.  
+www.watershed-watch.org/publications/.
+A Handbook for Water Suppliers in British Columbia.
+Note this includes a fictional example of Well Protection Plan For Pumphandle, BC).
+Individual advisors were not asked to officially represent, nor were they considered to be representing their particular organizations; however, they provided an invaluable range of perspectives, experiences and expertise.
