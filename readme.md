@@ -11,17 +11,19 @@ For this project, our objective was to take a collection of climate change relat
 * ClimateChangeDocs_pickled: pickled objects of the pdf documents parsed using pdfminer.
 * Duplicate Of Master: The files that were provided.
 * Exploratory: Jupyter Notebooks used to explore these topics.
+* FinalLogisticRegressionModels: folder contains the models for Identifying Actions
 * NewDocs: a collection of climate change related pdfs used to expand the dataset.
 *tikatext: pdf documents parsed using Tika. The documents are from Not_Yet_Examined in DuplicateOfMaster
 * tikatextcombined: pdf documents parsed using Tika. The documents are from Not_Yet_Examined in DuplicateOfMaster and from NewDocs
-* Climate Change Docs - Actions.pkl: pickled actions items
-* Climate Change Docs - Non-Actions.pkl: pickled non action items
+* Climate Change Docs - Actions.pkl: pickled parsed actions items
+* Climate Change Docs - Non-Actions.pkl: pickled parsed non action items
 * Comparison_PDF_Extraction_Tools.ipynb: Jupyter Notebook looking at code and output of all three tested pdf extraction tools (pdfminer, tika, pypdf2)
 * Identifying_Actions.ipynb: Jupyter Notebook looking at parsing and classifying actions
 * LDA_using_Gensim_tikatext.ipynb: Jupyter Notebook of LDA using Gensim with text files in tikatext
 * LDA_using_Gensim_tikatextcombined.ipynb: Jupyter Notebook of LDA using Gensim with text files in tikatextcombined
+* non-actions_raw.txt, non_actions_edited.txt: the files to find examples of non-actions.
 * PDF_to_Text_pdfminer.ipynb: pdf extraction using pdfminer
 * PDFs_To_Text_PyPDF2.ipynb: pdf extraction using PyPDF2
 * PDFs_to_Text_Tika.ipynb: pdf extraction using Tika
-* gensim_climate_change_lda_model.html: pyLDAvis of Gensim LDA model
+* gensim_climate_change_lda_model_alldocs.html: pyLDAvis of Gensim LDA model. An interactive version of this is hosted [here](http://rahimjiwa.com/gensim_climate_change_lda_model_tika_alldocs.html) 
 * stopwords.txt: list of stopwords used in LDA
