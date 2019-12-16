@@ -21,6 +21,8 @@ For this project, our objective was to take a collection of climate change relat
 * Comparison_PDF_Extraction_Tools.ipynb: Jupyter Notebook looking at code and output of all three tested pdf extraction tools (pdfminer, tika, pypdf2)
 * Identifying_Actions.ipynb: Jupyter Notebook looking at parsing and classifying actions
 * LDA_using_Gensim_tikatext_alldocs_final.ipynb: Jupyter Notebook of LDA using Gensim with text files in tika_alldocs.
+* NLP_Final_Presentation_DeployDeck.pdf, .pptx: Presentation files for Deploy Software
+* NLP_Final_Presentation_ClassDexk.pdf, .pptx: Presentation files for Class Presentation
 * non-actions_raw.txt, non_actions_edited.txt: the files to find examples of non-actions.
 * PDF_to_Text_pdfminer.ipynb: pdf extraction using pdfminer
 * PDFs_To_Text_PyPDF2.ipynb: pdf extraction using PyPDF2
