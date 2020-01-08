@@ -27,5 +27,5 @@ For this project, our objective was to take a collection of climate change relat
 * PDF_to_Text_pdfminer.ipynb: pdf extraction using pdfminer
 * PDFs_To_Text_PyPDF2.ipynb: pdf extraction using PyPDF2
 * PDFs_to_Text_Tika.ipynb: pdf extraction using Tika
-* gensim_climate_change_lda_model_alldocs.html: pyLDAvis of Gensim LDA model. An interactive version of this is hosted [here](http://rahimjiwa.com/gensim_climate_change_lda_model_tika_alldocs.html) 
+* gensim_climate_change_lda_model_alldocs.html: pyLDAvis of Gensim LDA model. An interactive version of this is hosted [here](http://www.rahimjiwa.com/host_references/gensim_climate_change_lda_model_tika_alldocs.html) 
 * stopwords.txt: list of stopwords used in LDA
